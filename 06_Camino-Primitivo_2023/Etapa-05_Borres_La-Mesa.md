@@ -1,0 +1,29 @@
+
+## Camino Primitivo 2023 
+
+### Etappe-05: Borres - La Mesa (28,5 Km)
+08 Mai 2023
+
+![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230508-xxxx_La-Mesa_Albergue-Miguelín.webp)
+Googlemaps-Foto: Albergue Miguelín - La Mesa
+
+![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230508-064733.webp)
+
+![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230508-083738_Raul-a2.webp)
+
+![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230508-083600.jpg)
+
+![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230508-083505-.jpg)
+
+![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230508-083507.jpg)
+
+![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230508-085000-Roze-.jpg)
+
+![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230508-085001-Roze.jpg)
+
+---
+[Etapa-06_La-Mesa_Grandas-de-Salime](Etapa-06_La-Mesa_Grandas-de-Salime.md)
+
+[El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
+
+
