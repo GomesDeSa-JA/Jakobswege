@@ -7,7 +7,7 @@
 Nachdem der Supermarkt offiziell geschlossen hatte, öffnete sie uns die Tür.
 Das ist sehr praktisch, um uns mit Lebensmitteln für den Abend und den nächsten Tag einzudecken. Neben der Schlafecke sind es diese kleinen Details, die letztendlich darüber entscheiden, ob wir unser Ziel erreichen.
 
-![](06_Camino-Primitivo_2023/media/20230504-07_Fotos/20230507_La-Espina_Albergue-de-Peregrinos_El-Cruce.webp)
+![](media/20230504-07_Fotos/20230507_La-Espina_Albergue-de-Peregrinos_El-Cruce.webp)
 
 Albergue El Cruce, La Espina
 

@@ -7,7 +7,7 @@
 <details>
 <summary> Voy a girar alí a la derecha /  Ich biege dort rechts ab / I'm turning right there /  Vou virar ali à direita</summary>
 
-![](06_Camino-Primitivo_2023/media/20230504-07_Fotos/20230507_Borres_Albergue-Santa-Maria-3.webp)
+![](media/20230504-07_Fotos/20230507_Borres_Albergue-Santa-Maria-3.webp)
 Googlemaps-Foto:  Albergue de Peregrinos de Santa Maria de Borres
 
 🇪🇸 Yo giré a la derecha y seguí por el atajo, un camino cubierto de hierba húmeda que conduce a este albergue.

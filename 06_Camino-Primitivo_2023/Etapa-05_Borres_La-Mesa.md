@@ -4,7 +4,7 @@
 ### Etappe-05: Borres - La Mesa (28,5 Km)
 08 Mai 2023
 
-![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230508-xxxx_La-Mesa_Albergue-Miguelín.webp)
+![](media/20230508-11_Fotos/20230508-xxxx_La-Mesa_Albergue-Miguelín.webp)
 Googlemaps-Foto: Albergue Miguelín - La Mesa
 
 ![](media/20230508-11_Fotos/20230508-064733.webp)
