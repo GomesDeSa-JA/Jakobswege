@@ -3,9 +3,9 @@
 
 ### Die Etappen
 
-[Etapa-01_Oviedo_Escampleto](Etapa-01_Oviedo_Escampleto.md)
+[Etapa-01_Oviedo_Escamplero](Etapa-01_Oviedo_Escamplero.md)
 
-[Etapa-02_Escampleto_San-Juan-de-Villapanada](Etapa-02_Escampleto_San-Juan-de-Villapanada.md)
+[Etapa-02_Escamplero_San-Juan-de-Villapanada](Etapa-02_Escamplero_San-Juan-de-Villapanada.md)
 
 [Etapa-03_San-Juan-de-Villapañada _La-Espina](Etapa-03_San-Juan-de-Villapañada%20_La-Espina.md)
 

@@ -1,7 +1,7 @@
 
 ## Camino Primitivo 2023 
 
-### Etappe-02: Escampleto - San Juan de Villapañada (17,1 Km)
+### Etappe-02: Escamplero - San Juan de Villapañada (17,1 Km)
 05 Mai 2023
 
 <details>

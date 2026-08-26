@@ -41,7 +41,7 @@
 
  🔁 [El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
  
-↪ [Etapa-01_Oviedo_Escampleto](Etapa-01_Oviedo_Escampleto.md)
+↪ [Etapa-01_Oviedo_Escamplero](Etapa-01_Oviedo_Escamplero.md)
 
  ...→
 

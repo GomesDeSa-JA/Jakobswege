@@ -30,7 +30,7 @@ Wir trafen María auf dem Weg nicht wieder.
 
 ---
 
-![](06_Camino-Primitivo_2023/media/20230504-07_Fotos/20230505-093924_Rio.webp)
+![](media/20230504-07_Fotos/20230505-093924_Rio.webp)
 
 ---
 
