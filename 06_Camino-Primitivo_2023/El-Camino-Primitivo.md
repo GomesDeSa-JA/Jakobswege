@@ -3,34 +3,32 @@
 
 ## La cuna del Camino de Santiago
 
-> [!cite] 🇪🇸 La cuna del Camino de Santiago
+>  🇪🇸 La cuna del Camino de Santiago
 > Aunque hoy en día más del 60% de todos los peregrinos comienzan en el Camino Francés, esta ruta era aún intransitable en el siglo IX. Quien quiera seguir los pasos del mismísimo primer peregrino tiene que conquistar las montañas asturianas del Primitivo.
 
 El Camino Primitivo es la más antigua de todas las rutas jacobeas. Su historia comenzó en el siglo IX (hacia el año 814), tras el descubrimiento de la tumba del apóstol Santiago en Galicia. El rey Alfonso II de Asturias, apodado "el Casto", viajó desde su capital, Oviedo, hasta Santiago de Compostela para autentificar el hallazgo, convirtiéndose así en el primer peregrino oficial. Esta ruta a través de las montañas asturianas fue la principal vía de peregrinación hasta que la Reconquista avanzó hacia el sur, permitiendo el auge del _Camino Francés_ en el siglo XI.
 
 ---
-> [!quote] 🇩🇪 Die Wiege des Jakobswegs
+>  🇩🇪 Die Wiege des Jakobswegs
 > Während heute über 60 % aller Pilger auf dem Camino Francés starten, war dieser Weg im 9. Jahrhundert noch unpassierbar. Wer auf den Spuren des allerersten Pilgers wandeln will, muss die asturischen Berge des Primitivo bezwingen.
 
 Der Camino Primitivo ist der älteste aller Jakobswege. Seine Geschichte begann im 9. Jahrhundert (ca. 814 n. Chr.), als das Grab des Apostels Jakobus in Galicien entdeckt wurde. König Alfons II. von Asturien, genannt „der Keusche“, reiste daraufhin von seiner Hauptstadt Oviedo nach Santiago de Compostela, um das Grab zu bestätigen. Damit wurde er zum allerersten Jakobspilger. Diese Route über die asturischen Berge blieb der wichtigste Pilgerweg, bis die Mauren weiter nach Süden zurückgedrängt wurden und der leichtere _Camino Francés_ im 11. Jahrhundert an Bedeutung gewann.
 
 ---
-> [!quote] 🇵🇹 A berço do Caminho de Santiago
+>  🇵🇹 A berço do Caminho de Santiago
 > Embora hoje mais de 60% de todos os peregrinos comecem no Caminho Francês, esta rota ainda era intransitável no século IX. Quem quiser seguir os passos do primeiríssimo peregrino tem de conquistar as montanhas asturianas do Primitivo.
 
 O Caminho Primitivo é a mais antiga de todas as rotas de Santiago. A sua história começou no século IX (por volta de 814 d.C.), quando o túmulo do apóstolo Tiago foi descoberto na Galiza. O rei Afonso II das Astúrias, conhecido como "o Casto", viajou da sua capital, Oviedo, até Santiago de Compostela para confirmar o achado, tornando-se assim o primeiro peregrino. Esta rota através das montanhas asturianas permaneceu como a principal via de peregrinação até os mouros serem empurrados mais para o sul, dando lugar ao desenvolvimento do mais acessível _Caminho Francês_ no século XI.
 
 ---
-> [!quote] 🇬🇧 The Cradle of the Camino de Santiago
+>  🇬🇧 The Cradle of the Camino de Santiago
 > Although today over 60% of all pilgrims start on the Camino Francés, this route was still impassable in the 9th century. Anyone wishing to walk in the footsteps of the very first pilgrim must conquer the Asturian mountains of the Primitivo.
 
  The Camino Primitivo is the oldest of all the Camino routes. Its history began in the 9th century (around 814 AD) following the discovery of the tomb of the Apostle St. James in Galicia. King Alfonso II of Asturias, known as "the Chaste," traveled from his capital, Oviedo, to Santiago de Compostela to confirm the find, becoming the very first pilgrim. This rugged route across the Asturian mountains remained the primary pilgrimage trail until the Moors were pushed further south, allowing the easier _Camino Francés_ to gain dominance in the 11th century.
 
 ---
-
 <details>
 <summary>🇩🇪 Seit wann existiert der Pilgerweg San Salvador? </summary>
-
 
 Der Camino de San Salvador existiert als Pilgerroute seit dem ==11. Jahrhundert==. 
 
@@ -92,9 +90,13 @@ _„Quien va a Santiago y no al Salvador, visita al criado y no al Señor.“_
 
 ---
 
-[Readme](Readme.md)
+ 🔁 [Readme](Readme.md)
+ 
+↪ [El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md) 
 
-[El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
+ ...→
+
+
 
 
 

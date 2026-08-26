@@ -5,12 +5,15 @@
 14 Mai 2023
 
 
-
-
 ---
-[Etapa-12_Ribadiso_Lavacolla](Etapa-12_Ribadiso_Lavacolla.md)
+🔁 [Etapa-12_Ribadiso_Lavacolla](Etapa-12_Ribadiso_Lavacolla.md)
+ 
+↪ [El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
 
-[El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
+ ...→
+
+
+
 
 
 

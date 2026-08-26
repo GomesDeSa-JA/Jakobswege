@@ -4,14 +4,14 @@
 ### Etappe-06: La Mesa - Grandas de Salime (16 Km)
 09 Mai 2023 
 
-![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230509.jpg)
+![](media/20230508-11_Fotos/20230509.jpg)
 
 
-![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230509-082432.webp)
+![](media/20230508-11_Fotos/20230509-082432.webp)
 
 ### Etapa trazada | traçada  / Planned stage  / Geplante Etappe
 
-![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230509-082443.webp)
+![](media/20230508-11_Fotos/20230509-082443.webp)
 
 Sie kommt aus Madrid und hatte ebenfalls einen klaren Plan. Mit festen Schritten ging sie auf ihr Ziel zu.
 
@@ -42,21 +42,21 @@ Solo conozco Madrid de paso y, personalmente, creo que recorridos como este son 
 Nuestra etapa de hoy era un poco más corta, así que nos lo tomamos con más calma.
 
 
-![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230509-084438.webp)
+![](media/20230508-11_Fotos/20230509-084438.webp)
 
-![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230509_Albergue.jpg)
+![](media/20230508-11_Fotos/20230509_Albergue.jpg)
 
-![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230509_Albergue-Ruinas.jpg)
+![](media/20230508-11_Fotos/20230509_Albergue-Ruinas.jpg)
 
-![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230509_Albergue-1.jpg)
+![](media/20230508-11_Fotos/20230509_Albergue-1.jpg)
 
-![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230509-0.webp)
+![](media/20230508-11_Fotos/20230509-0.webp)
 
-![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230509-104612.webp)
+![](media/20230508-11_Fotos/20230509-104612.webp)
 
 #### Ultramarinos Restrepo
 
-![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230509_Ultramarinos-Restrepo_Grandas-de-Salime-.webp)
+![](media/20230508-11_Fotos/20230509_Ultramarinos-Restrepo_Grandas-de-Salime-.webp)
 
 Ultramarinos Restrepo – Was für eine Überraschung.   Eine herrliche Atmosphäre, um einen Drink zu genießen und noch vieles mehr.
 
@@ -66,9 +66,9 @@ Ultramarinos Restrepo – What a surprise!   A wonderful place to enjoy a drink 
 
 Ultramarinos Restrepo – Que surpresa!   Um ambiente maravilhoso para saborear uma bebida e muito mais.
 
-![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230509_Ultramarinos-Restrepo_Grandas-de-Salime.webp)
+![](media/20230508-11_Fotos/20230509_Ultramarinos-Restrepo_Grandas-de-Salime.webp)
 
-![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230509_Colegiata-de-San-Salvador_Grandas-de-Salime.webp)
+![](media/20230508-11_Fotos/20230509_Colegiata-de-San-Salvador_Grandas-de-Salime.webp)
 
 🇩🇪 Der „Caminho Primitivo“ ist nur etwas für junge Leute voller Energie. Die zwanzigjährigen Pilger liegen irgendwo in einem Lagerbett (Pritsche) und tanken neue Kräfte, um die nächste Etappe bewältigen zu können.
 
@@ -95,7 +95,7 @@ He recuperado las fotos de la carpeta .thumbnails y he intentado ordenarlas seg�
 
 Ya no recuerdo si eran 1 o 2 km, pero, tras el descenso, había allí un mojón de piedra con la distancia hasta Santiago, donde nos hicimos una foto.
 
-![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230509_Danach_sanfter-Abstieg.jpg)
+![](media/20230508-11_Fotos/20230509_Danach_sanfter-Abstieg.jpg)
 
 **Onde é que esta fotografia foi tirada, exatamente?**
 
@@ -115,10 +115,16 @@ I have recovered the photos from the ‘.thumbnails’ folder and tried to organ
 I can’t remember now whether it was 1 or 2 km, but after the descent there was a stone marker showing the distance to Santiago, where we took a photograph
 
 ---
-[Etapa-07_Grandas-de-Salime_O-Pineiral](Etapa-07_Grandas-de-Salime_O-Pineiral.md)
+
+ 🔁 [El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
+ 
+↪ [Etapa-07_Grandas-de-Salime_O-Pineiral](Etapa-07_Grandas-de-Salime_O-Pineiral.md) 
+
+ ...→
 
 
-[El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
+
+
 
 
 

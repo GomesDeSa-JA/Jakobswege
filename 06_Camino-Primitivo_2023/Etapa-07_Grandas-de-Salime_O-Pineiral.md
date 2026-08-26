@@ -5,11 +5,11 @@
 10 Mai 2023
 
 
-![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230510-112443.webp)
+![](media/20230508-11_Fotos/20230510-112443.webp)
 
 ---
 
-![](06_Camino-Primitivo_2023/media/20230508-11_Fotos/20230510-Complejo-O-Pineiral.webp)
+![](media/20230508-11_Fotos/20230510-Complejo-O-Pineiral.webp)
 Googlemaps-Foto
 
 El «Camino Primitivo» discurre detrás del complejo «O Piñeiral»; tuvimos que fijarnos muy bien para encontrar en mi pequeño móvil el atajo que atravesaba la hierba  hasta el alojamiento.
@@ -21,8 +21,8 @@ O «Camino Primitivo» passa por trás do complexo «O Piñeiral»; tivemos de o
 Der „Camino Primitivo“ verläuft hinter dem Komplex „O Piñeiral“; wir mussten sehr genau hinschauen, um auf meinem kleinen Handy die Abkürzung durch das Gras zur Unterkunft zu finden.
 
 ---
+🔁 [El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
+ 
+↪[Etapa-08_O-Pineiral_Cadavo](Etapa-08_O-Pineiral_Cadavo.md)
 
-[Etapa-08_O-Pineiral_Cadavo](Etapa-08_O-Pineiral_Cadavo.md)
-
-
-[El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
+ ...→

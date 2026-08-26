@@ -10,13 +10,13 @@
 ![](06_Camino-Primitivo_2023/media/20230504-07_Fotos/20230507_Borres_Albergue-Santa-Maria-3.webp)
 Googlemaps-Foto:  Albergue de Peregrinos de Santa Maria de Borres
 
-Yo giré a la derecha y seguí por el atajo, un camino cubierto de hierba húmeda que conduce a este albergue.
+🇪🇸 Yo giré a la derecha y seguí por el atajo, un camino cubierto de hierba húmeda que conduce a este albergue.
 
-I turned right and followed the shortcut, a path covered in damp grass leading to this hostel.
+🇬🇧 I turned right and followed the shortcut, a path covered in damp grass leading to this hostel.
 
-Ich bog nach rechts ab und folgte der Abkürzung, einem mit feuchtem Gras bedeckten Weg, der zu dieser Herberge führt.
+🇩🇪 Ich bog nach rechts ab und folgte der Abkürzung, einem mit feuchtem Gras bedeckten Weg, der zu dieser Herberge führt.
 
-Eu virei à direita e segui pelo atalho, um caminho coberto de erva húmida que conduz a este albergue.
+🇵🇹 Eu virei à direita e segui pelo atalho, um caminho coberto de erva húmida que conduz a este albergue.
 </details>
 
 ---
@@ -61,7 +61,9 @@ Não voltámos a encontrar a María pelo caminho.
 (O albergue de Samblismo fechou em 2026.)
 
 ---
-##### 🇪🇸 En el albergue
+
+<details>
+<summary> 🇪🇸 En el albergue </summary>
 
 - Urs… de Suiza: 
 
@@ -74,9 +76,11 @@ Aunque no podrían ser más diferentes en cuanto a edad y personalidad, siempre 
 - El joven peregrino alemán: no hablé con él, pero creo que vino a dar una vuelta después del colegio para decidir qué hacer a después.
 .
 - El , «peregrino de la vida» o «viajero del mundo», con un estilo de vida diferente y alternativo… ¿cómo se llamaba? Se había propuesto llevar un estilo de vida diferente.
+</details>
 
 ---
-##### 🇩🇪 In der Herberge
+<details>
+<summary> 🇩🇪 In der Herberge </summary>
 
 - Urs … aus der Schweiz 
 .
@@ -89,9 +93,11 @@ Obwohl sie sich in Bezug auf Alter und Persönlichkeit kaum unterschiedlicher se
 - Der junge Deutsche Pilger, mit ihm habe ich keine Kontakt gehabt, aber ich glaube er hat sich  nach der Schule die Beine vertreten um zu entscheiden wie es weiter geht. 
 .
 - Der  „Lebenspilger“ oder „Weltreisende“ mit einer anderen, alternativen Lebensweise – wie hieß er noch mal? Er hatte sich zum Ziel gesetzt, einen anderen Lebensstil zu führen.
+</details>
 
 ---
-##### 🇬🇧 At the hostel
+<details>
+<summary> 🇬🇧 At the hostel </summary>
 
 - Urs … from Switzerland – he enjoys hiking, but he loves cooking and eating even more.
 .
@@ -104,9 +110,11 @@ Obwohl sie sich in Bezug auf Alter und Persönlichkeit kaum unterschiedlicher se
 - The young German pilgrim: I didn’t speak to him, but I reckon he’d come for a wander after school to decide what to do next.
 .
 - The  ‘life pilgrim’ or ‘world traveller’ with a different, alternative way of life – what was his name again? He had set himself the goal of leading a different lifestyle.
+</details>
 
 ---
-##### 🇵🇹 No albergue
+<details>
+<summary> 🇵🇹 No albergue </summary>
 
 - Urs… da Suíça.
 .
@@ -119,12 +127,17 @@ Embora não pudessem ser mais diferentes em termos de idade e personalidade, sem
 - O jovem peregrino alemão: não tive contacto com ele, mas creio que veio dar uma volta depois da escola para decidir o que fazer a seguir.
 .
 - O «peregrino da vida» ou «viajante do mundo», com um modo de vida diferente e alternativo — como é que ele se chamava mesmo? Ele tinha-se proposto como objetivo levar um estilo de vida diferente.
+</details>
 
 ---
-![](06_Camino-Primitivo_2023/media/20230504-07_Fotos/20230507-103928.webp)
+![](media/20230504-07_Fotos/20230507-103928.webp)
 
 ---
 
-[Etapa-05_Borres_La-Mesa](Etapa-05_Borres_La-Mesa.md)
+🔁 [El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
+ 
+↪ [Etapa-05_Borres_La-Mesa](Etapa-05_Borres_La-Mesa.md)
 
-[El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
+ ...→
+
+

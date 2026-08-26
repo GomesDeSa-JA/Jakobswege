@@ -40,12 +40,20 @@ um ihre Gelübde in Dankbarkeit gegenüber dem Herrn zu erfüllen und den Preis 
 <details>
 <summary>El camino marcado</summary>
 
-![](06_Camino-Primitivo_2023/media/Credencial_Fotos/2023-05-03_Credencial-del-Peregrino_Camino-Primitivo-3.webp)
+![](media/Credencial_Fotos/2023-05-03_Credencial-del-Peregrino_Camino-Primitivo-3.webp)
 
-![](06_Camino-Primitivo_2023/media/Credencial_Fotos/2023-05-03_Credencial-del-Peregrino_Camino-Primitivo-4.webp)
+![](media/Credencial_Fotos/2023-05-03_Credencial-del-Peregrino_Camino-Primitivo-4.webp)
 
-![](06_Camino-Primitivo_2023/media/Credencial_Fotos/2023-05-03_Credencial-del-Peregrino_Camino-Primitivo-5.webp)
+![](media/Credencial_Fotos/2023-05-03_Credencial-del-Peregrino_Camino-Primitivo-5.webp)
 
 </details>
 
 ![](media/Credencial_Fotos/2023-05-03_Credencial-del-Peregrino_Camino-Primitivo-6.webp)
+
+---
+
+ 🔁  [El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
+ 
+↪ [El-Camino-Primitivo](El-Camino-Primitivo.md)
+
+ ...→
