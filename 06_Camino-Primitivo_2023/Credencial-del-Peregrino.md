@@ -3,7 +3,7 @@
 
 ## Credencial-del-Peregrino
 
-![](06_Camino-Primitivo_2023/media/Credencial_Fotos/2023-05-03_Credencial-del-Peregrino_Camino-Primitivo-1.webp)
+![](media/Credencial_Fotos/2023-05-03_Credencial-del-Peregrino_Camino-Primitivo-1.webp)
 
  🇪🇸 *"La Puerta se abre a todos, Enfermos y Sanos, no solo a Católicos, sino aun a Paganos, A Judios Herejes, Ociosos y Vanos; y mas brevemente, a Buenos y Profanos"*
  – Poema de siglo XIII –
@@ -19,7 +19,7 @@
 
 ---
  
-![](06_Camino-Primitivo_2023/media/Credencial_Fotos/2023-05-03_Credencial-del-Peregrino_Camino-Primitivo-2.webp)
+![](media/Credencial_Fotos/2023-05-03_Credencial-del-Peregrino_Camino-Primitivo-2.webp)
 
 ### Codice Calixtino
 
@@ -48,4 +48,4 @@ um ihre Gelübde in Dankbarkeit gegenüber dem Herrn zu erfüllen und den Preis 
 
 </details>
 
-![](06_Camino-Primitivo_2023/media/Credencial_Fotos/2023-05-03_Credencial-del-Peregrino_Camino-Primitivo-6.webp)
+![](media/Credencial_Fotos/2023-05-03_Credencial-del-Peregrino_Camino-Primitivo-6.webp)

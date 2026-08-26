@@ -35,14 +35,14 @@
 ![Camino Primitivo](06_Camino-Primitivo_2023/media/20230512-18_Fotos/20230516-1.jpg)
 - 
 
-![Camino de San salvador](06_Camino-Primitivo_2023/media/20230512-18_Fotos/20230518-0020.jpg)
+![Camino de San salvador](/06_Camino-Primitivo_2023/media/20230512-18_Fotos/20230518-0020.jpg)
 
-[El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
+[El-Camino-Primitivo_Etappen](06_Camino-Primitivo_2023/El-Camino-Primitivo_Etappen.md)
 
 </details>
 ---
 
-![](20230516-2.jpg)
+![](media/20230512-18_Fotos/20230516-2.jpg)
 
 
 Buen Camino!
