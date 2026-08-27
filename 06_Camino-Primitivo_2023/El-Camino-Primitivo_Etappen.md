@@ -8,7 +8,7 @@
 
 [Etapa-02_Escamplero_San-Juan-de-Villapanada](Etapa-02_Escamplero_San-Juan-de-Villapanada.md)
 
-[Etapa-03_San-Juan-de-Villapañada _La-Espina](Etapa-03_San-Juan-de-Villapañada%20_La-Espina.md)
+[Etapa-03_San-Juan-de-Villapanada _La-Espina](Etapa-03_San-Juan-de-Villapanada%20_La-Espina.md)
 
 [Etapa-04_La-Espina_Borres](Etapa-04_La-Espina_Borres.md)
 

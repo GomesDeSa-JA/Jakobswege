@@ -3,7 +3,7 @@
 
 ## Den Weg noch einmal gehen
 
-Ich habe mich nach langer Zeit entschlossen, meinen Weg so noch einmal zu beschreiten, wie ich ihn in Erinnerung habe – begleitet von Fotos und einigen Beschreibungen – und ihn öffentlich zu teilen.
+Ich habe mich nach langer Zeit entschlossen, meinen Wege so noch einmal zu beschreiten, wie ich ihn in Erinnerung habe – begleitet von Fotos und einigen Beschreibungen – und ihn öffentlich zu teilen.
 
 Ich habe versehentlich die Ordner mit den Originalfotos vom „Caminho Primitivo“ gelöscht, als ich die verschlüsselte SD-Karte aus dem Handy entnahm, um eine zusätzliche SIM-Karte einzulegen. Ich hoffe, einige Fotos noch in einem Windows-Backup zu finden. Sollte ich sie finden, werde ich diese Beschreibung des „Caminho Primitivo“ aktualisieren, um sie hinzuzufügen. Die Fotos der Herbergen, die ich hier verwende, stammen meistens aus Google Maps; alle anderen stammen aus den .thumbnails,  WhatsApp oder aus Bluetooth-Ordner von meinem Tablet bzw. Handy.
 
@@ -13,7 +13,7 @@ Ich habe versehentlich die Ordner mit den Originalfotos vom „Caminho Primitivo
 <summary> 🇵🇹 Caminho Primitivo 2023</summary>
 
 
-Decidi, depois de muito tempo, voltar a percorrer o meu Caminho tal como o tenho na memória, acompanhados de fotografias e descrições, e partilhá-los publicamente.
+Decidi, depois de muito tempo, voltar a percorrer o meus Caminhos tal como o tenho na memória, acompanhados de fotografias e descrições, e partilhá-los publicamente.
 
 Apaguei por engano as pastas com as fotos originais do Caminho Primitivo quando retirei o cartão SD encriptado do telemóvel para inserir um cartão SIM adicional. Ainda  espero encontrar algumas  fotos numa backup do Windows. Se as encontrar, irei atualizar esta descrição do Caminho Primitivo para as incluir. As algumas fotos dos albergues que utilizo aqui foram retirados do Google Maps; todas as outras provêm das pastas .thumbnails, do WhatsApp ou do Bluetooth do meu tablet ou telemóvel.
 </details>

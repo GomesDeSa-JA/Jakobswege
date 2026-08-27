@@ -3,7 +3,7 @@
 
 ### Etappe-01: Oviedo - Escamplero (11,7 Km)
 04 Mai 2023
-![](media/20230504-07_Fotos/20230504_Escamplero_Las-Regueras.webp)
+![](20230504_Escamplero_Las-Regueras.webp)
 Googlemaps-Foto: Albergue de peregrinos de Escamplero
 
 ---

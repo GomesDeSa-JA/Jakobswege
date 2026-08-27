@@ -7,7 +7,7 @@
 <details>
 <summary> Voy a girar alí a la derecha /  Ich biege dort rechts ab / I'm turning right there /  Vou virar ali à direita</summary>
 
-![](media/20230504-07_Fotos/20230507_Borres_Albergue-Santa-Maria-3.webp)
+![](20230507_Borres_Albergue-Santa-Maria-3.webp)
 Googlemaps-Foto:  Albergue de Peregrinos de Santa Maria de Borres
 
 🇪🇸 Yo giré a la derecha y seguí por el atajo, un camino cubierto de hierba húmeda que conduce a este albergue.
@@ -30,7 +30,7 @@ Wir trafen María auf dem Weg nicht wieder.
 
 ---
 
-![](media/20230504-07_Fotos/20230505-093924_Rio.webp)
+![](20230505-093924_Rio.webp)
 
 ---
 
@@ -130,7 +130,7 @@ Embora não pudessem ser mais diferentes em termos de idade e personalidade, sem
 </details>
 
 ---
-![](media/20230504-07_Fotos/20230507-103928.webp)
+![](20230507-103928.webp)
 
 ---
 

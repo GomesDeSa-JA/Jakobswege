@@ -1,7 +1,7 @@
 
 ## Camino Primitivo 2023 
 
-### Etappe-13: Lavacolla - Santiago de Compostela ( 9,9 Km)
+### Etappe-13: Lavacolla - Santiago de Compostela (9,9 Km)
 
 16 Mai 2023
 
@@ -14,13 +14,13 @@
 - Até à próxima vez
 - Until we meet again
 
-![Camino Primitivo](media/20230504-07_Fotos/20230507-.jpg)
+![Camino Primitivo](20230507-.jpg)
 - 
 
 ![Camino Primitivo](media/20230512-18_Fotos/20230516.jpg)
 - 
 
-![Camino Primitivo](media/20230504-07_Fotos/20230507-xx.jpg)
+![Camino Primitivo](20230507-xx.jpg)
 - 
 
 ![Camino Primitivo](media/20230512-18_Fotos/20230515-.jpg)
@@ -56,7 +56,7 @@
 <details>
 <summary> Benedictio-Sancti-Francisci </summary>
 
-![](2023-05-16_Benedictio-Sancti-Francisci_Santiago-de-Compostela-1.webp)
+![](media/2023-05-16_Benedictio-Sancti-Francisci_Santiago-de-Compostela-1.webp)
 
 #### 🇩🇪 Manchmal
 
@@ -100,7 +100,7 @@ vamos a una iglesia a rezar o a meditar y a encender una vela para encontrar la 
 - Obra: Fundou a Ordem dos Franciscanos, pregou a paz e dedicou a sua vida ao cuidado dos pobres e dos doentes.
 - Legado: É o santo padroeiro dos animais e do meio ambiente, conhecido pelo seu poema "Cântico das Criaturas".
 
-![](2023-05-16_Benedictio-Sancti-Francisci_Santiago-de-Compostela-2.webp)
+![](media/2023-05-16_Benedictio-Sancti-Francisci_Santiago-de-Compostela-2.webp)
 
 ---
 <details>

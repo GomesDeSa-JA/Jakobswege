@@ -7,10 +7,10 @@
 <details>
 <summary>Albergue-de-Peregrinos_San-Juan-de-Villapañada</summary>
 
-![](media/20230504-07_Fotos/20230505_Villapañada_Albergue-de-Peregrinos.webp)
+![](20230505_Villapañada_Albergue-de-Peregrinos.webp)
 Googlemaps-Foto 
 ---
-![](media/20230504-07_Fotos/20230506-072449_Albergue-de-Peregrinos_San-Juan-de-Villapanada.webp)
+![](20230506-072449_Albergue-de-Peregrinos_San-Juan-de-Villapanada.webp)
 Às Sete horas e 24 minutos do dia seguinte fechamos as portas atrás de nós e seguimos caminho
 </details>
 
@@ -24,7 +24,7 @@ Man  hält an, zieht das Handy aus der Tasche und machte einen Foto, und danach 
 
 🇩🇪 Bei der Betrachtung werden manche sagen: „Das ist nur Spinnerei“, ohne zu erkennen, dass das, was man sieht, **Technik auf höchstem Niveau** ist.
 
-![](media/20230504-07_Fotos/20230505-082110-Spinnennetz-3.webp)
+![](20230505-082110-Spinnennetz-3.webp)
 
  Dieses Foto ist neben all den anderen beeindruckenden Landschaftsfotos eher unscheinbar und noch nicht einmal das schönste Muster unter den Spinnennetzen. Wie man sowas baut, sollte man es eigentlich mit einer einfachen Frage klären können, aber wenn man es genau betrachtet und mit dem Gedanken spielt, es selbst zu bauen, würde man "sehr wahrscheinlich" scheitern. 
 
@@ -48,13 +48,13 @@ Die Natur präsentiert uns nicht fertige technische Zeichnungen. Sie präsentier
 
 ---
 
-![](media/20230504-07_Fotos/20230505-092602_eu.webp)
+![](20230505-092602_eu.webp)
 
 ---
 
  🔁 [El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
  
-↪ [Etapa-03_San-Juan-de-Villapañada _La-Espina](Etapa-03_San-Juan-de-Villapañada%20_La-Espina.md)
+↪ [Etapa-03_San-Juan-de-Villapanada _La-Espina](Etapa-03_San-Juan-de-Villapanada%20_La-Espina.md)
 
  ...→
 
