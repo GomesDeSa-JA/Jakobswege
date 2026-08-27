@@ -67,8 +67,8 @@ La ruta de unos 200 km se divide normalmente en 10 etapas diarias de entre 15 y 
 
 ---
 
- 🔁 [Caminhos-de-Caravaggio_Etapas](Jakobswege/Caminhos-de-Caravaggio/Caminhos-de-Caravaggio_Etapas.md)
+ 🔁 [Caminhos-de-Caravaggio_Etapas](Caminhos-de-Caravaggio_Etapas.md)
 
-↪ [Os-Caminhos-de-Caravaggio](Jakobswege/Caminhos-de-Caravaggio/Os-Caminhos-de-Caravaggio.md)
+↪ [Os-Caminhos-de-Caravaggio](Os-Caminhos-de-Caravaggio.md)
 
  ...→
