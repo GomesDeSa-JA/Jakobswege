@@ -31,13 +31,15 @@
 [Etapa-13_Lavacolla_Santiago-de-Compostela](Etapa-13_Lavacolla_Santiago-de-Compostela.md)
 
 ---
-
 [A Promessa Herdada](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Caminhos-de-Fatima/1_Ferreira-de-Aves_Fatima_2006/A-Promessa-Herdada.md)
 
 ---
 [Camino-del-Salvador_Etappen](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Camino-del-Salvador_2023-2025/Camino-del-Salvador_Etappen.md)
 
 ---
+<details>
+<summary>  </summary>
+
 **Etappe 1: Oviedo – Grado** (ca. 26 km)
 
 Der Etappenplan (Fokus auf Hospitales)
@@ -70,6 +72,7 @@ Die entscheidenden Tage sind die **Etappen 4 und 5**.
 - **Etappe 13:**  
 
 _Ab Fonsagrada folgt der Weg dem regulären Verlauf über Lugo (weitere ca. 5-6 Etappen), bis man in Melide auf den Camino Francés trifft und nach Santiago weitergeht._
+</details>
 
 ---
 

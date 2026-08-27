@@ -12,27 +12,43 @@ Das ist sehr praktisch, um uns mit Lebensmitteln für den Abend und den nächste
 Albergue El Cruce, La Espina
 
 ---
-### Es war zu langsam
+Una vez que el supermercado cerró oficialmente, nos abrió la puerta.
+Esto nos viene muy bien para abastecernos de comida para la noche y para el día siguiente. Además del rincón para dormir, son estos pequeños detalles los que, al final, determinan si conseguimos nuestro objetivo.
 
-🇩🇪  Es war zu langsam, 
+---
+After the supermarket had officially closed, she opened the door for us.
+That’s very handy for stocking up on food for the evening and the next day. Alongside the sleeping area, it’s these little details that ultimately determine whether we reach our destination.
+
+---
+Depois de o supermercado ter fechado oficialmente, ela abriu-nos a porta.
+Isso é muito prático para nos abastecermos de comida para a noite e para o dia seguinte. Para além do espaço para dormir, são estes pequenos detalhes que, em última análise, determinam se alcançamos o nosso objetivo.
+
+---
+### "81" años ⁘ Jahre ⁘ anos ⁘  years
+
+####  🇩🇪  Es war zu langsam,
+
 Schritt für Schritt  folgt er uns hinterher und als wir vor den nähsten Anstieg eine kleine Verschnaufpause machten, ginge an uns vorbei und  war mal weg. 
 
 In diese Albergue haben wir ein ehemaliger einundachtzigjähriger Lehrer aus Bayern getroffen, er war noch nicht bereit seine Wanderstiefel  an den Nagel zu hängen,  ohne die ursprüngliche Pilgerroute zurückgelegt zu haben.
 
 ---
-🇵🇹   Era demasiado lento; 
+#### 🇵🇹   Era demasiado lento; 
+
 passo a passo, ele seguia-nos e, quando fizemos uma pequena pausa para recuperar o fôlego antes da subida seguinte, passou por nós e desapareceu.
 
 "Neste albergue conhecemos um antigo professor da Baviera de **oitenta e um anos**; ele ainda não estava pronto para **pendurar as botas** de caminhada sem ter percorrido o primeiro ou o caminho original."
 
 ---
-🇪🇸  Iba demasiado lento; 
+#### 🇪🇸  Iba demasiado lento; 
+
 paso a paso nos seguía, y cuando nos detuvimos un momento para recuperar el aliento antes de la siguiente subida, nos adelantó y se alejó.
 
 "En este albergue conocimos a un antiguo profesor de Baviera de **ochenta y un años**; aún no estaba dispuesto a **colgar las botas** de montaña sin haber recorrido el primer o el camino original."
 
 ---
-🇬🇧  He was too slow; 
+#### 🇬🇧  He was too slow; 
+
 he followed us step by step, and when we stopped for a quick breather before the next climb, he walked past us and was gone in a flash.
 
 "In this hostel, we met an **eighty-one-year-old** former teacher from Bavaria; he was not yet ready to **hang up his hiking boots** without having covered the first or the original path."

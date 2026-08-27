@@ -80,14 +80,20 @@ Ultramarinos Restrepo – Que surpresa!   Um ambiente maravilhoso para saborear 
 
 ---
 #### **Wo genau wurde dieses Foto aufgenommen?**
-##### 20230509_Danach_sanfter-Abstieg
+
+![](media/20230508-11_Fotos/20230509_Danach_sanfter-Abstieg.jpg)
+
+<details>
+<summary> 🇩🇪 20230509_Danach_sanfter-Abstieg </summary>
 
 Ich habe die Fotos aus dem Ordner „.thumbnails“ wiederhergestellt und versucht, sie nach meinen Erinnerungen und den Stempeln auf den Ausweisen zu ordnen. Es kann sein, dass ich mich bei der Sortierung der Fotos um einen Tag geirrt habe.
 
 Ich weiß nicht mehr, ob es 1 oder 2 km waren, aber nach dem Abstieg stand dort ein Steinmarker mit der Entfernung bis nach Santiago, wo wir ein Foto gemacht haben
+</details>
 
 ---
-**¿Dónde se tomó exactamente esta foto?**
+<details>
+<summary>🇪🇸 ¿Dónde se tomó exactamente esta foto?</summary>
 
 20230509_Después_descenso-suave
 
@@ -95,24 +101,27 @@ He recuperado las fotos de la carpeta .thumbnails y he intentado ordenarlas seg�
 
 Ya no recuerdo si eran 1 o 2 km, pero, tras el descenso, había allí un mojón de piedra con la distancia hasta Santiago, donde nos hicimos una foto.
 
-![](media/20230508-11_Fotos/20230509_Danach_sanfter-Abstieg.jpg)
-
-**Onde é que esta fotografia foi tirada, exatamente?**
+---
+<details>
+<summary> 🇵🇹 Onde é que esta fotografia foi tirada, exatamente? </summary>
 
 20230509_Depois_descida suave
 
 Recuperei as fotos da pasta «.thumbnails» e tentei organizá-las com base nas minhas memórias e nos carimbos nos documentos de identificação. É possível que me tenha enganado num dia ao organizar as fotos. 
 
 Já não me lembro se eram 1 ou 2 km, mas, depois da descida, havia ali um marco de pedra com a distância até Santiago, onde tirámos uma fotografia
+</details>
 
 ---
-**Where exactly was this photograph taken?**
+<details>
+<summary> 🇬🇧 Where exactly was this photograph taken? </summary>
 
 20230509_Afterwards_a gentle descent
 
 I have recovered the photos from the ‘.thumbnails’ folder and tried to organise them based on my memories and the stamps on the travel documents. It is possible that I got the date wrong by one day when sorting the photos. 
 
 I can’t remember now whether it was 1 or 2 km, but after the descent there was a stone marker showing the distance to Santiago, where we took a photograph
+</details>
 
 ---
 

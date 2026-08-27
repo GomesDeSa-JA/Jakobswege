@@ -1,7 +1,7 @@
 
 ## Camino Primitivo 2023 
 
-### Etappe-09: Cádavo Lugo (29,5 Km)
+### Etappe-09: Cádavo - Lugo (29,5 Km)
 12 Mai 2023
 06_Camino-Primitivo_2023/media/20230512-18_Fotos/
 
