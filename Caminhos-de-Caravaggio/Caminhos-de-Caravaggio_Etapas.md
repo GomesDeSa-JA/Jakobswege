@@ -11,8 +11,9 @@ De 26 de Setembro  a   05 de Outubro de 2023
 Dia 25 de Setembro de 2023 
 
 ----
-[Etappe-01_](Etappe-01_.md)
+[Etappe-01_Canela_Gramado](Etappe-01_Canela_Gramado.md)
 26 de Setembro 2023
+
 
 [Etappe-02_](Etappe-02_.md)
 27 de Setembro 2023
@@ -57,12 +58,13 @@ Dia 06 de Outubro de 2023
 
 ---
 
-🔁 [Os_Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+**←** 🔁 [Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
 ↪ [Readme](Readme.md)
 
-↪ [[Os-Caminhos-de-Caravaggio](Os-Caminhos-de-Caravaggio.md)
+↪ [Os Caminhos de Caravaggio](Os-Caminhos-de-Caravaggio.md)
 
-↪ [Caminhos-de-Caravaggio_Pass](Caminhos-de-Caravaggio_Pass.md)
+↪ [Credencial Caminhos de Caravaggio](Caminhos-de-Caravaggio_Pass.md)
+
 
  ...→

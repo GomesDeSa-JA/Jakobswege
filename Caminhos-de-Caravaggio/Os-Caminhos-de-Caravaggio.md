@@ -37,18 +37,18 @@ La ruta de unos 200 km se divide normalmente en 10 etapas diarias de entre 15 y 
 ---
 ## Die 10 Etappen im Überblick
 
-| Etappe | Startort                            | Zielort                                 | Distanz | Typische Unterkünfte am Etappenziel                                                                         |
-| ------ | ----------------------------------- | --------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------------- |
-| 1      | Canela (Santuário do Saiqui)        | Gramado _(Centro/Rissul)_               | 14,3 km | [Hotel Naturcaravaggio.org.br/caminhos-de-caravaggio/guia-do-peregrino), Hotel Sul Serra, Pousada Querência |
-| 2      | Gramado  _(Centro)_                 | Gramado (Linha Furna)                   | 18,3 km | Pousada Colina de Pedra, Pousada Sartori                                                                    |
-| 3      | Gramado (Linha Furna)               | Caxias do Sul (Vila Oliva)              | 20,8 km | Pousada Dona Solange, Casa Colégio Anchieta                                                                 |
-| 4      | Caxias do Su _(Vila Oliva)_         | Caxias do Sul  _(Santa Lúcia do Piaí)_  | 15,6 km | Seminário dos Cônegos Regulars                                                                              |
-| 5      | Caxias do Sul _(Santa Lúcia)_       | Nova Petrópolis _(Linha Temerária)_     | 23,1 km | Hospedaria Bom Pastor (Dona Gleci)                                                                          |
-| 6      | Nova Petrópolis _(Linha Temerária)_ | Nova Petrópolis _(Centro)_              | 19,3 km | Pousada da Chácara, Pousada dos Plátanos                                                                    |
-| 7      | Nova Petrópolis _(Centro)_          | Caxias do Sul (Nova Palmira)            | 24,1 km | Pousada Recanto das Águias, Famiglia Pezzi Pousada                                                          |
-| 8      | Caxias do Sul _(Nova Palmira)_      | Farroupilha (Loreto)                    | 15,0 km | Lokale Bauernhöfe / Unterkunft über Gemeindezentrum                                                         |
-| 9      | Farroupilha _(Loreto)_              | Farroupilha _(Desvio Blauth)_           | 15,5 km | Vinícola Colombo (Hospedagem), Pousadas in Desvio Blauth                                                    |
-| 10     | Farroupilha _(Desvio Blauth)_       | Farroupilha _(Santuário de Caravaggio)_ | 22,5 km | Hotels im Zentrum von Farroupilha                                                                           |
+| Etappe | Startort                            | Zielort                                 | Distanz | Typische Unterkünfte am Etappenziel                      |
+| ------ | ----------------------------------- | --------------------------------------- | ------- | -------------------------------------------------------- |
+| 1      | Canela (Santuário do Saiqui)        | Gramado _(Centro/Rissul)_               | 14,3 km | Hotel Hotel Sul Serra, Pousada Querência                 |
+| 2      | Gramado  _(Centro)_                 | Gramado (Linha Furna)                   | 18,3 km | Pousada Colina de Pedra, Pousada Sartori                 |
+| 3      | Gramado (Linha Furna)               | Caxias do Sul (Vila Oliva)              | 20,8 km | Pousada Dona Solange, Casa Colégio Anchieta              |
+| 4      | Caxias do Su _(Vila Oliva)_         | Caxias do Sul  _(Santa Lúcia do Piaí)_  | 15,6 km | Seminário dos Cônegos Regulars                           |
+| 5      | Caxias do Sul _(Santa Lúcia)_       | Nova Petrópolis _(Linha Temerária)_     | 23,1 km | Hospedaria Bom Pastor (Dona Gleci)                       |
+| 6      | Nova Petrópolis _(Linha Temerária)_ | Nova Petrópolis _(Centro)_              | 19,3 km | Pousada da Chácara, Pousada dos Plátanos                 |
+| 7      | Nova Petrópolis _(Centro)_          | Caxias do Sul (Nova Palmira)            | 24,1 km | Pousada Recanto das Águias, Famiglia Pezzi Pousada       |
+| 8      | Caxias do Sul _(Nova Palmira)_      | Farroupilha (Loreto)                    | 15,0 km | Lokale Bauernhöfe / Unterkunft über Gemeindezentrum      |
+| 9      | Farroupilha _(Loreto)_              | Farroupilha _(Desvio Blauth)_           | 15,5 km | Vinícola Colombo (Hospedagem), Pousadas in Desvio Blauth |
+| 10     | Farroupilha _(Desvio Blauth)_       | Farroupilha _(Santuário de Caravaggio)_ | 22,5 km | Hotels im Zentrum von Farroupilha                        |
 
 ---
 ## Wichtige Details zu den Unterkünften & Versorgung
@@ -69,6 +69,6 @@ La ruta de unos 200 km se divide normalmente en 10 etapas diarias de entre 15 y 
 
  🔁 [Caminhos-de-Caravaggio_Etapas](Caminhos-de-Caravaggio_Etapas.md)
 
-↪ [Os-Caminhos-de-Caravaggio](Os-Caminhos-de-Caravaggio.md)
+↪ [Readme](Readme.md)
 
  ...→
