@@ -11,9 +11,11 @@ De 26 de Setembro  a   05 de Outubro de 2023
 ---
 
 - Dia 25 de Setembro de 2023 
+- 
 Casa Girassol | Gramado
 +5554981124100
-Ideal após uma uma longa viagem e muita chuva até Gramado.
+
+Refúgio ideal após uma longa viagem e muita chuva.
 
 ----
 [Etappe-01_Canela_Gramado](Etappe-01_Canela_Gramado.md)
@@ -23,8 +25,10 @@ Casa Girassol | Gramado
 
 <details>
 <summary>El espíritu del camino</summary>
-🇵🇹 Nesta manhã enevoada, fomos de autocarro até Canela, percorremos a primeira etapa a pé e depois regressámos aqui. Sentimo-nos em casa – é um local acolhedor.
-A Mara percorreu o Caminho de Santiago português e traz dentro de si o espírito do caminho, que transmite aos peregrinos.
+
+🇵🇹 Nesta manhã enevoada, fomos de autocarro até Canela, percorremos a primeira etapa a pé e regressámos aqui. Sentimo-nos em casa – é um local acolhedor.
+
+Mara percorreu o Caminho de Santiago português e traz dentro de si o espírito do caminho, que transmite aos peregrinos.
 
 🇩🇪 An diesem nebligen Morgen fuhren wir mit dem Bus nach Canela, legten die erste Etappe zu Fuß zurück und kehrten dann hierher zurück. Wir fühlen uns wie zu Hause – es ist ein gemütlicher Ort.
 Mara ist den portugiesischen Jakobsweg gegangen und trägt den Geist des Weges in sich, den sie an die Pilger weitergibt.
