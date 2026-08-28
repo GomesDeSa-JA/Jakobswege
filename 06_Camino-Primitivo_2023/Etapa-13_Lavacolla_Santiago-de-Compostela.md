@@ -6,6 +6,13 @@
 16 Mai 2023
 
 <details>
+<summary>Seminário Menor</summary>
+
+![](media/20230512-18_Fotos/20230518-133356_Seminario-Menor.jpg)
+</details>
+
+---
+<details>
 
 <summary>**Ultreia et Suseia!**</summary>
 
@@ -33,10 +40,8 @@
 - 
 
 ![Camino Primitivo](media/20230512-18_Fotos/20230516-1.jpg)
-- 
 
 ![Camino de San salvador](media/20230512-18_Fotos/20230518-0020.jpg)
-
 ---
 
  🔁 [El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)

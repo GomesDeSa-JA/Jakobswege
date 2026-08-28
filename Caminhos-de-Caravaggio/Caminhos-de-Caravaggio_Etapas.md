@@ -4,19 +4,40 @@
 ## Caminhos de Caravaggio  2023 
 
 ### As Etapas 
+
 De 26 de Setembro  a   05 de Outubro de 2023 
+
 
 ---
 
-Dia 25 de Setembro de 2023 
+- Dia 25 de Setembro de 2023 
+Casa Girassol | Gramado
++5554981124100
+Ideal após uma uma longa viagem e muita chuva até Gramado.
 
 ----
 [Etappe-01_Canela_Gramado](Etappe-01_Canela_Gramado.md)
-26 de Setembro 2023
+- 26 de Setembro 2023
+Casa Girassol | Gramado
++5554981124100
 
+<details>
+<summary>El espíritu del camino</summary>
+🇵🇹 Nesta manhã enevoada, fomos de autocarro até Canela, percorremos a primeira etapa a pé e depois regressámos aqui. Sentimo-nos em casa – é um local acolhedor.
+A Mara percorreu o Caminho de Santiago português e traz dentro de si o espírito do caminho, que transmite aos peregrinos.
+
+🇩🇪 An diesem nebligen Morgen fuhren wir mit dem Bus nach Canela, legten die erste Etappe zu Fuß zurück und kehrten dann hierher zurück. Wir fühlen uns wie zu Hause – es ist ein gemütlicher Ort.
+Mara ist den portugiesischen Jakobsweg gegangen und trägt den Geist des Weges in sich, den sie an die Pilger weitergibt.
+
+🇪🇸 Esa mañana brumosa fuimos en autobús a Canela, recorrimos la primera etapa a pie y luego volvimos aquí. Nos sentimos como en casa: es un lugar acogedor.
+Mara ha recorrido el Camino de Santiago por Portugal y lleva dentro el espíritu del camino, que transmite a los peregrinos.
+
+🇬🇧 On this misty morning, we took the bus to Canela, walked the first stage of the route and then returned here. We feel right at home – it’s a cosy place.
+Mara has walked the Portuguese Way of St James and carries the spirit of the route within her, which she passes on to the pilgrims.
+</details>
 
 [Etappe-02_](Etappe-02_.md)
-27 de Setembro 2023
+- 27 de Setembro 2023
 
 [Etappe-03_](Etappe-03_.md)
 28 de Setembro 2023
