@@ -13,8 +13,6 @@
 ---
 ![](media/20230926_1005_Pass_Caminhos-de-Caravaggio4.webp)
 
-![](media/20230926_1005_Pass_Caminhos-de-Caravaggio4.webp)
-
 ![](media/20230926_1005_Pass_Caminhos-de-Caravaggio5.webp)
 
 ![](media/20230926_1005_Pass_Caminhos-de-Caravaggio6.webp)

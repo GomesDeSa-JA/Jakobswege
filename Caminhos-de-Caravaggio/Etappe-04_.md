@@ -4,6 +4,30 @@
 29 de Setembro 2023
 
 
+![](media/20230929-082941.webp)
+
+![](media/20230929-085442.webp)
+
+![](media/20230929-100256.jpg)
+
+![](media/20230929-100753.webp)
+
+![](media/20230929-113935.webp)
+
+![](media/20230929-123034.webp)
+
+![](media/20230929-132651.webp)
+
+![](media/20230929-141852.webp)
+
+![](media/20230929-143005.webp)
+
+![](media/20230929-143101.webp)
+
+![](media/20230929-143450.webp)
+
+![](media/20230929-160630.webp)
+
 
 <details>
 <summary>  </summary>
