@@ -13,7 +13,6 @@
 
 ---
 <details>
-
 <summary>**Ultreia et Suseia!**</summary>
 
 - Hasta el próximo encuentro
@@ -21,13 +20,13 @@
 - Até à próxima vez
 - Until we meet again
 
-![Camino Primitivo](20230507-.jpg)
+![Camino Primitivo](media/20230504-07_Fotos/20230507-.jpg)
 - 
 
 ![Camino Primitivo](media/20230512-18_Fotos/20230516.jpg)
 - 
 
-![Camino Primitivo](20230507-xx.jpg)
+![Camino Primitivo](media/20230504-07_Fotos/20230507-xx.jpg)
 - 
 
 ![Camino Primitivo](media/20230512-18_Fotos/20230515-.jpg)
@@ -49,8 +48,8 @@
 ↪ [Etapa-01_Oviedo_Escamplero](Etapa-01_Oviedo_Escamplero.md)
 
  ...→
-
 </details>
+
 ---
 
 ![](media/20230512-18_Fotos/20230516-2.jpg)
