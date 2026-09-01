@@ -7,21 +7,24 @@
 
 De 26 de Setembro  a   05 de Outubro de 2023 
 
-
 ---
+#### A Viagem 
 
 - Dia 25 de Setembro de 2023 
-- 
-Casa Girassol | Gramado
-+5554981124100
+
+Gramado
+
+Casa Girassol | +5554981124100
 
 Refúgio ideal após uma longa viagem e muita chuva.
 
 ----
-[Etappe-01_Canela_Gramado](Etappe-01_Canela_Gramado.md)
+#### [Etappe-01_Canela_Gramado](Etappe-01_Canela_Gramado.md)
 - 26 de Setembro 2023
-Casa Girassol | Gramado
-+5554981124100
+
+ Canela → Gramado 
+
+Casa Girassol +5554981124100
 
 <details>
 <summary>El espíritu del camino</summary>
@@ -40,36 +43,86 @@ Mara ha recorrido el Camino de Santiago por Portugal y lleva dentro el espíritu
 Mara has walked the Portuguese Way of St James and carries the spirit of the route within her, which she passes on to the pilgrims.
 </details>
 
-[Etappe-02_](Etappe-02_.md)
+#### [Etappe-02_Gramado_Linha-Furna](Etappe-02_Gramado_Linha-Furna.md)
 - 27 de Setembro 2023
+**Gramado → Linha Furna**
 
-[Etappe-03_](Etappe-03_.md)
-28 de Setembro 2023
+Casa Girassol –  Pousada Vila da Uva = Colina da Pedra
 
-[Etappe-04_](Etappe-04_.md)
-29 de Setembro 2023
+#### [Etappe-03_Linha-Furna_Vila-Oliva](Etappe-03_Linha-Furna_Vila-Oliva.md)
+- 28 de Setembro 2023
 
-[Etappe-05_](Etappe-05_.md)
-30 de Setembro 2023
+Pousada Colina de Pedra  →  Pousada Dona Solange
 
-[Etappe-06_](Etappe-06_.md)
-01 de Outubro de 2023
+#### [Etappe-04_Vila Oliva_Santa-Lucia-do-Piai](Etappe-04_Vila%20Oliva_Santa-Lucia-do-Piai.md)
+- 29 de Setembro 2023
 
-[Etappe-07_](Etappe-07_.md)
-02 de Outubro de 2023
+*Pousada Dona Solange  →  Seminário Cônegos Regulares  Lateranenses*
+#### [Etappe-05_Santa-Lucia-de-Piai_Linha-Brasil](Etappe-05_Santa-Lucia-de-Piai_Linha-Brasil.md)
+- 30 de Setembro 2023
+- 
+**Santa Lúcia de Piaí  →  Linha Brasil**  
 
-[Etappe-08_](Etappe-08_.md)
-03 de Outubro de 2023 
+*Seminário Cônegos Regulares  Lateranenses  →  Hospedaria Bom Pastor*
 
-[Etappe-09_](Etappe-09_.md)
-04 de Outubro de 2023 
+#### [Etappe-06_Linha-Brasil_Nova-Petropolis](Etappe-06_Linha-Brasil_Nova-Petropolis.md)
+- 01 de Outubro de 2023
 
-[Etappe-10_](Etappe-10_.md)
-05 de Outubro de 2023 
+**Linha Brasil  → Nova Petrópolis** 
+
+*Hospedaria Bom Pastor   →   Pousada da Chácara*
+
+#### [Etappe-07_Nova-Metropolis_Nova-Palmira](Etappe-07_Nova-Metropolis_Nova-Palmira.md)
+- 02 de Outubro de 2023
+
+**Nova Petrópolis   →  Nova Palmira**
+
+*Pousada da Chácara  →  Café Colonial Famiglia Pezzi*
+
+#### [Etappe-08_Nova-Palmira_Alto-Feliz](Etappe-08_Nova-Palmira_Alto-Feliz.md)
+- 03 de Outubro de 2023 
+
+**Nova Palmira  →  Alto Feliz** 
+
+Café Colonial Famiglia Pezzi  →  Casa Canjerana
+
+#### [Etappe-09_Alto-Feliz_Nova-Milano](Etappe-09_Alto-Feliz_Nova-Milano.md)
+- 04 de Outubro de 2023 
+
+**Alto Feliz   →   Nova Milano** 
+
+Casa Canjerana  →  Vinícola Colombo
+#### [Etappe-10_Nova-Milano_Farropilha](Etappe-10_Nova-Milano_Farropilha.md)
+- 05 de Outubro de 2023 
+
+**Nova Milano  →  Farropilha**
+
+Vinícola Colombo  →  Senhora do Caravágio
 
 ---
 
-Dia 06 de Outubro de 2023 
+Dia 06-08 de Outubro de 2023 
+
+Farropilha    →  Gramado   →  Barra Velha   →   Irati
+
+---
+##### Inacreditável
+
+2026-09-01 - 19:46 
+Neste momento, não me consigo lembrar de quando fomos de Autocarro de Ferropilha para Gramado.
+Lembro-me da praça em Gramado e de como andávamos à procura da padaria cuja forma de fazer pão e a qualidade do pão tinham impressionado tanto a Rozenilda anos antes.
+Essa padaria já não existe, tudo muda e o que fica são as memórias.
+
+---
+**Unglaublich**
+
+2026-09-01 - 19:46 
+Im Moment kann ich mich nicht daran erinnern, wann wir mit demBus  von Ferropilha nach Gramado gefahren sind.
+Ich erinnere mich an den Platz in Gramado und daran, wie wir auf der Suche nach der Bäckerei waren, deren Art, Brot zu backen, und die Qualität des Brotes Rozenilda Jahre zuvor so beeindruckt hatten.
+Diese Bäckerei gibt es nicht mehr, alles verändert sich, und was bleibt, sind die Erinnerungen.
+
+
+ git commit -m "Bilder Etappe-07 bis 09 eingefügt"
 
 
 <details>
@@ -79,7 +132,6 @@ Dia 06 de Outubro de 2023
 🇬🇧
 🇪🇸
 </details>
-
 
 ---
 

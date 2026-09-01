@@ -1,7 +1,10 @@
 ## Caminhos de Caravaggio  2023 
 
-### Etappe-01: Canela - Gramado (14,3 Km)
+### Etappe-01: Canela  →  Gramado (14,3 Km)
 26 de Setembro 2023
+"Santuário de Caravaggio" →  Casa Girassol 
+
+
 
 ![](media/20230926-081725.webp)
 
@@ -188,7 +191,7 @@ Paroquia Nossa Senhora de Lourdes
 
  🔁 [Caminhos de Caravaggio Etapas](Caminhos-de-Caravaggio_Etapas.md)
  
-↪ [Etappe-02_](Etappe-02_.md)
+↪ [Etappe-02_Gramado_Linha-Furna](Etappe-02_Gramado_Linha-Furna.md)
 
  ...→
  

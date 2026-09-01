@@ -7,10 +7,10 @@
 <details>
 <summary>Albergue-de-Peregrinos_San-Juan-de-Villapañada</summary>
 
-![](20230505_Villapañada_Albergue-de-Peregrinos.webp)
+![](media/20230504-07_Fotos/20230505_Villapañada_Albergue-de-Peregrinos.webp)
 Googlemaps-Foto 
 ---
-![](20230506-072449_Albergue-de-Peregrinos_San-Juan-de-Villapanada.webp)
+![](media/20230504-07_Fotos/20230506-072449_Albergue-de-Peregrinos_San-Juan-de-Villapanada.webp)
 Às Sete horas e 24 minutos do dia seguinte fechamos as portas atrás de nós e seguimos caminho
 </details>
 
@@ -48,7 +48,7 @@ Die Natur präsentiert uns nicht fertige technische Zeichnungen. Sie präsentier
 
 ---
 
-![](20230505-092602_eu.webp)
+![](media/20230504--07_Fotos/20230505-092602_eu.webp)
 
 ---
 

@@ -1,7 +1,9 @@
 ## Caminhos de Caravaggio  2023 
 
-### Etappe-05:  -  ( Km)
+### Etappe-05:  Santa Lúcia de Piaí → Linha Brasil (23,1 Km)
 30 de Setembro 2023
+
+Seminário dos Cônegos Regulars → Hospedaria Bom Pastor (Linha Temerária)
 
 ---
 
@@ -55,6 +57,6 @@ Die Überquerung des Flusses über den flachen Betonübergang kann bei starkem R
 
  🔁 [Caminhos-de-Caravaggio_Etapas](Caminhos-de-Caravaggio_Etapas.md)
  
-↪ [Etappe-06_](Etappe-06_.md)
+↪ [Etappe-06_Linha-Brasil_Nova-Petropolis](Etappe-06_Linha-Brasil_Nova-Petropolis.md)
 
  ...→

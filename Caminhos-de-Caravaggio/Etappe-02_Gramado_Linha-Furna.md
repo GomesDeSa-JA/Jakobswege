@@ -1,7 +1,9 @@
 ## Caminhos de Caravaggio  2023 
 
-### Etappe-02:  -  ( Km)
+### Etappe-02: Gramado → Linha Furna  ( 18,3 Km)
 27 de Setembro 2023
+Casa Girassol → Pousada Colina de Pedra 
+
 
 ![](media/20230927-122420.webp)
 
@@ -29,6 +31,6 @@
 
  🔁 [Caminhos-de-Caravaggio_Etapas](Caminhos-de-Caravaggio_Etapas.md)
  
-↪ [Etappe-03_](Etappe-03_.md)
+↪ [Etappe-03_Linha-Furna_Vila-Oliva](Etappe-03_Linha-Furna_Vila-Oliva.md)
 
  ...→

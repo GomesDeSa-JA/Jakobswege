@@ -1,7 +1,9 @@
 ## Caminhos de Caravaggio  2023 
 
-### Etappe-04:  -  ( Km)
+### Etappe-04: Vila Oliva →  Santa Lúcia do Piaí (15,6 Km)
 29 de Setembro 2023
+
+Pousada Dona Solange → Seminário dos Cônegos Regulares
 
 
 ![](media/20230929-082941.webp)
@@ -42,6 +44,6 @@
 
  🔁 [Caminhos-de-Caravaggio_Etapas](Caminhos-de-Caravaggio_Etapas.md)
  
-↪ [Etappe-05_](Etappe-05_.md)
+↪ [Etappe-05_Santa-Lucia-de-Piai_Linha-Brasil](Etappe-05_Santa-Lucia-de-Piai_Linha-Brasil.md)
 
  ...→
