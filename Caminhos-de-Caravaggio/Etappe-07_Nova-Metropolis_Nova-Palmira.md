@@ -63,7 +63,7 @@ In Brasilien gehört der _Mamão_ praktisch zum täglichen Leben. Er wird dort d
 
 ![](media/20231002-144326.webp)
 
-![](20231002-144620.webp)
+![](media/20231002-144620.webp)
 
 ![](20231002-150016.webp)
 
