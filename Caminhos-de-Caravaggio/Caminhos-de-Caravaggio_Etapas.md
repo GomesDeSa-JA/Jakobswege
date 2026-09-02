@@ -27,9 +27,9 @@ Refúgio ideal após uma longa viagem e muita chuva.
 
 ----
 #### [Etappe-01_Canela_Gramado](Etappe-01_Canela_Gramado.md)
-- 26 de Setembro 2023
+26 de Setembro 2023
 
- **Canela → Gramado** 
+- **Canela → Gramado** 
 
 Casa Girassol +5554981124100
 
@@ -51,59 +51,63 @@ Mara has walked the Portuguese Way of St James and carries the spirit of the rou
 </details>
 
 #### [Etappe-02_Gramado_Linha-Furna](Etappe-02_Gramado_Linha-Furna.md)
-- 27 de Setembro 2023
-- 
-**Gramado → Linha Furna**
+27 de Setembro 2023
 
-Casa Girassol –  Pousada Vila da Uva = Colina da Pedra
+- **Gramado → Linha Furna**
+
+Casa Girassol → Pousada Vila da Uva = Colina da Pedra
 
 #### [Etappe-03_Linha-Furna_Vila-Oliva](Etappe-03_Linha-Furna_Vila-Oliva.md)
-- 28 de Setembro 2023
+28 de Setembro 2023
+
+- Linha Furna  →  Vila Oliva
 
 Pousada Colina de Pedra  →  Pousada Dona Solange
 
 #### [Etappe-04_Vila Oliva_Santa-Lucia-do-Piai](Etappe-04_Vila%20Oliva_Santa-Lucia-do-Piai.md)
-- 29 de Setembro 2023
+29 de Setembro 2023
+
+- **Vila Oliva  → Santa Lúcia do Piaí**
 
 *Pousada Dona Solange  →  Seminário Cônegos Regulares  Lateranenses*
 #### [Etappe-05_Santa-Lucia-de-Piai_Linha-Brasil](Etappe-05_Santa-Lucia-de-Piai_Linha-Brasil.md)
-- 30 de Setembro 2023
-- 
-**Santa Lúcia de Piaí  →  Linha Brasil**  
+30 de Setembro 2023
+
+- **Santa Lúcia de Piaí  →  Linha Brasil**  
 
 *Seminário Cônegos Regulares  Lateranenses  →  Hospedaria Bom Pastor*
 
 #### [Etappe-06_Linha-Brasil_Nova-Petropolis](Etappe-06_Linha-Brasil_Nova-Petropolis.md)
-- 01 de Outubro de 2023
+01 de Outubro de 2023
 
-**Linha Brasil  → Nova Petrópolis** 
+- **Linha Brasil  → Nova Petrópolis** 
 
 *Hospedaria Bom Pastor   →   Pousada da Chácara*
 
 #### [Etappe-07_Nova-Metropolis_Nova-Palmira](Etappe-07_Nova-Metropolis_Nova-Palmira.md)
-- 02 de Outubro de 2023
+02 de Outubro de 2023
 
-**Nova Petrópolis   →  Nova Palmira**
+- **Nova Petrópolis   →  Nova Palmira**
 
 *Pousada da Chácara  →  Café Colonial Famiglia Pezzi*
 
 #### [Etappe-08_Nova-Palmira_Alto-Feliz](Etappe-08_Nova-Palmira_Alto-Feliz.md)
-- 03 de Outubro de 2023 
+03 de Outubro de 2023 
 
-**Nova Palmira  →  Alto Feliz** 
+- **Nova Palmira  →  Alto Feliz** 
 
 Café Colonial Famiglia Pezzi  →  Casa Canjerana
 
 #### [Etappe-09_Alto-Feliz_Nova-Milano](Etappe-09_Alto-Feliz_Nova-Milano.md)
-- 04 de Outubro de 2023 
+04 de Outubro de 2023 
 
-**Alto Feliz   →   Nova Milano** 
+- **Alto Feliz   →   Nova Milano** 
 
 Casa Canjerana  →  Vinícola Colombo
 #### [Etappe-10_Nova-Milano_Farropilha](Etappe-10_Nova-Milano_Farropilha.md)
-- 05 de Outubro de 2023 
+05 de Outubro de 2023 
 
-**Nova Milano  →  Farropilha**
+- **Nova Milano  →  Farropilha**
 
 Vinícola Colombo  →  Senhora do Caravágio
 
@@ -111,13 +115,13 @@ Vinícola Colombo  →  Senhora do Caravágio
 
 Dia 06-08 de Outubro de 2023 
 
-Farropilha    →  Gramado   →  Barra Velha   →   Irati
+- Farropilha    →  Gramado   →  Barra Velha   →   Irati
 
 ---
 ##### Inacreditável
 
 2026-09-01 - 19:46 
-Neste momento, não me consigo lembrar de quando fomos de Autocarro de Ferropilha para Gramado.
+Neste momento, não me consigo lembrar de quando fomos de Autocarro de Ferropilha para Gramado. 
 Lembro-me da praça em Gramado e de como andávamos à procura da padaria cuja forma de fazer pão e a qualidade do pão tinham impressionado tanto a Rozenilda anos antes.
 Essa padaria já não existe, tudo muda e o que fica são as memórias.
 
@@ -125,7 +129,7 @@ Essa padaria já não existe, tudo muda e o que fica são as memórias.
 **Unglaublich**
 
 2026-09-01 - 19:46 
-Im Moment kann ich mich nicht daran erinnern, wann wir mit demBus  von Ferropilha nach Gramado gefahren sind.
+Im Moment kann ich mich nicht daran erinnern, wann wir mit dem Bus  von Ferropilha nach Gramado gefahren sind.
 Ich erinnere mich an den Platz in Gramado und daran, wie wir auf der Suche nach der Bäckerei waren, deren Art, Brot zu backen, und die Qualität des Brotes Rozenilda Jahre zuvor so beeindruckt hatten.
 Diese Bäckerei gibt es nicht mehr, alles verändert sich, und was bleibt, sind die Erinnerungen.
 
