@@ -10,7 +10,14 @@ De 26 de Setembro  a   05 de Outubro de 2023
 ---
 #### A Viagem 
 
-- Dia 25 de Setembro de 2023 
+- Dia 24 - 25 de Setembro de 2023 
+
+Do dia 25 de Setembro não encontrei fotos 
+
+Eu sei que tirei fotos durante o dia em Gramdo. Recordo-me de tirar fotos  dos diferentes tipos de casas   . Onde estaram as fotos'  
+Und die ganzjährige und Klischeehafte Weihnachtszeit
+
+---
 
 Gramado
 
@@ -22,7 +29,7 @@ Refúgio ideal após uma longa viagem e muita chuva.
 #### [Etappe-01_Canela_Gramado](Etappe-01_Canela_Gramado.md)
 - 26 de Setembro 2023
 
- Canela → Gramado 
+ **Canela → Gramado** 
 
 Casa Girassol +5554981124100
 
@@ -45,6 +52,7 @@ Mara has walked the Portuguese Way of St James and carries the spirit of the rou
 
 #### [Etappe-02_Gramado_Linha-Furna](Etappe-02_Gramado_Linha-Furna.md)
 - 27 de Setembro 2023
+- 
 **Gramado → Linha Furna**
 
 Casa Girassol –  Pousada Vila da Uva = Colina da Pedra

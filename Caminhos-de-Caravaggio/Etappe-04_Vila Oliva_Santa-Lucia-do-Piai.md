@@ -30,7 +30,7 @@ Pousada Dona Solange → Seminário dos Cônegos Regulares
 
 ![](media/20230929-160630.webp)
 
-![](20230929-180000-.jpg)
+![](media/20230929-180000-.jpg)
 
 <details>
 <summary>  </summary>

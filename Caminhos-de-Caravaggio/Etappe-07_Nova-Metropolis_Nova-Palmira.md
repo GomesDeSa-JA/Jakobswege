@@ -1,6 +1,6 @@
 ## Caminhos de Caravaggio  2023 
 
-### Etappe-07: Nova Petrópolis  →  Nova Palmira  ( Km)
+### Etappe-07: Nova Petrópolis  →  Nova Palmira  (24,1 Km)
 02 de Outubro de 2023
 
 ![](media/20231002-074018.webp)
@@ -25,10 +25,24 @@
 
 ![](media/20231002-114229.webp)
 
-
-
 ![](media/20231002-114251.webp)
-🇵🇹João de Barro
+
+
+<details>
+<summary> 🇵🇹 João de Barro </summary>
+
+O joão-de-barro (_Furnarius rufus_) constrói sua famosa casa em formato de forno em total parceria com a companheira, dividindo o trabalho de coleta de barro e palha ao longo de semanas. 
+
+A Parceria e a Lenda do Casal
+
+- **Trabalho em equipe:** Macho e fêmea recolhem bolinhas de barro com o bico para erguer a estrutura que pesa cerca de 4 kg.
+
+- **Mito da traição:** A crença popular de que o macho tranca a fêmea dentro do ninho por ciúmes é apenas uma lenda sem comprovação científica.
+
+- **Fidelidade real:** Eles formam casais monogâmicos de longa duração, cuidam juntos dos ovos e protegem os filhotes.
+
+</details>
+
 [🇩🇪 Rosttoepfer_João-de-Barro](Rosttoepfer_João-de-Barro.md)
 
 
@@ -46,7 +60,7 @@ In Brasilien gehört der _Mamão_ praktisch zum täglichen Leben. Er wird dort d
 
 ![](media/20231002-132538.webp)
 
-![](20231002-132718.webp)
+![](media/20231002-132718.webp)
 
 ![](media/20231002-132834.webp)
 
@@ -65,7 +79,7 @@ In Brasilien gehört der _Mamão_ praktisch zum täglichen Leben. Er wird dort d
 
 ![](media/20231002-144620.webp)
 
-![](20231002-150016.webp)
+![](media/20231002-150016.webp)
 
 ![](media/20231002-150248.webp)
 

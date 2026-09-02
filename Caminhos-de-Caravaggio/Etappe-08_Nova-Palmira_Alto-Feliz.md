@@ -1,6 +1,6 @@
 ## Caminhos de Caravaggio  2023 
 
-### Etappe-08: Nova Palmira  →  Alto Feliz (Xx,xx Km)
+### Etappe-08: Nova Palmira  →  Alto Feliz (Xx,x Km | 15,0 km) 
 03 de Outubro de 2023
 
 Café Colonial (Famiglia Pezzi)  →  Casa Canjerana
@@ -11,6 +11,12 @@ Café Colonial (Famiglia Pezzi)  →  Casa Canjerana
 
 
 ![](media/20231003-103111.webp)
+- **furnarius rufus nido**
+– Nest des rothaarigen Bäckers –
+
+Traduzindo do Latim para o Português, "o João de Barro" é "o Padeiro ruivo 
+ 
+O joão-de-barro (_Furnarius rufus_) constrói sua famosa casa em formato de forno em total parceria com a companheira, dividindo o trabalho de coleta de barro e palha ao longo de semanas.
 [Rosttoepfer_João-de-Barro](Rosttoepfer_João-de-Barro.md)
 
 ---
@@ -61,14 +67,6 @@ Café Colonial (Famiglia Pezzi)  →  Casa Canjerana
 ![](media/20231003-173621.webp)
 
 ![](media/20231003-173714.webp)
-
-
-
-
----
-
-
-
 
 
 <details>

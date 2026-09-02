@@ -2,13 +2,12 @@
 
 ### Etappe-01: Canela  →  Gramado (14,3 Km)
 26 de Setembro 2023
+
 "Santuário de Caravaggio" →  Casa Girassol 
-
-
 
 ![](media/20230926-081725.webp)
 
-![](media/20230926-082048-3.webp)
+![](media/20230926-082048.webp)
 
 [Nossa Senhora de Caravaggio Canela RS](Nossa-Senhora-de-Caravaggio_Canela-RS.md)
 
@@ -182,10 +181,10 @@ Paroquia Nossa Senhora de Lourdes
 
 ### Gramado
 
-![](media/20230926-150742-6a.webp)
+![](media/20230926-150742.webp)
 
 
-![](media/20230926-185402-3a.webp)
+![](media/20230926-185402.webp)
 
 ---
 

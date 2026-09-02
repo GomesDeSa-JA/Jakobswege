@@ -23,7 +23,11 @@ Hospedaria Bom Pasto  →  Pousada da Chácara (19,3 Km)
 
 ![](media/20231001-114412.webp)
 
+Linha Imperial
+
 ![](media/20231001-120231.webp)
+
+ Praça Theodor Amstad
 
 ![](media/20231001-121609.webp)
 

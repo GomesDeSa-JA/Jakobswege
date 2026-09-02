@@ -2,6 +2,7 @@
 
 ### Etappe-02: Gramado → Linha Furna  ( 18,3 Km)
 27 de Setembro 2023
+
 Casa Girassol → Pousada Colina de Pedra 
 
 

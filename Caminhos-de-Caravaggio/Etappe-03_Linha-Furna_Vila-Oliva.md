@@ -2,6 +2,7 @@
 
 ### Etappe-03:  Linha Furna  →  Vila Oliva ( 20,8 Km)
 28 de Setembro 2023
+
 Pousada Colina de Pedra →  Pousada Dona Solange
 
 
@@ -11,23 +12,23 @@ Pousada Colina de Pedra →  Pousada Dona Solange
 
 ![](media/20230928-095757.webp)
 
-![](media/20230928-101224_.webp)
+![](media/20230928-101224.webp)
 
 ![](media/20230928-102320..webp)
 
-![](media/20230928-113226-.webp)
+![](media/20230928-113226.webp)
 
 ![](media/20230928-111044.webp)
 
-![](20230928-114621.webp)
+![](media/20230928-114621.webp)
 
-![](media/20230928-121214-.jpg)
+![](media/20230928-121214.jpg)
 
 ![](media/20230928-123346.webp)
 
-![](media/20230928-123403-.webp)
+![](media/20230928-123403.webp)
 
-![](media/20230928-124522-2.jpg)
+![](media/20230928-124522.jpg)
 
 ![](media/20230928-124749.webp)
 
@@ -35,13 +36,13 @@ Pousada Colina de Pedra →  Pousada Dona Solange
 
 ![](media/20230928-132256.webp)
 
-![](media/20230928-140040-.webp)
+![](media/20230928-140040.webp)
 
 ![](media/20230928-161817.webp)
 
 ![](media/20230928-164321.jpg)
 
-![](20230928-173143.webp)
+![](media/20230928-173143.webp)
 
 <details>
 <summary>  </summary>
