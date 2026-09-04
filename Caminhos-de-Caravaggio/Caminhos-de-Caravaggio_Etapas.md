@@ -21,7 +21,7 @@ Impressions from a journey  ⁘  Impressões de uma viagem
 25 de Setembro de 2023
 
 - **Gramado**
-- 
+
 Não encontrei as fotos 
 
 Eu sei que tirei fotos durante o dia em Gramado. Recordo-me de tirar fotos  dos diferentes tipos de casas "und an die Momente der ganzjährigen und Klischeehaften Weihnachtszeit".
