@@ -35,12 +35,10 @@ Linha Imperial
 ![](media/20231115-0022.jpg)
 
 
-<details>
-<summary> Praça Theodor Amstad  </summary>
+Praça Theodor Amstad 
 
 <details>
 <summary>🇪🇸 Dos descubrimientos especiales durante mis caminos de peregrinación  
-
 
 ### 🇪🇸 Dos descubrimientos especiales durante mis caminos de peregrinación
 
@@ -73,9 +71,10 @@ Naturalmente, no sé si los peregrinos sabrían valorar una casa con una histori
 Una casa histórica en una plaza histórica, donde los peregrinos pudieran descansar, beber agua y quizás conversar con otros caminantes. Para mí, eso convertiría a Linha Imperial en un lugar casi perfecto como punto de descanso en un camino de peregrinación.
 
 Quizás sea simplemente una bonita idea. Pero, a veces, así es precisamente como comienzan las mejores ideas para un camino de peregrinación.
-</summary>
----
+</details>
 
+
+---
 <details>
 <summary>🇵🇹 Duas descobertas especiais nos meus caminhos de peregrinação </summary>
 
@@ -194,13 +193,10 @@ A historic house on a historic square, where pilgrims could rest, have some wate
 Perhaps it is simply a nice idea. But sometimes, that is exactly how the best ideas for a pilgrimage route begin.
 </details>
 
-</details>
-
 ---
 
 
 ![](media/20231001-121733.webp)
-
 
 ![](media/20231001-130859.webp)
 
