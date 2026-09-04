@@ -1,8 +1,6 @@
 
 **Hintergrundinformationen in die Etappen einordnen**
-
-
-### Sincredi
+### Sicredi
 
 Das heutige System entstand am 28. Dezember 1902 in der Region, durch die heute auch die _Caminhos do Caravaggio_ führen. 
 
@@ -59,7 +57,7 @@ El 28 de diciembre de 1902, fundó allí mesmo, junto a 19 agricultores locales,
 
 While walking the Caminhos do Caravaggio, the Sicredi logo is omnipresent. The name stands for Sistema de Crédito Cooperativo (Cooperative Credit System). Taking a rest at the Praça Theodor Amstad in _Linha Imperial_ (Nova Petrópolis) connects all the dots: the Swiss Jesuit Father Theodor Amstad is honored here as the pioneer of the credit cooperative movement in Brazil.
 
-On December 28, 1902, he and 19 local farmers founded the _Caixa de Economias e Empréstimos Amstad_ right here—the first credit cooperative in Latin America. Today, it is known as _Sicredi Pioneira_ and serves as the historical cradle of the entire nationwide Sicredi network. Nova Petrópolis is officially named the "National Capital of Cooperativism." Because of these deep historical roots in the Serra Gaúcha region, Sicredi acts as the main sponsor of the Caminhos do Caravaggio, funding the trail markers and signs that guide pilgrims safely to their destination.
+On December 28, 1902, he and 19 local farmers founded the _Caixa de Economias e Empréstimos Amstad_ right here the first credit cooperative in Latin America. Today, it is known as _Sicredi Pioneira_ and serves as the historical cradle of the entire nationwide Sicredi network. Nova Petrópolis is officially named the "National Capital of Cooperativism." Because of these deep historical roots in the Serra Gaúcha region, Sicredi acts as the main sponsor of the Caminhos do Caravaggio, funding the trail markers and signs that guide pilgrims safely to their destination.
 
 ---
 

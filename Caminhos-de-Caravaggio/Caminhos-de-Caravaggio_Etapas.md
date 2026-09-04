@@ -8,18 +8,27 @@
 De 26 de Setembro  a   05 de Outubro de 2023 
 
 ---
-#### A Viagem 
+#### [Die Reise  ⁘  A Viagem](Die_Reise.md)
+24 de Setembro de 2023 
 
-- Dia 24 - 25 de Setembro de 2023 
+Impressionen einer Reise  ⁘ Impresiones de un viaje 
 
-Do dia 25 de Setembro não encontrei fotos 
+Impressions from a journey  ⁘  Impressões de uma viagem
 
-Eu sei que tirei fotos durante o dia em Gramdo. Recordo-me de tirar fotos  dos diferentes tipos de casas   . Onde estaram as fotos'  
-Und die ganzjährige und Klischeehafte Weihnachtszeit
+- **Laguna  →  Gramado**
 
 ---
+25 de Setembro de 2023
 
-Gramado
+- **Gramado**
+- 
+Não encontrei as fotos 
+
+Eu sei que tirei fotos durante o dia em Gramado. Recordo-me de tirar fotos  dos diferentes tipos de casas "und an die Momente der ganzjährigen und Klischeehaften Weihnachtszeit".
+
+Onde estaram as fotos ?
+
+---
 
 Casa Girassol | +5554981124100
 
@@ -36,7 +45,7 @@ Casa Girassol +5554981124100
 <details>
 <summary>El espíritu del camino</summary>
 
-🇵🇹 Nesta manhã enevoada, fomos de autocarro até Canela, percorremos a primeira etapa a pé e regressámos aqui. Sentimo-nos em casa – é um local acolhedor.
+🇵🇹 Nesta manhã enevoada, fomos de autocarro até Canela, percorremos a primeira etapa a pé e regressámos aqui. Sentimo-nos em casa – é um local perfeito e acolhedor.
 
 Mara percorreu o Caminho de Santiago português e traz dentro de si o espírito do caminho, que transmite aos peregrinos.
 
@@ -50,6 +59,7 @@ Mara ha recorrido el Camino de Santiago por Portugal y lleva dentro el espíritu
 Mara has walked the Portuguese Way of St James and carries the spirit of the route within her, which she passes on to the pilgrims.
 </details>
 
+---
 #### [Etappe-02_Gramado_Linha-Furna](Etappe-02_Gramado_Linha-Furna.md)
 27 de Setembro 2023
 
@@ -57,19 +67,23 @@ Mara has walked the Portuguese Way of St James and carries the spirit of the rou
 
 Casa Girassol → Pousada Vila da Uva = Colina da Pedra
 
+---
 #### [Etappe-03_Linha-Furna_Vila-Oliva](Etappe-03_Linha-Furna_Vila-Oliva.md)
 28 de Setembro 2023
 
-- Linha Furna  →  Vila Oliva
+- **Linha Furna  →  Vila Oliva**
 
 Pousada Colina de Pedra  →  Pousada Dona Solange
 
+---
 #### [Etappe-04_Vila Oliva_Santa-Lucia-do-Piai](Etappe-04_Vila%20Oliva_Santa-Lucia-do-Piai.md)
 29 de Setembro 2023
 
 - **Vila Oliva  → Santa Lúcia do Piaí**
 
 *Pousada Dona Solange  →  Seminário Cônegos Regulares  Lateranenses*
+
+---
 #### [Etappe-05_Santa-Lucia-de-Piai_Linha-Brasil](Etappe-05_Santa-Lucia-de-Piai_Linha-Brasil.md)
 30 de Setembro 2023
 
@@ -77,6 +91,7 @@ Pousada Colina de Pedra  →  Pousada Dona Solange
 
 *Seminário Cônegos Regulares  Lateranenses  →  Hospedaria Bom Pastor*
 
+---
 #### [Etappe-06_Linha-Brasil_Nova-Petropolis](Etappe-06_Linha-Brasil_Nova-Petropolis.md)
 01 de Outubro de 2023
 
@@ -84,6 +99,7 @@ Pousada Colina de Pedra  →  Pousada Dona Solange
 
 *Hospedaria Bom Pastor   →   Pousada da Chácara*
 
+---
 #### [Etappe-07_Nova-Metropolis_Nova-Palmira](Etappe-07_Nova-Metropolis_Nova-Palmira.md)
 02 de Outubro de 2023
 
@@ -91,6 +107,7 @@ Pousada Colina de Pedra  →  Pousada Dona Solange
 
 *Pousada da Chácara  →  Café Colonial Famiglia Pezzi*
 
+---
 #### [Etappe-08_Nova-Palmira_Alto-Feliz](Etappe-08_Nova-Palmira_Alto-Feliz.md)
 03 de Outubro de 2023 
 
@@ -98,44 +115,49 @@ Pousada Colina de Pedra  →  Pousada Dona Solange
 
 Café Colonial Famiglia Pezzi  →  Casa Canjerana
 
+---
 #### [Etappe-09_Alto-Feliz_Nova-Milano](Etappe-09_Alto-Feliz_Nova-Milano.md)
 04 de Outubro de 2023 
 
 - **Alto Feliz   →   Nova Milano** 
 
 Casa Canjerana  →  Vinícola Colombo
-#### [Etappe-10_Nova-Milano_Farropilha](Etappe-10_Nova-Milano_Farropilha.md)
+
+---
+#### [Etappe-10_Nova-Milano_Farroupilha](Etappe-10_Nova-Milano_Farroupilha.md)
 05 de Outubro de 2023 
 
-- **Nova Milano  →  Farropilha**
+- **Nova Milano  →  Farroupilha**
 
 Vinícola Colombo  →  Senhora do Caravágio
 
 ---
+**O Retorno**
 
-Dia 06-08 de Outubro de 2023 
+06-08 de Outubro de 2023 
 
-- Farropilha    →  Gramado   →  Barra Velha   →   Irati
+- **Farroupilha    →  Gramado   →  Barra Velha   →   Irati**
 
 ---
-##### Inacreditável
+
+<details>
+<summary> ? </summary>
+
+##### 🇵🇹 Inacreditável
 
 2026-09-01 - 19:46 
-Neste momento, não me consigo lembrar de quando fomos de Autocarro de Ferropilha para Gramado. 
+Neste momento, não me consigo lembrar de quando fomos de Autocarro de Farroupilha para Gramado. 
 Lembro-me da praça em Gramado e de como andávamos à procura da padaria cuja forma de fazer pão e a qualidade do pão tinham impressionado tanto a Rozenilda anos antes.
 Essa padaria já não existe, tudo muda e o que fica são as memórias.
 
 ---
-**Unglaublich**
+🇩🇪 **Unglaublich**
 
 2026-09-01 - 19:46 
-Im Moment kann ich mich nicht daran erinnern, wann wir mit dem Bus  von Ferropilha nach Gramado gefahren sind.
+Im Moment kann ich mich nicht daran erinnern, wann wir mit dem Bus  von Farroupilha nach Gramado gefahren sind.
 Ich erinnere mich an den Platz in Gramado und daran, wie wir auf der Suche nach der Bäckerei waren, deren Art, Brot zu backen, und die Qualität des Brotes Rozenilda Jahre zuvor so beeindruckt hatten.
 Diese Bäckerei gibt es nicht mehr, alles verändert sich, und was bleibt, sind die Erinnerungen.
-
-
- git commit -m "Bilder Etappe-07 bis 09 eingefügt"
-
+</details>
 
 <details>
 <summary>  </summary>

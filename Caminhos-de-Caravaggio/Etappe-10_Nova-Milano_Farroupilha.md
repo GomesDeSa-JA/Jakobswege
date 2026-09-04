@@ -1,6 +1,6 @@
 ## Caminhos de Caravaggio  2023 
 
-### Etappe-10:  Nova Milano  →  Farropilha  (22,5 Km)
+### Etappe-10:  Nova Milano  →  Farroupilha  (22,5 Km)
 05 de Outubro de 2023
 
 Vinícola Colombo  →  Senhora do Caravágio
@@ -23,7 +23,7 @@ Vinícola Colombo  →  Senhora do Caravágio
 
 ![](media/20231005-135053.webp)
 
-- Ferropilha
+- Farroupilha
 
 ![](media/20231005-185309.webp)
 

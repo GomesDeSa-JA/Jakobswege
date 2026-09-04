@@ -9,7 +9,6 @@ Café Colonial (Famiglia Pezzi)  →  Casa Canjerana
 
 ![](media/20231003-072952.webp)
 
-
 ![](media/20231003-103111.webp)
 - **furnarius rufus nido**
 – Nest des rothaarigen Bäckers –

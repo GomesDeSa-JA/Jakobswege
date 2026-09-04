@@ -10,7 +10,6 @@
 ![](media/20230926-082048.webp)
 
 [Nossa Senhora de Caravaggio Canela RS](Nossa-Senhora-de-Caravaggio_Canela-RS.md)
-
 #### 🇩🇪 Nossa Senhora de Caravaggio, Canela in Rio Grande do Sul (RS).  
 
 - Nur etwa zwei Stunden später verwandelten sich diese Stufen an jenem Tag in einen wunderschönen Wasserfall.  
@@ -50,7 +49,6 @@ Canela in der Serra Gaúcha entstand im 19. Jahrhundert als Raststätte für Tro
 </details>
 
 ---
-
 #### 🇵🇹 Nossa Senhora de Caravaggio, Canela no Rio Grande do Sul (RS).  
 - Apenas duas horas mais tarde, naquele dia, estes degraus transformaram-se numa bela cascata.  
 - Infelizmente, perdemos esse espetáculo da natureza por termos saído tão cedo. Por outro lado, ainda bem que partimos antes, caso contrário os meus pés – mesmo protegidos por botas de caminhada impermeáveis – teriam tomado um banho sob a chuva torrencial.  
@@ -68,7 +66,7 @@ Canela, na Serra Gaúcha, surgiu como um pouso de tropeiros no século XIX e se 
 
 - **Parada de tropeiros**: Os tropeiros descansavam sob a sombra dessa árvore e usavam o local para hidratar os animais.
 
-- **Campestre Canella**: Esse foi o título oficial dado ao primeiro morador e proprietário de terras, Joaquim da Silva Esteves, em 1821. [
+- **Campestre Canella**: Esse foi o título oficial dado ao primeiro morador e proprietário de terras, Joaquim da Silva Esteves, em 1821. 
 
 ##### Fundação e Colonização
 

@@ -40,7 +40,7 @@ Pousada Colina de Pedra →  Pousada Dona Solange
 
 ![](media/20230928-161817.webp)
 
-![](media/20230928-164321.jpg)
+![](media/20230928-164321.webp)
 
 ![](media/20230928-173143.webp)
 

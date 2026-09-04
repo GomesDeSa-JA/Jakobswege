@@ -12,13 +12,10 @@
 ![](media/20231004-092154.webp)
 
 ![](media/20231004-092211.webp)
-
-
 #### Mamão
 No Brasil, o _mamão_ faz praticamente parte do quotidiano. É colhido durante todo o ano e está presente na mesa do pequeno-almoço de quase todos os hotéis e lares, uma vez que é maravilhosamente refrescante e é considerado muito saudável para a digestão.
 
 ![](media/20231004-094634.webp)
-
 
 ---
 ![](media/20231004-100401.webp)
@@ -82,7 +79,6 @@ Ainda bem que o Alemão usa palavras mais económicas e acessíveis para mim; ca
 ![](media/20231004-130805.webp)
 Depois desta curva:  Um Senhor aproveitou o Sol para trabalhar a terra 
 
-
 ![](media/20231004-131608.webp)
 
 ![](media/20231004-143500.webp)
@@ -113,6 +109,6 @@ Depois desta curva:  Um Senhor aproveitou o Sol para trabalhar a terra
 
  🔁 [Caminhos-de-Caravaggio_Etapas](Caminhos-de-Caravaggio_Etapas.md)
  
-↪ [Etappe-10_Nova-Milano_Farropilha](Etappe-10_Nova-Milano_Farropilha.md)
+↪ [Etappe-10_Nova-Milano_Farroupilha](Etappe-10_Nova-Milano_Farroupilha.md)
 
  ...→

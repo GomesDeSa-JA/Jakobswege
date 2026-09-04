@@ -35,7 +35,7 @@ A travessia do rio pela passagem plana de betão pode tornar-se perigosa em caso
 
 Die Überquerung des Flusses über den flachen Betonübergang kann bei starkem Regen gefährlich werden.
 
-![](media/media/20230930-120611.webp)
+![](media/20230930-120611.webp)
 
 ![](media/20230930-120829.webp)
 
