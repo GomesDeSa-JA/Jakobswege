@@ -195,7 +195,6 @@ Perhaps it is simply a nice idea. But sometimes, that is exactly how the best id
 
 ---
 
-
 ![](media/20231001-121733.webp)
 
 ![](media/20231001-130859.webp)
