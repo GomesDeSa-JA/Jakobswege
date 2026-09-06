@@ -4,14 +4,19 @@
 
 #### 🌟 Einleitung
 
-Willkommen in meinem digitalen Rückblick auf meine Pilgerreise!! In diesem Repository teile ich meine Fotos, Erfahrungen, Erinnerungen und Eindrücke vom zeitlich längsten Jakobsweg meines Lebens. 
+Willkommen in meinem digitalen Rückblick auf meine Pilgerreise!
+
+In diesem Repository teile ich meine Fotos, Erfahrungen, Erinnerungen und Eindrücke vom zeitlich längsten Jakobsweg meines Lebens. 
 
 Was im Jahr 2015 als logistisches Experiment begann, fand im Jahr 2024 nach vielen unvorhersehbaren Wendungen, Wetterkapriolen und wunderbaren Begegnungen 
  im Jahr 2024 ein erfolgreiches  Ende.
  
 #### 💡 Die Inspiration (2012 & 2014)
 
-- 4. Mai 2012 (St. Jean Pied de Port): Am Abend vor meinem allerersten Schritt über die Pyrenäen hörte ich das erste Mal vom Camino del Norte. Bei einem Abendspaziergang lernte ich eine Schweizer Pilgerin kennen. Sie hatte ihren Weg in der Schweiz begonnen und erklärte mir, dass sie in Irun auf den Camino del Norte ausweichen würde, statt den Camino Francés zu gehen. Damals speicherte ich diese Information ab, legte sie aber gedanklich beiseite.
+<details>
+<summary>💡</summary>
+
+- **4. Mai 2012 (St. Jean Pied de Port):** Am Abend vor meinem allerersten Schritt über die Pyrenäen hörte ich das erste Mal vom Camino del Norte. Bei einem Abendspaziergang lernte ich eine Pilgerin aus der Schweiz kennen. Sie hatte ihren Weg in der Schweiz begonnen und erklärte mir, dass sie in Irun auf den Camino del Norte ausweichen würde, statt den Camino Francés zu gehen. Damals speicherte ich diese Information ab, legte sie aber gedanklich beiseite.
 
 - **Jahr 2014:** Während ich den Camino Mozárabe (Almería → Mérida → Astorga → Santiago de Compostela) ging, hörte ich erneut von der Schönheit des Camino del Norte. Die Idee, diesen Weg selbst zu gehen, begann sich zu materialisieren.
 
@@ -19,17 +24,17 @@ Was im Jahr 2015 als logistisches Experiment begann, fand im Jahr 2024 nach viel
 
 #### 🥾 2015: Das Pilotprojekt (Irun bis Deba)
 
-- Die Etappen: Irun → San Sebastián → Zarautz → Deba (erste 3 Etappen).
+- **Die Etappen:** Irun → San Sebastián → Zarautz → Deba (erste 3 Etappen).
 
-- Das Konzept: Inspiriert von einem spanischen Pilger (den ich 2012 in den Pyrenäen traf und der seinen Weg in Etappen an Wochenenden parallel zur Arbeit ging), wollte ich den Camino del Norte in mehreren zeitlichen Abschnitten wandern. Dank guter und günstiger Flugverbindungen von Düsseldorf, Köln-Bonn und Düsseldorf-Weeze nach Santander und Bilbao wollte ich verlängerte Wochenenden mit Feiertage und Überstunden nutzen.
+- **Das Konzept:** Inspiriert von einem spanischen Pilger (den ich 2012 in den Pyrenäen traf und der seinen Weg in Etappen an Wochenenden parallel zur Arbeit ging), wollte ich den Camino del Norte in mehreren zeitlichen Abschnitten wandern. Dank guter und günstiger Flugverbindungen von Düsseldorf, Köln-Bonn und Düsseldorf-Weeze nach Santander und Bilbao wollte ich verlängerte Wochenenden mit Feiertage und Überstunden nutzen.
 
-- Erkenntnis: Das Vorhaben erwies sich trotz günstiger Flüge als stressiger und teurer als gedacht.
+- **Erkenntnis:** Das Vorhaben erwies sich trotz günstiger Flüge als stressiger und teurer als gedacht.
 
 #### 🥾 2018: Der größere Block (Deba bis Colunga)
 
-- Der Plan: Von Deba bis Villaviciosa.
+- **Der Plan:** Von Deba bis Villaviciosa.
 
-- Das Ergebnis: Aufgrund der Wetterbedingungen schaffte ich es in diesem Jahr nur bis Colunga.
+- **Das Ergebnis:** Aufgrund der Wetterbedingungen schaffte ich es in diesem Jahr nur bis Colunga.
 
 #### 🥾 2023: Planänderung (Camino de San Salvador & Primitivo)
 
@@ -39,7 +44,7 @@ Was im Jahr 2015 als logistisches Experiment begann, fand im Jahr 2024 nach viel
 
 - Auf dem Camino Primitivo lernte ich Roze kennen, die ebenfalls den Camino del Norte gehen wollte.
 
-#### 🥾 2024: Der Weg (Bayonne bis Santiago)
+**#### 🥾 2024:** Der Weg (Bayonne bis Santiago)
 
 - Gemeinsam mit Roze startete ich erneut, diesmal bereits im französischen Bayonne.
 
@@ -48,7 +53,7 @@ Was im Jahr 2015 als logistisches Experiment begann, fand im Jahr 2024 nach viel
 ##### 🧭 Aktueller Status
 
 Ich besitze nun immer noch eine unvollständige _Credencial del Peregrino_ aus dem Jahr 2018. Die vielen weißen, unausgefüllten Felder lassen mir keine Ruhe, bis sie eines Tages vollständig ausgefüllt sind.
-
+</details>
 ---
 ### 🇪🇸 Camino del Norte: Mis Experiencias e Impresiones
 
@@ -61,23 +66,26 @@ a un final con éxito.
 
 #### 💡 La Inspiración (2012 y 2014)
 
-- 4 de mayo de 2012 (St. Jean Pied de Port): Escuché hablar del Camino del Norte por primera vez la noche antes de dar mi primer paso para cruzar los Pirineos. Durante un paseo nocturno, conocí a una peregrina suiza que había comenzado su camino en Suiza y me explicó que continuaría desde Irún por el Camino del Norte en lugar del Camino Francés. En aquel momento guardé esa información abstracta en mi memoria, pero la dejé de lado.
+<details>
+<summary> 💡</summary>
 
-- Año 2014: Mientras realizaba el Camino Mozárabe (Almería → Mérida → Astorga → Santiago de Compostela), volví a escuchar hablar de la belleza del Camino del Norte. La idea de recorrerlo comenzó a materializarse en mi mente.
+- **4 de mayo de 2012 (St. Jean Pied de Port):** Escuché hablar del Camino del Norte por primera vez la noche antes de dar mi primer paso para cruzar los Pirineos. Durante un paseo nocturno, conocí a una peregrina suiza que había comenzado su camino en Suiza y me explicó que continuaría desde Irún por el Camino del Norte en lugar del Camino Francés. En aquel momento guardé esa información abstracta en mi memoria, pero la dejé de lado.
+
+- **Año 2014:** Mientras realizaba el Camino Mozárabe (Almería → Mérida → Astorga → Santiago de Compostela), volví a escuchar hablar de la belleza del Camino del Norte. La idea de recorrerlo comenzó a materializarse en mi mente.
 
 ### 🗺️ Cronología de las Etapas y el Concepto
 
 #### 🥾 2015: El proyecto piloto (Irún a Deba)
 
-- Las etapas: Irún → San Sebastián → Zarautz → Deba (las 3 primeras etapas).
+- **Las etapas:** Irún → San Sebastián → Zarautz → Deba (las 3 primeras etapas).
 
-- El concepto: Inspirado por un peregrino español (a quien conocí en 2012 en los Pirineos y que hacía el camino por etapas los fines de semana mientras trabajaba), planeé dividir el Camino del Norte en varios bloques temporales. Quería aprovechar los fines de semana largos y los días festivos gracias a los vuelos directos y económicos desde Düsseldorf, Colonia-Bonn y Düsseldorf-Weeze hacia Santander y Bilbao.
+- **El concepto:** Inspirado por un peregrino español (a quien conocí en 2012 en los Pirineos y que hacía el camino por etapas los fines de semana mientras trabajaba), planeé dividir el Camino del Norte en varios bloques temporales. Quería aprovechar los fines de semana largos y los días festivos gracias a los vuelos directos y económicos desde Düsseldorf, Colonia-Bonn y Düsseldorf-Weeze hacia Santander y Bilbao.
 
-- Conclusión: A pesar de los vuelos baratos, este enfoque resultó ser más estresante y costoso de lo planeado.
+- **Conclusión:** A pesar de los vuelos baratos, este enfoque resultó ser más estresante y costoso de lo planeado.
 
 #### 🥾 2018: El bloque mayor (Deba a Colunga)
 
-- El plan: De Deba a Villaviciosa.
+- **El plan:** De Deba a Villaviciosa.
 
 - El resultado: Debido a las condiciones climáticas, ese año solo logré llegar hasta Colunga.
 
@@ -98,6 +106,7 @@ a un final con éxito.
 #### 🧭 Estado Actual
 
 Todavía tengo guardada la _Credencial del Peregrino_ incompleta del año 2018. Esas casillas en blanco no me dejarán tranquilo hasta que logre llenarlas por completo.
+</details>
 
 ---
 ### 🇬🇧 Camino del Norte: My Experiences and Impressions
@@ -111,25 +120,28 @@ What began in 2015 as a logistical experiment came to a successful conclusion in
 
 #### 💡 The Inspiration (2012 & 2014)
 
-- May 4, 2012 (St. Jean Pied de Port): I first heard about the Camino del Norte the evening before taking my very first steps across the Pyrenees. During a night walk, I met a Swiss pilgrim who had started her journey in Switzerland and mentioned she would deviate from the Camino Francés at Irun to walk the Camino del Norte instead. At the time, I stored this information away but didn't pay much closer attention to it.
+<details>
+<summary>💡</summary>
 
-- Year 2014: While walking the Camino Mozárabe (Almería → Mérida → Astorga → Santiago de Compostela), I heard about the beauty of the Camino del Norte once again, and the idea of doing it myself slowly began to take shape.
+- **May 4, 2012 (St. Jean Pied de Port):** I first heard about the Camino del Norte the evening before taking my very first steps across the Pyrenees. During a night walk, I met a Swiss pilgrim who had started her journey in Switzerland and mentioned she would deviate from the Camino Francés at Irun to walk the Camino del Norte instead. At the time, I stored this information away but didn't pay much closer attention to it.
 
-### 🗺️ Chronology of Stages & The Concept
+- **Year 2014:** While walking the Camino Mozárabe (Almería → Mérida → Astorga → Santiago de Compostela), I heard about the beauty of the Camino del Norte once again, and the idea of doing it myself slowly began to take shape.
+
+### 🗺️ Chronology of Stages and The Concept
 
 #### 🥾 2015: The Pilot Project (Irun to Deba)
 
-- The Stages: Irun → San Sebastián → Zarautz → Deba (firs Armed with a new Credencial del Peregrino (Pilgrim's Passport), we walked the  route in one single continuous trip to Santiago de Compostelat 3 stages).
+- **The Stages:** Irun → San Sebastián → Zarautz → Deba (firs Armed with a new Credencial del Peregrino (Pilgrim's Passport), we walked the  route in one single continuous trip to Santiago de Compostelat 3 stages).
 
-- The Concept: Inspired by a Spanish pilgrim I met in the Pyrenees in 2012 (who walked the Camino Francés in stages on weekends around his work schedule), I planned to complete the Camino del Norte in several short intervals. I aimed to utilize long weekends and holidays, using cheap and convenient flights from Düsseldorf, Cologne-Bonn, and Düsseldorf-Weeze to Santander and Bilbao.
+- **The Concept:** Inspired by a Spanish pilgrim I met in the Pyrenees in 2012 (who walked the Camino Francés in stages on weekends around his work schedule), I planned to complete the Camino del Norte in several short intervals. I aimed to utilize long weekends and holidays, using cheap and convenient flights from Düsseldorf, Cologne-Bonn, and Düsseldorf-Weeze to Santander and Bilbao.
 
-- The Outcome: Despite the cheap flights, this approach turned out to be much more stressful and expensive than anticipated.
+- **The Outcome:** Despite the cheap flights, this approach turned out to be much more stressful and expensive than anticipated.
 
 #### 🥾 2018: The Larger Section (Deba to Colunga)
 
-- The Plan: From Deba to Villaviciosa.
+- **The Plan:** From Deba to Villaviciosa.
 
-- The Outcome: Due to bad weather conditions, I only managed to reach Colunga that year.
+- **The Outcome:** Due to bad weather conditions, I only managed to reach Colunga that year.
 
 #### 🥾 2023: Change of Plans (Camino de San Salvador & Primitivo)
 
@@ -149,6 +161,8 @@ What began in 2015 as a logistical experiment came to a successful conclusion in
 
 I still have that unfinished _Credencial del Peregrino_ from 2018. Those many blank white boxes will not give me any peace of mind until they are finally filled.
 
+</details>
+
 ---
 ### 🇵🇹 Camino del Norte: Minhas Experiências e Impressões
 
@@ -159,26 +173,29 @@ O que começou em 2015 como uma experiência logística chegou, em 2024, após m
 a um final bem-sucedido.
 
 #### 💡 A Inspiração (2012 & 2014)
+ 
+ <details>
+ <summary>💡</summary>
+ 
+- **4 de maio de 2012 (St. Jean Pied de Port):** Ouvi falar do Camino del Norte pela primeira vez na noite anterior a dar o meu primeiro passo para cruzar os Pirenéus. Durante um passeio noturno, conheci uma peregrina suíça que tinha começado o seu caminho na Suíça e explicou-me que iria continuar a partir de Irún pelo Camino del Norte, em vez do Caminho Francês. Na altura, guardei essa informação na memória, mas não lhe dei muita atenção.
 
-- 4 de maio de 2012 (St. Jean Pied de Port): Ouvi falar do Camino del Norte pela primeira vez na noite anterior a dar o meu primeiro passo para cruzar os Pirenéus. Durante um passeio noturno, conheci uma peregrina suíça que tinha começado o seu caminho na Suíça e explicou-me que iria continuar a partir de Irún pelo Camino del Norte, em vez do Caminho Francês. Na altura, guardei essa informação na memória, mas não lhe dei muita atenção.
-
-- Ano 2014: Enquanto fazia o Caminho Moçárabe (Almería → Mérida → Astorga → Santiago de Compostela), ouvi novamente falar da beleza do Camino del Norte, e a ideia de o percorrer começou a materializar-se na minha mente.
+- **Ano 2014:** Enquanto fazia o Caminho Moçárabe (Almería → Mérida → Astorga → Santiago de Compostela), ouvi novamente falar da beleza do Camino del Norte, e a ideia de o percorrer começou a materializar-se na minha mente.
 
 ### 🗺️ Cronologia das Etapas e o Conceito
 
 #### 🥾 2015: O Projeto Piloto (Irún a Deba)
 
-- As etapas: Irún → San Sebastián → Zarautz → Deba (as 3 primeiras etapas).
+- **As etapas:** Irún → San Sebastián → Zarautz → Deba (as 3 primeiras etapas).
 
-- O conceito: Inspirado por um peregrino espanhol (que conheci em 2012 nos Pirenéus e que fazia o caminho por etapas nos fins de semana enquanto trabalhava), planeei dividir o Camino del Norte em vários blocos temporais. Graças às boas e económicas ligações aéreas de Düsseldorf, Colónia-Bona e Düsseldorf-Weeze para Santander e Bilbau, queria aproveitar os fins de semana prolongados com feriados e horas extraordinárias.
+- **O conceito:** Inspirado por um peregrino espanhol (que conheci em 2012 nos Pirenéus e que fazia o caminho por etapas nos fins de semana enquanto trabalhava), planeei dividir o Camino del Norte em vários blocos temporais. Graças às boas e económicas ligações aéreas de Düsseldorf, Colónia-Bona e Düsseldorf-Weeze para Santander e Bilbau, queria aproveitar os fins de semana prolongados com feriados e horas extraordinárias.
 
-- Conclusão: Apesar dos voos baratos, esta abordagem revelou-se mais stressante e dispendiosa do que o planeado.
+- **Conclusão:** Apesar dos voos baratos, esta abordagem revelou-se mais stressante e dispendiosa do que o planeado.
 
 #### 🥾 2018: O Bloco Maior (Deba a Colunga)
 
-- O plano: De Deba a Villaviciosa.
+- **O plano:** De Deba a Villaviciosa.
 
-- O resultado: Devido às condições climatéricas, nesse ano só consegui chegar até Colunga.
+- **O resultado:** Devido às condições climatéricas, nesse ano só consegui chegar até Colunga.
 
 #### 🥾 2023: Mudança de Planos (Caminho de São Salvador e Primitivo)
 
@@ -197,6 +214,10 @@ a um final bem-sucedido.
 #### 🧭 Estado Atual
 
 Ainda tenho guardada a _Credencial del Peregrino_ incompleta do ano 2018. Aqueles vários campos brancos e vazios não me vão deixar descansar enquanto não estiverem totalmente preenchidos.
+
+</details>
+
+---
 
 ![](media/map1.webp) 
 
@@ -234,7 +255,7 @@ Agora tenho ainda uma credencial de peregrino de 2018, com muitos campos em bran
 
 ---
 <details>
-<summary> Camino del Norte (unstrukturierten Text)</summary>
+<summary> 🇩🇪 Camino del Norte (Unstrukturierter Text)</summary>
 
 Hier, in meinem Obsidian-Repository auf GitHub, möchte ich Fotos, Erlebnisse, Erinnerungen und Eindrücke von meinem zeitmässig längsten Jakobsweg öffentlich mit anderen Pilgern teilen.
 Ich habe ihn 2015 begonnen und 2024 beendet.
