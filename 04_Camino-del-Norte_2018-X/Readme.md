@@ -284,3 +284,14 @@ Auf dem „Caminho Primitivo“ lernte ich Roze kennen, und auch sie wollte den 
 
 Jetzt habe ich noch einen Pilgerausweis aus dem Jahr 2018, mit vielen leeren Feldern, die mir keine Ruhe lassen, bis sie ausgefüllt sind.
 </details>
+
+---
+
+↪ 
+
+🔁 
+
+---
+**←** 🔁 [Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+
+ ...→
