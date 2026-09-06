@@ -186,7 +186,7 @@ Paroquia Nossa Senhora de Lourdes
 
 ---
 
- 🔁 [Caminhos de Caravaggio Etapas](Caminhos-de-Caravaggio_Etapas.md)
+ 🔁 [Caminhos de Caravaggio Etapas](Jakobswege/Caminhos-de-Caravaggio/Caminhos-de-Caravaggio_Etapas.md)
  
 ↪ [Etappe-02_Gramado_Linha-Furna](Etappe-02_Gramado_Linha-Furna.md)
 

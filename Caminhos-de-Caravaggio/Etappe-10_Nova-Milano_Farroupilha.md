@@ -41,7 +41,7 @@ Vinícola Colombo  →  Senhora do Caravágio
 
 ---
 
- 🔁 [Caminhos-de-Caravaggio_Etapas](Caminhos-de-Caravaggio_Etapas.md)
+ 🔁 [Caminhos-de-Caravaggio_Etapas](Jakobswege/Caminhos-de-Caravaggio/Caminhos-de-Caravaggio_Etapas.md)
  
 ↪ [Etappe-01_Canela_Gramado](Etappe-01_Canela_Gramado.md)
 

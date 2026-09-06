@@ -30,7 +30,7 @@ Casa Girassol → Pousada Colina de Pedra
 
 ---
 
- 🔁 [Caminhos-de-Caravaggio_Etapas](Caminhos-de-Caravaggio_Etapas.md)
+ 🔁 [Caminhos-de-Caravaggio_Etapas](Jakobswege/Caminhos-de-Caravaggio/Caminhos-de-Caravaggio_Etapas.md)
  
 ↪ [Etappe-03_Linha-Furna_Vila-Oliva](Etappe-03_Linha-Furna_Vila-Oliva.md)
 

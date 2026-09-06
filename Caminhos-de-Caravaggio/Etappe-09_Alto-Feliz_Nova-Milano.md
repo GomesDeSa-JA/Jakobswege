@@ -107,7 +107,7 @@ Depois desta curva:  Um Senhor aproveitou o Sol para trabalhar a terra
 
 ---
 
- 🔁 [Caminhos-de-Caravaggio_Etapas](Caminhos-de-Caravaggio_Etapas.md)
+ 🔁 [Caminhos-de-Caravaggio_Etapas](Jakobswege/Caminhos-de-Caravaggio/Caminhos-de-Caravaggio_Etapas.md)
  
 ↪ [Etappe-10_Nova-Milano_Farroupilha](Etappe-10_Nova-Milano_Farroupilha.md)
 

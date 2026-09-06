@@ -26,7 +26,7 @@ In Brasilien gibt es den sprichwörtlichen Ausdruck _„Jabuticaba“_ für Ding
 
 ---
 
- 🔁 [Caminhos-de-Caravaggio_Etapas](Caminhos-de-Caravaggio_Etapas.md)
+ 🔁 [Caminhos-de-Caravaggio_Etapas](Jakobswege/Caminhos-de-Caravaggio/Caminhos-de-Caravaggio_Etapas.md)
  
 ↪ [Etappe-09_Alto-Feliz_Nova-Milano](Etappe-09_Alto-Feliz_Nova-Milano.md)
 

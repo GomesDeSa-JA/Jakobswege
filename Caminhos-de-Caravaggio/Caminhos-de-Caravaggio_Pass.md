@@ -20,10 +20,10 @@
 ![](media/20230926_1005_Pass_Caminhos-de-Caravaggio7.webp)
 
 ---
- 🔁 [Caminhos de Caravaggio Etapas](Caminhos-de-Caravaggio_Etapas.md)
+ 🔁 [Caminhos de Caravaggio Etapas](Jakobswege/Caminhos-de-Caravaggio/Caminhos-de-Caravaggio_Etapas.md)
  
-↪ [Caminhos de Caravagio](Os-Caminhos-de-caravaggio)
+↪ [Caminhos de Caravagio](Jakobswege/Caminhos-de-Caravaggio/Os-Caminhos-de-Caravaggio.md)
 
-↪ [Readme](Readme.md)
+↪ [Readme](Jakobswege/Caminhos-de-Caravaggio/Readme.md)
 
  ...→
