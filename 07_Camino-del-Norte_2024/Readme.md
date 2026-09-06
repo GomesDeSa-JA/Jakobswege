@@ -54,7 +54,9 @@ Was im Jahr 2015 als logistisches Experiment begann, fand im Jahr 2024 nach viel
 
 Ich besitze nun immer noch eine unvollständige _Credencial del Peregrino_ aus dem Jahr 2018. Die vielen weißen, unausgefüllten Felder lassen mir keine Ruhe, bis sie eines Tages vollständig ausgefüllt sind.
 </details>
+
 ---
+
 ### 🇪🇸 Camino del Norte: Mis Experiencias e Impresiones
 
 #### 🌟 Introducción
