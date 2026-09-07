@@ -76,7 +76,7 @@ Casa Girassol → Pousada Vila da Uva = Colina da Pedra
 Pousada Colina de Pedra  →  Pousada Dona Solange
 
 ---
-#### [Etappe-04_Vila Oliva_Santa-Lucia-do-Piai](Etappe-04_Vila%20Oliva_Santa-Lucia-do-Piai.md)
+#### [Etappe-04_Vila-Oliva_Santa-Lucia-do-Piai](Etappe-04_Vila-Oliva_Santa-Lucia-do-Piai.md)
 29 de Setembro 2023
 
 - **Vila Oliva  → Santa Lúcia do Piaí**
@@ -176,6 +176,5 @@ Diese Bäckerei gibt es nicht mehr, alles verändert sich, und was bleibt, sind 
 ↪ [Os Caminhos de Caravaggio](Os-Caminhos-de-Caravaggio.md)
 
 ↪ [Credencial Caminhos de Caravaggio](Caminhos-de-Caravaggio_Pass.md)
-
 
  ...→

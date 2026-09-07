@@ -101,3 +101,15 @@ Obwohl der Vogel mit etwa 18 bis 20 Zentimetern recht klein ist, zeigt er ein **
 - **Die Brut:** Das Weibchen legt meist 3 bis 4 weiße Eier in die geschützte Innenkammer. Beide Eltern wechseln sich beim Brüten ab (ca. 14 bis 18 Tage).
 - **Der Auszug:** Nach etwa 20 bis 26 Tagen verlassen die Jungvögel das Nest, werden aber noch eine Weile im Revier der Eltern geduldet.
 - **Vorausplanung:** Da sie das Nest im Folgejahr nicht wiederverwenden, beginnen sie oft schon Monate vor der nächsten Brutzeit ganz entspannt mit dem Bau des neuen Hauses – manchmal direkt auf dem alten, wodurch die typischen "mehrstöckigen Häuser" entstehen.
+
+
+---
+
+↪ [Etappe-07_Nova-Metropolis_Nova-Palmira](Etappe-07_Nova-Metropolis_Nova-Palmira.md)
+
+ 🔁 [Caminhos-de-Caravaggio_Etapas](Caminhos-de-Caravaggio_Etapas.md)
+
+ ...→
+
+
+

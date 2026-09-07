@@ -105,9 +105,9 @@ Erinnerung:  Kinder in der Schulehof bzw Schule-Spielplatz  - Crianças na escol
 </details>
 
 ---
-
- 🔁 [Caminhos-de-Caravaggio_Etapas](Jakobswege/Caminhos-de-Caravaggio/Caminhos-de-Caravaggio_Etapas.md)
  
 ↪ [Etappe-08_Nova-Palmira_Alto-Feliz](Etappe-08_Nova-Palmira_Alto-Feliz.md)
+
+🔁 [Caminhos-de-Caravaggio_Etapas](Caminhos-de-Caravaggio_Etapas.md)
 
  ...→

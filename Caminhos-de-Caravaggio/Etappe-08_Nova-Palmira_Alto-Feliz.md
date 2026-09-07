@@ -78,8 +78,8 @@ O joão-de-barro (_Furnarius rufus_) constrói sua famosa casa em formato de for
 
 ---
 
- 🔁 [Caminhos-de-Caravaggio_Etapas](Jakobswege/Caminhos-de-Caravaggio/Caminhos-de-Caravaggio_Etapas.md)
- 
 ↪ [Etappe-09_Alto-Feliz_Nova-Milano](Etappe-09_Alto-Feliz_Nova-Milano.md)
+
+ 🔁 [Caminhos-de-Caravaggio_Etapas](Caminhos-de-Caravaggio_Etapas.md)
 
  ...→

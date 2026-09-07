@@ -347,7 +347,7 @@ Hier ist Ihr neu verfasster Textabschnitt, stilistisch geglättet und präzise i
  
 ↪ [Etappe-01_Canela_Gramado](Etappe-01_Canela_Gramado.md)
 
- 🔁 [Caminhos de Caravaggio Etapas](Jakobswege/Caminhos-de-Caravaggio/Caminhos-de-Caravaggio_Etapas.md)
+ 🔁 [Caminhos de Caravaggio Etapas](Caminhos-de-Caravaggio_Etapas.md)
  
  ...→
  

@@ -17,16 +17,16 @@
 
 ![](media/20150728-143308.webp)
 
-- Drei Fotos habe ich von diese Ort gemacht, dann fragt man sich warrum?
+- Drei Fotos habe ich von diese Ort gemacht, dann fragt man sich warum?
 - Tirei três fotografias deste local; então, questiona-se: porquê?
 
 ![](media/20150728-150430.webp)
 
 - Não é um «Halcón peregrino»
-- 
+
 Acho que se chama «Buitre leonado»
 
-Não quero ofender o pássaro que está na rocha a olhar para o mar,, mas «Halcón peregrino», pelo nome, encaixava melhor no nosso cenário.
+Não quero ofender o pássaro que está na rocha a olhar para o mar,  mas «Halcón peregrino», pelo nome, encaixava melhor no nosso cenário.
 
 ----
 

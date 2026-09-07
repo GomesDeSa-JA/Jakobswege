@@ -59,9 +59,9 @@ Jedes Jahr rund um den **26. Mai** (den Tag der Erscheinung) bricht in Canela de
 
 
 ---
-
- 🔁 [Caminhos-de-Caravaggio_Etapas](Jakobswege/Caminhos-de-Caravaggio/Caminhos-de-Caravaggio_Etapas.md)
  
-↪ [Os-Caminhos-de-Caravaggio](Jakobswege/Caminhos-de-Caravaggio/Os-Caminhos-de-Caravaggio.md)
+↪ [Os-Caminhos-de-Caravaggio](Os-Caminhos-de-Caravaggio.md)
 
+ 🔁 [Caminhos-de-Caravaggio_Etapas](Caminhos-de-Caravaggio_Etapas.md)
+ 
  ...→

@@ -55,8 +55,8 @@ Die Überquerung des Flusses über den flachen Betonübergang kann bei starkem R
 
 ---
 
- 🔁 [Caminhos-de-Caravaggio_Etapas](Jakobswege/Caminhos-de-Caravaggio/Caminhos-de-Caravaggio_Etapas.md)
- 
 ↪ [Etappe-06_Linha-Brasil_Nova-Petropolis](Etappe-06_Linha-Brasil_Nova-Petropolis.md)
 
+ 🔁 [Caminhos-de-Caravaggio_Etapas](Caminhos-de-Caravaggio_Etapas.md)
+ 
  ...→
