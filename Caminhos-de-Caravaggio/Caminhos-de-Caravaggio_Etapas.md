@@ -171,11 +171,11 @@ Diese Bäckerei gibt es nicht mehr, alles verändert sich, und was bleibt, sind 
 
 **←** 🔁 [Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
-↪ [Readme](Jakobswege/Caminhos-de-Caravaggio/Readme.md)
+↪ [Readme](Readme.md)
 
-↪ [Os Caminhos de Caravaggio](Jakobswege/Caminhos-de-Caravaggio/Os-Caminhos-de-Caravaggio.md)
+↪ [Os Caminhos de Caravaggio](Os-Caminhos-de-Caravaggio.md)
 
-↪ [Credencial Caminhos de Caravaggio](Jakobswege/Caminhos-de-Caravaggio/Caminhos-de-Caravaggio_Pass.md)
+↪ [Credencial Caminhos de Caravaggio](Caminhos-de-Caravaggio_Pass.md)
 
 
  ...→

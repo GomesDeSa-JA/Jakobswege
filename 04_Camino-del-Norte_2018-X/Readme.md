@@ -71,7 +71,7 @@ a un final con éxito.
 <details>
 <summary> 💡</summary>
 
-- **4 de mayo de 2012 (St. Jean Pied de Port):** Escuché hablar del Camino del Norte por primera vez la noche antes de dar mi primer paso para cruzar los Pirineos. Durante un paseo nocturno, conocí a una peregrina suiza que había comenzado su camino en Suiza y me explicó que continuaría desde Irún por el Camino del Norte en lugar del Camino Francés. En aquel momento guardé esa información abstracta en mi memoria, pero la dejé de lado.
+- **4 de mayo de 2012 (St. Jean Pied de Port):** Escuché hablar del Camino del Norte por primera vez la noche "am Abend" antes de dar mi primer paso para cruzar los Pirineos. Durante un paseo nocturno, conocí a una peregrina suiza que había comenzado su camino en Suiza y me explicó que continuaría desde Irún por el Camino del Norte en lugar del Camino Francés. En aquel momento guardé esa información abstracta en mi memoria, pero la dejé de lado.
 
 - **Año 2014:** Mientras realizaba el Camino Mozárabe (Almería → Mérida → Astorga → Santiago de Compostela), volví a escuchar hablar de la belleza del Camino del Norte. La idea de recorrerlo comenzó a materializarse en mi mente.
 
@@ -179,7 +179,7 @@ a um final bem-sucedido.
  <details>
  <summary>💡</summary>
  
-- **4 de maio de 2012 (St. Jean Pied de Port):** Ouvi falar do Camino del Norte pela primeira vez na noite anterior a dar o meu primeiro passo para cruzar os Pirenéus. Durante um passeio noturno, conheci uma peregrina suíça que tinha começado o seu caminho na Suíça e explicou-me que iria continuar a partir de Irún pelo Camino del Norte, em vez do Caminho Francês. Na altura, guardei essa informação na memória, mas não lhe dei muita atenção.
+- **4 de maio de 2012 (St. Jean Pied de Port):** Ouvi falar do Camino del Norte pela primeira vez na noite "am Abend"  anterior a dar o meu primeiro passo para cruzar os Pirenéus. Durante um passeio noturno, conheci uma peregrina suíça que tinha começado o seu caminho na Suíça e explicou-me que iria continuar a partir de Irún pelo Camino del Norte, em vez do Caminho Francês. Na altura, guardei essa informação na memória, mas não lhe dei muita atenção.
 
 - **Ano 2014:** Enquanto fazia o Caminho Moçárabe (Almería → Mérida → Astorga → Santiago de Compostela), ouvi novamente falar da beleza do Camino del Norte, e a ideia de o percorrer começou a materializar-se na minha mente.
 

@@ -1,11 +1,8 @@
-## Camino del Norte 2018 (2015)
+## Camino del Norte  20xx
 
-### Etappe-01:  -  ( Km)
-28 Julho 2015
+### Etappe-0 :  -  ( Km)
+0  Mai 20
 
-
-
- 
 <details>
 <summary>  </summary>
 🇬🇧
@@ -19,6 +16,5 @@
 ↪ 
 
  🔁 
- 
-
+  
  ...→

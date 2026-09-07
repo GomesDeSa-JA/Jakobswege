@@ -11,7 +11,7 @@ In diesem Repository teile ich meine Fotos, Erfahrungen, Erinnerungen und Eindr�
 Was im Jahr 2015 als logistisches Experiment begann, fand im Jahr 2024 nach vielen unvorhersehbaren Wendungen, Wetterkapriolen und wunderbaren Begegnungen 
  im Jahr 2024 ein erfolgreiches  Ende.
  
-#### 💡 Die Inspiration (2012 & 2014)
+#### 💡 Die Inspiration (2012 and 2014)
 
 <details>
 <summary>💡</summary>
@@ -20,7 +20,7 @@ Was im Jahr 2015 als logistisches Experiment begann, fand im Jahr 2024 nach viel
 
 - **Jahr 2014:** Während ich den Camino Mozárabe (Almería → Mérida → Astorga → Santiago de Compostela) ging, hörte ich erneut von der Schönheit des Camino del Norte. Die Idee, diesen Weg selbst zu gehen, begann sich zu materialisieren.
 
-### 🗺️ Chronologie der Etappen & Das Konzept
+### 🗺️ Chronologie der Etappen und Das Konzept
 
 #### 🥾 2015: Das Pilotprojekt (Irun bis Deba)
 
@@ -36,7 +36,7 @@ Was im Jahr 2015 als logistisches Experiment begann, fand im Jahr 2024 nach viel
 
 - **Das Ergebnis:** Aufgrund der Wetterbedingungen schaffte ich es in diesem Jahr nur bis Colunga.
 
-#### 🥾 2023: Planänderung (Camino de San Salvador & Primitivo)
+#### 🥾 2023: Planänderung (Camino de San Salvador und Primitivo)
 
 - Eigentlich wollte ich die zweite Hälfte des Camino del Norte beenden. Aufgrund eines laufenden Gerichtsverfahrens in Portugal war ich jedoch planungstechnisch gelähmt, da Termine unvorhersehbar waren.
 
@@ -71,7 +71,7 @@ a un final con éxito.
 <details>
 <summary> 💡</summary>
 
-- **4 de mayo de 2012 (St. Jean Pied de Port):** Escuché hablar del Camino del Norte por primera vez la noche antes de dar mi primer paso para cruzar los Pirineos. Durante un paseo nocturno, conocí a una peregrina suiza que había comenzado su camino en Suiza y me explicó que continuaría desde Irún por el Camino del Norte en lugar del Camino Francés. En aquel momento guardé esa información abstracta en mi memoria, pero la dejé de lado.
+- **4 de mayo de 2012 (St. Jean Pied de Port):** Escuché hablar del Camino del Norte por primera vez la noche "am Abend" antes de dar mi primer paso para cruzar los Pirineos. Durante un paseo nocturno, conocí a una peregrina suiza que había comenzado su camino en Suiza y me explicó que continuaría desde Irún por el Camino del Norte en lugar del Camino Francés. En aquel momento guardé esa información abstracta en mi memoria, pero la dejé de lado.
 
 - **Año 2014:** Mientras realizaba el Camino Mozárabe (Almería → Mérida → Astorga → Santiago de Compostela), volví a escuchar hablar de la belleza del Camino del Norte. La idea de recorrerlo comenzó a materializarse en mi mente.
 
@@ -145,7 +145,7 @@ What began in 2015 as a logistical experiment came to a successful conclusion in
 
 - **The Outcome:** Due to bad weather conditions, I only managed to reach Colunga that year.
 
-#### 🥾 2023: Change of Plans (Camino de San Salvador & Primitivo)
+#### 🥾 2023: Change of Plans (Camino de San Salvador and Primitivo)
 
 - I originally wanted to finish the second half of the Camino del Norte. However, due to a pending legal proceeding in Portugal, I was unable to plan properly because of unpredictable dates.
 
@@ -179,7 +179,7 @@ a um final bem-sucedido.
  <details>
  <summary>💡</summary>
  
-- **4 de maio de 2012 (St. Jean Pied de Port):** Ouvi falar do Camino del Norte pela primeira vez na noite anterior a dar o meu primeiro passo para cruzar os Pirenéus. Durante um passeio noturno, conheci uma peregrina suíça que tinha começado o seu caminho na Suíça e explicou-me que iria continuar a partir de Irún pelo Camino del Norte, em vez do Caminho Francês. Na altura, guardei essa informação na memória, mas não lhe dei muita atenção.
+- **4 de maio de 2012 (St. Jean Pied de Port):** Ouvi falar do Camino del Norte pela primeira vez na noite "am Abend" anterior a dar o meu primeiro passo para cruzar os Pirenéus. Durante um passeio noturno, conheci uma peregrina suíça que tinha começado o seu caminho na Suíça e explicou-me que iria continuar a partir de Irún pelo Camino del Norte, em vez do Caminho Francês. Na altura, guardei essa informação na memória, mas não lhe dei muita atenção.
 
 - **Ano 2014:** Enquanto fazia o Caminho Moçárabe (Almería → Mérida → Astorga → Santiago de Compostela), ouvi novamente falar da beleza do Camino del Norte, e a ideia de o percorrer começou a materializar-se na minha mente.
 
