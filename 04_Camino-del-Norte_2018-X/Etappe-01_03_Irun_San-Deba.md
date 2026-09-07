@@ -13,22 +13,119 @@
 
 ![](media/20150728-134900.webp)
 
+
+
+![](20150728-135811.webp)
+---
+
 ![](media/20150728-140446.webp)
 
+![](20150728-142946.webp)
+
+
+---
+Skizze
+
+### Jaizkibel III  
+_Trikuarria – Dolmen_  
+_Historiaurreko hilobia – Sepultura prehistórica_  
+**Dolmen – prähistorisches Grab**
+
+Der Jaizkibel trägt seine Geschichte nicht nur in seinen Wegen und Landschaften, sondern auch in den Spuren der Menschen, die hier bereits vor Tausenden von Jahren lebten.
+
+<details>
+<summary> Jaizkibel  </summary>
+
+#### 🌊 1. Die geheimnisvolle Entdeckung der Madonna von Guadalupe
+
+Das ist wahrscheinlich die schönste und bekannteste Legende vom Jaizkibel.
+
+Der Überlieferung nach hüteten **zwei Hirtenjungen** ihre Tiere an den Hängen des Jaizkibel. Eines Tages bemerkten sie an einem Busch ein **ungewöhnliches, geheimnisvolles Licht**. Als sie sich näherten, entdeckten sie dort eine Marienfigur – die spätere **Jungfrau von Guadalupe**.
+
+An genau dieser Stelle soll später das Heiligtum errichtet worden sein. Die heutige Überlieferung des Heiligtums erzählt ebenfalls von diesem wundersamen Licht und der gefundenen Marienfigur. Euskadi.eus+1
+
+Besonders interessant: Es gibt außerdem die Vermutung, dass die Figur ursprünglich von einem **Schiffsbug bzw. einer Galionsfigur** stammen könnte. Das würde wunderbar zur Lage des Jaizkibel unmittelbar am Meer passen. ingeba.org+1
+
+#### ⚔️ 2. Die Madonna als Beschützerin von Hondarribia
+
+Aus der Legende wurde später eine tief verwurzelte Tradition.
+
+Im Jahr **1638** wurde Hondarribia von französischen Truppen belagert. Die Marienfigur von Guadalupe wurde aus der Kapelle in die geschützte Stadt gebracht, damit sie während der Kämpfe nicht zerstört wurde.
+
+Die Bewohner von Hondarribia schrieben der Jungfrau anschließend einen besonderen **Schutz während der Belagerung und den Sieg am 7. September 1638** zu. Als Dank entstand die Tradition einer Prozession zum Heiligtum am 8. September. Diese Tradition besteht bis heute. Euskadi.eus+1
+
+Das macht den Ort für Pilger besonders interessant: **Der Jaizkibel ist nicht nur ein Berg, sondern auch ein Berg des Schutzes.**
+
+Und damit bekommt auch dein Foto von dem Lied der _Jaizkibel Mendizale Taldea_ eine schöne zusätzliche Bedeutung.
+
+#### 🪨 3. Der Jaizkibel war schon vor Jahrtausenden ein besonderer Ort
+
+Noch älter als die christlichen Legenden sind die Spuren der Menschen, die hier vor Tausenden von Jahren lebten.
+
+Auf dem Jaizkibel gibt es eine **Megalithlandschaft mit Dolmen und Gräbern**. Der baskische Name und die genaue Bedeutung dieser alten Kultstätten gehören zu einer viel älteren Geschichte der Region. Das Baskenland besitzt eine besonders reiche Megalithtradition. Euskadi.eus+1
+
+Wenn man dort wandert, läuft man also buchstäblich durch eine Landschaft, die bereits lange vor dem Jakobsweg, vor den mittelalterlichen Kirchen und sogar vor der heutigen Besiedlung eine besondere Bedeutung für Menschen hatte.
+
+#### 🌲 4. Die baskische Mythologie – und Mari
+
+Hier muss man allerdings zwischen **direkt belegten Jaizkibel-Legenden** und der allgemeineren baskischen Mythologie unterscheiden.
+
+In der baskischen Mythologie spielt **Mari**, eine weibliche Natur- und Berggestalt, eine sehr wichtige Rolle. Sie wird besonders mit Bergen, Höhlen, Wetter und Naturgewalten verbunden. Bekannter Mittelpunkt ihrer Überlieferungen ist der Anboto, nicht der Jaizkibel. Deshalb würde ich **nicht behaupten, dass Mari speziell auf dem Jaizkibel wohnte**, wenn man es historisch sauber darstellen möchte. Visit Biscay
+
+Aber die Vorstellung einer geheimnisvollen, beseelten Bergwelt passt natürlich sehr gut zu der Atmosphäre des Jaizkibel.
+
+#### 🏰 5. Ein Berg voller Festungen und Kriegslegenden
+
+Der Jaizkibel war wegen seiner Lage über dem Meer und der Bucht von Txingudi auch militärisch von großer Bedeutung.
+
+Auf dem Berg finden sich unter anderem die Überreste des **Forts San Enrique** und das **Fort Guadalupe**. Außerdem gibt es entlang des Kamms Überreste von Befestigungsanlagen aus den Karlistenkriegen. Wikipedia+1
+
+Das Spannende für einen Camino-Wanderer ist der Gegensatz:
+
+**Auf der einen Seite:** Pilger, Hirten, Kapellen und Marienlegenden.  
+**Auf der anderen Seite:** Festungen, Soldaten, Kanonen und Krieg.
+
+Und dazwischen immer der Blick auf den Atlantik.
+
+</details>
+
 ![](media/20150728-143308.webp)
+
+
+### 🌅 **Der Jaizkibel ist ein Berg voller Geschichten.** 
+
+> **Der Jaizkibel ist ein Berg voller Geschichten.**  
+> 
+> Einer alten Überlieferung nach entdeckten zwei Hirtenjungen im geheimnisvollen Licht eine Marienfigur – dort, wo heute das Heiligtum von Guadalupe steht. Jahrhunderte später wurde diese Madonna während der Belagerung von Hondarribia als Beschützerin der Stadt verehrt.
+> 
+> Doch die Geschichte des Jaizkibel reicht noch viel weiter zurück: Dolmen und andere megalithische Spuren erinnern daran, dass Menschen diesen Berg schon vor Tausenden von Jahren aufsuchten. Später kamen Kapellen, Festungen und die Wege der Pilger hinzu.
+> 
+> **Vielleicht ist es gerade diese Verbindung aus Meer, Berg, Glauben, Geschichte und Legende, die den Jaizkibel zu einem so besonderen Abschnitt des Camino del Norte macht.**
+> 
+> Und irgendwo auf diesem Weg erinnert ein kleines Metallschild an die Menschen, die diesen Berg bis heute lieben:
+> 
+> **„Jaizkibel maitea“ – „Geliebter Jaizkibel“.**
+
+
+---
 
 - Drei Fotos habe ich von diese Ort gemacht, dann fragt man sich warum?
 - Tirei três fotografias deste local; então, questiona-se: porquê?
 
 ![](media/20150728-150430.webp)
 
-- Não é um «Halcón peregrino»
+Descobri-o, estão a ver o pássaro ali, naquela rocha no meio?
+<details>
+<summary> Não é um «Halcón peregrino» </summary>
 
 Acho que se chama «Buitre leonado»
 
-Não quero ofender o pássaro que está na rocha a olhar para o mar,  mas «Halcón peregrino», pelo nome, encaixava melhor no nosso cenário.
+Não quero ofender o pássaro que está  lá longe na rocha a olhar para o mar,  mas «Halcón peregrino», pelo nome, encaixava melhor no nosso cenário.
+
+</details>
 
 ----
+Ich hab ihn entdeckt – seht ihr den Vogel da, auf dem Felsen in der Mitte?
 
 <details>
 <summary>Es ist keine  Halcón peregrino </summary>
@@ -78,8 +175,138 @@ Schau dir deine Fotos noch einmal genau an. Sitzt der Vogel sehr aufrecht und wi
 
 </details>
 
+---
+### Camino del Norte – Jaizkibel
+
+ Begegnungen, Landschaften, Stille und kleine Dinge am Wegesrand
+
+Eines dieser besonderen Dinge war dieses Metallschild am **Jaizkibel**. Darauf steht ein baskischer Text über die **Jaizkibel Mendizale Taldea**, die Jaizkibel-Bergsteigergruppe.
+
+Hier  den Text nicht nur im baskischen, sondern auch in fünf Sprachen als singbare Übertragung.
+
+**Originaltext auf dem Metallschild:**
+
+_Jaizkibel Mendizale Taldea_  
+_Itsas alde begira zaude …_  
+_Jaizkibel maitea._
+
+### 🇪🇺  **„Singbare Übertragung in 5 Sprachen – erstellt mit ChatGPT“**
+Baskisch · Deutsch · Spanisch · Englisch · Portugiesisch
+
+<details>
+<summary>🇧🇸 Jaizkibel maitea.</summary>
+
+#### 🇧🇸 Jaizkibel Mendizale Taldea
+
+Itsas alde begira zaude,  
+beste alde ikusten da,  
+orain dela berrogei hamar  
+urte behar zen izena.  
+Zure babesean gaude,  
+talde txiki ta jatorra,  
+pausoz pauso ba gabiltza,  
+Jaizkibel maitea.
+
+#### 🇩🇪 Bergsteigergruppe Jaizkibel
+
+
+Du schaust hinaus zum Meere,  
+zur andern Seite hin,  
+schon vor vierzig Jahren  
+trugst du diesen Namen.  
+Unter deinem Schutze  
+sind wir klein und treu,  
+Schritt für Schritt wir wandern,  
+Jaizkibel, geliebter Berg.
+
+### 🇪🇸 Grupo Montañero Jaizkibel
+
+Miras hacia el mar,  
+al otro lado se ve,  
+hace ya cuarenta años  
+ese nombre llevabas.  
+Bajo tu protección  
+somos un grupo fiel,  
+paso a paso caminamos,  
+Jaizkibel, querido monte.
+
+### 🇬🇧 Jaizkibel Mountaineering Group**
+
+You look out towards the sea,  
+to the far side we can see,  
+forty years have now gone by  
+since you bore this name.  
+Under your protection,  
+we are a faithful band,  
+step by step we keep on walking,  
+Jaizkibel, our beloved mountain.
+
+### 🇵🇹 Grupo de Montanhistas Jaizkibel**
+
+Olhas para o mar,  
+para o outro lado além,  
+há quarenta anos já  
+tinhas este nome.  
+Sob a tua proteção,  
+somos um grupo fiel,  
+passo a passo caminhamos,  
+Jaizkibel, querido monte.
+</details>
+
+---
+- **Jaizkibel Mendizale Taldea** 
 
 ![](media/20150728-155255.webp)
+
+
+<details>
+<summary>Jaizkibel Mendizale Taldea</summary>
+
+#### 🇪🇸  **Grupo de Montañeros Jaizkibel**
+
+Mirando hacia el mar estás,  
+al otro lado se puede ver.  
+Hace ya cuarenta años  
+ese era el nombre que tenía.  
+Bajo tu protección estamos,  
+un grupo pequeño y noble.  
+Paso a paso seguimos caminando,  
+querido Jaizkibel.
+
+#### 🇩🇪 Bergsteigergruppe Jaizkibel
+
+Du blickst hinaus zum Meer,  
+auf der anderen Seite kann man es sehen.  
+Vor vierzig Jahren schon  
+war dies der Name.  
+Unter deinem Schutz stehen wir,  
+eine kleine und herzliche Gruppe.  
+Schritt für Schritt gehen wir weiter,  
+geliebter Jaizkibel.
+
+#### 🇬🇧 Jaizkibel Mountaineering Group
+
+You are looking towards the sea,  
+on the other side it can be seen.  
+Forty years ago,  
+that was the name it bore.  
+Under your protection we stand,  
+a small and kind-hearted group.  
+Step by step we keep walking,  
+beloved Jaizkibel.
+
+#### 🇵🇹 Grupo de Montanhistas Jaizkibel
+
+Olhas em direção ao mar,  
+do outro lado pode-se ver.  
+Há quarenta anos,  
+esse era o nome.  
+Sob a tua proteção estamos,  
+um grupo pequeno e unido.  
+Passo a passo seguimos caminhando,  
+querido Jaizkibel.
+</details>
+
 
 ---
 
@@ -178,7 +405,7 @@ Ein Baum volle Leben
 
 ![](media/20150730-142935.webp)
 
-Die erste Etappe des **Camino del Norte von Irun nach San Sebastián** über den Berg **Jaizkibel** gehört landschaftlich zu den spektakulärsten Abschnitten überhaupt. Fast jeder Pilger – ich auch– fotografiert dort das endlose Blau des Atlantiks oder die Steilküste.
+Die erste Etappe des **Camino del Norte von Irun nach San Sebastián** über den Berg **Jaizkibel** gehört landschaftlich zu den spektakulärsten Abschnitten überhaupt. Fast jeder Pilger, ich auch,  fotografiert dort das endlose Blau des Atlantiks oder die Steilküste.
 
 Ich möchte diesem toten Baum – der dennoch vor Leben nur so strotzt – einen **Ehrenplatz** einräumen, weshalb ich die KI gebeten habe, mir eine Beschreibung dieses lebendigen Baumes zu liefern.
 
