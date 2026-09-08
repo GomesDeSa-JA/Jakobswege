@@ -287,9 +287,10 @@ Jetzt habe ich noch einen Pilgerausweis aus dem Jahr 2018, mit vielen leeren Fel
 
 ---
 
-↪ 
+↪ [Etappe-01-bis-03_Irun_San-Sabastian_Zarautz_Deba](Etappe-01-bis-03_Irun_San-Sabastian_Zarautz_Deba.md)
 
-🔁 
+🔁  [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
+
 
 ---
 **←** 🔁 [Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)

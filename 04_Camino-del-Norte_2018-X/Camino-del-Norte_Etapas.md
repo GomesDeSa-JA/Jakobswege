@@ -3,38 +3,39 @@
 ---
 ## Camino del Norte 2015/2018
 
-### As Etapas 
-**28 de Julho de 2015  –  30 de Julho 2015**
+### As Etapas: Irun → Deba
+**28  –  30 de Julho 2015**
+
+#### [Etappe-01-bis-03_Irun_San-Sabastian_Zarautz_Deba](Etappe-01-bis-03_Irun_San-Sabastian_Zarautz_Deba.md)
+
+---
+
+### As Etapas: Deba  →  Colunga (La Isla) 
+**11  –  26 de Maio 2018**
+
+#### [Etappe-04_Ankunft-in-Deba](Etappe-04_Ankunft-in-Deba.md)
+11 de Maio de 2018
+
+Traducción del Sello del Albergue de Peregrinos de Deba:
+Santiagorako Bideen Debako Lagunak
+- Amigos del Camino de Santiago
+- Freunde des Jakobswegs
+- Friends of the Camino to Santiago
+- Amigos do Caminho de Santiago
 
 
 ---
-#### [Die Reise  ⁘  A Viagem](Die_Reise.md)
-24 de Setembro de 2023 
+#### Etappe-04_Deba_Markina-Xemein
+12 de Maio de 2018
 
-Impressionen einer Reise  ⁘ Impresiones de un viaje 
 
-Impressions from a journey  ⁘  Impressões de uma viagem
-
-- **Laguna  →  Gramado**
 
 ---
-25 de Setembro de 2023
-
-- **Gramado**
-
-Não encontrei as fotos 
-
-Eu sei que tirei fotos durante o dia em Gramado. Recordo-me de tirar fotos  dos diferentes tipos de casas "und an die Momente der ganzjährigen und Klischeehaften Weihnachtszeit".
-
-Onde estaram as fotos ?
+#### Etappe-05_Markina-Xemein_
+13 de Maio de 2018
 
 
-
-
-[Etappe-01_03_Irun_San-Deba](Etappe-01_03_Irun_San-Deba.md)
-
-
-
+---
 <details>
 <summary>  </summary>
 🇵🇹
@@ -46,7 +47,9 @@ Onde estaram as fotos ?
 
 ---
 
-↪ 
+↪ [Readme](Readme.md)
+
+↪ [Camino-del-Norte_Credencial-del-Peregrino](Camino-del-Norte_Credencial-del-Peregrino.md)
 
 🔁 
 

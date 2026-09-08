@@ -13,14 +13,14 @@
 
 ![](media/20150728-134900.webp)
 
-
-
 ![](20150728-135811.webp)
+
 ---
 
 ![](media/20150728-140446.webp)
 
-![](20150728-142946.webp)
+
+![](media/20150728-142946.webp)
 
 
 ---
@@ -105,7 +105,6 @@ Und dazwischen immer der Blick auf den Atlantik.
 > Und irgendwo auf diesem Weg erinnert ein kleines Metallschild an die Menschen, die diesen Berg bis heute lieben:
 > 
 > **„Jaizkibel maitea“ – „Geliebter Jaizkibel“.**
-
 
 ---
 
@@ -212,7 +211,7 @@ Jaizkibel maitea.
 
 Du schaust hinaus zum Meere,  
 zur andern Seite hin,  
-schon vor vierzig Jahren  
+schon vor fünfzig Jahren
 trugst du diesen Namen.  
 Unter deinem Schutze  
 sind wir klein und treu,  
@@ -223,7 +222,7 @@ Jaizkibel, geliebter Berg.
 
 Miras hacia el mar,  
 al otro lado se ve,  
-hace ya cuarenta años  
+hace ya cincuenta años  
 ese nombre llevabas.  
 Bajo tu protección  
 somos un grupo fiel,  
@@ -234,7 +233,7 @@ Jaizkibel, querido monte.
 
 You look out towards the sea,  
 to the far side we can see,  
-forty years have now gone by  
+fifty years have now gone by  
 since you bore this name.  
 Under your protection,  
 we are a faithful band,  
@@ -245,7 +244,7 @@ Jaizkibel, our beloved mountain.
 
 Olhas para o mar,  
 para o outro lado além,  
-há quarenta anos já  
+há cinquenta anos já  
 tinhas este nome.  
 Sob a tua proteção,  
 somos um grupo fiel,  
@@ -266,7 +265,7 @@ Jaizkibel, querido monte.
 
 Mirando hacia el mar estás,  
 al otro lado se puede ver.  
-Hace ya cuarenta años  
+Hace ya cincuenta años  
 ese era el nombre que tenía.  
 Bajo tu protección estamos,  
 un grupo pequeño y noble.  
@@ -277,7 +276,7 @@ querido Jaizkibel.
 
 Du blickst hinaus zum Meer,  
 auf der anderen Seite kann man es sehen.  
-Vor vierzig Jahren schon  
+Vor fünfzig Jahren schon  
 war dies der Name.  
 Unter deinem Schutz stehen wir,  
 eine kleine und herzliche Gruppe.  
@@ -288,7 +287,7 @@ geliebter Jaizkibel.
 
 You are looking towards the sea,  
 on the other side it can be seen.  
-Forty years ago,  
+fifty years ago,  
 that was the name it bore.  
 Under your protection we stand,  
 a small and kind-hearted group.  
@@ -299,14 +298,13 @@ beloved Jaizkibel.
 
 Olhas em direção ao mar,  
 do outro lado pode-se ver.  
-Há quarenta anos,  
+Há cincuenta anos,  
 esse era o nome.  
 Sob a tua proteção estamos,  
 um grupo pequeno e unido.  
 Passo a passo seguimos caminhando,  
 querido Jaizkibel.
 </details>
-
 
 ---
 
@@ -385,14 +383,10 @@ Dieses Foto gehört zu meinen Lieblingsbildern, und wenn ich es betrachte, fühl
 This photograph is one of my favourites, and when I look at it, I feel at ease; yet it captures a mere microsecond, and much of what is happening in this place remains hidden in space and time.
 </details>
 
-
-Text links, Bild rechts
-    <img src="![](media/20150728-165019.webp)" align="right" width="250" style="margin-left: 15px;">
-    Hier steht Ihr Text, der links vom Bild angezeigt wird.
-    <br clear="right" />
-
+---
 ![](media/20150728-173052.webp)
-Kurz vor San Juan
+
+Es ist 17:30 als dieses Foto gemacht worden ist und  ich wurde sagen San Juan ist nicht mehr weit.
 
 ---
 - **30 Juli 2015**
@@ -469,7 +463,7 @@ Neben den Austernseitlingen siedeln sich unzählige andere Organismen an:
 
 ↪ 
 
- 🔁 
+ 🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  
 
  ...→
