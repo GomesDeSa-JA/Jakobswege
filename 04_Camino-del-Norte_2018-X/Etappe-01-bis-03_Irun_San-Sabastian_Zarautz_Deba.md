@@ -1,14 +1,15 @@
 ## Camino del Norte 2015
-
-### Etappe-01:  -  ( Km)
 28 Julho 2015 - 30 de Julho 2018 
 
-
----
+### Etappe-01: Irun  - San Sebastian (24,7 km)
 28 Juli 2015
+
+Blick auf Hondarribia-(Irún) und Hendaye
 
 ![](media/20150728-132653.webp)
 
+
+ **Santuario de Guadalupe**
  ![](media/20150728-134128.webp)
 
 ![](media/20150728-134900.webp)
@@ -18,7 +19,6 @@
 ---
 
 ![](media/20150728-140446.webp)
-
 
 ![](media/20150728-142946.webp)
 
@@ -386,10 +386,19 @@ This photograph is one of my favourites, and when I look at it, I feel at ease; 
 ---
 ![](media/20150728-173052.webp)
 
-Es ist 17:30 als dieses Foto gemacht worden ist und  ich wurde sagen San Juan ist nicht mehr weit.
+Es waren 17:30 als dieses Foto gemacht worden ist und  ich wurde sagen San Juan ist nicht mehr weit.
 
 ---
-- **30 Juli 2015**
+### Etappe-02: San Sebastian  → Zarautz (21,0 km)
+**29 Juli 2015**
+
+- -
+- - 
+- 
+
+---
+### Etappe-03: Zarautz → Deba (21,0 km)
+**30 Juli 2015**
 
 Ein Baum volle Leben  
 

@@ -9,7 +9,6 @@
 #### [Etappe-01-bis-03_Irun_San-Sabastian_Zarautz_Deba](Etappe-01-bis-03_Irun_San-Sabastian_Zarautz_Deba.md)
 
 ---
-
 ### As Etapas: Deba  →  Colunga (La Isla) 
 **11  –  26 de Maio 2018**
 
@@ -17,7 +16,8 @@
 11 de Maio de 2018
 
 Traducción del Sello del Albergue de Peregrinos de Deba:
-Santiagorako Bideen Debako Lagunak
+
+***Santiagorako Bideen Debako Lagunak***
 - Amigos del Camino de Santiago
 - Freunde des Jakobswegs
 - Friends of the Camino to Santiago
@@ -25,17 +25,23 @@ Santiagorako Bideen Debako Lagunak
 
 
 ---
-#### Etappe-04_Deba_Markina-Xemein
+#### [Etappe-04_Deba_Markina-Xemein](Etappe-04_Deba_Markina-Xemein.md)
 12 de Maio de 2018
 
 
-
 ---
-#### Etappe-05_Markina-Xemein_
+#### [Etappe-05_Markina-Xemein_Elexalde-Mendata](Etappe-05_Markina-Xemein_Elexalde-Mendata.md)
 13 de Maio de 2018
 
 
+
 ---
+#### Etappe-06_Mendeta_
+14 de Maio de 2018
+
+
+---
+
 <details>
 <summary>  </summary>
 🇵🇹

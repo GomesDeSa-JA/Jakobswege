@@ -23,7 +23,15 @@ Foram mais de 10 segundos, mas permiti-me este tempo.
 Es waren mehr als 10 Sekunden, aber ich habe mir diese Zeit gegönnt
 
 ---
+
 #### **„Egun on! Ongi etorri Euskal Herrira“**
+
+<details>
+<summary> Ongi etorri </summary>
+
+
+
+
 
 - **Egun on!**: Guten Morgen! _(wörtlich: „Guten Tag!“)_
 - **Ongi etorri**: Willkommen
@@ -34,9 +42,6 @@ Die **Aussprache-Hilfe** für das Deutsche:
 - **Egun on!** → _Eh-gun on!_ (Das „g“ wie im Deutschen; die Betonung liegt auf der jeweils letzten Silbe: eh-**GUN** **ON**)
 - **Ongi etorri** → _On-gi eh-tor-ri_ (Das „g“ wie in „Garten“, kein „dsch“-Laut. Das „r“ wird leicht gerollt)
 - **Euskal Herrira** → _E-us-kal-ia Heh-ri-ra_ (Das „H“ wird im Baskischen meistens **nicht** gesprochen, es klingt also wie _Eh-ri-ra_. Das doppelte „rr“ wird kräftig gerollt)
-
-![](media/20180511-094948.webp)
-
 
 Nützliche Begrüßungen und Redewendungen für unterwegs im Baskenland, inklusive einer einfachen Aussprachehilfe:
 
@@ -57,6 +62,10 @@ Nützliche Begrüßungen und Redewendungen für unterwegs im Baskenland, inklusi
 - **Agur!** → _Ah-gur!_ (**Tschüss! / Auf Wiedersehen!**)
 - **Gero arte!** → _Geh-ro ar-teh!_ (**Bis später!**)
 - **Egun ona izan!** → _Eh-gun o-na i-than!_ (Schönen Tag noch!)
+</details>
+
+
+![](media/20180511-094948.webp)
 
 
 ![](media/20180511-095000.webp)
@@ -67,7 +76,7 @@ Nützliche Begrüßungen und Redewendungen für unterwegs im Baskenland, inklusi
 <details>
 <summary> 🇪🇸  2018 vs 2024 </summary>
 
-🇪🇸 Ese 11 de mayo de 2018, desde mi llegada hasta la apertura del albergue, disfruté de los momentos tranquilos y soleados en el parque y, a continuación, me recibió un «hospitalero» voluntario.
+Ese 11 de mayo de 2018, desde mi llegada hasta la apertura del albergue, disfruté de los momentos tranquilos y soleados en el parque y, a continuación, me recibió un «hospitalero» voluntario.
 
 En 2024 fuimos directamente al albergue, pero ese año los trámites de registro habían cambiado, sobre todo debido a la ausencia de «hospitaleros» voluntarios. Los sellos, las fundas de almohada y las fundas de cojín se recogen en la oficina de turismo. 
 
@@ -92,7 +101,7 @@ Deba es una pequeña y bonita ciudad cuyo centro se puede recorrer cómodamente 
 <details>
 <summary>Al amanecer </summary>
 
-En el año 2024, estábamos buscando el camino correcto hacia Markina-Xemein cuando, aquella oscura mañana, una amable señora de Deba interrumpió su camino al trabajo para acompañarnos un trecho y indicarnos el camino correcto.
+>_En el año 2024, estábamos buscando el camino correcto hacia Markina-Xemein cuando, aquella oscura mañana, una amable señora de Deba interrumpió su camino al trabajo para acompañarnos un trecho y indicarnos la senda correcta._
 </details>
 
 </details>
@@ -101,7 +110,7 @@ En el año 2024, estábamos buscando el camino correcto hacia Markina-Xemein cua
 <details>
 <summary> 🇵🇹   2018 vs 2024 </summary>
 
-🇵🇹 Neste dia 11 de maio de 2018, desde a minha chegada até à abertura do albergue, aproveitei os momentos tranquilos e ensolarados no parque e fui depois recebido por um «hospitalero» voluntário.
+Neste dia 11 de maio de 2018, desde a minha chegada até à abertura do albergue, aproveitei os momentos tranquilos e ensolarados no parque e fui depois recebido por um «hospitalero» voluntário.
 
 Em 2024, também fomos diretamente para o albergue, mas as formalidades de registo tinham mudado este ano, sobretudo devido à ausência de «hospitaleros» voluntários. Os carimbos, as fronhas e as capas de almofada são entregues no posto de informação turística. 
 
@@ -124,9 +133,9 @@ O esforço dos 3 km na cidade é cansativo e  deixa-nos de alguma forma exaustos
 Deba é uma pequena e bonita cidade, cujo centro pode ser facilmente visitado a pé; quase toda a gente se conhece e, se te perderes a caminho do posto de informação turística, basta perguntar às pessoas simpáticas, que terão todo o gosto em ajudar-te.
 
 <details>
-<summary> Ao raiar do dia  </summary>
+<summary>**Ao raiar do dia**</summary>
 
-No ano de 2024, estávamos à procura do caminho certo para Markina-Xemein, quando, naquela manhã escura, uma senhora simpática de Deba interrompeu o seu caminho para o trabalho para nos acompanhar um pouco e indicar-nos o caminho certo.
+>_No ano de 2024, estávamos à procura do caminho certo para Markina-Xemein, quando, naquela manhã escura, uma senhora simpática de Deba interrompeu o seu caminho para o trabalho para nos acompanhar um pouco e indicar-nos o trilho certo._
 </details>
 
 </details>
@@ -135,7 +144,7 @@ No ano de 2024, estávamos à procura do caminho certo para Markina-Xemein, quan
 <details>
 <summary> 🇬🇧  2018 vs 2024 </summary>
 
-🇬🇧 On 11 May 2018, from the moment I arrived until the hostel opened, I made the most of the peaceful, sunny moments in the park and was then welcomed by a volunteer ‘hospitalero’.
+On 11 May 2018, from the moment I arrived until the hostel opened, I made the most of the peaceful, sunny moments in the park and was then welcomed by a volunteer ‘hospitalero’.
 
 In 2024, we went straight to the hostel, but the registration procedures had changed this year, mainly due to the absence of volunteer ‘hospitaleros’. The stamps, pillowcases and cushion covers are handed out at the tourist information centre. 
 
@@ -155,10 +164,11 @@ The effort of the 3 km in the city is tiring and  leaves us feeling somewhat exh
 ##### Don't worry
 
 Deba is a small, pretty town whose centre is within easy walking distance; almost everyone knows everyone else, and if you get lost on your way to the tourist information centre, just ask the friendly locals – they’ll be happy to help you. 
-<details>
 
-<summary> At dawn </summary>
-In 2024, we were trying to find the right way to Markina-Xemein when, on that dark morning, a friendly lady from Deba stopped on her way to work to walk with us for a while and show us the right way.
+<details>
+<summary> **At Dawn** </summary>
+
+> _"In 2024, we were trying to find the way to Markina-Xemein when a friendly lady from Deba stopped on her way to work. She walked with us for a while to show us the right path."_
 </details>
 
 </details>
@@ -167,7 +177,7 @@ In 2024, we were trying to find the right way to Markina-Xemein when, on that da
 <details>
 <summary> 🇩🇪 2018 vs 2024 </summary>
 
-🇩🇪 An diesem 11. Mai 2018 genoss ich von meiner Ankunft bis zur Öffnung der Herberge die ruhigen und sonnigen Momente im Park und wurde dann von einem ehrenamtlichen „Hospitalero“ empfangen.
+An diesem 11. Mai 2018 genoss ich von meiner Ankunft bis zur Öffnung der Herberge die ruhigen und sonnigen Momente im Park und wurde dann von einem ehrenamtlichen „Hospitalero“ empfangen.
 
 Im Jahr 2024 gingen wir auch direkt zur Herberge, doch die Anmeldeformalitäten hatten sich in diesem Jahr geändert, vor allem aufgrund des fehlenden ehrenamtlichen „Hospitaleros“. Die Stempel, Kissenbezüge und Kissenhüllen werden an der Touristeninformation ausgehändigt. 
 
@@ -190,11 +200,14 @@ Die Anstrengung der 3 km in der Stadt ist ermüdend und  lässt mich (uns) irgen
 Deba ist eine kleine, schöne Stadt, deren Zentrum bequem zu Fuß zu erreichen ist; fast jeder kennt jeden, und wenn du dich auf dem Weg zur Touristeninformation verirrst, frag einfach die freundlichen Menschen, die dir gerne weiterhelfen werden. 
 
 <details>
-<summary> Im Morgengrauen</summary>
-Im Jahr 2024 waren wir auf der Suche nach dem richtigen Weg nach Markina-Xemein, als an jenem dunklen Morgen eine freundliche Dame aus Deba ihren Weg zur Arbeit unterbrach, um uns ein Stück zu begleiten und uns den richtigen Weg zu weisen.
+<summary>**Im Morgengrauen**</summary>
+
+> _Im Jahr 2024 waren wir auf der Suche nach dem richtigen Weg nach Markina-Xemein, als an jenem dunklen Morgen eine freundliche Dame aus Deba ihren Weg zur Arbeit unterbrach, um uns ein Stück zu begleiten und uns den richtigen Pfad zu zeigen._
 </details>
 
 </details>
+
+
 
 ---
 - **Non dago turistentzako informazio-zentroa?**

@@ -11,7 +11,7 @@ In diesem Repository teile ich meine Fotos, Erfahrungen, Erinnerungen und Eindr�
 Was im Jahr 2015 als logistisches Experiment begann, fand im Jahr 2024 nach vielen unvorhersehbaren Wendungen, Wetterkapriolen und wunderbaren Begegnungen 
  im Jahr 2024 ein erfolgreiches  Ende.
  
-#### 💡 Die Inspiration (2012 & 2014)
+#### Die Inspiration (2012 & 2014)
 
 <details>
 <summary>💡</summary>
@@ -66,12 +66,12 @@ Ich besitze nun immer noch eine unvollständige _Credencial del Peregrino_ aus d
 Lo que comenzó en 2015 como una experiencia logística llegó, en 2024, tras muchos giros impredecibles, caprichos del tiempo y encuentros maravillosos,
 a un final con éxito.
 
-#### 💡 La Inspiración (2012 y 2014)
+#### La Inspiración (2012 y 2014)
 
 <details>
 <summary> 💡</summary>
 
-- **4 de mayo de 2012 (St. Jean Pied de Port):** Escuché hablar del Camino del Norte por primera vez la noche "am Abend" antes de dar mi primer paso para cruzar los Pirineos. Durante un paseo nocturno, conocí a una peregrina suiza que había comenzado su camino en Suiza y me explicó que continuaría desde Irún por el Camino del Norte en lugar del Camino Francés. En aquel momento guardé esa información abstracta en mi memoria, pero la dejé de lado.
+- **4 de mayo de 2012 (St. Jean Pied de Port):** Escuché hablar del Camino del Norte por primera veza a última hora de la tarde antes de dar mi primer paso para cruzar los Pirineos. Durante un paseo nocturno, conocí a una peregrina suiza que había comenzado su camino en Suiza y me explicó que continuaría desde Irún por el Camino del Norte en lugar del Camino Francés. En aquel momento guardé esa información abstracta en mi memoria, pero la dejé de lado.
 
 - **Año 2014:** Mientras realizaba el Camino Mozárabe (Almería → Mérida → Astorga → Santiago de Compostela), volví a escuchar hablar de la belleza del Camino del Norte. La idea de recorrerlo comenzó a materializarse en mi mente.
 
@@ -120,12 +120,12 @@ Welcome to my digital retrospective pilgrimage diary! In this repository, I’m 
 What began in 2015 as a logistical experiment came to a successful conclusion in 2024, after many unforeseen twists and turns, capricious weather and wonderful encounters
  in 2024.
 
-#### 💡 The Inspiration (2012 and 2014)
+#### The Inspiration (2012 and 2014)
 
 <details>
 <summary>💡</summary>
 
-- **May 4, 2012 (St. Jean Pied de Port):** I first heard about the Camino del Norte the evening before taking my very first steps across the Pyrenees. During a night walk, I met a Swiss pilgrim who had started her journey in Switzerland and mentioned she would deviate from the Camino Francés at Irun to walk the Camino del Norte instead. At the time, I stored this information away but didn't pay much closer attention to it.
+- **May 4, 2012 (St. Jean Pied de Port):** I first heard about the Camino del Norte the early evening before taking my very first steps across the Pyrenees. During a night walk, I met a Swiss pilgrim who had started her journey in Switzerland and mentioned she would deviate from the Camino Francés at Irun to walk the Camino del Norte instead. At the time, I stored this information away but didn't pay much closer attention to it.
 
 - **Year 2014:** While walking the Camino Mozárabe (Almería → Mérida → Astorga → Santiago de Compostela), I heard about the beauty of the Camino del Norte once again, and the idea of doing it myself slowly began to take shape.
 
@@ -174,12 +174,12 @@ Bem-vindos ao meu diário digital retrospectivo de peregrinação! Neste reposit
 O que começou em 2015 como uma experiência logística chegou, em 2024, após muitas reviravoltas imprevisíveis, caprichos do tempo e encontros surpreendentes,
 a um final bem-sucedido.
 
-#### 💡 A Inspiração (2012 e 2014)
+####  A Inspiração (2012 e 2014)
  
  <details>
  <summary>💡</summary>
  
-- **4 de maio de 2012 (St. Jean Pied de Port):** Ouvi falar do Camino del Norte pela primeira vez na noite "am Abend"  anterior a dar o meu primeiro passo para cruzar os Pirenéus. Durante um passeio noturno, conheci uma peregrina suíça que tinha começado o seu caminho na Suíça e explicou-me que iria continuar a partir de Irún pelo Camino del Norte, em vez do Caminho Francês. Na altura, guardei essa informação na memória, mas não lhe dei muita atenção.
+- **4 de maio de 2012 (St. Jean Pied de Port):** Ouvi falar do Camino del Norte pela primeira vez no final da tarde anterior a dar o meu primeiro passo para cruzar os Pirenéus. Durante um passeio noturno, conheci uma peregrina suíça que tinha começado o seu caminho na Suíça e explicou-me que iria continuar a partir de Irún pelo Camino del Norte, em vez do Caminho Francês. Na altura, guardei essa informação na memória, mas não lhe dei muita atenção.
 
 - **Ano 2014:** Enquanto fazia o Caminho Moçárabe (Almería → Mérida → Astorga → Santiago de Compostela), ouvi novamente falar da beleza do Camino del Norte, e a ideia de o percorrer começou a materializar-se na minha mente.
 
