@@ -469,8 +469,9 @@ Neben den Austernseitlingen siedeln sich unzählige andere Organismen an:
 </details>
 
 ---
+Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 
-↪ [Etappe-04_Ankunft-in-Deba](Etappe-04_Ankunft-in-Deba.md)
+**↪** [Etappe-04_Ankunft-in-Deba](Etappe-04_Ankunft-in-Deba.md)
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  

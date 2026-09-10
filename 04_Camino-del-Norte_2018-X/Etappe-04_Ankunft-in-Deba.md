@@ -274,6 +274,7 @@ I thought about taking photos with the date, time and location data, but I felt 
 </details>
 
 ---
+Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 
 **↪** [Etappe-04_Deba_Markina-Xemein](Etappe-04_Deba_Markina-Xemein.md)
 

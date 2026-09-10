@@ -57,6 +57,7 @@ A wooden hut here, another one there along the path – that would be lovely for
 </details>
 
 ---
+Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 
 **↪** [Etappe-05_Markina-Xemein_Elexalde-Mendata](Etappe-05_Markina-Xemein_Elexalde-Mendata.md)
 

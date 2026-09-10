@@ -6,7 +6,6 @@
 
 ![](media/20180515-084101.webp)
 
-
 ![](media/20180515-093940.webp)
 
 ![](media/20180515-105238.webp)
@@ -22,7 +21,6 @@
 ![](media/20180515-125334.webp)
 
 ![](media/20180515-131453.webp)
-
 
 ![](media/20180515-131709.webp)
 
@@ -169,8 +167,6 @@ Bilboko Ramón de la Sota Kaian itsas historiaren monumentu bikain bat dago ikus
 ---
 
 ![](media/20180515-144519.webp)
-
-
 
 ![](media/20180515-145222-.webp)
 

@@ -39,6 +39,8 @@ Traducción del Sello del Albergue de Peregrinos de Deba:
 #### [Etappe-06_Elexalde-Mendata_Larrabetzu](Etappe-06_Elexalde-Mendata_Larrabetzu.md)
 15 de Maio de 2018
 
+Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
+
 ---
 #### [Etappe-07_Larrabetzu_Portugalete](Etappe-07_Larrabetzu_Portugalete.md)
 16 de Maio de 2018

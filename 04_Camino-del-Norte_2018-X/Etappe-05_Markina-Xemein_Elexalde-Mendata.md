@@ -756,6 +756,8 @@ Ich habe keine aktuellen oder genaueren Informationen, aber die Albergue "Artape
 </details>
 
 ---
+Satz zwecks Änderungswahrnehmung 
+- Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 
 **↪** [Etappe-06_Elexalde-Mendata_Larrabetzu](Etappe-06_Elexalde-Mendata_Larrabetzu.md)
 
