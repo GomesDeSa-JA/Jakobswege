@@ -732,14 +732,14 @@ Tal como no Caminho de Santiago.
 **The sentence ‘I’d got lost, and an elderly gentleman gave me a lift in his car and put me back on the right track’ was followed by a brief philosophical reflection.**
 
 ---
-![](media/20180513-FinePix%20JZ300-.jpg)
+![](20180513-FinePix-JZ300.jpg)
 Elexalde = „Kirchendorf“
 
 - San Isidoro –**Jaia**– Maiatzak 15 , Meza ostean
 - „San Isidro – Fest am 15. Mai, nach der Messe“
 - San Isidoro –  **A Festa** –  15 de maio, após a missa
 
-![](media/20180513-FinePix%20JZ300-2.webp)
+![](20180513-FinePix-JZ300-2.webp)
 
 ![](media/20180513-153138-x.webp)
 **Artape Aterpetxea:** In dem Jahr 2018 haben wir, die Pilger, hier übernachtet.

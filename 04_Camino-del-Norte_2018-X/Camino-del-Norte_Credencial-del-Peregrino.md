@@ -28,7 +28,7 @@ Tenho que analisar as fotos para saber onde pernoitei
 
 ---
  
-↪ 
+↪ [Readme](Readme.md)
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  

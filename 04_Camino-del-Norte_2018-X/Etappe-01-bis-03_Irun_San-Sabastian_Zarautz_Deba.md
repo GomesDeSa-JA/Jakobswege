@@ -14,7 +14,7 @@ Blick auf Hondarribia-(Irún) und Hendaye
 
 ![](media/20150728-134900.webp)
 
-![](20150728-135811.webp)
+![](media/20150728-135811.webp)
 
 ---
 
@@ -470,7 +470,7 @@ Neben den Austernseitlingen siedeln sich unzählige andere Organismen an:
 
 ---
 
-↪ 
+↪ [Etappe-04_Ankunft-in-Deba](Etappe-04_Ankunft-in-Deba.md)
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  
