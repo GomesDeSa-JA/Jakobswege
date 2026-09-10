@@ -30,15 +30,21 @@
 
 ![](media/20180512-125520.webp)
 
-Bei diesem Wetter:
+- Bei diesem Wetter: Das habe ich mir gewünscht 
 
-- Hier eine Holzhütte, dort eine andere entlang des Weges – das wäre toll, um sich ab und zu auszuruhen.
+Hier eine Holzhütte, dort eine andere entlang des Weges – das wäre toll, um sich ab und zu auszuruhen.
 
-- Aqui uma cabana de madeira, ali outra ao longo do caminho – seria ótimo para descansar de vez em quando.
+- Com este tempo: era isto que eu desejava
 
-- Una cabaña de madera por aquí, otra por allá a lo largo del camino… Sería estupendo para descansar de vez en cuando.
+Aqui uma cabana de madeira, ali outra ao longo do caminho – seria ótimo para descansar de vez em quando.
 
-- A wooden hut here, another one there along the path – that would be lovely for taking a break now and then.
+- Con este tiempo: eso es lo que me había deseado
+
+Una cabaña de madera por aquí, otra por allá a lo largo del camino… Sería estupendo para descansar de vez en cuando.
+
+- In this sort of weather: that’s exactly what I’d hoped for
+
+A wooden hut here, another one there along the path – that would be lovely for taking a break now and then.
 
 ---
 
@@ -52,7 +58,7 @@ Bei diesem Wetter:
 
 ---
 
-↪ 
+**↪** [Etappe-05_Markina-Xemein_Elexalde-Mendata](Etappe-05_Markina-Xemein_Elexalde-Mendata.md)
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  

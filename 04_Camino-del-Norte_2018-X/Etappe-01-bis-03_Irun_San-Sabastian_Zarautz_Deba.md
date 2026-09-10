@@ -108,7 +108,7 @@ Und dazwischen immer der Blick auf den Atlantik.
 
 ---
 
-- Drei Fotos habe ich von diese Ort gemacht, dann fragt man sich warum?
+- Drei Fotos habe ich von diesem Ort gemacht, dann fragt man sich warum?
 - Tirei três fotografias deste local; então, questiona-se: porquê?
 
 ![](media/20150728-150430.webp)

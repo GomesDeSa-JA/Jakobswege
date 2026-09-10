@@ -53,9 +53,9 @@ Traducción del Sello del Albergue de Peregrinos de Deba:
 
 ---
 
-↪ [Readme](Readme.md)
+**↪** [Readme](Readme.md)
 
-↪ [Camino-del-Norte_Credencial-del-Peregrino](Camino-del-Norte_Credencial-del-Peregrino.md)
+**↪** [Camino-del-Norte_Credencial-del-Peregrino](Camino-del-Norte_Credencial-del-Peregrino.md)
 
 🔁 
 

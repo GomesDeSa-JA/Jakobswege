@@ -1,17 +1,14 @@
 ## Camino del Norte  2018
 
-### Etappe-05:  Markina-Xemein → Elexalde Mendata (23,3 Km)
-12  Mai 2018
+### Etappe-05:  Markina-Xemein → Elexalde Mendata (17,6 + 2,4 Km)
+13  Mai 2018
 
-# Elexalde Mendata
+### Elexalde Mendata
 
 - Als ich morgens losfuhr, war mein Ziel Gernika, aber letztendlich blieb ich in Elexalde Mendata
 - When I set off in the morning, my destination was Gernika, but in the end I stayed in Elexalde Mendata
 - Quando parti de manhã, o meu destino era Gernika, mas no final, fiquei em Elexalde Mendata
 - Cuando salí por la mañana, mi destino era Gernika, pero al final me quedé en Elexalde Mendata
-
-**Artape Aterpetxea:** In dem Jahr 2018 haben wir, die Pilger, hier übernachtet.
-Ich habe keine aktuellen oder genaueren Informationen, aber die Albergue "Artape Aterpetxea, Elejalde, 7, 48382, Biscay, Spanien" existiert nicht mehr. Jetzt wird nur der Restaurant "Artape Jatetxea" betrieben.
 
 ---
 
@@ -32,13 +29,15 @@ Ich habe keine aktuellen oder genaueren Informationen, aber die Albergue "Artape
 ![](media/20180513-121827.webp)
 
 ---
-- Elexalde Mendata
+
+
+- Udal Probalekua →  Elexalde Mendata (1,6Km)
 
 ![](media/20180513-143138.webp)
 
 
 <details>
-<summary> 🇩🇪  Markina-Xemein – Elexalde Mendata: Ein Tag, der in Erinnerung bleibt  </summary>
+<summary> 🇩🇪 Markina-Xemein – Elexalde Mendata: Ein Tag, der in Erinnerung bleibt  </summary>
 
 #### - Markina-Xemein – Elexalde Mendata: Erinnerungen an einen Wandertag
 
@@ -90,7 +89,7 @@ Es gab Tage, an denen ich die Nacht allein in einer Herberge verbracht habe, ohn
 
 ---
 <details>
-<summary> Erinnerungen und kleine Beobachtungen </summary>
+<summary>🇩🇪 Erinnerungen und kleine Beobachtungen </summary>
 
 #### Weitere Themen dieses Abends
 
@@ -129,7 +128,7 @@ Dennoch habe ich mir diesen Satz gemerkt und versucht, mich daran zu orientieren
 ---
 
 <details>
-<summary>  Erinnerungen und kleine Beobachtungen –ChatGPT-Version–  </summary>
+<summary> 🇩🇪 Erinnerungen und kleine Beobachtungen –ChatGPT-Version–  </summary>
 
 #### Weitere Themen dieses Abends
 
@@ -258,14 +257,15 @@ Hubo días en los que pasé la noche solo en un albergue, sin que esos lugares t
 
 Así es nuestra memoria: algunas impresiones están siempre a mano; otras necesitan un estímulo, como una palabra, un olor, una nota u otro elemento, y un contexto para que puedan salir de su estado oculto y volver a nuestra memoria.  
 
+---
 <details>
-<summary> Recuerdos y pequeñas observaciones </summary>
+<summary> 🇪🇸 Recuerdos y pequeñas observaciones </summary>
 
 #### Otros temas de aquella noche
 
 ##### 1. Las diferentes culturas gastronómicas
 
-Muchas cosas se han ido homogeneizando. Sin embargo, un año después, en Coimbra, cerca de Santa Clara, sentí esta diferencia con mucha intensidad cuando recorrí el Camino de Santiago desde Santiago de Compostela hasta Fátima.
+Muchas cosas se han ido homogeneizando. Sin embargo, un año después, en Coimbra, cerca de Santa Clara, sentí esta diferencia con mucha intensidad  cuando realicé la ruta de peregrinación de Santiago de Compostela a Fátima.
 
 Todavía recuerdo muy bien aquel día. Más adelante describiré esta peregrinación con mayor detalle.
 
@@ -295,8 +295,9 @@ La tecnología nos ayuda, pero al mismo tiempo también determina nuestro ritmo.
 
 Aun así, me quedé con aquella frase en la memoria e intenté orientarme por ella.
 
+---
 <details>
-<summary> Recuerdos y pequeñas observaciones –ChatGPT-Version–  </summary>
+<summary>🇪🇸 Recuerdos y pequeñas observaciones –ChatGPT-Version–  </summary>
 
 #### Otros temas de aquella noche
 
@@ -425,8 +426,9 @@ There were days when I spent the night alone in a hostel; by human standards, th
 
 That is how our memory works: some impressions are always close at hand; others need a trigger – such as a word, a smell, a note or some other element – and a context, so that they can emerge from their hidden state and return to our memory.  
 
+---
 <details>
-<summary>Memories and Small Observations  </summary>
+<summary>🇬🇧 Memories and Small Observations  </summary>
 
 #### Other Topics Discussed That Evening
 
@@ -462,8 +464,9 @@ Technology certainly helps us, but at the same time it also determines our rhyth
 
 Nevertheless, I remembered that sentence and tried to use it as a guide.
 
+---
 <details>
-<summary> Memories and Small Observations –ChatGPT-Version  </summary>
+<summary> 🇬🇧 Memories and Small Observations –ChatGPT-Version  </summary>
 
 #### Other Topics That Evening
 
@@ -593,15 +596,15 @@ Houve dias em que passei a noite sozinho num albergue, sem que esses locais foss
 
 É assim que funciona a nossa memória: algumas impressões estão sempre à mão; outras precisam de um estímulo, como uma palavra, um cheiro, um bilhete ou outro elemento, e de um contexto, para que possam emergir do seu estado oculto e regressar à nossa memória.  
 
-
+---
 <details>
-<summary>  Memórias e pequenas observações </summary>
+<summary> 🇵🇹 Memórias e pequenas observações </summary>
 
 #### Outros temas daquela noite
 
 #### 1. As diferentes culturas gastronómicas
 
-Muitas coisas foram-se uniformizando. No entanto, um ano mais tarde, em Coimbra, perto de Santa Clara, senti essa diferença de forma muito intensa, quando percorri o Caminho de Santiago, de Santiago de Compostela até Fátima.
+Muitas coisas foram-se uniformizando. No entanto, um ano mais tarde, em Coimbra, perto de Santa Clara, senti essa diferença,  quando fiz a peregrinação de Santiago de Compostela a Fátima.
 
 Ainda me lembro muito bem daquele dia. Mais tarde, descreverei esta peregrinação com mais pormenor.
 
@@ -631,8 +634,9 @@ A tecnologia ajuda-nos, mas, ao mesmo tempo, também determina o nosso ritmo. E 
 
 Ainda assim, guardei aquela frase na memória e tentei orientar-me por ela.
 
+---
 <details>
-<summary>Memórias e pequenas observações  –Versão-ChatGPT– </summary>
+<summary>🇵🇹 Memórias e pequenas observações  –Versão-ChatGPT– </summary>
 
 #### Outros temas daquela noite
 
@@ -711,25 +715,39 @@ Tal como no Caminho de Santiago.
 ---
 🇩🇪 Noch unterwegs war das erste Thema die Hilfsbereitschaft der Menschen auf dem Weg, aber zu diesem Thema würde ich gerne ein ganzes Buch schreiben. Wer weiß, vielleicht habe ich ja noch genug Energie und Zeit, um damit anzufangen.
 
-Auf den Satz „Ich hatte mich verlaufen, und ein älterer Herr nahm mich in seinem Auto mit und brachte mich auf den richtigen Weg“ folgte eine kleine philosophische Betrachtung.
+**Auf den Satz „Ich hatte mich verlaufen, und ein älterer Herr nahm mich in seinem Auto mit und brachte mich auf den richtigen Weg“ folgte eine kleine philosophische Betrachtung.**
 
 ---
-🇵🇹 Ainda durante a caminhada, o primeiro tema foi a boa vontad das pessoas  ajudar ao longo do caminho, mas sobre este tema gostaria de escrever um livro inteiro. Quem sabe, talvez ainda tenha energia e tempo suficientes para começar.
+🇵🇹 Ainda durante a caminhada, o primeiro tema foi a boa vontade das pessoas  ajudar ao longo do caminho, mas sobre este tema gostaria de escrever um livro inteiro. Quem sabe, talvez ainda tenha energia e tempo suficientes para começar.
 
-À frase «Tinha-me perdido e um senhor idoso deu-me boleia no seu carro e levou-me ao caminho certo» seguiu-se uma pequena reflexão filosófica.
+**À frase «Perdi-me e um senhor idoso deu-me boleia no seu carro e levou-me ao caminho certo» seguiu-se uma pequena reflexão filosófica.**
 
 ---
 🇪🇸 Mientras aún estaba de camino, el primer tema fue la buena disposición de la gente a ayudar, pero sobre este tema me gustaría escribir un libro entero. Quién sabe, quizá aún me quede suficiente energía y tiempo para ponerme con ello.
 
-A la frase «Me había perdido y un señor mayor me llevó en su coche y me indicó el camino correcto» le siguió una pequeña reflexión filosófica.
+**A la frase «Me había perdido y un señor mayor me llevó en su coche y me indicó el camino correcto» le siguió una pequeña reflexión filosófica.**
 
 ---
 🇬🇧 Whilst I was still on the road, the first topic was how helpful people were along the way, but I’d love to write a whole book on that subject. Who knows, perhaps I’ll still have enough energy and time to get started on it.
 
-The sentence ‘I’d got lost, and an elderly gentleman gave me a lift in his car and put me back on the right track’ was followed by a brief philosophical reflection.
+**The sentence ‘I’d got lost, and an elderly gentleman gave me a lift in his car and put me back on the right track’ was followed by a brief philosophical reflection.**
 
 ---
+![](media/20180513-FinePix%20JZ300-.jpg)
+Elexalde = „Kirchendorf“
 
+- San Isidoro –**Jaia**– Maiatzak 15 , Meza ostean
+- „San Isidro – Fest am 15. Mai, nach der Messe“
+- San Isidoro –  **A Festa** –  15 de maio, após a missa
+
+![](media/20180513-FinePix%20JZ300-2.webp)
+
+![](media/20180513-153138-x.webp)
+**Artape Aterpetxea:** In dem Jahr 2018 haben wir, die Pilger, hier übernachtet.
+Ich habe keine aktuellen oder genaueren Informationen, aber die Albergue "Artape Aterpetxea, Elejalde, 7, 48382, Biscay, Spanien" existiert nicht mehr. Jetzt wird nur der Restaurant "Artape Jatetxea" betrieben.
+
+
+---
 <details>
 <summary>  </summary>
 🇬🇧
@@ -740,7 +758,7 @@ The sentence ‘I’d got lost, and an elderly gentleman gave me a lift in his c
 
 ---
 
-↪ 
+**↪** 
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  

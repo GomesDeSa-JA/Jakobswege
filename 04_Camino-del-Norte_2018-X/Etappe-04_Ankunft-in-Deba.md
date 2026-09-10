@@ -275,7 +275,7 @@ I thought about taking photos with the date, time and location data, but I felt 
 
 ---
 
-↪ 
+**↪** 
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
   

@@ -232,7 +232,7 @@ Comecei-o em 2015 e terminei-o em 2024.
 
 A primeira vez que ouvi falar do Caminho do Norte foi na tarde de 4 de maio de 2012, em Saint-Jean-de-Port, ainda antes de dar o meu primeiro passo para atravessar os Pirenéus. 
 
-Depois de o posto de informação turística de Saint-Jean-Pied-de-Port nos ter arranjado um alojamento, dei uma volta pela pequena cidade. Durante este passeio ao final da tarde, conheci uma peregrina da Suíça e fiquei a saber que ela tinha começado a sua viagem na Suíça. Quando iniciei o meu primeiro Caminho de Santiago, estava tão concentrado em mim próprio que nem sequer me apercebi do grande feito que isso representava.
+Depois de o posto de informação turística de Saint-Jean-Pied-de-Port nos ter arranjado um alojamento, dei uma volta pela pequena cidade. Durante este passeio no final da tarde, conheci uma peregrina da Suíça e fiquei a saber que ela tinha começado a sua viagem na Suíça. Quando iniciei o meu primeiro Caminho de Santiago, estava tão concentrado em mim próprio que nem sequer me apercebi do grande feito que isso representava.
 
 Ela estava um pouco abalada e acho que era devido a uma constipação que ainda não tinha curado completamente. Durante a conversa sobre a etapa que nos esperava, descobri que ela iria continuar o seu caminho em Irun e que não iria fazer o Caminho Francês, mas sim desviar-se para o Caminho do Norte. 
 
@@ -287,7 +287,7 @@ Jetzt habe ich noch einen Pilgerausweis aus dem Jahr 2018, mit vielen leeren Fel
 
 ---
 
-↪ [Etappe-01-bis-03_Irun_San-Sabastian_Zarautz_Deba](Etappe-01-bis-03_Irun_San-Sabastian_Zarautz_Deba.md)
+**↪** [Etappe-01-bis-03_Irun_San-Sabastian_Zarautz_Deba](Etappe-01-bis-03_Irun_San-Sabastian_Zarautz_Deba.md)
 
 🔁  [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
 
