@@ -11,8 +11,7 @@
 - Cuando salí por la mañana, mi destino era Gernika, pero al final me quedé en Elexalde Mendata
 
 ---
-
-![](media/20180513-081319.webp)
+![](media/20180513-081344_Markina-Xemein.webp)
 
 ![](media/20180513-102327.webp)
 
@@ -758,7 +757,7 @@ Ich habe keine aktuellen oder genaueren Informationen, aber die Albergue "Artape
 
 ---
 
-**↪** 
+**↪** [Etappe-06_Elexalde-Mendata_Larrabetzu](Etappe-06_Elexalde-Mendata_Larrabetzu.md)
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  

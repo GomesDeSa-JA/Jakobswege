@@ -36,8 +36,12 @@ Traducción del Sello del Albergue de Peregrinos de Deba:
 
 
 ---
-#### Etappe-06_Mendeta_
-14 de Maio de 2018
+#### [Etappe-06_Elexalde-Mendata_Larrabetzu](Etappe-06_Elexalde-Mendata_Larrabetzu.md)
+15 de Maio de 2018
+
+---
+#### [Etappe-07_Larrabetzu_Portugalete](Etappe-07_Larrabetzu_Portugalete.md)
+16 de Maio de 2018
 
 
 ---
