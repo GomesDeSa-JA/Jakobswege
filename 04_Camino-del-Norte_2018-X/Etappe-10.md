@@ -105,7 +105,7 @@ Suponho que aqui venha a ser aberto um albergue e, assim, a «Ermita de San Mame
 
 - **Ermita de San Mamés**
 
-![](Pasted%20image%2020260911153424.png)
+![](media/20260911153424.webp)
 
 > _Vielleicht stand dieser Baum schon dort, als Álvaro Santamaría Wilson im Jahr 1805 den Weg nach Laredo ging._
 
@@ -182,6 +182,7 @@ How many times have I wished that a companion like that would carry my backpack
 ![](media/20180518-162525.webp)
 
 ![](media/20180518-162901.webp)
+
 ---
 <details>
 <summary>  </summary>

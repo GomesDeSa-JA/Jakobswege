@@ -363,7 +363,7 @@ Even today, I can remember that moment with complete clarity, as if it had happe
 
 - **Albergue Bide Ona em Portugalete**
 
-![](Albergue-Bide-One.webp)
+![](media/Albergue-Bide-One.webp)
 
 ---
 <details>
