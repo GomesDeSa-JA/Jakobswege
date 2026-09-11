@@ -33,20 +33,88 @@ Traducción del Sello del Albergue de Peregrinos de Deba:
 #### [Etappe-05_Markina-Xemein_Elexalde-Mendata](Etappe-05_Markina-Xemein_Elexalde-Mendata.md)
 13 de Maio de 2018
 
-
-
 ---
 #### [Etappe-06_Elexalde-Mendata_Larrabetzu](Etappe-06_Elexalde-Mendata_Larrabetzu.md)
-15 de Maio de 2018
+14 de Maio de 2018
 
 Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 
 ---
 #### [Etappe-07_Larrabetzu_Portugalete](Etappe-07_Larrabetzu_Portugalete.md)
+15 de Maio de 2018
+
+
+---
+#### [Etappe-08_Portugalete_Pubeña](Etappe-08_Portugalete_Pubeña.md)
 16 de Maio de 2018
 
 
 ---
+#### [Etappe-09](Etappe-09.md)
+17 de Maio de 2018
+
+---
+#### [Etappe-10](Etappe-10.md)
+18 de Maio de 2018
+
+
+---
+#### [Etappe-11](Etappe-11.md)
+19 de Maio de 2018
+
+
+---
+#### [Etappe-12](Etappe-12.md)
+20 de Maio de 2018
+
+
+---
+#### [Etappe-13](Etappe-13.md)
+21 de Maio de 2018
+
+
+---
+#### [Etappe-14](Etappe-14.md)
+22 de Maio de 2018
+
+
+---
+#### [Etappe-15](Etappe-15.md)
+23 de Maio de 2018
+
+
+---
+#### [Etappe-16](Etappe-16.md)
+24 de Maio de 2018
+
+
+---
+#### [Etappe-17](Etappe-17.md)
+25 de Maio de 2018
+
+
+---
+
+#### [Etappe-18](Etappe-18.md)
+28 de Maio de 2018
+
+
+---
+
+#### [Etappe-19](Etappe-19.md)
+DD de MMMM de 20xx
+
+
+---
+
+---
+
+---
+
+
+
+
+
 
 <details>
 <summary>  </summary>

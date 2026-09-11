@@ -59,7 +59,7 @@ Más o menos a partir de aquí hay que pensar en desviarse hacia el Albergue de 
 
 #### Die Legende der Vendée Globe 1992/1993
 
-Am Kai Ramón de la Sota Kaia in Bilbao liegt ein geschichtsträchtiges Denkmal der Segelgeschichte: die BBK Euskadi Europa  Mit dieser 60-Fuß-Aluminiumjacht bestritt der baskische Seemann José Luis Ugarte (1928–2008) im Alter von 64 Jahren die _Vendée Globe 1992/1993_ – die härteste Einhand-Regatta der Welt: nonstop, allein und ohne fremde Hilfe um den Globus Itsasmuseum Bilbao. Obwohl er das Rennen nicht gewann, wurde sein 6. Platz wie ein historischer Sieg gefeiert . Von 14 gestarteten Booten erreichten damals sturmbedingt nur 7 das Ziel Foro Sony Alpha.
+Am Kai Ramón de la Sota Kaia in Bilbao liegt ein geschichtsträchtiges Denkmal der Segelgeschichte: die BBK Euskadi Europa  Mit dieser 60-Fuß-Aluminiumjacht bestritt der baskische Seemann José Luis Ugarte (1928–2008) im Alter von 64 Jahren die _Vendée Globe 1992/1993_ – die härteste Einhand-Regatta der Welt: nonstop, allein und ohne fremde Hilfe um den Globus "Itsasmuseum Bilbao". Obwohl er das Rennen nicht gewann, wurde sein 6. Platz wie ein historischer Sieg gefeiert . Von 14 gestarteten Booten erreichten damals sturmbedingt nur 7 das Ziel Foro Sony Alpha.
 
 > #### Extremsituationen auf See
 > 
@@ -107,7 +107,7 @@ En el muelle Ramón de la Sota Kaia de Bilbao descansa un auténtico monumento d
 
 #### The Legend of the 1992/1993 Vendée Globe
 
-Moored at the Ramón de la Sota Kaia in Bilbao is a legendary vessel of modern maritime history: the BBK Euskadi Europa Itsasmuseum Bilbao. In this 60-foot aluminum racing yacht, the Basque sailor José Luis Ugarte (1928–2008), at the age of 64, took part in the _1992/1993 Vendée Globe_ RCMA-RSC – the ultimate single-handed, non-stop round-the-world race without assistance Itsasmuseum Bilbao. While he did not win, his 6th-place finish was celebrated as an incredible triumph 24h-en-Piste. Due to extreme weather, only 7 out of 14 competing boats managed to reach the finish line Foro Sony Alpha.
+Moored at the Ramón de la Sota Kaia in Bilbao is a legendary vessel of modern maritime history: the BBK Euskadi Europa Itsasmuseum Bilbao. In this 60-foot aluminum racing yacht, the Basque sailor José Luis Ugarte (1928–2008), at the age of 64, took part in the _1992/1993 Vendée Globe_ RCMA-RSC – the ultimate single-handed, non-stop round-the-world race without assistance "Itsasmuseum Bilbao". While he did not win, his 6th-place finish was celebrated as an incredible triumph 24h-en-Piste. Due to extreme weather, only 7 out of 14 competing boats managed to reach the finish line Foro Sony Alpha.
 
 >#### Extreme Situations at Sea
 > 
@@ -127,7 +127,6 @@ Moored at the Ramón de la Sota Kaia in Bilbao is a legendary vessel of modern m
 
 <details>
 <summary>José Luis Ugarte, uma lenda </summary>
-
 
 #### A Lenda da Vendée Globe 1992/1993
 
@@ -224,7 +223,7 @@ Este percurso de cerca de 28 km não foi o mais longo da minha vida, mas aquele 
 <details>
 <summary> 🇪🇸 Bilbao era mi destino </summary>
 
-#### No era así como estaba planeado – 
+#### No era así como estaba planeado 
 
 Cuando salí a caminar por la mañana, tenía un plan completamente diferente. Pero las cosas interesantes que iba encontrando a lo largo del paseo junto al río me fueron distrayendo y, casi sin darme cuenta, seguí caminando.
 
@@ -361,6 +360,11 @@ Even today, I can remember that moment with complete clarity, as if it had happe
 
 </details>
 
+
+- **Albergue Bide Ona em Portugalete**
+
+![](Albergue-Bide-One.webp)
+
 ---
 <details>
 <summary>  </summary>
@@ -371,7 +375,7 @@ Even today, I can remember that moment with complete clarity, as if it had happe
 </details>
 ---
 
-**↪** 
+**↪** [Etappe-08_Portugalete_Pubeña](Etappe-08_Portugalete_Pubeña.md)
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  

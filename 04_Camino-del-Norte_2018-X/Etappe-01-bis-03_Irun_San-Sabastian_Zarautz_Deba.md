@@ -390,11 +390,37 @@ Es waren 17:30 als dieses Foto gemacht worden ist und  ich wurde sagen San Juan 
 
 ---
 ### Etappe-02: San Sebastian  → Zarautz (21,0 km)
-**29 Juli 2015**
+**29 Juli 2015** (?)
 
-- -
-- - 
-- 
+🇩🇪 Ich habe noch mehr Fotos von diesen Wanderwegen. Leider kann ich die Fotos nicht mehr so einfach den Wanderwegen zuordnen, da sich beim Austausch des Akkus und der SD-Karte sowohl die Uhrzeit als auch die Nummerierung geändert haben.
+
+Aber ich erinnere mich noch genau an diese Fotos. Als ich in Zarautz ankam, setzte ich mich hin und genoss einfach dieses Spektakel.
+
+![](DSCF7044-FinePix-JZ300.webp)
+
+🇪🇸 Tengo más fotos de estas rutas de senderismo. Por desgracia, ya no puedo relacionar las fotos con las rutas tan fácilmente, ya que al cambiar la batería y la tarjeta SD se modificaron tanto la hora como la numeración.
+
+Pero aún recuerdo perfectamente esas fotos. Cuando llegué a Zarautz, me senté y simplemente disfruté de aquel espectáculo.
+
+![](DSCF7040-FinePix-JZ300.webp)
+
+![](DSCF7048-FinePix-JZ300.webp)
+
+ 🇵🇹  Tenho mais fotos destes percursos de caminhada. Infelizmente, já não consigo associar as fotos aos percursos com tanta facilidade, pois, ao trocar a bateria e o cartão SD, tanto a hora como a numeração mudaram.
+
+Mas ainda me lembro perfeitamente destas fotos. Quando cheguei a Zarautz, sentei-me e limitei-me a apreciar aquele espetáculo.
+![](DSCF7049-FinePix-JZ300.webp)
+
+🇬🇧 I’ve got some more photos of these walking trails. Unfortunately, I can’t easily match the photos to the trails anymore, as both the time and the numbering changed when I swapped the battery and the SD card.
+
+But I still remember these photos very clearly. When I arrived in Zarautz, I sat down and simply took in the spectacular view.
+
+![](DSCF7050-FinePix-JZ300.webp)
+
+
+![](DSCF7053-FinePix-JZ300.webp)
+
+
 
 ---
 ### Etappe-03: Zarautz → Deba (21,0 km)

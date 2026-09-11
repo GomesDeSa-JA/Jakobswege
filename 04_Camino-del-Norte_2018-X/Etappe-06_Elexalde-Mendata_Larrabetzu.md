@@ -45,7 +45,7 @@ In der Herberge Larrabetzu habe ich mich sehr wohl gefühlt; es ist nicht viel p
 Was mir besonders gefallen hat, war die Erinnerung an meinen Schlafplatz mit Blick nach draußen.
 
 ![](media/Larrabetzu.webp)
-Googlemaps-Foto
+Googlemaps-Foto: Albergue de Larrabetzu
 
 No albergue Larrabetzu senti-me muito bem; não aconteceu grande coisa.
 O que mais gostei foi a recordação do meu lugar para dormir, com vista para o exterior.
