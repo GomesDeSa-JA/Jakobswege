@@ -420,6 +420,7 @@ But I still remember these photos very clearly. When I arrived in Zarautz, I sat
 
 ![](media/DSCF7050-FinePix-JZ300.webp)
 
+![](DSCF7051-Finepix-JZ300.webp)
 
 ![](media/DSCF7053-FinePix-JZ300.webp)
 

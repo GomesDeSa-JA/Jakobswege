@@ -21,10 +21,11 @@ Auf dem Weg nach Laredo
 
 ![](media/20180518-100105-x.webp)
 
+
 ![](media/20180518-104243-.webp)
 
 
-Meiner Schulter eine Pause gönnen.   ⁘  Dar um descanso ao meu ombro.   ⁘  Descansar el hombro.   ⁘   To give my shoulder a rest.
+Meiner Schulter eine Pause gönnen.  ⁘  Dar um descanso aos meus ombros.   ⁘  Descansar los hombros.   ⁘   To give my shoulder a rest.
 
 ![](media/20180518-105238.webp)
 
@@ -143,9 +144,9 @@ It all seems so romantic and simple, but it’s not at all what you might imagin
 ..., ... .
 
 How many times have I wished that a companion like that would carry my backpack
-
+![](20180525-cp-D.webp)
 ---
-- Porträt eines modernen Pilgers   ⁘   Peregrinos modernos   ⁘   Portrait of a modern pilgrim     ⁘   Retrato de um peregrino moderno   ⁘   Retrato de un peregrino moderno
+- Porträt eines modernen Pilgers   ⁘   Portrait of a modern pilgrim     ⁘   Retrato de um peregrino moderno   ⁘   Retrato de un peregrino moderno
 
 ![](media/20180518-122325_El-ricon-de-Luis.webp)
 
