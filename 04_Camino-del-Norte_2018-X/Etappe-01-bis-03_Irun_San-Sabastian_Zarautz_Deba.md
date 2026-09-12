@@ -108,12 +108,12 @@ Und dazwischen immer der Blick auf den Atlantik.
 
 ---
 
-- Drei Fotos habe ich von diesem Ort gemacht, dann fragt man sich warum?
-- Tirei três fotografias deste local; então, questiona-se: porquê?
-
 ![](media/20150728-150430.webp)
 
+- Tirei três fotografias deste local; então, questiona-se: porquê?
+
 Descobri-o, estão a ver o pássaro ali, naquela rocha no meio?
+
 <details>
 <summary> Não é um «Halcón peregrino» </summary>
 
@@ -124,6 +124,9 @@ Não quero ofender o pássaro que está  lá longe na rocha a olhar para o mar, 
 </details>
 
 ----
+
+- Drei Fotos habe ich von diesem Ort gemacht, dann fragt man sich warum?
+
 Ich hab ihn entdeckt – seht ihr den Vogel da, auf dem Felsen in der Mitte?
 
 <details>

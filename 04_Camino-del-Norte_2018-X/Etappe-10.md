@@ -166,7 +166,7 @@ How many times have I wished that a companion like that would carry my backpack
 
 ![](media/20180518-151105.webp)
 
-![](media/20180518-152609.jpg)
+![](media/20180518-152609.webp)
 
 ![](media/20180518-152700xx.webp)
 

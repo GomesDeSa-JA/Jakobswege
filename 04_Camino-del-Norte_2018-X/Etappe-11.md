@@ -5,6 +5,9 @@
 
 
 ![](media/20180519-080430.webp)
+Fui bem vindo 
+Senti-me bem 
+Um lugar onde eu gostaria de voltar
 
 ![](media/20180519-080512.webp)
 
@@ -29,6 +32,8 @@
 ![](media/20180519-090024.webp)
 
 ![](media/20180519-093026.webp)
+
+Aqui temos que pegar o barco para atravessar o mar, não tentem caminhar sobre a água, com a mochila pesada,  não da certo e de certeza absoluta vocês vão molhar os pés.
 
 ![](media/20180519-093051.webp)
 

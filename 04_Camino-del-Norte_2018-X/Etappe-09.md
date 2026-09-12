@@ -92,8 +92,18 @@ La gasolinera de allí ya no es más que una sombra de lo que fue.
 ![](media/20180517-152904.webp)
 
 
+
+Paul, um Peregrino Alemão , foi que me recomendou este parque de campismo. 
+Eu não sei se ainda faz parte dos alojamentos em conta para os peregrinos, mas para grupos fica mais em conta devidir um compartimento (Casa-Studio) 
+
 ![](media/20180517-193552.webp)
 
+Paul, um Peregrino Alemão , foi que me recomendou este parque de campismo. 
+Eu não sei se faz parte dos alojamentos em conta para os peregrinos, mas para grupos fica mais em conta, devidir um compartimento (Casa-Studio) 
+
+- **No "Bar" ao lado:** Uma cerveja e  questões botanicas (Ver foto da Planta em Castro-Marim e fotos do Caminho de Caravagio, antes da "Àrvore Milenária". Eu tinha uma foto, mas  só no Brasil é que vim a saber que era uma "Limpa-garrafas"  e não esquecer a questão dos  "Lobos" soltos na natureza, que todos  defendemos e queremos que respeitem os seus habitats,  mas só no caso de ser bem longe de nós. 
+ 
+Eu penso que pegar no avião atravessar os oceanos para ir ver um macaquinho na selva é muito mais interessante do que ter um campo de Safari á porta de casa. 
 
 ---
 
