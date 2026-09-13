@@ -1,10 +1,9 @@
 ## Camino del Norte  2018
 
-### Etappe-08: Portugalete →  Pubeña (8 + 1 + 16  Km)
+### Etappe-08: Portugalete →  Pubeña (  Km)
 16  Mai 2018
 
 
-Ein Blick zurück 
 ![](media/20180516-083438.webp)
 **↑** A look back ⁘ Una vista atrás  ⁘ Ein Blick zurück ⁘ Uma olhar para trás **↑**
 

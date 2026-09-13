@@ -6,14 +6,37 @@
 
 ![](media/20180520-075857.webp)
 
-![](media/20180520-080718-.webp)
+- **Pater Ernesto**
+
+**Os amigos e o arquiteto deste lugar maravilhoso**
+![](media/20180520-080718.webp)
+
+- Porque é que os outros colaboradores não aparecem na fotografia?
+
+Acho que tinham muito que fazer para que os peregrinos se sentissem bem.
+
+- Warum sind die anderen Mitwirkenden nicht auf dem Foto zu sehen?
+
+Ich glaube, sie hatten noch viel zu tun, damit sich die Pilger wohlfühlen konnten.
+
+- ¿Por qué no aparecen los demás colaboradores en la foto?
+
+Creo que aún tenían mucho que hacer para que los peregrinos se sienten a gusto.
+
+- Why aren’t the other people involved in the photo?
+
+I think they were still busy making sure the pilgrims were comfortable.
 
 ![](media/20180520-080348.webp)
 
 ![](media/20180520-075947.webp)
 
+- Reisebegleiter
+
 ![](media/20180520-201654.webp)
 
+<details>
+<summary>Die Reisebegleiter </summary>
 
 ### Eine Visitenkarte mit fünf Geschichten
 
@@ -39,7 +62,7 @@ Als wir das bemerkten, verblassten unsere eigenen Klagen, und wir ließen uns vo
 
 Ich habe diese ältere Dame für ihre Leistung bewundert und dabei zunächst die Leistung ihrer Tochter vergessen – ihrer Begleiterin, die dafür sorgte, dass sie es auch in der etwas kälteren Herberge warm hatte.
 
-Die Tochter war ebenfalls schon über sechzig. Sie hatte den Flug von Philadelphia nach Europa organisiert, in ein Land, aus dem ihre Mutter in den 1930er-Jahren geflohen war.
+Die Tochter war bereits über fünfundfünfzig Jahre alt. Sie hatte den Flug von Philadelphia nach Europa organisiert – einem Kontinent, aus dem ihre Mutter in den 1930er Jahren geflohen war.
 
 An diesem für mich noch immer lebendigen Tag und bei diesem Abendessen trat die Tochter ganz in den Hintergrund. Sie war einfach glücklich über die Freude ihrer Mutter.
 
@@ -94,9 +117,13 @@ Wie der Sohn sagte, bestand eine der Schwierigkeiten darin, zu unterscheiden: We
 Diese kleinen Geschichten werde ich später in die entsprechenden Etappen einfügen und dort noch ergänzen.
 
 Aber als ich diese Visitenkarte sah, beschloss ich, sie alle zusammen aufzuschreiben – obwohl die Erlebnisse zeitlich weit voneinander entfernt liegen.
-
+</details>
 ---
-### Um cartão de visita com cinco histórias
+
+<details>
+<summary>Companheiros de viagem </summary>
+
+#### Um cartão de visita com cinco histórias
 
 Fotos da pasta .thumbnails
 
@@ -120,7 +147,7 @@ Quando percebemos isso, as nossas próprias queixas perderam importância e deix
 
 Admirei aquela senhora pela sua caminhada e, inicialmente, esqueci-me do esforço da filha – a sua companheira de viagem, que também cuidava para que ela se mantivesse quente na albergaria, que era um pouco  fria.
 
-A filha também já tinha mais de sessenta anos. Tinha organizado o voo de Filadélfia para a Europa, para um país de onde a mãe tinha fugido nos anos 1930.
+A filha também já tinha mais de sessenta anos. Tinha organizado o voo de Filadélfia para a Europa, para um Continente de onde a mãe tinha fugido nos anos 1930.
 
 Naquele dia, que ainda hoje permanece muito vivo na minha memória, e durante aquele jantar, a filha ficou completamente em segundo plano. Estava simplesmente feliz por ver a alegria da mãe.
 
@@ -162,7 +189,7 @@ Um dia, a filha chegou junto dela e disse: «Tenho um presente para ti. Vamos fa
 
 Foi assim que as conheci.
 
-Com muita alegria, percorreram juntas o Caminho e foram recolhendo também inspiração culinária em Espanha, que mais tarde queriam levar para a sua propriedade.
+Com muita alegria, percorreram juntas o Caminho e foram recolhendo também inspirações culinárias em Espanha, que mais tarde queriam levar para a sua propriedade.
 
 #### 5.) 2019 – Camino de Levante (a partir de Ávila), Camino Sanabrés, Oseira
 
@@ -175,8 +202,15 @@ Como o filho explicou, uma das dificuldades era distinguir quais eram as dores p
 Mais tarde, vou inserir estas pequenas histórias nas etapas correspondentes e acrescentar alguns detalhes.
 
 Mas, quando vi este cartão de visita, decidi escrever todas juntas – apesar de as experiências estarem separadas por vários anos.
+</details>
 
 ---
+
+<details>
+<summary>Compañeros de viaje</summary>
+
+</details>
+
 ### Una tarjeta de visita con cinco historias
 
 Fotos de la carpeta .thumbnails
@@ -201,7 +235,7 @@ Cuando nos dimos cuenta, nuestras propias quejas perdieron importancia y nos dej
 
 Admiré a aquella mujer mayor por su esfuerzo y, al principio, olvidé el esfuerzo de su hija – su compañera de viaje, que también se preocupaba de que su madre estuviera abrigada en el albergue, que era algo más frío.
 
-La hija también tenía ya más de sesenta años. Había organizado el viaje desde Filadelfia hasta Europa, al país del que su madre había huido en la década de 1930.
+La hija también tenía ya más de cincuenta y cinco años. Había organizado el viaje desde Filadelfia hasta Europa, al continente del que su madre había huido en la década de 1930.
 
 En aquel día, que todavía permanece muy vivo en mi memoria, y durante aquella cena, la hija quedó completamente en segundo plano. Simplemente estaba feliz de ver la alegría de su madre.
 
@@ -258,6 +292,9 @@ Más adelante incorporaré estas pequeñas historias a las etapas correspondient
 Pero cuando vi esta tarjeta de visita, decidí escribirlas todas juntas, aunque los recuerdos estén separados por varios años.
 
 ---
+<details>
+<summary> 🇬🇧 Companions of the Journey </summary>
+
 ### A Business Card with Five Stories
 
 Photos from the .thumbnails folder
@@ -282,7 +319,7 @@ When we noticed this, our own complaints suddenly seemed much less important, an
 
 I admired this elderly lady for what she was accomplishing, but at first I forgot about the achievement of her daughter – her companion, who also made sure that her mother stayed warm in the somewhat colder hostel.
 
-The daughter herself was already over sixty. She had organized the flight from Philadelphia to Europe, to the country her mother had fled from in the 1930s.
+The daughter herself was already over fifty-five years. She had organized the flight from Philadelphia to Europe, to the continent her mother had fled from in the 1930s.
 
 On that day, which is still very vivid in my memory, and during that dinner, the daughter remained completely in the background. She was simply happy to see her mother happy.
 
@@ -344,19 +381,17 @@ Die Fotos und Erinnerungen
 Fotos aus dem Ordner „.thumbnails“ 
 Ich glaube, diese Foto vom 20. Mai wurde in der Kirche von Santander aufgenommen.
 
+</details>
+---
 
 <details>
 <summary> ChatGPT-Version: </summary>
 
 Gerne. Ich habe den Text jetzt stärker als **persönliches Reisebuch-Kapitel** gestaltet: fließender, atmosphärischer und mit etwas mehr Raum für die Begegnungen. Die fünf Geschichten bleiben dabei klar voneinander getrennt.
 
-## Deutsch
+### Eine Visitenkarte mit fünf Geschichten
 
-Eine Visitenkarte mit fünf Geschichten
-
-# Eine Visitenkarte mit fünf Geschichten
-
-## Fotos aus dem .thumbnails-Ordner
+Fotos aus dem .thumbnails-Ordner
 
 Ich glaube, dass ich diese Visitenkarte nicht auf dieser Etappe fotografiert habe. Sollte ich die anderen Fotos noch finden, werde ich das korrigieren.
 
@@ -368,7 +403,7 @@ Ich erinnere mich an die Menschen und vor allem an unsere Gespräche. Ihre Namen
 
 Deshalb möchte ich diese fünf kleinen Geschichten hier festhalten.
 
-### 1. 2012 – Camino Francés, Larrasoaña
+#### 1. 2012 – Camino Francés, Larrasoaña
 
 **Die 81-jährige Pilgerin und ihre Tochter aus Philadelphia**
 
@@ -384,13 +419,13 @@ Als wir das bemerkten, wurden unsere eigenen Klagen plötzlich kleiner. Wir lie�
 
 Ich bewunderte diese alte Dame für ihre Leistung. Dabei übersah ich zunächst die mindestens ebenso bemerkenswerte Leistung ihrer Tochter.
 
-Die Tochter war selbst schon über sechzig. Sie hatte die Reise von Philadelphia nach Europa organisiert – in ein Land, aus dem ihre Mutter in den 1930er-Jahren geflohen war. Sie begleitete ihre Mutter auf dem Camino und kümmerte sich darum, dass sie auch in der etwas kälteren Herberge warm blieb.
+Die Tochter war selbst schon über sechzig. Sie hatte die Reise von Philadelphia nach Europa organisiert – in ein Kontinent, aus dem ihre Mutter in den 1930er-Jahren geflohen war. Sie begleitete ihre Mutter auf dem Camino und kümmerte sich darum, dass sie auch in der etwas kälteren Herberge warm blieb.
 
 Und doch stand sie an diesem Abend völlig im Hintergrund.
 
 Sie war einfach glücklich darüber, ihre Mutter so glücklich zu sehen.
 
-### 2. 2012 – Camino Francés
+#### 2. 2012 – Camino Francés
 
 **Eine Tochter und ihr Vater aus Deutschland**
 
@@ -406,7 +441,8 @@ Ich kann weder Bayerisch noch Schwäbisch. Aber ihrem Akzent nach würde ich ver
 
 Was mir von dieser Begegnung geblieben ist, ist weniger der Camino selbst als diese stille Form der Fürsorge: Ein Vater begleitet seine erwachsene Tochter ein Stück ihres Weges, bis er weiß, dass sie allein weitergehen kann.
 
-### 3. 2018 – Camino del Norte, Santillana del Mar
+
+#### 3. 2018 – Camino del Norte, Santillana del Mar
 
 **Zwei spanische Pilger – Vater und Sohn**
 
@@ -430,7 +466,7 @@ Ich hatte den Eindruck, dass der Vater gesundheitlich etwas angeschlagen war. Se
 
 Vielleicht war genau das der eigentliche Sinn dieser gemeinsamen Reise.
 
-### 4. 2018 – Camino del Norte
+#### 4. 2018 – Camino del Norte
 
 **Mutter und Tochter(n) – WWW.Spessarthot.de**
 
@@ -448,7 +484,7 @@ Sie gingen mit großer Freude gemeinsam ihren Weg. Und neben den Erinnerungen vo
 
 Manchmal braucht es eben nicht mehr als einen Menschen, der sagt: „Jetzt machen wir es.“
 
-### 5. 2019 – Camino de Levante ab Ávila / Camino Sanabrés, Oseira
+#### 5. 2019 – Camino de Levante ab Ávila / Camino Sanabrés, Oseira
 
 **Vater und Sohn aus Portugal – vermutlich aus der Gegend von Espinho**
 
@@ -470,13 +506,10 @@ Fünf Begegnungen. Fünf Geschichten. Zeitlich Jahre voneinander entfernt.
 
 Und doch erzählen sie für mich alle ein wenig von demselben: **vom Aufbruch, vom Begleiten und davon, dass man einen Weg manchmal erst gehen kann, weil jemand anderes ein Stück mitgeht.**
 
-## Português
+---
+### Um cartão de visita com cinco histórias
 
-Um cartão de visita com cinco histórias
-
-# Um cartão de visita com cinco histórias
-
-## Fotografias da pasta .thumbnails
+Fotografias da pasta .thumbnails
 
 Acredito que não fotografei este cartão de visita nesta etapa. Se encontrar as outras fotografias, corrigirei isso.
 
@@ -488,7 +521,7 @@ Lembro-me das pessoas e, sobretudo, das nossas conversas. Os nomes, porém, desa
 
 Por isso, quero deixar aqui registadas estas cinco pequenas histórias.
 
-### 1. 2012 – Camino Francés, Larrasoaña
+#### 1. 2012 – Camino Francés, Larrasoaña
 
 **A peregrina de 81 anos e a filha, de Filadélfia**
 
@@ -504,13 +537,13 @@ Quando percebemos isso, as nossas próprias queixas tornaram-se subitamente meno
 
 Admirei aquela senhora pela sua força e pelo que estava a fazer. Mas, naquele primeiro momento, não reparei no esforço, talvez ainda maior, da sua filha.
 
-A filha também já tinha mais de sessenta anos. Tinha organizado a viagem de Filadélfia para a Europa, para um país de onde a mãe tinha fugido nos anos 1930. Acompanhava-a no Caminho e cuidava para que a mãe se mantivesse quente, mesmo na albergaria, que era um pouco mais fria.
+A filha também já tinha mais de cinquenta e cinco anos. Tinha organizado a viagem de Filadélfia para a Europa, para um Continente de onde a mãe tinha fugido nos anos 1930. Acompanhava-a no Caminho e cuidava para que a mãe se mantivesse quente, mesmo na albergaria, que era um pouco mais fria.
 
 E, no entanto, naquela noite, ela permaneceu completamente em segundo plano.
 
 Estava simplesmente feliz por ver a mãe feliz.
 
-### 2. 2012 – Camino Francés
+#### 2. 2012 – Camino Francés
 
 **Uma filha e o pai, da Alemanha**
 
@@ -526,7 +559,7 @@ Não falo nem bávaro nem suábio. Mas, pelo sotaque, diria que eram provavelmen
 
 O que ficou comigo desta pequena história não foi tanto o Caminho, mas aquela forma silenciosa de cuidar: um pai acompanha a filha adulta durante uma parte do percurso, até ter a certeza de que ela pode continuar sozinha.
 
-### 3. 2018 – Camino del Norte, Santillana del Mar
+#### 3. 2018 – Camino del Norte, Santillana del Mar
 
 **Dois peregrinos espanhóis – pai e filho**
 
@@ -550,7 +583,7 @@ Tive a impressão de que o pai estava fisicamente um pouco debilitado. O filho a
 
 Talvez esse fosse o verdadeiro sentido daquela viagem juntos.
 
-### 4. 2018 – Camino del Norte
+#### 4. 2018 – Camino del Norte
 
 **Mãe e filha(s) – WWW.Spessarthot.de**
 
@@ -568,7 +601,7 @@ Percorreram juntas o Caminho com grande alegria. E, para além das recordações
 
 Às vezes, basta uma pessoa dizer: «Agora vamos fazê-lo.»
 
-### 5. 2019 – Camino de Levante, a partir de Ávila / Camino Sanabrés, Oseira
+#### 5. 2019 – Camino de Levante, a partir de Ávila / Camino Sanabrés, Oseira
 
 **Pai e filho de Portugal – provavelmente da região de Espinho**
 
@@ -590,13 +623,12 @@ Cinco encontros. Cinco histórias. Separadas por vários anos.
 
 E, no entanto, para mim, todas falam um pouco da mesma coisa: **partir, acompanhar e descobrir que, por vezes, só conseguimos percorrer um caminho porque alguém decidiu caminhar connosco durante uma parte dele.**
 
-## Español
+---
+### Una tarjeta de visita con cinco historias
 
 Una tarjeta de visita con cinco historias
 
-# Una tarjeta de visita con cinco historias
-
-## Fotos de la carpeta .thumbnails
+Fotos de la carpeta .thumbnails
 
 Creo que no fotografié esta tarjeta de visita durante esta etapa. Si encuentro las otras fotografías, lo corregiré.
 
@@ -608,7 +640,7 @@ Recuerdo a las personas y, sobre todo, nuestras conversaciones. Los nombres, sin
 
 Por eso quiero dejar aquí estas cinco pequeñas historias.
 
-### 1. 2012 – Camino Francés, Larrasoaña
+#### 1. 2012 – Camino Francés, Larrasoaña
 
 **La peregrina de 81 años y su hija, de Filadelfia**
 
@@ -624,13 +656,13 @@ Cuando nos dimos cuenta, nuestras propias quejas nos parecieron de repente mucho
 
 Admiré a aquella mujer por su fortaleza y por lo que estaba consiguiendo. Pero al principio no reparé en el esfuerzo, quizá aún mayor, de su hija.
 
-La hija también tenía ya más de sesenta años. Había organizado el viaje desde Filadelfia hasta Europa, al país del que su madre había huido en los años treinta. La acompañaba en el Camino y se preocupaba de que su madre estuviera abrigada, incluso en aquel albergue que era algo más frío.
+La hija también tenía ya más de sesenta años. Había organizado el viaje desde Filadelfia hasta Europa, al Continente del que su madre había huido en los años treinta. La acompañaba en el Camino y se preocupaba de que su madre estuviera abrigada, incluso en aquel albergue que era algo más frío.
 
 Y, sin embargo, aquella noche ella permaneció completamente en segundo plano.
 
 Simplemente era feliz viendo feliz a su madre.
 
-### 2. 2012 – Camino Francés
+#### 2. 2012 – Camino Francés
 
 **Una hija y su padre, de Alemania**
 
@@ -646,7 +678,7 @@ No hablo ni bávaro ni suabo. Pero, por el acento, diría que probablemente eran
 
 Lo que me quedó de aquel encuentro no fue tanto el Camino como aquella forma silenciosa de cuidar: un padre acompaña a su hija adulta durante una parte de su recorrido, hasta saber que puede continuar sola.
 
-### 3. 2018 – Camino del Norte, Santillana del Mar
+#### 3. 2018 – Camino del Norte, Santillana del Mar
 
 **Dos peregrinos españoles – padre e hijo**
 
@@ -670,7 +702,7 @@ Tuve la impresión de que el padre estaba algo delicado físicamente. Su hijo lo
 
 Quizá ese era precisamente el verdadero sentido de aquel viaje juntos.
 
-### 4. 2018 – Camino del Norte
+#### 4. 2018 – Camino del Norte
 
 **Madre e hija(s) – WWW.Spessarthot.de**
 
@@ -688,7 +720,7 @@ Recorrieron juntas el Camino con mucha alegría. Y, además de los recuerdos de 
 
 A veces basta con que una persona diga: «Ahora lo hacemos.»
 
-### 5. 2019 – Camino de Levante, desde Ávila / Camino Sanabrés, Oseira
+#### 5. 2019 – Camino de Levante, desde Ávila / Camino Sanabrés, Oseira
 
 **Padre e hijo de Portugal – probablemente de la zona de Espinho**
 
@@ -710,13 +742,10 @@ Cinco encuentros. Cinco historias. Separadas por varios años.
 
 Y, sin embargo, para mí todas hablan un poco de lo mismo: **partir, acompañar y descubrir que, a veces, solo podemos recorrer un camino porque alguien decidió caminar con nosotros durante una parte del trayecto.**
 
-## English
+---
+### A Business Card with Five Stories
 
-A Business Card with Five Stories
-
-# A Business Card with Five Stories
-
-## Photos from the .thumbnails folder
+Photos from the .thumbnails folder
 
 I believe I did not photograph this business card on this particular stage. If I find the other photographs, I will correct that.
 
@@ -728,7 +757,7 @@ I remember the people and, even more clearly, our conversations. Their names, ho
 
 So I want to preserve these five little stories here.
 
-### 1. 2012 – Camino Francés, Larrasoaña
+#### 1. 2012 – Camino Francés, Larrasoaña
 
 **The 81-year-old pilgrim and her daughter from Philadelphia**
 
@@ -744,13 +773,13 @@ When we noticed this, our own complaints suddenly seemed much less important. We
 
 I admired this elderly woman for her strength and for what she was accomplishing. But at first, I failed to notice the perhaps even greater effort of her daughter.
 
-The daughter herself was already over sixty. She had organized the journey from Philadelphia to Europe, to the country her mother had fled from in the 1930s. She accompanied her mother along the Camino and made sure she stayed warm, even in the somewhat colder hostel.
+The daughter herself was already over sixty. She had organized the journey from Philadelphia to Europe, to the Continent country her mother had fled from in the 1930s. She accompanied her mother along the Camino and made sure she stayed warm, even in the somewhat colder hostel.
 
 And yet, that evening, the daughter remained completely in the background.
 
 She was simply happy to see her mother happy.
 
-### 2. 2012 – Camino Francés
+#### 2. 2012 – Camino Francés
 
 **A daughter and her father from Germany**
 
@@ -766,7 +795,7 @@ I speak neither Bavarian nor Swabian. But judging from their accent, I would gue
 
 What stayed with me from this encounter was not so much the Camino itself, but this quiet form of caring: a father accompanies his grown-up daughter for part of her journey, until he knows she can continue on her own.
 
-### 3. 2018 – Camino del Norte, Santillana del Mar
+#### 3. 2018 – Camino del Norte, Santillana del Mar
 
 **Two Spanish pilgrims – father and son**
 
@@ -790,7 +819,7 @@ I had the impression that the father was somewhat physically frail. His son watc
 
 Perhaps that was the real meaning of their journey together.
 
-### 4. 2018 – Camino del Norte
+#### 4. 2018 – Camino del Norte
 
 **Mother and daughter(s) – WWW.Spessarthot.de**
 
@@ -808,7 +837,7 @@ They walked the Camino together with great joy. And alongside the memories of th
 
 Sometimes all it takes is one person saying: “Now we're going to do it.”
 
-### 5. 2019 – Camino de Levante from Ávila / Camino Sanabrés, Oseira
+#### 5. 2019 – Camino de Levante from Ávila / Camino Sanabrés, Oseira
 
 **Father and son from Portugal – probably from the Espinho area**
 
@@ -830,12 +859,9 @@ Five encounters. Five stories. Separated by several years.
 
 And yet, to me, they all speak of something similar: **setting out, accompanying one another, and discovering that sometimes we can only walk our own path because someone else decided to walk part of it with us.**
 
-
----
-
 </details>
 
-![](20180520-120101.jpg)
+![](media/20180520-120101.jpg)
 
 ---
 

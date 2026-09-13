@@ -6,11 +6,12 @@
 
 ![](media/20180519-080430.webp)
 Um dia bem vivo na memória
+
 Eu recordo-me de quando cheguei, de quando pus os bastões no lugar certo, 
-de como me sentei para fazer o registo e do  meu lugar de dormir
-Fui bem vindo 
-Senti-me bem 
-Um lugar onde eu gostaria de voltar
+de como me sentei para fazer o registo e do  meu lugar de dormir.
+Fui bem vindo, 
+Senti-me bem, 
+Um lugar onde eu gostaria de voltar.
 
 ![](media/20180519-080512.webp)
 

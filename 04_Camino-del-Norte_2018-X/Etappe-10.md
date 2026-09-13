@@ -35,9 +35,10 @@ Was für ein sorgenfreies Leben.   ⁘  Que vida despreocupada.
  Qué vida tan tranquila.  ⁘   What a carefree life.
 ![](media/20180518-110637_1.webp)
 
-
-
 ![](media/20180518-111228.webp)
+
+<details>
+<summary>🇩🇪 Wie war es damals? </summary>
 
 #### „Auf dem Weg nach Laredo – mit Álvaro Santamaría Wilson, 1805“
 
@@ -56,8 +57,34 @@ Dieser Weg führt von **Guriezo über Lugarejos in Richtung Liendo und Laredo**.
 - Wo könnte er gegessen und übernachtet haben?
 
 >Was hätte er erzählt, wenn er es geschafft hätte, nach Hause zurückzukehren?
+</details>
 
 ---
+<details>
+<summary>🇬🇧 What was it like back then? </summary>
+#### “On the Way to Laredo – with Álvaro Santamaría Wilson, 1805”
+
+This route leads from **Guriezo via Lugarejos towards Liendo and Laredo**.
+
+>What might the pilgrimage have been like when Álvaro Santamaría Wilson set off?  
+
+>Might he have been given a final sip of water from that spring – now dried up – from which water once bubbled and where people and animals used to quench their thirst?
+
+- Where did his journey begin?
+- Where did he spend his last night?
+- Why did he set off for Laredo in 1805?
+- What was the pilgrimage route like back then?
+- Which villages, inns, churches and springs lay along his route?
+- Who did he meet along the way?
+- Where might he have eaten and spent the night?
+
+>What would he have told us if he’d managed to return home?
+</details>
+---
+
+<details>
+<summary>🇵🇹 Como era naquela época? </summary>
+
 #### «A caminho de Laredo – com Álvaro Santamaría Wilson, 1805»
 
 Este caminho vai de **Guriezo, passando por Lugarejos, em direção a Liendo e Laredo**.
@@ -73,7 +100,10 @@ Este caminho vai de **Guriezo, passando por Lugarejos, em direção a Liendo e L
 - Que pessoas encontrou pelo caminho?
 - Onde poderia ele ter comido e dormido?
 >O que teria ele contado, se tivesse conseguido regressar a casa?
-
+</details>
+---
+<details>
+<summary>🇪🇸 ¿Cómo era en aquella época</summary>
 #### «De camino a Laredo – con Álvaro Santamaría Wilson, 1805»
 
 Este camino va desde **Guriezo, pasando por Lugarejos, en dirección a Liendo y Laredo**.
@@ -88,18 +118,18 @@ Este camino va desde **Guriezo, pasando por Lugarejos, en dirección a Liendo y 
 - ¿A qué personas se habrá encontrado por el camino?
 - ¿Dónde podría haber comido y pasado la noche?
 ¿Qué habría contado si hubiera conseguido volver a casa?
-
+</details>
 ---
 
 **„Fuente de Álvaro Santamaría Wilson“**.  **Quelle bei San Mamés.**
 
 ![](media/20180518-111237.webp)
 
-
 ![](media/20180518-111946.webp)
 
 Auf diesem aktuellen Foto, das ich mir gerade ansehe, wurden aus Sicherheitsgründen alle Äste des Baumes abgeschnitten, das Gelände geräumt und vor der „Ermita de San Mames“ hat jemand ein Zelt aufgestellt, um dort vorübergehend die Nacht zu verbringen. 
 Ich nehme an, dass hier eine Herberge eröffnet wird und die „Ermita de San Mames“ so vor dem Verfall bewahrt wird und wieder zu neuem Leben erwacht.
+
 
 Nesta foto recente que estou a ver, por razões de segurança, cortaram todos os ramos da árvore, limparam o terreno e, em frente à «Ermita de San Mames», alguém montou uma tenda para passar a noite provisoriamente. 
 Suponho que aqui venha a ser aberto um albergue e, assim, a «Ermita de San Mames» será salva da ruína e voltará a ganhar nova vida.
@@ -116,6 +146,7 @@ Suponho que aqui venha a ser aberto um albergue e, assim, a «Ermita de San Mame
 ![](media/20180518-114543.webp)
 
 - **Gespräche während der Pilgerreise**
+
 Es klingt alles so romantisch und einfach, aber es ist ganz und gar nicht so, wie man es sich vorstellt. Man kann ein Pferd nicht einfach „abstellen“ und irgendwo „parken“. Es erfordert Pflege und Hingabe. 
 ..., ... .
 
