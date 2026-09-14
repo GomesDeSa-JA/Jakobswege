@@ -145,7 +145,7 @@ Suponho que aqui venha a ser aberto um albergue e, assim, a «Ermita de San Mame
 
 ![](media/20180518-114543.webp)
 
-- **Gespräche während der Pilgerreise**
+- **Gespräche bei einer Begegnung während der Pilgerreise**
 
 Es klingt alles so romantisch und einfach, aber es ist ganz und gar nicht so, wie man es sich vorstellt. Man kann ein Pferd nicht einfach „abstellen“ und irgendwo „parken“. Es erfordert Pflege und Hingabe. 
 ..., ... .
@@ -153,7 +153,7 @@ Es klingt alles so romantisch und einfach, aber es ist ganz und gar nicht so, wi
 Wie oft habe ich mir gewünscht, dass ein solcher Gefährte meinen Rucksack tragen würde
 
 ---
-- **Conversas durante a Peregrinação**
+- **Conversas num encontro durante a peregrinação**
 
 Parece tudo tão romântico e simples, mas não é nada como se quer ver. Não se pode simplesmente «desligar» um cavalo e «estacioná-lo» em qualquer lado. Exige cuidados e dedicação. 
 ..., ... .
@@ -161,7 +161,7 @@ Parece tudo tão romântico e simples, mas não é nada como se quer ver. Não s
 Quantas vezes desejei que um companheiro assim me carregasse a mochila
 
 ---
-- **Conversaciones durante la peregrinación**
+- **Conversaciones en un encuentro durante la peregrinación**
 
 Todo suena tan romántico y sencillo, pero no es en absoluto como uno se lo imagina. No se puede simplemente «dejar» un caballo y «aparcarlo» en cualquier sitio. Requiere cuidados y dedicación.
 ..., ... .
@@ -169,13 +169,15 @@ Todo suena tan romántico y sencillo, pero no es en absoluto como uno se lo imag
 Cuántas veces he deseado que un compañero así me llevara la mochila
 
 ---
--  **Conversations during the pilgrimage**
+-  **Conversations during a pilgrimage encounter**
 
 It all seems so romantic and simple, but it’s not at all what you might imagine. You can’t just ‘leave’ a horse and ‘park’ it anywhere. It requires care and dedication.
 ..., ... .
 
 How many times have I wished that a companion like that would carry my backpack
-![](20180525-cp-D.webp)
+
+![](media/20180525-cp-D.webp)
+
 ---
 - Porträt eines modernen Pilgers   ⁘   Portrait of a modern pilgrim     ⁘   Retrato de um peregrino moderno   ⁘   Retrato de un peregrino moderno
 

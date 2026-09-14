@@ -95,7 +95,7 @@ La gasolinera de allí ya no es más que una sombra de lo que fue.
 ![](media/20180517-152904.webp)
 
 
-![](20180517-193552_u_P.webp)
+![](media/20180517-193552_u_P.webp)
 
 
 🇵🇹 O Paul, um peregrino alemão, recomendou-me este parque de campismo.

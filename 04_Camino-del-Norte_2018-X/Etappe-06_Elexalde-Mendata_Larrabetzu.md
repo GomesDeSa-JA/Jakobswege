@@ -59,6 +59,7 @@ O que mais gostei foi a recordação do meu lugar para dormir, com vista para o 
 🇩🇪
 </details>
 ---
+
 Nur die Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 
 **↪** [Etappe-07_Larrabetzu_Portugalete](Etappe-07_Larrabetzu_Portugalete.md)

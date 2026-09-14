@@ -118,8 +118,8 @@ Diese kleinen Geschichten werde ich später in die entsprechenden Etappen einfü
 
 Aber als ich diese Visitenkarte sah, beschloss ich, sie alle zusammen aufzuschreiben – obwohl die Erlebnisse zeitlich weit voneinander entfernt liegen.
 </details>
----
 
+---
 <details>
 <summary>Companheiros de viagem </summary>
 
@@ -202,6 +202,7 @@ Como o filho explicou, uma das dificuldades era distinguir quais eram as dores p
 Mais tarde, vou inserir estas pequenas histórias nas etapas correspondentes e acrescentar alguns detalhes.
 
 Mas, quando vi este cartão de visita, decidi escrever todas juntas – apesar de as experiências estarem separadas por vários anos.
+
 </details>
 
 ---
@@ -209,7 +210,7 @@ Mas, quando vi este cartão de visita, decidi escrever todas juntas – apesar d
 <details>
 <summary>Compañeros de viaje</summary>
 
-</details>
+
 
 ### Una tarjeta de visita con cinco historias
 
@@ -290,6 +291,8 @@ Como explicaba el hijo, una de las dificultades consistía en distinguir qué do
 Más adelante incorporaré estas pequeñas historias a las etapas correspondientes y añadiré algunos detalles.
 
 Pero cuando vi esta tarjeta de visita, decidí escribirlas todas juntas, aunque los recuerdos estén separados por varios años.
+
+</details>
 
 ---
 <details>

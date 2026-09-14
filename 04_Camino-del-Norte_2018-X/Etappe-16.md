@@ -5,7 +5,7 @@
 
 
 ![](media/20180524-181756.webp)
-Datum des Fotos und Etappe passen nicht zusammen? Datum als ich das Foto bearbeitet habe? , ..., ... Ich werde mich später darum kümmern.
+Datum des Fotos und Etappe passen nicht zusammen? ... als ich das Foto bearbeitet habe? , ..., ... Ich werde mich später darum kümmern.
 
 ![](media/20180524-075811.jpg)
 
@@ -25,7 +25,7 @@ Datum des Fotos und Etappe passen nicht zusammen? Datum als ich das Foto bearbei
 
 Schaut euch  auf diesem Foto an, wie schön diese Herberge ist! Ihre blauen Wände bilden einen herrlichen Kontrast zum Braun der Dächer und dem Grün der Landschaft. Sie fällt sofort ins Auge und lädt zum Eintreten ein. Dennoch habe ich weder 2018 noch 2024 hier übernachtet – oft reicht die Zeit einfach nicht aus, um all die wunderbaren Dinge auf dem Weg in Ruhe zu genießen.
 
-Im Jahr 2024 hat dort jedoch jemand ein „visuelles Theaterstück“ inszeniert. Ich vermute, es sollte die Aufmerksamkeit der Pilger erregen und auf das rücksichtslose Verhalten einiger Wanderer und Jakobsweg-Pilger aufmerksam machen. 
+Im Jahr 2024 hat dort jedoch jemand ein **„visuelles Theaterstück“** inszeniert. Ich vermute, es sollte die Aufmerksamkeit der Pilger erregen und auf das rücksichtslose Verhalten einiger Wanderer und Jakobsweg-Pilger aufmerksam machen. 
 
 **Das war zumindest meine Interpretation.** 
 Ob die Initiatoren mit dieser Performance genau das ausdrücken wollten, was ich gefühlt habe, weiß ich nicht. Aber dieses Bild ging ins Auge und tat so weh, dass man am liebsten weggeschaut hätte. Es ist mir bis heute lebendig im Gedächtnis geblieben.
@@ -44,7 +44,7 @@ Ich wünschte, ich könnte noch einmal nach San Gil  zurückkehren, um diese Spe
 
 - **2026 – Alcoutim:** Diesmal war ich auf der Flucht vor meiner Erlen- und Birkenpollenallergie, um den Frühling ohne tränende Augen zu genießen. In der Unterkunft hatten Saisonarbeiter Lebensmittel im Kühlschrank hinterlassen. Niemand wusste, wem sie gehörten, und sie nahmen anderen Gästen den Platz weg. Mein Vorschlag war, einen Hinweis anzubringen: Wenn Lebensmittel zu lange lagern, landen sie im Müll. So wurde es auch in meinem früheren Betrieb gehandhabt, wenn Kollegen in den Urlaub fuhren und ihre Sachen im Kühlschrank vergaßen.
 
-Meinen ersten Jakobsweg bin ich 2012 gegangen; meine ersten Flüge und Hostels habe ich 2014 gebucht. Seitdem habe ich auf meinen Reisen eine deutliche Veränderung bemerkt: In vielen Hostels und Herbergen schwindet die Küchenausstattung. Wenn sich Gäste darüber beschweren, dass es keine Utensilien zum Kochen gibt, sage ich immer: Das liegt am Fehlverhalten früherer Gäste. Die Reinigungskräfte sind nicht rund um die Uhr da. Findet ein Gast schmutzige Teller vor, hinterlässt er eine negative Bewertung. Gibt es hingegen gar keine Utensilien mehr, müssen die Reinigungskräfte nicht den halben Vormittag mit dem Aufräumen der Küche verschwenden. Das hören Pilger und Hotelgäste zwar nicht gerne, aber genau deshalb halte ich das „visuelle Theaterstück“ in Colombres für ein notwendiges Übel, um uns wachzurütteln.
+Meinen ersten Jakobsweg bin ich 2012 gegangen; meine ersten Flüge und Hostels habe ich 2014 gebucht. Seitdem habe ich auf meinen Reisen eine deutliche Veränderung bemerkt: In vielen Hostels und Herbergen schwindet die Küchenausstattung. Wenn sich Gäste darüber beschweren, dass es keine Utensilien zum Kochen gibt, sage ich immer: Das liegt am Fehlverhalten früherer Gäste. Die Reinigungskräfte sind nicht rund um die Uhr da. Findet ein Gast schmutzige Teller vor, hinterlässt er eine negative Bewertung. Gibt es hingegen gar keine Utensilien mehr, müssen die Reinigungskräfte nicht den halben Vormittag mit dem Aufräumen der Küche verschwenden. Das hören Pilger und Hotelgäste zwar nicht gerne, aber genau deshalb halte ich das **„visuelle Theaterstück“** in Colombres für ein notwendiges Übel, um uns wachzurütteln.
 
 ***Bei dieser visuellen Inszenierung waren nicht Menschen die Hauptdarsteller, sondern das Chaos aus Kleidung und Gegenständen, das über das gesamte Gelände verstreut war. Anders als noch 2018 wirkte der Ort 2024 so, als wollten die Pilger ihn lieber meiden.***
 
@@ -237,13 +237,10 @@ Wie hat Ihre Familie damals in Portugal und Brüssel diese **plötzliche und rad
 
 ---
 
-
-
 <details>
 <summary> 🇵🇹 Albergue de Peregrinos de Colombres </summary>
 
 #### Albergue de Peregrinos de Colombres  
-
 
 Vejam nesta foto como este albergue é bonito! As suas paredes azuis contrastam lindamente com o castanho dos telhados e o verde da paisagem. Salta imediatamente à vista e convida a entrar. No entanto, não pernoitei aqui nem em 2018 nem em 2024 – muitas vezes o tempo não chega para desfrutar de todas as coisas maravilhosas que vemos pelo caminho.
 
@@ -373,7 +370,6 @@ Hice mi primer Camino en 2012, y mis primeras reservas de vuelos y hostales fuer
 
 ---
 
-
 **¿Qué porcentaje de comportamientos inadecuados es necesario para que una sociedad, una empresa, un grupo o una familia deje de funcionar, entre en colapso o pierda prestigio?**
 
 <details>
@@ -461,7 +457,6 @@ Hier ist eine separate, prägnante Hinweis-Beschreibung zu dem Allergierisiko de
 - Contraindicações: Devido ao efeito irritante dos óleos de mostarda nas mucosas, a planta não deve ser consumida por pessoas com úlceras gástricas ou intestinais, ou doenças renais. O consumo de grandes quantidades pode causar desconforto gastrointestinal.
 
 ---
-
 
 ![](media/20180524-165822.webp)
 Ich habe nicht in diese Albergue übernachtet, aber es hat mir gefallen.
