@@ -27,9 +27,10 @@ Schaut euch  auf diesem Foto an, wie schön diese Herberge ist! Ihre blauen Wän
 
 Im Jahr 2024 hat dort jedoch jemand ein „visuelles Theaterstück“ inszeniert. Ich vermute, es sollte die Aufmerksamkeit der Pilger erregen und auf das rücksichtslose Verhalten einiger Wanderer und Jakobsweg-Pilger aufmerksam machen. 
 
-Das war zumindest meine Interpretation. Ob die Initiatoren mit dieser Performance genau das ausdrücken wollten, was ich gefühlt habe, weiß ich nicht. Aber dieses Bild ging ins Auge und tat so weh, dass man am liebsten weggeschaut hätte. Es ist mir bis heute lebendig im Gedächtnis geblieben.
+**Das war zumindest meine Interpretation.** 
+Ob die Initiatoren mit dieser Performance genau das ausdrücken wollten, was ich gefühlt habe, weiß ich nicht. Aber dieses Bild ging ins Auge und tat so weh, dass man am liebsten weggeschaut hätte. Es ist mir bis heute lebendig im Gedächtnis geblieben.
 
-Es ist ein sensibles Thema: Der Pilger oder Wanderer ist Gast, und als solcher ist er König und wird königlich empfangen. Doch das Verhalten mancher Gäste ist alles andere als königlich. 
+**Es ist ein sensibles Thema:** Der Pilger oder Wanderer ist Gast, und als solcher ist er König und wird königlich empfangen. Doch das Verhalten mancher Gäste ist alles andere als königlich. 
 
 **Wie weist man eine „königliche Hoheit“ auf Fehlverhalten hin, ohne ihre Würde zu verletzen?**
 
@@ -175,14 +176,60 @@ Die Krebserkrankung Ihrer Schwester im Jahr 2018 fällt in eine Zeit, in der das
 
 Ihre Geschichte zeigt das Paradoxon des portugiesischen Gesundheitssystems:  
 In den 80ern fehlte es an Struktur (Ihre Mutter musste nach Deutschland). Heute ist die Struktur da, und die Notfallmedizin sowie die Onkologie können – wie bei Ihrem Vater und Ihrer Schwester – medizinische Wunder vollbringen. Doch die menschliche Dynamik, der Elan und die Leichtigkeit der 90er Jahre wurden durch den chronischen Ressourcenmangel und den permanenten Krisenmodus aufgerieben. Es ist eine **strukturelle Erschöpfung**, unter der Patienten und medizinisches Personal gleichermaßen leiden.
-</details>
----
+
+<details>
+<summary> Makabre Momente des Lebens</summary>
+
+Es gibt auch makabre Momente im Schicksal der Familie, die vielleicht auch auf die Erschöpfung und die Unterfinanzierung des überlasteten Gesundheitssystems zurückzuführen sind: Als mein Vater Ende 2007 operiert wurde, besuchten wir zu Weihnachten, kurz nach der Operation, meine Tante – die zwei Jahre jüngere Schwester meines Vaters. Als ich bei ihr ankam, sagte sie: „Weißt du, ich dachte, mir ginge es schlecht, aber deinem Vater ging es noch schlechter als mir.“ Einen Monat später ging es ihr so schlecht, dass meine Tante, also ihre jüngere Schwester, und deren Töchter sie aus dem Dorf Pinheiro „Aguiar da Beira“ abholten und in ein Krankenhaus in Brüssel einlieferten. Sie leben alle dort. Es war bereits zu spät, der Darmkrebs war nicht mehr heilbar; kurze Zeit später verstarb sie, ohne Portugal noch einmal gesehen zu haben.
+
+
+Das ist in der Tat ein zutiefst **makabrer und herzzerreißender Schicksalsmoment**, der die Tragik des Lebens – und auch die damaligen Unterschiede im Gesundheitssystem – auf schmerzhafte Weise zeigt. Am selben Weihnachtsfest 2007 stand die Erleichterung über die gerettete Zukunft Ihres Vaters direkt neben der noch unerkannten Tragödie seiner jüngeren Schwester.
+
+Ihre Schilderung verdeutlicht auf sehr emotionale Weise zwei Realitäten, die damals aufeinanderprallten:
+
+#### **1. Das tückische Wesen der Krankheit**
+
+Ihre Tante dachte an Weihnachten noch, es gehe ihr im Vergleich zu ihrem frisch operierten Bruder gut. Das ist das Heimtückische an Darmkrebs: Er verursacht oft jahrelang kaum spürbare Beschwerden oder Symptome, die man leicht abtut. Wenn sich der Zustand dann plötzlich verschlechtert – so wie bei Ihrer Tante nur einen Monat später im Januar 2008 –, ist der Krebs oft schon in einem weit fortgeschrittenen Stadium.
+
+#### **2. Die Verzweiflungstat der Auswanderer (Brüssel vs. Aguiar da Beira)**
+
+Dass die Töchter und die Schwester Ihre Tante fluchtartig aus dem kleinen Dorf in __Aguiar da Beira__ nach Brüssel holten, war ein Akt der puren Verzweiflung und Liebe. In den ländlichen Regionen Zentralportugals waren die Wege zu den großen Spezialkliniken weit, die Wartezeiten lang und das Vertrauen in die lokale Versorgung im Krisenfall oft gering. Brüssel bot die Hoffnung auf modernste europäische Spitzenmedizin und die Nähe zur dort lebenden Familie. Doch gegen die fortgeschrittene Zeit konnte auch das beste Krankenhaus in Belgien nichts mehr ausrichten.
+
+#### **Zwei Wege, ein Schicksalsschlag**
+
+Es liegt eine tiefe Bitterkeit darin:
+
+- Ihr Vater – der Mann, der „nie Zeit für Ärzte hatte“ – wird in Portugal rechtzeitig aufgefangen, erfolgreich therapiert und darf noch fast zwei Jahrzehnte bis **Ende 2025** leben.
+    
+- Seine jüngere Schwester, die dachte, ihr gehe es gut, wird vom selben Leiden überrascht, muss ihre Heimat verlassen und verstirbt fernab von Portugal in der Fremde.
+    
+
+Dass sie Portugal nicht mehr lebend wiedergesehen hat, hinterlässt bei den Zurückgebliebenen oft eine ganz besondere Form von Schmerz und Heimweh (__Saudade__).
+
+Diese Erinnerung zeigt, wie eng Freud und Leid in einer Familie miteinander verwoben sein können und wie viel Glück manchmal über Leben und Tod entscheidet. Wie hat Ihre Familie damals in Portugal und Brüssel diese **plötzliche und radikale Wendung** innerhalb weniger Wochen verarbeitet?
+
+
+#### **Zwei Wege, ein Schicksalsschlag**
+
+Es liegt eine tiefe Bitterkeit darin:
+
+- Ihr Vater – der Mann, der „nie Zeit für Ärzte hatte“ – wird in Portugal rechtzeitig aufgefangen, erfolgreich therapiert und darf noch fast zwei Jahrzehnte bis **Ende 2025** leben.
+    
+- Seine jüngere Schwester, die dachte, ihr gehe es gut, wird vom selben Leiden überrascht, muss ihre Heimat verlassen und verstirbt fernab von Portugal in der Fremde.
+
+Dass sie Portugal nicht mehr lebend wiedergesehen hat, hinterlässt bei den Zurückgebliebenen oft eine ganz besondere Form von Schmerz und Heimweh (__Saudade__).
+
+Diese Erinnerung zeigt, wie eng Freud und Leid in einer Familie miteinander verwoben sein können und wie viel Glück manchmal über Leben und Tod entscheidet. 
+
+Wie hat Ihre Familie damals in Portugal und Brüssel diese **plötzliche und radikale Wendung** innerhalb weniger Wochen verarbeitet?
+
+**Eine Frage unter vielen anderen, die nie beantwortet wurden.**
+
 </details>
 
----
 </details>
-
----
+</details>
+</details>
 </details>
 
 ---
@@ -210,9 +257,9 @@ Para não esquecer, gostaria de listar alguns lugares que me deixaram boas recor
 
 - **2014 – "San Gil" perto de Galisteo:** O casal responsável pelo bar social preparou-me a melhor francesinha de sempre. Aquele bar era um ponto de encontro agradável para os habitantes locais durante a sesta ou à noite. Lembro-me perfeitamente de saborear a minha cerveja e a francesinha. Os peregrinos podiam pernoitar no espaço, que parecia ser uma antiga casa do povo. No entanto, os peregrinos que vieram antes de mim tinham tanta pressa que não deixaram a cozinha tal como a encontraram. Desisti de cozinhar e preferi caminhar mais 10 km para tomar um café. Gostaria de um dia voltar lá, ao Bar-Social,  para saborear aquela iguaria e visitar a cidade de Galisteo, pela qual passei a correr na altura por falta de tempo.
 
-- 2020 – Serra da Estrela: Estive lá como "refugiado da pandemia", para escapar ao aperto do meu apartamento em Haan. Alguns dias, esperei deliberadamente que as empregadas de limpeza chegassem, pois alguns hóspedes não queriam deixar os seus contactos do Facebook à espera e esqueciam-se de lavar as panelas.
+**- 2020 – Serra da Estrela:** Estive lá como "refugiado da pandemia", para escapar ao aperto do meu apartamento em Haan. Alguns dias, esperei deliberadamente que as empregadas de limpeza chegassem, pois alguns hóspedes não queriam deixar os seus contactos do Facebook à espera e esqueciam-se de lavar as panelas.
 
-- 2026 – Alcoutim: Desta vez, fugi da minha alergia ao pólen de bétula e amieiro para aproveitar a primavera sem lágrimas nos olhos. Aqui, alguns trabalhadores sazonais deixaram comida no frigorífico. Ninguém sabia de quem era e ocupava o espaço dos outros hóspedes. Sugeri colocar um aviso: se a comida ficasse ali demasiado tempo, iria para o lixo. Era assim que fazíamos na minha antiga empresa quando os colegas iam de férias e se esqueciam da comida.
+**- 2026 – Alcoutim:** Desta vez, fugi da minha alergia ao pólen de bétula e amieiro para aproveitar a primavera sem lágrimas nos olhos. Aqui, alguns trabalhadores sazonais deixaram comida no frigorífico. Ninguém sabia de quem era e ocupava o espaço dos outros hóspedes. Sugeri colocar um aviso: se a comida ficasse ali demasiado tempo, iria para o lixo. Era assim que fazíamos na minha antiga empresa quando os colegas iam de férias e se esqueciam da comida.
 
 Fiz o meu primeiro Caminho em 2012 e as minhas primeiras reservas de voos e hostels foram em 2014. Desde então, notei uma grande mudança nos hostels e albergues: a redução dos utensílios de cozinha. Quando os hóspedes se queixam de que não há loiça para cozinhar, digo sempre que a culpa é do mau comportamento de hóspedes anteriores. As limpezas não estão lá 24 horas por dia. Se um hóspede encontra pratos sujos, deixa uma crítica negativa. Se não houver utensílios, a equipa não perde metade da manhã a arrumar a cozinha. Os peregrinos não gostam de ouvir isto, mas é por isso que considero aquela "peça de teatro visual" em Colombres um mal necessário para nos alertar.
 
@@ -387,7 +434,7 @@ Sin embargo, las investigaciones científicas revelan umbrales sorprendentemente
 
 Hier ist eine separate, prägnante Hinweis-Beschreibung zu dem Allergierisiko der Kapuzinerkresse. Du kannst diesen Block direkt als eigenständigen Hinweis in deiner GitHub- oder Obsidian-Dokumentation verwenden:
 
-### ⚠️ Allergierisiko & Gegenanzeigen / Risk of Allergies & Contraindications
+#### ⚠️ Allergierisiko & Gegenanzeigen / Risk of Allergies & Contraindications
 
 #### 🇩🇪 Allergien
 
@@ -417,7 +464,7 @@ Hier ist eine separate, prägnante Hinweis-Beschreibung zu dem Allergierisiko de
 
 
 ![](media/20180524-165822.webp)
-Ich habe nicht in diese Albergue übernachtet, aber es hat mir gefallen
+Ich habe nicht in diese Albergue übernachtet, aber es hat mir gefallen.
 
 ---
 <details>
