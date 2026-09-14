@@ -471,7 +471,7 @@ Ich habe nicht in diese Albergue übernachtet, aber es hat mir gefallen.
 </details>
 ---
 
-**↪** [Etappe-17](Etappe-17.md)
+**↪** [Etappe-17_Serdio-Val-de-San-Vicente_San-Esteban-de-Leces](Etappe-17_Serdio-Val-de-San-Vicente_San-Esteban-de-Leces.md)
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  

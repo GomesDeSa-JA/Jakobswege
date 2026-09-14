@@ -89,13 +89,13 @@ Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 
 
 ---
-#### [Etappe-17](Etappe-17.md)
+#### [Etappe-17_Serdio-Val-de-San-Vicente_San-Esteban-de-Leces](Etappe-17_Serdio-Val-de-San-Vicente_San-Esteban-de-Leces.md)
 25 de Maio de 2018
 
 
 ---
 
-#### [Etappe-18](Etappe-18.md)
+#### [Etappe-18_San-Esteban-de-Leces_La-Isla](Etappe-18_San-Esteban-de-Leces_La-Isla.md)
 28 de Maio de 2018
 
 
