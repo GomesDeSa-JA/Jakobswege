@@ -1,6 +1,6 @@
 ## Camino del Norte  2018
 
-### Etappe-14: →  (Km)
+### Etappe-14: →  (31,3 Km)
 24  Mai 2018
 
 

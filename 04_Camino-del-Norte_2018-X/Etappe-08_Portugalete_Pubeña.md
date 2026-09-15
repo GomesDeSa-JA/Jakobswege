@@ -55,7 +55,7 @@
 </details>
 ---
 
-**↪** [Etappe-09](Etappe-09.md)
+**↪** [Etappe-09_Pubeña_Islares-Playa-Arenillas](Etappe-09_Pubeña_Islares-Playa-Arenillas.md)
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  

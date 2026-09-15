@@ -139,7 +139,7 @@ Creo que subirse a un avión y cruzar océanos para ver un monito en la selva es
 </details>
 ---
 
-**↪** [Etappe-10](Etappe-10.md)
+**↪** [Etappe-10__Islares-Playa-Arenillas_Laredo](Etappe-10__Islares-Playa-Arenillas_Laredo.md)
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  

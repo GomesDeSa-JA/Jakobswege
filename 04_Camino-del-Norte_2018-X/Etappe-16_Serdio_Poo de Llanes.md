@@ -4,9 +4,6 @@
 24  Mai 2018
 
 
-![](media/20180524-181756.webp)
-Datum des Fotos und Etappe passen nicht zusammen? ... als ich das Foto bearbeitet habe? , ..., ... Ich werde mich später darum kümmern.
-
 ![](media/20180524-075811.jpg)
 
 ![](media/20180524-083654.webp)
@@ -399,7 +396,6 @@ Sin embargo, las investigaciones científicas revelan umbrales sorprendentemente
 </details>
 ---
 
-
 ![](media/20180524-102245.jpg)
 
 ![](media/20180524-122055.jpg)
@@ -412,54 +408,229 @@ Sin embargo, las investigaciones científicas revelan umbrales sorprendentemente
 
 ![](media/20180524-132312.jpg)
 
-#### 🇩🇪 Große Kapuzinerkresse (*Tropaeolum majus*)
+
+<details>
+<summary>🇩🇪 Große Kapuzinerkresse (*Tropaeolum majus*) </summary>
+
+#### Große Kapuzinerkresse
 * **Wirkung:** Wirkt als natürliches Antibiotikum (antibakteriell, antiviral und antifungal) durch die enthaltenen Senföle (Glucosinolate).
 * **Gesundheitliche Vorteile:** Stärkt aktiv das Immunsystem auf langen Wanderungen. Hilft effektiv bei Atemwegsinfektionen, Husten, Bronchitis und Harnwegsinfekten. Zudem ist sie extrem reich an immunstärkendem Vitamin C.
 
-#### 🇪🇸 Capuchina (*Tropaeolum majus*)
-* **Efecto:** Actúa como un antibiótico natural (antibacteriano, antiviral y antifúngico) gracias a sus aceites de mostaza (glucosinolatos).
-* **Beneficios para la salud:** Fortalece el sistema inmunológico durante las largas caminatas. Ayuda eficazmente en infecciones respiratorias, tos, bronquitis e infecciones urinarias. Además, es sumamente rica en vitamina C.
-
-#### 🇬🇧 Garden Nasturtium (*Tropaeolum majus*)
-* **Effect:** Acts as a natural antibiotic (antibacterial, antiviral, and antifungal) due to the presence of mustard oils (glucosinolates).
-* **Health Benefits:** Actively strengthens the immune system during long treks. Helps effectively with respiratory tract infections, coughs, bronchitis, and urinary tract infections. It is also exceptionally rich in Vitamin C.
-
-#### 🇵🇹 Capuchinha (*Tropaeolum majus*)
-* **Efeito:** Atua como um antibiótico natural (antibacteriano, antiviral e antifúngico) devido aos óleos de mostarda (glucosinolatos) contidos na planta.
-* **Benefícios para a saúde:** Fortalece ativamente o sistema imunitário durante longas caminhadas. Ajuda de forma eficaz em infeções respiratórias, tosse, bronquite e infeções urinárias. Além disso, é extremamente rica em vitamina C.
-
-Hier ist eine separate, prägnante Hinweis-Beschreibung zu dem Allergierisiko der Kapuzinerkresse. Du kannst diesen Block direkt als eigenständigen Hinweis in deiner GitHub- oder Obsidian-Dokumentation verwenden:
-
-#### ⚠️ Allergierisiko & Gegenanzeigen / Risk of Allergies & Contraindications
-
-#### 🇩🇪 Allergien
+##### ⚠️ Allergien
 
 - Allergische Reaktionen: Die in der Pflanze enthaltenen Senföle können bei direktem Hautkontakt eine allergische Kontaktdermatitis (Rötungen, Juckreiz, Blasenbildung) auslösen.
 - Kreuzallergien: Personen mit einer bekannten Allergie gegen Senf oder andere Kreuzblütler (wie Kresse, Rettich oder Kohl) sollten beim Verzehr vorsichtig sein, da Kreuzreaktionen auftreten können.
 - Gegenanzeigen: Wegen der schleimhautreizenden Wirkung der Senföle sollte die Pflanze bei Magen- oder Darmgeschwüren sowie bei Nierenerkrankungen nicht verzehrt werden. Große Mengen können zu Magenbeschwerden führen.
 
-#### 🇬🇧 Allergies 
+</details>
 
--  **Allergic Reactions:** The mustard oils contained in the plant can trigger allergic contact dermatitis (redness, itching, blistering) upon direct skin contact.
-- **Cross-Allergies:** Individuals with a known allergy to mustard or other cruciferous vegetables (such as cress, radish, or cabbage) should be cautious, as cross-reactivity may occur.
-- **Contraindications:** Due to the mucosal-irritating effect of the mustard oils, the plant should not be consumed by people with stomach or intestinal ulcers, or kidney diseases. Ingesting large amounts can cause gastrointestinal distress.
+<details>
+<summary>🇪🇸 Capuchina (*Tropaeolum majus*) </summary>
 
-#### 🇪🇸 Alergias
+#### Capuchina (*Tropaeolum majus*)
+* **Efecto:** Actúa como un antibiótico natural (antibacteriano, antiviral y antifúngico) gracias a sus aceites de mostaza (glucosinolatos).
+* **Beneficios para la salud:** Fortalece el sistema inmunológico durante las largas caminatas. Ayuda eficazmente en infecciones respiratorias, tos, bronquitis e infecciones urinarias. Además, es sumamente rica en vitamina C.
+
+##### ⚠️ Alergias
 
 - Reacciones Alérgicas: Los aceites de mostaza contenidos en la planta pueden provocar dermatitis alérgica de contacto (enrojecimiento, picazón, ampollas) al entrar en contacto directo con la piel.
 - Alergias Cruzadas: Las personas con alergia conocida a la mostaza o a otras plantas crucíferas (como el berro, el rábano o la col) deben tener precaución, ya que pueden producirse reacciones cruzadas.
 - Contraindicaciones: Debido al efecto irritante de los aceites de mostaza en las mucosas, no debe consumirse en caso de úlceras gástricas o intestinales, ni en enfermedades renales. Consumir grandes cantidades puede causar molestias estomacales.
 
-#### 🇵🇹 Alergias
+</details>
+
+---
+<details>
+<summary> 🇬🇧 Garden Nasturtium (*Tropaeolum majus*) </summary>
+
+####  Garden Nasturtium (*Tropaeolum majus*)
+* **Effect:** Acts as a natural antibiotic (antibacterial, antiviral, and antifungal) due to the presence of mustard oils (glucosinolates).
+* **Health Benefits:** Actively strengthens the immune system during long treks. Helps effectively with respiratory tract infections, coughs, bronchitis, and urinary tract infections. It is also exceptionally rich in Vitamin C.
+
+#####  ⚠️ Allergies 
+
+-  **Allergic Reactions:** The mustard oils contained in the plant can trigger allergic contact dermatitis (redness, itching, blistering) upon direct skin contact.
+- **Cross-Allergies:** Individuals with a known allergy to mustard or other cruciferous vegetables (such as cress, radish, or cabbage) should be cautious, as cross-reactivity may occur.
+- **Contraindications:** Due to the mucosal-irritating effect of the mustard oils, the plant should not be consumed by people with stomach or intestinal ulcers, or kidney diseases. Ingesting large amounts can cause gastrointestinal distress.
+
+</details>
+
+---
+<details>
+<summary> 🇵🇹 Capuchinha (*Tropaeolum majus*) </summary>
+
+#### Capuchinha (*Tropaeolum majus*)
+* **Efeito:** Atua como um antibiótico natural (antibacteriano, antiviral e antifúngico) devido aos óleos de mostarda (glucosinolatos) contidos na planta.
+* **Benefícios para a saúde:** Fortalece ativamente o sistema imunitário durante longas caminhadas. Ajuda de forma eficaz em infeções respiratórias, tosse, bronquite e infeções urinárias. Além disso, é extremamente rica em vitamina C.
+
+Hier ist eine separate, prägnante Hinweis-Beschreibung zu dem Allergierisiko der Kapuzinerkresse. Du kannst diesen Block direkt als eigenständigen Hinweis in deiner GitHub- oder Obsidian-Dokumentation verwenden:
+
+#####  ⚠️ Alergias
 
 - Reações Alérgicas: Os óleos de mostarda contidos na planta podem desencadear dermatite de contacto alérgica (vermelhidão, comichão, bolhas) através do contacto direto com a pele.
 - Alergias Cruzadas: Indivíduos com alergia conhecida à mostarda ou a outras plantas crucíferas (como agrião, rábano ou couve) devem ser cautelosos, pois podem ocorrer reações cruzadas.
 - Contraindicações: Devido ao efeito irritante dos óleos de mostarda nas mucosas, a planta não deve ser consumida por pessoas com úlceras gástricas ou intestinais, ou doenças renais. O consumo de grandes quantidades pode causar desconforto gastrointestinal.
 
----
+</details>
 
+---
 ![](media/20180524-165822.webp)
 Ich habe nicht in diese Albergue übernachtet, aber es hat mir gefallen.
+
+![](media/20180524-181756.webp)
+
+#### Ankunft in Poo de Llanes nach ca. 38 km
+* **Schwierigkeit:** Extrem (Meine Top 2 der härtesten Etappen) auf diesem Weg
+* **Datum der Wanderung: **Mai  2018
+
+<details>
+<summary>🇩🇪   </summary>
+
+Als ich dieses Foto machte, war alles trocken, und kurz darauf begann es zu regnen. Obwohl ich sehr müde war, beschränkte ich mich darauf, meinen Schritt zu beschleunigen, um nicht nass zu werden, ohne der Spannung Beachtung zu schenken, die in der Luft lag. 
+Mit müder Nüchternheit bat ich Ki lediglich, die Sprache der schlichten Beschreibung etwas abzumildern; Ki hat die Dramatik dieses Augenblicks eingefangen und mir die Möglichkeit gegeben, später noch einmal das nachzuempfinden, was ich damals gefühlt habe.
+
+Denn was ich damals gefühlt habe, habe ich nicht gemerkt, weil ich zu müde war
+
+#### Der lange Marsch und der "analoge" Rettungsanker
+
+Nach fast 38 brutal langen Kilometern von Serdio aus – vorbei an der Grenze zu Asturien und den kräftezehrenden Klippenpfaden bei Pendueles – kam ich völlig erschöpft in Poo de Llanes an. Es zählte sprichwörtlich jeder Meter. 
+
+Ich hatte das bekannte (deutsche) „Gelbe Buch“ (*Nordweg – Camino del Norte* aus dem Outdoor-Verlag) dabei, in dem die Etappen und Herbergen beschrieben waren. Als ich die im Buch angegebene Herberge mit GPS suchen wollte, der Schock: **Mein Akku war komplett leer.** 
+
+In diesem Moment musste ich auf ein etwas altmodisches Kommunikationsmittel zurückgreifen. Sobald ich eine einheimische Dame sah, ging ich auf sie zu und sagte: 
+
+> „Buenas Tardes und Perdón, könnten Sie mir bitte sagen, wo sich die Pilgerherberge befindet?“ 
+
+Ich zeigte ihr die Adresse aus dem gelben Buch. Die Dame blickte mich an und antwortete: **„Sie ist geschlossen. Weil jemand verstorben ist.“**
+
+> Historischer Hintergrund: Das Ende von "La Cambarina"
+> Die legendäre, traditionelle Privatunterkunft *Albergue Casa de Peregrinos „La Cambarina“* wurde genau in diesem Zeitraum (Sommer 2018) dauerhaft geschlossen. Die herzliche Hospitalera Amalia war im Alter von 87 Jahren verstorben. Damit endete ein Stück Geschichte des Camino del Norte.
+
+Die Dame im Dorf reagierte zum Glück sofort und empfahl mir die **Casa Verde** (Albergue Llanes Playa de Poo) als Alternative. Sie zeigte mir den Weg und sagte: *„Dort lang, an dieser schmalen Gasse biegen Sie ab.“* 
+
+Genau in diesem magischen, filmreifen Moment – mitten im Gespräch und sichtlich am Ende meiner Kräfte – öffnete der asturische Himmel seine Schleusen und es fing an zu regnen. Die Casa Verde wurde meine Rettung in letzter Sekunde.
+
+##### Unterkunft-Check: Eco-Hostel La Casa Verde
+* **Lage:** Camino de la Playa, 36, Poo de Llanes
+* **Erfahrung:** Ein absolut genialer Zufluchtsort mit entspannte Öko-Atmosphäre, der den harten Tag gerettet hat.
+
+![](Sra-da-Albergue-faleceu-chovia-voltei-para-trás-dormitoriopequeno-lugarscomunsJardimsuper.webp)
+
+</details>
+
+---
+<details>
+<summary>🇵🇹 </summary>
+Quando tirei esta fotografia, estava tudo seco e, pouco depois, começou a chover. Apesar de estar muito cansado, limitei-me a acelerar o passo para não me molhar, sem prestar atenção à tensão que se sentia no ar. Com uma sobriedade cansada, pedi apenas ao Ki que suavizasse um pouco a linguagem da descrição simples; o Ki captou o dramatismo daquele momento e deu-me a oportunidade de reviver mais tarde o que senti naquela altura.
+
+Só que, naquela altura, não me apercebi do que estava a sentir, porque estava demasiado cansado
+
+---
+O drama captado por Ki
+
+#### A longa caminhada e a «âncora de salvação» analógica
+
+Após quase 38 quilómetros brutalmente longos a partir de Serdio — passando pela fronteira com as Astúrias e pelos extenuantes trilhos ao longo das falésias em Pendueles —, cheguei completamente exausto a Poo de Llanes. Literalmente, cada metro contava.
+
+Tinha comigo o conhecido «Livro Amarelo» (alemão) (*Nordweg – Camino del Norte*, da editora Outdoor), onde estavam descritas as etapas e os albergues. Quando quis localizar o albergue indicado no livro com o GPS, tive um choque: **a minha bateria estava completamente descarregada.**
+
+Nesse momento, tive de recorrer a um meio de comunicação um pouco antiquado. Assim que vi uma senhora local, aproximei-me dela e disse:
+
+> «Buenas tardes e perdón, poderia dizer-me, por favor, onde fica o albergue dos peregrinos?»
+
+Mostrei-lhe a morada que constava no livro amarelo. A senhora olhou para mim e respondeu: **«Está fechado. Porque alguém faleceu.»**
+
+> Contexto histórico: O fim de «La Cambarina»
+
+> O lendário e tradicional alojamento privado *Albergue Casa de Peregrinos «La Cambarina»* encerrou definitivamente precisamente nesta altura (verão de 2018). A calorosa hospitalera Amalia tinha falecido aos 87 anos. Com isso, terminou um pedaço da história do Caminho do Norte.
+
+Felizmente, a senhora da aldeia reagiu imediatamente e recomendou-me a **Casa Verde** (Albergue Llanes Playa de Poo) como alternativa. Mostrou-me o caminho e disse: *«Por ali, vire nesta rua estreita.»*
+
+Exatamente nesse momento mágico, digno de um filme – no meio da conversa e visivelmente no limite das minhas forças –, o céu asturiano abriu as suas comportas e começou a chover. A Casa Verde tornou-se a minha salvação no último segundo.
+
+##### Avaliação do alojamento: Eco-Hostel La Casa Verde
+
+* **Localização:** Camino de la Playa, 36, Poo de Llanes
+
+* **Experiência:** Um refúgio absolutamente fantástico com uma atmosfera ecológica descontraída, que salvou o meu dia difícil.
+
+</details>
+
+---
+<details>
+<summary>🇪🇸 </summary>
+
+Cuando hice esta foto, todo estaba seco, y poco después empezó a llover. Aunque estaba muy cansado, me limité a acelerar el paso para no mojarme, sin prestar atención a la tensión que se respiraba en el ambiente. Con sobria resignación, solo le pedí a Ki que suavizara un poco el lenguaje de la descripción sencilla; Ki ha captado el dramatismo de ese instante y me ha dado la oportunidad de revivir más tarde lo que sentí en aquel momento.
+
+Solo que entonces no me di cuenta de lo que sentía, porque estaba demasiado cansado
+
+---
+El drama captado por Ki
+
+#### La larga marcha y el salvavidas «analógico»
+
+Tras casi 38 kilómetros brutalmente largos desde Serdio —pasando por la frontera con Asturias y los agotadores senderos por los acantilados de Pendueles—, llegué completamente exhausto a Poo de Llanes. Literalmente, cada metro contaba.
+
+Llevaba conmigo el conocido «Libro Amarillo» (alemán) (*Nordweg – Camino del Norte*, de la editorial Outdoor), en el que se describían las etapas y los albergues. Cuando quise buscar con el GPS el albergue indicado en el libro, me llevé una sorpresa: **mi batería estaba completamente agotada.**
+  
+En ese momento tuve que recurrir a un medio de comunicación un tanto anticuado. En cuanto vi a una señora de la zona, me acerqué a ella y le dije:
+
+> «Buenas tardes y perdón, ¿podría decirme, por favor, dónde se encuentra el albergue de peregrinos?»
+> 
+Le mostré la dirección que figuraba en el libro amarillo. La señora me miró y respondió: **«Está cerrado. Porque ha fallecido alguien».**
+
+> Antecedentes históricos: El fin de «La Cambarina»
+
+> El legendario y tradicional alojamiento privado *Albergue Casa de Peregrinos «La Cambarina»* cerró definitivamente precisamente en ese periodo (verano de 2018). La entrañable hospitalera Amalia había fallecido a los 87 años. Con ello se puso fin a una parte de la historia del Camino del Norte.
+
+Por suerte, la señora del pueblo reaccionó de inmediato y me recomendó la **Casa Verde** (Albergue Llanes Playa de Poo) como alternativa. Me indicó el camino y me dijo: *«Por ahí, gire por esta callejuela».*
+
+Justo en ese momento mágico, digno de una película —en plena conversación y visiblemente al límite de mis fuerzas—, el cielo asturiano abrió sus compuertas y empezó a llover. La Casa Verde se convirtió en mi salvación de última hora.
+
+##### Reseña del alojamiento: Eco-Hostal La Casa Verde
+
+* **Ubicación:** Camino de la Playa, 36, Poo de Llanes
+
+* **Experiencia:** Un refugio absolutamente genial con un ambiente ecológico y relajado que me salvó de un día agotador.
+* 
+</details>
+
+---
+<details>
+<summary>🇬🇧</summary>
+
+When I took this photograph, everything was dry, and shortly afterwards it began to rain. Although I was very tired, I simply quickened my pace so as not to get wet, paying no heed to the tension that hung in the air. With weary detachment, I simply asked Ki to tone down the language of plain description a little; Ki captured the drama of that moment and gave me the chance to relive later what I had felt at the time.
+It’s just that back then I didn’t realise what I was feeling, because I was too tired
+
+---
+The drama captured by Ki
+
+#### The Long March and the ‘Analogue’ Lifeline
+
+After nearly 38 gruelling kilometres from Serdio – past the border with Asturias and the exhausting cliff paths near Pendueles – I arrived in Poo de Llanes completely exhausted. Every single metre literally counted.
+
+I had the well-known (German) ‘Yellow Book’ (*Nordweg – Camino del Norte* published by Outdoor-Verlag) with me, which described the stages and hostels. When I tried to locate the hostel mentioned in the book using GPS, I was in for a shock: **my battery was completely flat.**
+
+At that moment, I had to resort to a somewhat old-fashioned means of communication. As soon as I spotted a local lady, I went up to her and said:
+
+> “Buenas Tardes and Perdón, could you please tell me where the pilgrims’ hostel is?”
+
+I showed her the address from the Yellow Book. The lady looked at me and replied: **“It’s closed. Because someone has died.”**
+
+> Historical background: The end of “La Cambarina”
+
+> The legendary, traditional private hostel *Albergue Casa de Peregrinos “La Cambarina”* closed permanently during this very period (summer 2018). The warm-hearted hospitalera, Amalia, had passed away at the age of 87. This marked the end of a chapter in the history of the Camino del Norte.
+> 
+Fortunately, the lady in the village reacted immediately and recommended the **Casa Verde** (Albergue Llanes Playa de Poo) as an alternative. She showed me the way and said: *“Go that way, then turn off down this narrow lane.”*
+
+Right at that magical, cinematic moment – in the middle of the conversation and clearly at the end of my tether – the Asturian skies opened up and it started to rain. Casa Verde was my last-minute salvation.
+
+##### Accommodation review: Eco-Hostel La Casa Verde
+
+* **Location:** Camino de la Playa, 36, Poo de Llanes
+
+* **Experience:** An absolutely brilliant haven with a relaxed, eco-friendly atmosphere that saved the day after a tough day’s walk.
+</details>
 
 ---
 <details>
@@ -475,5 +646,4 @@ Ich habe nicht in diese Albergue übernachtet, aber es hat mir gefallen.
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  
-
  ...→

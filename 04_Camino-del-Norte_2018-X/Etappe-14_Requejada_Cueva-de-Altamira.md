@@ -1,6 +1,6 @@
 ## Camino del Norte  2018
 
-### Etappe-14: →  (Km)
+### Etappe-14: Requejada → Santillana del Mar (Cueva de Altamira)  (19 Km)
 22  Mai 2018
 
 
@@ -33,7 +33,7 @@
 </details>
 ---
 
-**↪** [Etappe-15](Etappe-15.md)
+**↪** [Etappe-15_Santillana-del-Mar_Serdio](Etappe-15_Santillana-del-Mar_Serdio.md)
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  

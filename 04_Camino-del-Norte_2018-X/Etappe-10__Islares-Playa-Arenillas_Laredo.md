@@ -227,7 +227,7 @@ How many times have I wished that a companion like that would carry my backpack
 </details>
 ---
 
-**↪** [Etappe-11](Etappe-11.md)
+**↪** [Etappe-11_Laredo_Guemes](Etappe-11_Laredo_Guemes.md)
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  

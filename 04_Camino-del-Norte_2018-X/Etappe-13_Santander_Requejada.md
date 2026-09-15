@@ -1,7 +1,9 @@
 ## Camino del Norte  2018
 
-### Etappe-13:  →  ( Km)
+### Etappe-13:  Santander → Requejada ( 27 Km)
 21  Mai 2018
+
+ Albergue de peregrinos Clara Campoamor
 
 ![](media/20180521-083547.jpg)
 
@@ -123,8 +125,12 @@ I estimated the distances between the trains from a distance and then waited unt
 
 ---
 
-![](Sra-da-Albergue-faleceu-chovia-volte-para-trás-dormitoriopequeno-lugarscomunsJardimsuper.webp)
+![](Sra-da-Albergue-faleceu-chovia-voltei-para-trás-dormitoriopequeno-lugarscomunsJardimsuper.webp)
 </details>
+
+
+ Albergue de peregrinos Clara Campoamor
+ 
 ---
 <details>
 <summary>  </summary>
@@ -135,7 +141,7 @@ I estimated the distances between the trains from a distance and then waited unt
 </details>
 ---
 
-**↪** [Etappe-14](Etappe-14.md)
+**↪** [Etappe-14_Requejada_Cueva-de-Altamira](Etappe-14_Requejada_Cueva-de-Altamira.md)
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  

@@ -25,7 +25,6 @@ Blick auf Hondarribia-(Irún) und Hendaye
 
 ---
 Skizze
-
 ### Jaizkibel III  
 _Trikuarria – Dolmen_  
 _Historiaurreko hilobia – Sepultura prehistórica_  

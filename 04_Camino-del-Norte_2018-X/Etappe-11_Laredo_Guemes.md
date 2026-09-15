@@ -1,6 +1,6 @@
 ## Camino del Norte  2018
 
-### Etappe-11:  →  ( Km)
+### Etappe-11: Laredo  →  Güemes ( 28,7 Km)
 19  Mai 2018
 
 
@@ -14,6 +14,9 @@ Senti-me bem,
 Um lugar onde eu gostaria de voltar.
 
 ![](media/20180519-080512.webp)
+
+
+
 
 ![](media/20180519-081620.webp)
 
@@ -96,7 +99,7 @@ Por favor, no le pidas a Dios que separe el mar para que puedas cruzarlo, porque
 
 ---
 
-**↪** [Etappe-12](Etappe-12.md)
+**↪** [Etappe-12_Guemes_Santander](Etappe-12_Guemes_Santander.md)
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  
