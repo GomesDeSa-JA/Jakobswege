@@ -116,7 +116,6 @@ Wie der Sohn sagte, bestand eine der Schwierigkeiten darin, zu unterscheiden: We
 
 Diese kleinen Geschichten werde ich später in die entsprechenden Etappen einfügen und dort noch ergänzen.
 
-Aber als ich diese Visitenkarte sah, beschloss ich, sie alle zusammen aufzuschreiben – obwohl die Erlebnisse zeitlich weit voneinander entfernt liegen.
 </details>
 
 ---

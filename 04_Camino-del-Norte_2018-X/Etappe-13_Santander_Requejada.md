@@ -130,7 +130,7 @@ I estimated the distances between the trains from a distance and then waited unt
 
 
 
-![](20260916_124955.webp)
+![](media/20260916_124955.webp)
 
 
 <details>
