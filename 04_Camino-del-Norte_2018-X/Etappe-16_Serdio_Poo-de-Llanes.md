@@ -14,7 +14,7 @@
 
 ![](media/20180524-101048.webp)
 
- 
+
 <details>
 <summary>🇩🇪 Albergue de Peregrinos de Colombres  </summary>
 
@@ -408,7 +408,7 @@ Sin embargo, las investigaciones científicas revelan umbrales sorprendentemente
 
 ![](media/20180524-132312.jpg)
 
-
+–Rezepte eingefügt–
 <details>
 <summary>🇩🇪 Große Kapuzinerkresse (*Tropaeolum majus*) </summary>
 
