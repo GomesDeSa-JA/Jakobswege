@@ -11,7 +11,14 @@
 - **Albergue de Peregrinos de San Esban de Leces**
 
 ![](media/20180526-075132.webp)
-Alles was an diesem Abend geschen ist, kann ich abrufen.
+Alles was  geschen ist, kann ich abrufen.
+
+Como o tempo já não dava para chegar a Villavicioso, decidi começar o dia com mais calma e tirei umas fotos antes de partir, quando alguém me disse Hombre assi nunca chegas a Santiago. 
+
+Sim ele tinha toda a razão mas mesmo que eu saísse do Albergue ás tantas da medrugada, não era num dia que eu ia chegar a Santiago. 
+
+
+
 ![](media/20180526-081045.webp)
 
 ![](media/20180526-081641.webp)
@@ -55,10 +62,7 @@ Alles was an diesem Abend geschen ist, kann ich abrufen.
 
 ![](media/20180526-145924.jpg)
 
-Es ist interessant, darüber nachzudenken, wo wir stehen bleiben, um ein Foto zu machen.
-É interessante pensar onde paramos para tirar uma fotografia.
 It’s interesting to think about where we stop to take a photograph.
-Es interesante pensar dónde nos paramos para hacer una foto.
 
 ---
 <details>
@@ -68,6 +72,7 @@ Es interesante pensar dónde nos paramos para hacer una foto.
 🇵🇹
 🇩🇪
 </details>
+
 ---
 
 **↪** [Etappe-01-bis-03_Irun_San-Sabastian_Zarautz_Deba](Etappe-01-bis-03_Irun_San-Sabastian_Zarautz_Deba.md)
@@ -102,6 +107,7 @@ Mit Juan und Lucas war ich an der Akademie Klausenhof, und Rafa habe ich über L
 
 Die Eltern hatten immer ein offenes Haus für die Freunde ihrer Kinder, und wir haben noch einige Male dort gefeiert und übernachtet. Lucas, Juan und Rafa habe ich zuletzt ungefähr in den Jahren 2005 oder 2006 gesehen...
 </details>
+
 ---
 <details>
 <summary>   </summary>
@@ -126,6 +132,7 @@ Estive com o Juan e o Lucas na Akademie Klausenhof, e conheci o Rafa através do
 
 Os pais tinham sempre a porta aberta para os amigos dos filhos, e ainda celebrámos e parámos lá algumas vezes. Vi o Lucas, o Juan e o Rafa pela última vez por volta de 2005 ou 2006...
 </details>
+
 ---
 <details>
 <summary>   </summary>
@@ -141,7 +148,10 @@ One of the encounters that left a deep impression on me was with a female pilgri
 
 This was my second stay in Gijón. The first time, I was there with Lucas, Rafa, and Juan, right around Christmas in 1992 or 1993. We only stayed in Asturias for two days, and although I can no longer state the exact date with absolute certainty, I remember those days as if they were yesterday. I remember driving a Ford Fiesta from Portugal to Salamanca and parking it at the station there for two days. After that, I got into Rafa's car and drove with him and Lucas to Juan's father's house. I still remember the comforting warmth of the coal stove that Juan's father lit in the mornings. From Juan's village, we then drove to the Holy Caves of Covadonga, the lakes, and Gijón.
 
-On the return trip, I also drove part of the way from Asturias to Salamanca. Because I didn't want the cars behind me to get too close to my taillights, I let them overtake. When I pulled over to the right to let them pass, I kept driving over the rumble strips, which also annoyed Lucas. Right at this moment, as I am writing this sentence, I can say with absolute certainty that it was 1993. This is because it is directly connected to my accident caused by exhaustion on the A1 near Hagen in the spring of 1993, right at the beginning of night school – after that, I didn't travel again until 1998, except to visit relatives in Portugal. I won't correct the date mentioned above, because it's fascinating to see how our memory works.
+
+On the return trip, I also drove part of the way from Asturias to Salamanca. Because I didn't want the cars behind me to get too close to my taillights, I let them overtake. When I pulled over to the right to let them pass, I kept driving over the rumble strips, which also annoyed Lucas.
+
+Right at this moment, as I am writing this sentence, I can say with absolute certainty that it was 1993. This is because it is directly connected to my accident caused by exhaustion on the A1 near Hagen in the spring of 1993, right at the beginning of night school – after that, I didn't travel again until 1998, except to visit relatives in Portugal. I won't correct the date mentioned above, because it's fascinating to see how our memory works.
 
 - **How we met and lost touch**
 
@@ -150,6 +160,7 @@ I attended the Akademie Klausenhof with Juan and Lucas, and I met Rafa through L
 His parents always kept an open house for their children's friends, and we celebrated and stayed overnight there a few more times. The last time I saw Lucas, Juan, and Rafa was around 2005 or 2006...
 
 </details>
+
 ---
 <details>
 <summary>   </summary>
@@ -172,4 +183,5 @@ Estuve con Juan y Lucas en la Akademie Klausenhof, y conocí a Rafa a través de
 
 Los padres siempre tenían la casa abierta para los amigos de sus hijos, y todavía celebramos y nos quedamos a dormir allí algunas veces. A Lucas, Juan y Rafa los vi por última vez alrededor de los años 2005 o 2006...
 </details>
+
 ---

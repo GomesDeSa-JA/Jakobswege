@@ -84,7 +84,7 @@ Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 
 
 ---
-#### [Etappe-16_Serdio_Poo de Llanes](Etappe-16_Serdio_Poo%20de%20Llanes.md)
+#### [Etappe-16_Serdio_Poo-de-Llanes](Etappe-16_Serdio_Poo-de-Llanes.md)
 24 de Maio de 2018
 
 
@@ -96,7 +96,7 @@ Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 ---
 
 #### [Etappe-18_San-Esteban-de-Leces_La-Isla](Etappe-18_San-Esteban-de-Leces_La-Isla.md)
-28 de Maio de 2018
+26 de Maio de 2018
 
 
 ---

@@ -29,7 +29,7 @@ Ob die Initiatoren mit dieser Performance genau das ausdrücken wollten, was ich
 
 **Es ist ein sensibles Thema:** Der Pilger oder Wanderer ist Gast, und als solcher ist er König und wird königlich empfangen. Doch das Verhalten mancher Gäste ist alles andere als königlich. 
 
-**Wie weist man eine „königliche Hoheit“ auf Fehlverhalten hin, ohne ihre Würde zu verletzen?**
+**Wie weist man eine **„königliche Hoheit“** auf Fehlverhalten hin, ohne ihre Würde zu verletzen?**
 
 Um es nicht zu vergessen, möchte ich einige Orte aufzählen, die mir in guter Erinnerung geblieben sind (nicht alle lagen auf meinem Jakobsweg):
 
@@ -424,6 +424,7 @@ Sin embargo, las investigaciones científicas revelan umbrales sorprendentemente
 
 </details>
 
+---
 <details>
 <summary>🇪🇸 Capuchina (*Tropaeolum majus*) </summary>
 

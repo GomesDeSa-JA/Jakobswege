@@ -194,7 +194,6 @@ How many times have I wished that a companion like that would carry my backpack
 
 ![](media/20180518-145609.webp)
 
-![](media/20180518-150948_1.jpg)
 
 ![](media/20180518-151037.webp)
 
@@ -207,11 +206,46 @@ How many times have I wished that a companion like that would carry my backpack
 ![](media/20180518-153652.webp)
 
 - The Last Primeval Forest
+
 ![](media/20180518-153712.webp)
 
+<details>
+<summary>🇪🇸 🇬🇧🇩🇪🇵🇹 ? </summary>
+
+Ich kann die drei Fotos unten zeitlich nicht genau einordnen, habe aber die Personen, die darauf zu sehen sind, gebeten, ein Foto von mir zu machen. Siehe das vorletzte Foto in der nächsten Etappe: „20180519-113052“
+
+---
+
+Não consigo situar com exatidão as três fotografias abaixo no tempo, mas pedi às pessoas que nelas aparecem que me tirassem uma fotografia. Ver a penúltima fotografia na próxima etapa: «20180519-113052»
+
+---
+
+No consigo situar con exactitud en el tiempo las tres fotografías que aparecen a continuación, pero les pedí a las personas que salen en ellas que me hicieran una foto. Ver la penúltima fotografía en la siguiente etapa: «20180519-113052»
+
+---
+
+I can’t pinpoint exactly when the three photographs below were taken, but I asked the people in them to take a photograph of me. See the penultimate photograph in the next section: ‘20180519-113052’
+
+</details>
+
+![](media/DSCF7100.webp)
+
+Ein Wesen mit einem guten Gemüt | A creature with a good nature |  Uma criatura de bom caráter 
+
+![](media/DSCF7103.webp)
+Er begleitete die anderen Pilger eine Weile, kam dann zu mir, doch als ich ihm sagte, dass es am Ende des Weges keinen Garten gäbe, von dem aus er die vorbeiziehenden Pilger beobachten könnte, ging er weiter und versuchte woanders sein Glück.
+
+---
+Ele acompanhou os outros peregrinos durante algum tempo, depois veio ter comigo, mas quando lhe disse que, no fim do caminho, não havia nenhum jardim de onde pudesse observar os peregrinos que passavam, ele seguiu em frente e foi tentar a sorte noutra lugar.
+
+---
+Acompañó a los demás peregrinos durante un rato, luego se acercó a mí, pero cuando le dije que al final del camino no había ningún jardín desde el que pudiera observar a los peregrinos que pasaban, siguió su camino e intentó suerte en otro sitio.
+
+---
+He walked with the other pilgrims for a while, then came over to me, but when I told him that there was no garden at the end of the path from which he could watch the pilgrims passing by, he carried on and tried his luck elsewhere.
+![](media/DSCF7102.webp)
 
 ![](media/20180518-160107.webp)
-
 
 ![](media/20180518-162525.webp)
 
