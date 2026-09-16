@@ -1,6 +1,6 @@
 ## Camino del Norte  2018
 
-### Etappe-10:  →  (Km)
+### Etappe-10: Islares "Playa Arenillas" → Laredo (21 Km)
 18  Mai 2018
 
 Auf dem Weg nach Laredo 
@@ -252,6 +252,7 @@ He walked with the other pilgrims for a while, then came over to me, but when I 
 ![](media/20180518-162901.webp)
 
 ---
+
 <details>
 <summary>  </summary>
 🇬🇧
@@ -259,6 +260,7 @@ He walked with the other pilgrims for a while, then came over to me, but when I 
 🇵🇹
 🇩🇪
 </details>
+
 ---
 
 **↪** [Etappe-11_Laredo_Guemes](Etappe-11_Laredo_Guemes.md)

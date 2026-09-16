@@ -24,7 +24,7 @@ Zeugnisse bessere Zeiten
 ![](media/20180525-120858.webp)
 
 ![](media/20180525-130847.webp)
-Spessarthof
+SH
 
 ![](media/20180525-132305.webp)
 
@@ -51,5 +51,4 @@ Spessarthof
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  
-
  ...→

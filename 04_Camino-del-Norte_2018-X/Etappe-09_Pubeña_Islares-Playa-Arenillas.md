@@ -1,6 +1,6 @@
 ## Camino del Norte  2018
 
-### Etappe-06: →  (Km)
+### Etappe-06: Pubeña → Islares "Playa Arenillas" (29 Km)
 17  Mai 2018
 
 
@@ -130,6 +130,7 @@ No sé si se cuenta entre los alojamientos más económicos para peregrinos, per
 Creo que subirse a un avión y cruzar océanos para ver un monito en la selva es mucho más interesante que tener un parque de safaris justo al lado de casa.
 
 ---
+
 <details>
 <summary>  </summary>
 🇬🇧
@@ -137,9 +138,10 @@ Creo que subirse a un avión y cruzar océanos para ver un monito en la selva es
 🇵🇹
 🇩🇪
 </details>
+
 ---
 
-**↪** [Etappe-10__Islares-Playa-Arenillas_Laredo](Etappe-10__Islares-Playa-Arenillas_Laredo.md)
+**↪** [Etappe-10_Islares-Playa-Arenillas_Laredo](Etappe-10_Islares-Playa-Arenillas_Laredo.md)
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  

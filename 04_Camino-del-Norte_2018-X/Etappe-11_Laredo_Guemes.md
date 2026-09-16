@@ -17,7 +17,6 @@ Um lugar onde eu gostaria de voltar.
 
 
 
-
 ![](media/20180519-081620.webp)
 
 ![](media/20180519-081736.webp)
@@ -88,6 +87,7 @@ Por favor, no le pidas a Dios que separe el mar para que puedas cruzarlo, porque
 
 ![](media/20180519-191726-164052.webp)
 
+---
 
 <details>
 <summary>  </summary>
@@ -103,5 +103,4 @@ Por favor, no le pidas a Dios que separe el mar para que puedas cruzarlo, porque
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  
-
  ...→

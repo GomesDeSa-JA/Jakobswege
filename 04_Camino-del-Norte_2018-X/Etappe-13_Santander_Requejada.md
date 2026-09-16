@@ -199,6 +199,7 @@ I have to admit that, in the past, I never worried about these details, and now 
 </details>
 
 ---
+
 <details>
 <summary>  </summary>
 🇬🇧
@@ -206,11 +207,11 @@ I have to admit that, in the past, I never worried about these details, and now 
 🇵🇹
 🇩🇪
 </details>
+
 ---
 
 **↪** [Etappe-14_Requejada_Cueva-de-Altamira](Etappe-14_Requejada_Cueva-de-Altamira.md)
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  
-
  ...→

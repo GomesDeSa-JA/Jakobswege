@@ -47,7 +47,6 @@ Una cabaña de madera por aquí, otra por allá a lo largo del camino… Sería 
 A wooden hut here, another one there along the path – that would be lovely for taking a break now and then.
 
 ---
-
 <details>
 <summary>  </summary>
 🇬🇧
@@ -55,14 +54,10 @@ A wooden hut here, another one there along the path – that would be lovely for
 🇵🇹
 🇩🇪
 </details>
-
 ---
-
-Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 
 **↪** [Etappe-05_Markina-Xemein_Elexalde-Mendata](Etappe-05_Markina-Xemein_Elexalde-Mendata.md)
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  
-
  ...→

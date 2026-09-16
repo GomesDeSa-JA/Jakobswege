@@ -366,6 +366,7 @@ Even today, I can remember that moment with complete clarity, as if it had happe
 ![](media/Albergue-Bide-One.webp)
 
 ---
+
 <details>
 <summary>  </summary>
 🇬🇧
@@ -373,6 +374,7 @@ Even today, I can remember that moment with complete clarity, as if it had happe
 🇵🇹
 🇩🇪
 </details>
+
 ---
 
 **↪** [Etappe-08_Portugalete_Pubeña](Etappe-08_Portugalete_Pubeña.md)

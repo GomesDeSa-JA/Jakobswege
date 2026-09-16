@@ -29,7 +29,6 @@
 
 ---
 
-
 - Udal Probalekua →  Elexalde Mendata (1,6Km)
 
 ![](media/20180513-143138.webp)
@@ -745,8 +744,8 @@ Elexalde = „Kirchendorf“
 **Artape Aterpetxea:** In dem Jahr 2018 haben wir, die Pilger, hier übernachtet.
 Ich habe keine aktuellen oder genaueren Informationen, aber die Albergue "Artape Aterpetxea, Elejalde, 7, 48382, Biscay, Spanien" existiert nicht mehr. Jetzt wird nur der Restaurant "Artape Jatetxea" betrieben.
 
-
 ---
+
 <details>
 <summary>  </summary>
 🇬🇧

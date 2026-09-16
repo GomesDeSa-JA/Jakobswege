@@ -1,6 +1,6 @@
 ## Camino del Norte  2018
 
-### Etappe-12:  →  (Km)
+### Etappe-12: Guemes → Santander (15,3 Km)
 20  Mai 2018
 
 
@@ -881,5 +881,4 @@ And yet, to me, they all speak of something similar: **setting out, accompanying
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  
-
  ...→

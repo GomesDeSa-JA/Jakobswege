@@ -65,6 +65,7 @@ Tanto eu como esse peregrino falávamos um inglês fraco, mas o suficiente para 
 
 
 ---
+
 <details>
 <summary>  </summary>
 🇬🇧
@@ -72,6 +73,7 @@ Tanto eu como esse peregrino falávamos um inglês fraco, mas o suficiente para 
 🇵🇹
 🇩🇪
 </details>
+
 ---
 
 **↪** [Etappe-16_Serdio_Poo-de-Llanes](Etappe-16_Serdio_Poo-de-Llanes.md)

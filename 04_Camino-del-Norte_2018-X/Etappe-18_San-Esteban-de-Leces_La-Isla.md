@@ -8,12 +8,12 @@
 ![](media/20180526-074736.webp)
 
 
-- **Albergue de Peregrinos de San Esban de Leces**
+- **Albergue de Peregrinos de San Esteban de Leces**
 
 ![](media/20180526-075132.webp)
 Alles was  geschen ist, kann ich abrufen.
 
-Como o tempo já não dava para chegar a Villavicioso, decidi começar o dia com mais calma e tirei umas fotos antes de partir, quando alguém me disse Hombre assi nunca chegas a Santiago. 
+Como o tempo já não dava para chegar a Villaviciosa, decidi começar o dia com mais calma e tirei umas fotos antes de partir, quando alguém me disse "Hombre assim nunca chegas a Santiago". 
 
 Sim ele tinha toda a razão mas mesmo que eu saísse do Albergue ás tantas da medrugada, não era num dia que eu ia chegar a Santiago. 
 
@@ -65,6 +65,7 @@ Sim ele tinha toda a razão mas mesmo que eu saísse do Albergue ás tantas da m
 It’s interesting to think about where we stop to take a photograph.
 
 ---
+
 <details>
 <summary>  </summary>
 🇬🇧
@@ -81,7 +82,6 @@ It’s interesting to think about where we stop to take a photograph.
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  
-
  **...→ Eines Tages mache ich hier weiter**
 
 <details>

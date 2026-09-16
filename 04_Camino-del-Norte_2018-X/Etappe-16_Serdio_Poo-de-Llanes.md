@@ -1,6 +1,6 @@
 ## Camino del Norte  2018
 
-### Etappe-14: →  (Km)
+### Etappe-14: Serdio → Poo de Llanes (36 Km)
 24  Mai 2018
 
 
@@ -422,6 +422,51 @@ Sin embargo, las investigaciones científicas revelan umbrales sorprendentemente
 - Kreuzallergien: Personen mit einer bekannten Allergie gegen Senf oder andere Kreuzblütler (wie Kresse, Rettich oder Kohl) sollten beim Verzehr vorsichtig sein, da Kreuzreaktionen auftreten können.
 - Gegenanzeigen: Wegen der schleimhautreizenden Wirkung der Senföle sollte die Pflanze bei Magen- oder Darmgeschwüren sowie bei Nierenerkrankungen nicht verzehrt werden. Große Mengen können zu Magenbeschwerden führen.
 
+---
+Essbare Pflanzenteile
+
+- **Blätter:** Junge Blätter schmecken würzig-pikanter als die älteren und passen perfekt in Salate, auf Butterbrote oder in den Quark.
+
+- **Blüten:** Die leuchtenden Blüten haben ein milderes, leicht süß-scharfes Aroma und eignen sich hervorragend als dekorative und essbare Garnitur.
+
+- **Knospen & Stiele:** Geschlossene Blütenknospen sowie die Stiele können ebenfalls verzehrt werden.
+
+- **Samen (Früchte):** Die grünen, unreifen Samenkapseln lassen sich in Essig und Salz einlegen und wie Kapern verwenden („falsche Kapern“)
+
+#### Drei kulinarische Delikatessen aus den verschiedenen Teilen der Kapuzinerkresse
+
+1. Blätter: Kapuzinerkresse-Pesto (Pesto)
+
+- **Zutaten:** 2 Handvoll Kapuzinerkresseblätter, 50g geröstete Pinienkerne oder Walnüsse, 50g Parmesan, 1 Knoblauchzehe, ca. 100ml gutes Olivenöl, Salz und Pfeffer.
+- **Zubereitung:** Alle Zutaten in einem Mixer fein pürieren. Das Olivenöl langsam einfließen lassen, bis eine cremige Konsistenz entsteht. Perfekt zu Pasta oder als Aufstrich.
+
+2. Blüten: Gefüllte Blüten-Häppchen (Fingerfood)
+
+- **Zutaten:** 12 frische Blüten, 150g Ziegenfrischkäse (oder normaler Frischkäse), 1 EL Honig, Abrieb einer Bio-Zitrone, fein gehackte Kräuter (z.B. Schnittlauch), Salz.
+- **Zubereitung:** Den Frischkäse mit Honig, Zitronenabrieb, Kräutern und einer Prise Salz glattrühren. Die Masse vorsichtig mit einem Spritzbeutel in die Blütenkelche füllen. Kalt servieren.
+
+3. Knospen & Stiele: Eingelegte Knospen & Stiel-Pickles („Falsche Kapern“)
+
+- **Zutaten:** 1 Tasse feste Knospen und junge Stiele (in 1 cm Stücke geschnitten), 150ml Weißweinessig, 100ml Wasser, 1 TL Salz, 1 TL Zucker, Gewürze (Pfefferkörner, Senfsaat).
+- **Zubereitung:** Knospen und Stiele in ein steriles Glas geben. Essig, Wasser, Salz, Zucker und Gewürze aufkochen. Den heißen Sud über die Knospen gießen, das Glas verschließen und vor dem Verzehr mindestens 2 Wochen ziehen lassen.
+
+---
+
+Da du den Geschmackskontrast im Salat bereits magst, wirst du die anderen Pflanzenteile lieben – sie bringen nämlich noch einmal ganz andere Texturen und eine intensivere Würze mit:
+
+- **Die Blätter im Salat:** Du kannst die Blätter einfach wie normalen Blattsalat verwenden. Junge, kleinere Blätter sind zarter. Sie schmecken deutlich **senfartiger und schärfer** als die Blüten (ähnlich wie Rucola oder Radieschen) und geben einem klassischen Blattsalat sofort einen kräftigen Kick.
+    
+- **Die Stiele für den Crunch:** Wenn du die jungen Stiele in kleine Röllchen schneidest (wie Schnittlauch), bringen sie einen tollen, knackigen **Crunch** und eine feine Schärfe in den Salat oder in das Salatdressing.
+---
+
+**Blätter (Mai bis zum Frost):** Sobald die Pflanze im Frühjahr kräftig genug gewachsen ist, kannst du durchgehend frische Blätter abzupfe
+
+**Blüten & Knospen (Juni bis zum Frost):** In den Sommermonaten (Juli und August) erreicht die Blüte ihren Höhepunkt. Die Pflanze bildet parallel immer wieder neue geschlossene Knospen nach.
+
+**Grüne Samen (August bis Oktober):** Sobald eine Blüte verblüht ist, bilden sich die dicken, dreiteiligen grünen Samenkapseln. Diese solltest du ernten, solange sie noch knackig-grün und saftig sind (perfekt für die „falschen Kapern“). Warte nicht, bis sie braun und trocken werden, es sei denn, du möchtest Saatgut fürs nächste Jahr sammeln
+
+**Wichtiger Herbst-Tipp:** Kapuzinerkresse ist extrem **frostempfindlich**. Sobald die ersten eisigen Nächte im Herbst drohen, solltest du eine „Großernte“ starten und alles verarbeiten, da die Pflanze beim ersten Frost komplett erfriert
+
 </details>
 
 ---
@@ -438,6 +483,27 @@ Sin embargo, las investigaciones científicas revelan umbrales sorprendentemente
 - Alergias Cruzadas: Las personas con alergia conocida a la mostaza o a otras plantas crucíferas (como el berro, el rábano o la col) deben tener precaución, ya que pueden producirse reacciones cruzadas.
 - Contraindicaciones: Debido al efecto irritante de los aceites de mostaza en las mucosas, no debe consumirse en caso de úlceras gástricas o intestinales, ni en enfermedades renales. Consumir grandes cantidades puede causar molestias estomacales.
 
+---
+
+#### Tres delicias culinarias elaboradas con diferentes partes de la capuchina
+
+1. Hojas: Pesto de Hojas de Capuchina
+
+- **Ingredientes:** 2 puñados de hojas de capuchina, 50g de piñones o nueces tostadas, 50g de queso parmesano, 1 diente de ajo, aprox. 100ml de aceite de oliva de calidad, sal y pimienta.
+    
+- **Preparación:** Triture todos los ingredientes en una batidora. Vierta el aceite de oliva poco a poco hasta obtener una textura cremosa. Ideal para pastas o tostadas.
+
+2. Flores: Flores Rellenas Gourmet
+
+- **Ingredientes:** 12 flores frescas, 150g de queso de cabra blando (o queso crema), 1 cucharada de miel, ralladura de un limón orgánico, hierbas finamente picadas (ej. cebollino), sal.
+- **Preparación:** Mezcle el queso con la miel, la ralladura de limón, las hierbas y una pizca de sal. Rellene con cuidado los cálices de las flores usando una manga pastelera. Sirva frío.
+
+3. Capullos y Tallos: Encurtido de Capullos y Tallos ("Falsas Alcaparras")
+
+- **Ingredientes:** 1 taza de capullos firmes y tallos jóvenes (cortados en trozos de 1 cm), 150ml de vinagre de vino blanco, 100ml de agua, 1 cucharadita de sal, 1 cucharadita de azúcar, especias (pimienta en grano, semillas de mostaza).
+- **Preparación:** Coloque los capullos y tallos en un frasco esterilizado. Hierva el vinagre, el agua, la sal, el azúcar y las especias. Vierta el líquido caliente sobre los capullos, cierre el frasco y deje reposar al menos 2 semanas antes de consumir.
+
+
 </details>
 
 ---
@@ -453,6 +519,25 @@ Sin embargo, las investigaciones científicas revelan umbrales sorprendentemente
 -  **Allergic Reactions:** The mustard oils contained in the plant can trigger allergic contact dermatitis (redness, itching, blistering) upon direct skin contact.
 - **Cross-Allergies:** Individuals with a known allergy to mustard or other cruciferous vegetables (such as cress, radish, or cabbage) should be cautious, as cross-reactivity may occur.
 - **Contraindications:** Due to the mucosal-irritating effect of the mustard oils, the plant should not be consumed by people with stomach or intestinal ulcers, or kidney diseases. Ingesting large amounts can cause gastrointestinal distress.
+
+---
+
+#### Three culinary delicacies made from different parts of the nasturtium
+
+1. Leaves: Nasturtium Leaf Pesto
+
+- **Ingredients:** 2 handfuls of nasturtium leaves, 50g toasted pine nuts or walnuts, 50g Parmesan cheese, 1 garlic clove, approx. 100ml quality olive oil, salt, and pepper.
+- **Preparation:** Blend all ingredients in a food processor. Slowly drizzle in the olive oil until smooth and creamy. Perfect for pasta or as a spread.
+
+2. Flowers: Stuffed Blossom Bites
+
+- **Ingredients:** 12 fresh blossoms, 150g goat cheese (or cream cheese), 1 tbsp honey, zest of an organic lemon, finely chopped herbs (e.g., chives), salt.
+- **Preparation:** Mix the cheese with honey, lemon zest, herbs, and a pinch of salt until smooth. Carefully pipe the mixture into the flower calyxes using a pastry bag. Serve chilled.
+
+3. Buds & Stems: Pickled Buds & Stems ("False Capers")
+
+- **Ingredients:** 1 cup of firm buds and young stems (cut into 1 cm pieces), 150ml white wine vinegar, 100ml water, 1 tsp salt, 1 tsp sugar, spices (peppercorns, mustard seeds).
+- **Preparation:** Place the buds and stems in a sterilized jar. Bring the vinegar, water, salt, sugar, and spices to a boil. Pour the hot liquid over the buds, seal the jar, and let it cure for at least 2 weeks before eating.
 
 </details>
 
@@ -472,6 +557,27 @@ Hier ist eine separate, prägnante Hinweis-Beschreibung zu dem Allergierisiko de
 - Alergias Cruzadas: Indivíduos com alergia conhecida à mostarda ou a outras plantas crucíferas (como agrião, rábano ou couve) devem ser cautelosos, pois podem ocorrer reações cruzadas.
 - Contraindicações: Devido ao efeito irritante dos óleos de mostarda nas mucosas, a planta não deve ser consumida por pessoas com úlceras gástricas ou intestinais, ou doenças renais. O consumo de grandes quantidades pode causar desconforto gastrointestinal.
 
+---
+
+#### Três iguarias culinárias preparadas com diferentes partes da capuchinha
+
+1. Folhas: Pesto de Folhas de Capuchinha
+
+- **Ingredientes:** 2 punhados de folhas de capuchinha, 50g de pinhões ou nozes torradas, 50g de queijo parmesão, 1 dente de alho, aprox. 100ml de azeite de oliva de qualidade, sal e pimenta.
+- **Preparação:** Triture todos os ingredientes num liquidificador ou processador. Adicione o azeite lentamente até obter uma consistência cremosa. Perfeito para massas ou torradas.
+
+2. Flores: Flores Recheadas Gourmet
+
+- **Ingredientes:** 12 flores frescas, 150g de queijo de cabra cremoso (ou requeijão), 1 colher de sopa de mel, raspa de um limão biológico, ervas finamente picadas (ex. cebolinho), sal.
+    
+- **Preparação:** Misture o queijo com o mel, as raspas de limão, as ervas e uma pitada de sal até ficar homogéneo. Com um saco de confeiteiro, recheie cuidadosamente o interior das flores. Sirva frio.
+
+3. Botões e Caules: Conserva de Botões e Caules ("Falsas Alcaparras")
+
+- **Ingredientes:** 1 chávena de botões firmes e caules jovens (cortados em pedaços de 1 cm), 150ml de vinagre de vinho branco, 100ml de água, 1 colher de chá de sal, 1 colher de chá de açúcar, especiarias (pimenta em grão, sementes de mostarda).
+- **Preparação:** Coloque os botões e caules num frasco esterilizado. Ferva o vinagre, a água, o sal, o açúcar e as especiarias. Despeje o líquido quente sobre os botões, feche o frasco e deixe apurar por pelo menos 2 semanas antes de consumir.
+
+
 </details>
 
 ---
@@ -480,7 +586,7 @@ Ich habe nicht in diese Albergue übernachtet, aber es hat mir gefallen.
 
 ![](media/20180524-181756.webp)
 
-#### Ankunft in Poo de Llanes nach ca. 38 km
+#### Ankunft in Poo de Llanes nach ca. 37 km
 * **Schwierigkeit:** Extrem (Meine Top 2 der härtesten Etappen) auf diesem Weg
 * **Datum der Wanderung: **Mai  2018
 
@@ -494,7 +600,7 @@ Denn was ich damals gefühlt habe, habe ich nicht gemerkt, weil ich zu müde war
 
 #### Der lange Marsch und der "analoge" Rettungsanker
 
-Nach fast 38 brutal langen Kilometern von Serdio aus – vorbei an der Grenze zu Asturien und den kräftezehrenden Klippenpfaden bei Pendueles – kam ich völlig erschöpft in Poo de Llanes an. Es zählte sprichwörtlich jeder Meter. 
+Nach fast 37 brutal langen Kilometern von Serdio aus – vorbei an der Grenze zu Asturien und den kräftezehrenden Klippenpfaden bei Pendueles – kam ich völlig erschöpft in Poo de Llanes an. Es zählte sprichwörtlich jeder Meter. 
 
 Ich hatte das bekannte (deutsche) „Gelbe Buch“ (*Nordweg – Camino del Norte* aus dem Outdoor-Verlag) dabei, in dem die Etappen und Herbergen beschrieben waren. Als ich die im Buch angegebene Herberge mit GPS suchen wollte, der Schock: **Mein Akku war komplett leer.** 
 
@@ -531,7 +637,7 @@ O drama captado por Ki
 
 #### A longa caminhada e a «âncora de salvação» analógica
 
-Após quase 38 quilómetros brutalmente longos a partir de Serdio — passando pela fronteira com as Astúrias e pelos extenuantes trilhos ao longo das falésias em Pendueles —, cheguei completamente exausto a Poo de Llanes. Literalmente, cada metro contava.
+Após quase 37 quilómetros brutalmente longos a partir de Serdio — passando pela fronteira com as Astúrias e pelos extenuantes trilhos ao longo das falésias em Pendueles —, cheguei completamente exausto a Poo de Llanes. Literalmente, cada metro contava.
 
 Tinha comigo o conhecido «Livro Amarelo» (alemão) (*Nordweg – Camino del Norte*, da editora Outdoor), onde estavam descritas as etapas e os albergues. Quando quis localizar o albergue indicado no livro com o GPS, tive um choque: **a minha bateria estava completamente descarregada.**
 
@@ -570,7 +676,7 @@ El drama captado por Ki
 
 #### La larga marcha y el salvavidas «analógico»
 
-Tras casi 38 kilómetros brutalmente largos desde Serdio —pasando por la frontera con Asturias y los agotadores senderos por los acantilados de Pendueles—, llegué completamente exhausto a Poo de Llanes. Literalmente, cada metro contaba.
+Tras casi 37 kilómetros brutalmente largos desde Serdio —pasando por la frontera con Asturias y los agotadores senderos por los acantilados de Pendueles—, llegué completamente exhausto a Poo de Llanes. Literalmente, cada metro contaba.
 
 Llevaba conmigo el conocido «Libro Amarillo» (alemán) (*Nordweg – Camino del Norte*, de la editorial Outdoor), en el que se describían las etapas y los albergues. Cuando quise buscar con el GPS el albergue indicado en el libro, me llevé una sorpresa: **mi batería estaba completamente agotada.**
   
@@ -608,7 +714,7 @@ The drama captured by Ki
 
 #### The Long March and the ‘Analogue’ Lifeline
 
-After nearly 38 gruelling kilometres from Serdio – past the border with Asturias and the exhausting cliff paths near Pendueles – I arrived in Poo de Llanes completely exhausted. Every single metre literally counted.
+After nearly 37 gruelling kilometres from Serdio – past the border with Asturias and the exhausting cliff paths near Pendueles – I arrived in Poo de Llanes completely exhausted. Every single metre literally counted.
 
 I had the well-known (German) ‘Yellow Book’ (*Nordweg – Camino del Norte* published by Outdoor-Verlag) with me, which described the stages and hostels. When I tried to locate the hostel mentioned in the book using GPS, I was in for a shock: **my battery was completely flat.**
 
@@ -634,6 +740,7 @@ Right at that magical, cinematic moment – in the middle of the conversation an
 </details>
 
 ---
+
 <details>
 <summary>  </summary>
 🇬🇧
@@ -641,6 +748,7 @@ Right at that magical, cinematic moment – in the middle of the conversation an
 🇵🇹
 🇩🇪
 </details>
+
 ---
 
 **↪** [Etappe-17_Serdio-Val-de-San-Vicente_San-Esteban-de-Leces](Etappe-17_Serdio-Val-de-San-Vicente_San-Esteban-de-Leces.md)

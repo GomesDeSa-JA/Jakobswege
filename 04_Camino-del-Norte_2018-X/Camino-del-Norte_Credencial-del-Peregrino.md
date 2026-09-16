@@ -16,6 +16,7 @@ Tenho que analisar as fotos para saber onde pernoitei
 
 ![](media/2018_Credencial-del-Peregrino_Camino-del-Norte_incompleto-6.webp)
 
+---
 
 <details>
 <summary>  </summary>

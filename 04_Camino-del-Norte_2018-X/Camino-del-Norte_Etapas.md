@@ -54,7 +54,7 @@ Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 17 de Maio de 2018
 
 ---
-#### [Etappe-10__Islares-Playa-Arenillas_Laredo](Etappe-10__Islares-Playa-Arenillas_Laredo.md)
+#### [Etappe-10_Islares-Playa-Arenillas_Laredo](Etappe-10_Islares-Playa-Arenillas_Laredo.md)
 18 de Maio de 2018
 
 
@@ -106,16 +106,6 @@ DD de MMMM de 20xx
 
 
 ---
-
----
-
----
-
-
-
-
-
-
 <details>
 <summary>  </summary>
 🇵🇹
@@ -123,8 +113,6 @@ DD de MMMM de 20xx
 🇬🇧
 🇪🇸
 </details>
-
-
 ---
 
 **↪** [Readme](Readme.md)
