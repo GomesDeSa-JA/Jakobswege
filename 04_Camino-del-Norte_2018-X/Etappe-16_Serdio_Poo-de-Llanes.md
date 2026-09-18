@@ -587,7 +587,7 @@ Ich habe nicht in diese Albergue übernachtet, aber es hat mir gefallen.
 ![](media/20180524-181756.webp)
 
 #### Ankunft in Poo de Llanes nach ca. 37 km
-* **Schwierigkeit:** Extrem (Meine Top 2 der härtesten Etappen) auf diesem Weg
+* **Schwierigkeit:** Extrem (Meine Top 2 der härtesten Etappen auf diesem Weg
 * **Datum der Wanderung: **Mai  2018
 
 <details>
@@ -621,7 +621,7 @@ Genau in diesem magischen, filmreifen Moment – mitten im Gespräch und sichtli
 * **Lage:** Camino de la Playa, 36, Poo de Llanes
 * **Erfahrung:** Ein absolut genialer Zufluchtsort mit entspannte Öko-Atmosphäre, der den harten Tag gerettet hat.
 
-![](Sra-da-Albergue-faleceu-chovia-voltei-para-trás-dormitoriopequeno-lugarscomunsJardimsuper.webp)
+![](media/Sra-da-Albergue-faleceu-chovia-voltei-para-trás-dormitoriopequeno-lugarscomunsJardimsuper.webp)
 
 </details>
 
@@ -699,7 +699,7 @@ Justo en ese momento mágico, digno de una película —en plena conversación y
 * **Ubicación:** Camino de la Playa, 36, Poo de Llanes
 
 * **Experiencia:** Un refugio absolutamente genial con un ambiente ecológico y relajado que me salvó de un día agotador.
-* 
+
 </details>
 
 ---
@@ -721,13 +721,13 @@ I had the well-known (German) ‘Yellow Book’ (*Nordweg – Camino del Norte* 
 At that moment, I had to resort to a somewhat old-fashioned means of communication. As soon as I spotted a local lady, I went up to her and said:
 
 > “Buenas Tardes and Perdón, could you please tell me where the pilgrims’ hostel is?”
-
-I showed her the address from the Yellow Book. The lady looked at me and replied: **“It’s closed. Because someone has died.”**
+> showed her the address from the Yellow Book. The lady looked at me and replied: **“It’s closed. Because someone has died.”**
 
 > Historical background: The end of “La Cambarina”
 
 > The legendary, traditional private hostel *Albergue Casa de Peregrinos “La Cambarina”* closed permanently during this very period (summer 2018). The warm-hearted hospitalera, Amalia, had passed away at the age of 87. This marked the end of a chapter in the history of the Camino del Norte.
-> 
+
+
 Fortunately, the lady in the village reacted immediately and recommended the **Casa Verde** (Albergue Llanes Playa de Poo) as an alternative. She showed me the way and said: *“Go that way, then turn off down this narrow lane.”*
 
 Right at that magical, cinematic moment – in the middle of the conversation and clearly at the end of my tether – the Asturian skies opened up and it started to rain. Casa Verde was my last-minute salvation.
@@ -756,3 +756,52 @@ Right at that magical, cinematic moment – in the middle of the conversation an
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  
  ...→
+
+<details>
+<summary>🇩🇪  [!TIP] Meine Camino-Philosophie: Die Dynamik des Weges </summary>
+
+Zwischen meinem ersten gelben Buch für den *Camino Francés* (2012) und meinem letzten für den *Camino del Norte* (2018) habe ich eine fundamentale Lektion gelernt: **Die Dinge auf dem Weg ändern sich viel zu schnell.**
+
+> Weder gedruckte Führer noch Plattformen wie *Gronze.com* sind immer absolut aktuell. Unterkünfte schließen durch Todesfälle (wie *La Cambarina*), neue Hostels öffnen, Routen werden verlegt.
+
+>**Mein Rat für dieses Logbuch:** Richte dich mental darauf ein, **dass nichts so bleibt,  wie es mal war**. Die beste Ausrüstung eines Pilgers ist weder das GPS  noch ein Buch, sondern die Fähigkeit improvisieren zu können und den Menschen auf deinem Weg zu vertrauen.
+
+</details>
+
+---
+<details>
+<summary>🇵🇹 [!TIP] A minha filosofia do Caminho: A dinâmica do Caminho</summary>
+
+Entre o meu primeiro guia amarelo para o *Camino Francés* (2012) e o meu último para o *Camino del Norte* (2018), aprendi uma lição fundamental: **As coisas no caminho mudam demasiado depressa.**
+
+> Nem os guias impressos nem plataformas como o *Gronze.com* estão sempre absolutamente atualizados. Os alojamentos fecham devido a falecimentos (como *La Cambarina*), abrem-se novos albergues, os percursos são alterados.
+
+>**O meu conselho para este diário de viagem:** prepara-te mentalmente para o facto de **que nada permanece como era antes**. O melhor equipamento de um peregrino não é nem o GPS nem um livro, mas sim a capacidade de improvisar e de confiar nas pessoas que encontras no teu caminho.
+
+</details>
+
+---
+<details>
+<summary>🇪🇸 [!TIP] Mi filosofía del Camino: La dinámica del Camino </summary>
+
+Entre mi primera guía amarilla para el *Camino Francés* (2012) y la última para el *Camino del Norte* (2018), he aprendido una lección fundamental: **Las cosas cambian demasiado rápido en el camino.**
+
+> Ni las guías impresas ni plataformas como *Gronze.com* están siempre totalmente actualizadas. Los alojamientos cierran por fallecimientos (como *La Cambarina*), se abren nuevos albergues y se modifican las rutas.
+
+>**Mi consejo para este diario de viaje:** prepárate mentalmente para **que nada siga siendo como era antes**. El mejor equipo de un peregrino no es ni el GPS ni un libro, sino la capacidad de improvisar y de confiar en las personas que te encuentras por el camino.
+
+</details>
+
+---
+<details>
+<summary>🇬🇧 [!TIP] My Camino philosophy: The dynamics of the journey</summary>
+
+[!TIP] My Camino philosophy: The dynamics of the journey
+
+Between my first yellow guidebook for the *Camino Francés* (2012) and my last one for the *Camino del Norte* (2018), I learnt a fundamental lesson: **Things change far too quickly along the way.**
+
+> Neither printed guidebooks nor platforms such as *Gronze.com* are always completely up to date. Accommodation closes due to deaths (such as *La Cambarina*), new hostels open, and routes are re-routed.
+
+>**My advice for this logbook:** Prepare yourself mentally for the fact **that nothing stays the way it used to be**. A pilgrim’s best equipment is neither a GPS nor a book, but the ability to improvise and to trust the people you meet along the way.
+
+</details>

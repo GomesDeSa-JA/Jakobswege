@@ -3,6 +3,46 @@
 ### Etappe-12: Guemes → Santander (15,3 Km)
 20  Mai 2018
 
+<details>
+<summary> 🇬🇧 🇪🇸 15,3 Km ? 🇵🇹 🇩🇪   </summary>
+
+
+🇩🇪  Es waren keine 15,3 km, es waren etwas weniger,
+
+..., ... .
+
+denn ich habe noch immer die Gesichtsausdrücke der anderen Pilger vor Augen, die am Wegesrand entlanggingen; aber man fragte sie, und auch sie hatten dieselbe Gelegenheit gehabt, doch sie hatten es eilig und brachen schon früh am Morgen auf, noch bevor die ersten Sonnenstrahlen die Nebelschicht durchdrungen hatten, die über dem Himmel lag.
+
+Ich und einige andere Pilger legten weniger Kilometer zurück als die anderen und kamen dennoch später in Santander an.
+
+---
+
+🇪🇸 No fueron 15,3 km, fueron un poco menos,
+
+..., ... .
+
+pues aún tengo ante mis ojos las expresiones faciales de los demás peregrinos que caminaban al borde del camino; pero se les preguntó, y ellos también habían tenido la misma oportunidad, pero tenían prisa y partieron a primera hora de la mañana, incluso antes de que los primeros rayos de sol penetraran en la capa de niebla que se cernía sobre el cielo.
+
+Algunos peregrinos y yo recorrimos menos kilómetros que los demás y, aun así, llegamos más tarde a Santander
+
+---
+
+🇬🇧 It wasn’t 15.3 km, it was a little less,
+
+..., ... .
+
+for I can still picture the expressions on the faces of the other pilgrims walking along the roadside; but they were asked, and they too had had the same opportunity, yet they were in a hurry and set off early in the morning, even before the first rays of sunlight had pierced the layer of mist hanging in the sky.
+I and a few other pilgrims covered fewer kilometres than the others, and yet we arrived in Santander later.
+
+---
+
+🇵🇹 Não foram 15,3 km, foram um pouco menos,
+
+..., ... .
+
+pois ainda tenho diante dos olhos as expressões faciais dos outros peregrinos que caminhavam à beira do caminho; mas perguntou-se-lhes, e também eles tinham tido a mesma oportunidade, mas estavam com pressa e partiram logo de manhã cedo, ainda antes de os primeiros raios de sol terem penetrado na camada de nevoeiro que pairava sobre o céu.
+Eu e alguns outros peregrinos percorremos menos km do que os outros e, mesmo assim, chegámos mais tarde a Santander
+</details>
 
 ![](media/20180520-075857.webp)
 
@@ -146,7 +186,7 @@ Quando percebemos isso, as nossas próprias queixas perderam importância e deix
 
 Admirei aquela senhora pela sua caminhada e, inicialmente, esqueci-me do esforço da filha – a sua companheira de viagem, que também cuidava para que ela se mantivesse quente na albergaria, que era um pouco  fria.
 
-A filha também já tinha mais de sessenta anos. Tinha organizado o voo de Filadélfia para a Europa, para um Continente de onde a mãe tinha fugido nos anos 1930.
+A filha também já tinha mais de cinquenta e cinco anos. Tinha organizado o voo de Filadélfia para a Europa, para um Continente de onde a mãe tinha fugido nos anos 1930.
 
 Naquele dia, que ainda hoje permanece muito vivo na minha memória, e durante aquele jantar, a filha ficou completamente em segundo plano. Estava simplesmente feliz por ver a alegria da mãe.
 
@@ -208,7 +248,6 @@ Mas, quando vi este cartão de visita, decidi escrever todas juntas – apesar d
 
 <details>
 <summary>Compañeros de viaje</summary>
-
 
 
 ### Una tarjeta de visita con cinco historias
@@ -421,7 +460,7 @@ Als wir das bemerkten, wurden unsere eigenen Klagen plötzlich kleiner. Wir lie�
 
 Ich bewunderte diese alte Dame für ihre Leistung. Dabei übersah ich zunächst die mindestens ebenso bemerkenswerte Leistung ihrer Tochter.
 
-Die Tochter war selbst schon über sechzig. Sie hatte die Reise von Philadelphia nach Europa organisiert – in ein Kontinent, aus dem ihre Mutter in den 1930er-Jahren geflohen war. Sie begleitete ihre Mutter auf dem Camino und kümmerte sich darum, dass sie auch in der etwas kälteren Herberge warm blieb.
+Die Tochter war selbst schon über fünfundfünfzig. Sie hatte die Reise von Philadelphia nach Europa organisiert – in ein Kontinent, aus dem ihre Mutter in den 1930er-Jahren geflohen war. Sie begleitete ihre Mutter auf dem Camino und kümmerte sich darum, dass sie auch in der etwas kälteren Herberge warm blieb.
 
 Und doch stand sie an diesem Abend völlig im Hintergrund.
 
@@ -443,6 +482,8 @@ Ich kann weder Bayerisch noch Schwäbisch. Aber ihrem Akzent nach würde ich ver
 
 Was mir von dieser Begegnung geblieben ist, ist weniger der Camino selbst als diese stille Form der Fürsorge: Ein Vater begleitet seine erwachsene Tochter ein Stück ihres Weges, bis er weiß, dass sie allein weitergehen kann.
 
+
+[Erinnerungsfragment](Erinnerungsfragment.md)
 
 #### 3. 2018 – Camino del Norte, Santillana del Mar
 
@@ -658,7 +699,7 @@ Cuando nos dimos cuenta, nuestras propias quejas nos parecieron de repente mucho
 
 Admiré a aquella mujer por su fortaleza y por lo que estaba consiguiendo. Pero al principio no reparé en el esfuerzo, quizá aún mayor, de su hija.
 
-La hija también tenía ya más de sesenta años. Había organizado el viaje desde Filadelfia hasta Europa, al Continente del que su madre había huido en los años treinta. La acompañaba en el Camino y se preocupaba de que su madre estuviera abrigada, incluso en aquel albergue que era algo más frío.
+La hija también tenía ya más de cincuenta y cinco años. Había organizado el viaje desde Filadelfia hasta Europa, al Continente del que su madre había huido en los años treinta. La acompañaba en el Camino y se preocupaba de que su madre estuviera abrigada, incluso en aquel albergue que era algo más frío.
 
 Y, sin embargo, aquella noche ella permaneció completamente en segundo plano.
 
@@ -679,6 +720,8 @@ Poco antes de Burgos, el padre decidió tomar el autobús hasta Burgos y organiz
 No hablo ni bávaro ni suabo. Pero, por el acento, diría que probablemente eran de Baden-Württemberg.
 
 Lo que me quedó de aquel encuentro no fue tanto el Camino como aquella forma silenciosa de cuidar: un padre acompaña a su hija adulta durante una parte de su recorrido, hasta saber que puede continuar sola.
+
+[Erinnerungsfragment](Erinnerungsfragment.md)
 
 #### 3. 2018 – Camino del Norte, Santillana del Mar
 
@@ -775,7 +818,7 @@ When we noticed this, our own complaints suddenly seemed much less important. We
 
 I admired this elderly woman for her strength and for what she was accomplishing. But at first, I failed to notice the perhaps even greater effort of her daughter.
 
-The daughter herself was already over sixty. She had organized the journey from Philadelphia to Europe, to the Continent country her mother had fled from in the 1930s. She accompanied her mother along the Camino and made sure she stayed warm, even in the somewhat colder hostel.
+The daughter herself was already over fifty-five. She had organized the journey from Philadelphia to Europe, to the Continent country her mother had fled from in the 1930s. She accompanied her mother along the Camino and made sure she stayed warm, even in the somewhat colder hostel.
 
 And yet, that evening, the daughter remained completely in the background.
 

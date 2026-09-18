@@ -27,7 +27,7 @@ Ich habe die Abstände zwischen den Zügen aus der Ferne abgeschätzt und dann g
 
 ---
 #### Bernoulli-Effekt 
-
+⚠️ 
 - Bezeichnung des Effekts: Bernoulli-Effekt / Aerodynamischer Sog (Druck- und Sogwellen).
 - Beschreibung: Ein schnell fahrender Zug verdrängt die Luft an der Spitze (Überdruck) und zieht die Luft an den Seiten mit sich. Durch die hohe Strömungsgeschwindigkeit der Luft direkt am Zug sinkt dort der Luftdruck (Bernoulli-Effekt). Da der Druck hinter einer Person normal bleibt, entsteht ein starker Sog in Richtung des Zuges.
 - Gefahr beim Laufen an Schienen: Wer zu nah an den Schienen läuft, wird durch die Druckwelle der Zugfront zuerst weggestoßen und verliert das Gleichgewicht. Direkt danach reißt der extreme Unterdruck (Sog) die Person unter oder gegen den fahrenden Zug. Zudem können durch den Fahrtwind Schottersteine aufgewirbelt werden, die wie Geschosse wirken.
@@ -47,7 +47,7 @@ Calculei a distância entre os comboios à distância e depois esperei até pode
 
 ---
 #### Princípio de Bernoulli 
-
+⚠️ 
 - Nome do efeito: Princípio de Bernoulli / Sucção aerodinâmica (Ondas de pressão e sucção).
 - Descrição: Um comboio (trem) em alta velocidade desloca o ar na parte frontal (pressão positiva) e arrasta o ar pelas laterais. De acordo com o princípio de Bernoulli, a alta velocidade do fluxo de ar junto ao veículo faz com que a pressão caia, gerando uma zona de baixa pressão (sucção). Como a pressão atrás de uma pessoa permanece normal, ela é empurrada em direção ao comboio.
 - Perigo ao caminhar ao longo dos carris (trilhos): Caminhar perto dos carris é extremamente perigoso. A onda de pressão inicial da frente do comboio pode desequilibrar a pessoa. Em seguida, a forte força de sucção pode puxar a pessoa para debaixo ou contra o comboio em movimento. Além disso, o vento forte pode arremessar pedras do balastro (britas), causando ferimentos graves.
@@ -67,7 +67,7 @@ Calculé a ojo las distancias entre los trenes desde lejos y luego esperé hasta
 
 ---
 #### Principio de Bernoulli 
-
+⚠️ 
 - Nombre del efecto: Principio de Bernoulli / Succión aerodinámica (Ondas de presión y succión).
 - Descripción: Un tren a alta velocidad desplaza el aire en la parte delantera (presión positiva) y arrastra el aire a sus lados. Según el principio de Bernoulli, la gran velocidad del aire junto al tren hace que la presión caiga, creando una zona de baja presión (efecto de succión). Como la presión detrás de una persona es normal, esta es empujada hacia el tren.
 - Peligro al caminar junto a las vías: Si alguien camina demasiado cerca, la onda de presión inicial del frente del tren puede hacerle perder el equilibrio. Justo después, la intensa fuerza de succión puede atraer a la persona debajo o contra el tren en movimiento. Además, el flujo de aire puede levantar piedras del balasto (grava) que actúan como proyectiles.
@@ -85,7 +85,8 @@ I estimated the distances between the trains from a distance and then waited unt
 ***In 2024, we took the train***
 
 ---
-
+#### **Bernoulli's principle**
+⚠️ 
 - Name of the effect: Bernoulli's principle / Aerodynamic suction (Pressure and suction waves).
 - Description: A fast-moving train displaces air at the front (positive pressure) and drags air along its sides. According to Bernoulli's principle, the high speed of the airflow next to the train causes the air pressure to drop, creating a low-pressure zone (suction). Since the atmospheric pressure behind a person remains normal, they are pushed toward the train.
 - Danger when walking along tracks: Walking too close to the tracks is extremely dangerous. The initial pressure wave from the nose of the train can knock you off balance. Immediately after, the powerful suction can pull you under or into the moving train. Additionally, the turbulent airflow can kick up ballast stones (gravel), which can cause severe injuries.
@@ -94,7 +95,7 @@ I estimated the distances between the trains from a distance and then waited unt
 ![](media/20180521-122305..webp)
 
 <details>
-<summary>Legal Alternatives </summary>
+<summary>⚠️ Legal Alternatives ⚠️</summary>
 
 #### 🇪🇸 Las alternativas seguras y legales
 

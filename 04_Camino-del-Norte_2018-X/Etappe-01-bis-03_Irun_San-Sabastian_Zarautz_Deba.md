@@ -392,11 +392,53 @@ Es waren 17:30 als dieses Foto gemacht worden ist und  ich wurde sagen San Juan 
 
 ---
 ### Etappe-02: San Sebastian  → Zarautz (21,0 km)
-**29 Juli 2015** (?)
+**30 August 2014** (?)
+
+- 28 August 2014
+
+![](media/20140828-180433.webp)
+Über die Wolken 
+![](media/20140828-195412.webp)
+
+![](media/20140830-112512.webp)
+
+![](media/20140830-113433.webp)
+
+![](media/20140830-131329.webp)
+
+![](media/20140830-144343.webp)
+
+![](media/20140830-145712.webp)
+
+![](media/20140830-145751.webp)
+
+2024  Recordações: Um curto bate-papo com o jovem Brasileiro
+2024 Erinnerungen: Ein kurzes Gespräch mit dem jungen Brasilianer
+
+![](media/20140830-150001.webp)
+
+![](media/20140830-181632.webp)
+
+![](media/20140830-184935.webp)
+
+![](media/20140830-185117.webp)
+
+![](media/20140830-185235.webp)
+
+![](media/20140830-191834.webp)
+
+![](media/20140830-191918.webp)
+
+ **Fotos  ↑ von 30 August  2014**
+
+### Etappe-03: Zarautz → Deba (21,0 km)
+**30 Juli 2015**(?Baum)
+
 
 🇩🇪 Ich habe noch mehr Fotos von diesen Wanderwegen. Leider kann ich die Fotos nicht mehr so einfach den Wanderwegen zuordnen, da sich beim Austausch des Akkus und der SD-Karte sowohl die Uhrzeit als auch die Nummerierung geändert haben.
 
 Aber ich erinnere mich noch genau an diese Fotos. Als ich in Zarautz ankam, setzte ich mich hin und genoss einfach dieses Spektakel.
+**Fotos ↓  von 30 Juli 2015** 
 
 ![](media/DSCF7044-FinePix-JZ300.webp)
 
@@ -411,6 +453,7 @@ Pero aún recuerdo perfectamente esas fotos. Cuando llegué a Zarautz, me senté
  🇵🇹  Tenho mais fotos destes percursos de caminhada. Infelizmente, já não consigo associar as fotos aos percursos com tanta facilidade, pois, ao trocar a bateria e o cartão SD, tanto a hora como a numeração mudaram.
 
 Mas ainda me lembro perfeitamente destas fotos. Quando cheguei a Zarautz, sentei-me e limitei-me a apreciar aquele espetáculo.
+
 ![](media/DSCF7049-FinePix-JZ300.webp)
 
 🇬🇧 I’ve got some more photos of these walking trails. Unfortunately, I can’t easily match the photos to the trails anymore, as both the time and the numbering changed when I swapped the battery and the SD card.
@@ -424,16 +467,9 @@ But I still remember these photos very clearly. When I arrived in Zarautz, I sat
 ![](media/DSCF7053-FinePix-JZ300.webp)
 
 
+Ein Baum volle Leben   ⁘   A tree full of life
 
----
-### Etappe-03: Zarautz → Deba (21,0 km)
-**30 Juli 2015**
-
-Ein Baum volle Leben  
-
- A tree full of life
-
- Un árbol lleno de vida
+ Un árbol lleno de vida   ⁘   Uma árvore cheia de vida
 
 ![](media/20150730-142935.webp)
 
