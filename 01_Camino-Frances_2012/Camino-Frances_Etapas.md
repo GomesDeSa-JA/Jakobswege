@@ -8,12 +8,12 @@
 **04 de Maio  –  06 de Junho 2012**
 
 ---
-#### 
+#### [Etapa-00_Bayonne_Saint-Jean-Pied-de-Port](Etapa-00_Bayonne_Saint-Jean-Pied-de-Port.md)
 04 de Maio de 2012
 
 
 ---
-####
+#### [Etapa-01_Saint-Jean-Pied-de-Port_Roncesvalles](Etapa-01_Saint-Jean-Pied-de-Port_Roncesvalles.md)
 05 de Maio de 2012
 
 

@@ -1,6 +1,6 @@
 ## Camino Francés  2012  
 
-### Etapa-00: Bayonne → Saint-Jean-Pied-de-Port ca. 55 Km + ca. 2 Km)
+### Etapa-00: Bayonne → Saint Jean Pied de Port (ca. 55 Km + ca. 2 Km)
 04 de Mai 2012
 
 <details>
@@ -63,6 +63,7 @@ El albergue donde pasé la noche había sido legado a los peregrinos en el testa
 </details>
 
 ---
+
 <details>
 <summary> 🇬🇧 Etapa-00 </summary>
 
@@ -91,6 +92,7 @@ The pilgrim hostel where I stayed had been left to future pilgrims in the will o
 </details>
 
 ---
+
 <details>
 <summary> 🇵🇹 Etapa-00 </summary>
 
