@@ -1,8 +1,7 @@
 ## Camino del Norte  2018
 
-### Etappe-14: →  (31,3 Km)
+### Etappe-14: Serdio (V. S. Vicente) → San Esteban de Leces (31,3 Km)
 24  Mai 2018
-
 
 ![](media/20180525-085556.webp)
 
@@ -11,8 +10,10 @@
 ![](media/20180525-095448.webp)
 
 ![](media/20180525-101051-.jpg)
-Zeugnisse bessere Zeiten
-
+Zeugnisse besserer Zeiten ,  
+Testemunhos de tempos melhores , 
+Reminders of better times , 
+Testimonios de tiempos mejores , 
 ![](media/20180525-101707.jpg)
 
 ![](media/20180525-103504.webp)
@@ -24,7 +25,6 @@ Zeugnisse bessere Zeiten
 ![](media/20180525-120858.webp)
 
 ![](media/20180525-130847.webp)
-SH
 
 ![](media/20180525-132305.webp)
 

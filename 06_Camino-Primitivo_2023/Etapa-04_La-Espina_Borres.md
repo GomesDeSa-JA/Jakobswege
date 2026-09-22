@@ -33,7 +33,6 @@ Wir trafen María auf dem Weg nicht wieder.
 ![](media/20230504-07_Fotos/20230505-093924_Rio.webp)
 
 ---
-
 #### 🇪🇸 Un breve encuentro
 
 María, de Gran Canaria, y su entusiasmo por los ríos, ya que en su tierra natal este tipo de paisajes no es habitual.

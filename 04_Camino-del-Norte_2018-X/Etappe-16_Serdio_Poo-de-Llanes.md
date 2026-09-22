@@ -33,7 +33,10 @@ Ob die Initiatoren mit dieser Performance genau das ausdrücken wollten, was ich
 
 Um es nicht zu vergessen, möchte ich einige Orte aufzählen, die mir in guter Erinnerung geblieben sind (nicht alle lagen auf meinem Jakobsweg):
 
-- **2014 – „San Gil“ bei Galisteo:** Das Ehepaar, das die dortige Social-Bar betrieb, hat mir die beste _Francesinha_ aller Zeiten zubereitet. Diese Bar war ein wunderbarer Treffpunkt für die Einheimischen während der Siesta oder am Abend. Ich weiß noch genau, wie ich mein Bier und die Köstlichkeiten genossen habe.  Pilger durften die Räumlichkeiten – vermutlich ein ehemaliges Bürgerhaus – zum Übernachten nutzen. Doch die Pilger vor mir hatten es so eilig, dass sie die Küche nicht so verlassen wie sie es vorgefunden haben . Ich verzichtete darauf, sie zu nutzen, und lief lieber 10 Kilometer weiter, um einen Kaffee zu trinken. 
+- **2014 – „San Gil“ bei Galisteo:** Das Ehepaar, das die dortige Social-Bar betrieb, hat mir die beste _Francesinha_ aller Zeiten zubereitet. Diese Bar war ein wunderbarer Treffpunkt für die Einheimischen während der Siesta oder am Abend. Ich weiß noch genau, wie ich mein Bier und die Köstlichkeiten genossen habe.  
+
+**Das Volkshaus oder das Gemeindehaus ?** 
+- Pilger durften die Räumlichkeiten – vermutlich ein ehemaliges Bürgerhaus – zum Übernachten nutzen. Doch die Pilger vor mir hatten es so eilig, dass sie die Küche nicht so verlassen wie sie es vorgefunden haben . Ich verzichtete darauf, sie zu nutzen, und lief lieber 10 Kilometer weiter, um einen Kaffee zu trinken. 
  
 Ich wünschte, ich könnte noch einmal nach San Gil  zurückkehren, um diese Spezialität in den Bar-Social  erneut zu genissen und die Stadt Galisteo zu besuchen, an der ich damals aus Zeitnot nur vorbeigelaufen bin.
 
@@ -58,13 +61,13 @@ In der Forschung lassen sich jedoch erstaunlich präzise Schwellenwerte für ver
 
 ### 1. In einer Gesellschaft: Die 10%-Regel und der Vertrauensverlust
 
-- Kipppunkt für Meinungen und Verhalten: Forscher des _Rensselaer Polytechnic Institute_ fanden heraus, dass es nur etwa 10 % der Bevölkerung braucht, die unerschütterlich an einer Überzeugung oder einem (auch Fehl-)Verhalten festhalten, damit sich diese Meinung schlagartig in der Mehrheitsgesellschaft durchsetzt.
-- Die Trittbrettfahrer-Grenze: Gesellschaften tolerieren ein gewisses Maß an „Trittbrettfahrern“ (Menschen, die Regeln brechen, wie Steuern hinterziehen oder Müll wegwerfen). Steigt diese Zahl jedoch über 15 % bis 20 %, kollabiert das soziale Vertrauen. Die ehrliche Mehrheit stellt sich dann die Frage: _„Warum soll ich mich noch an Regeln halten, wenn es die anderen auch nicht tun?“_ (Es droht die „Tragik der Allmende“, genau wie in Ihrem Küchen-Beispiel).
+**- Kipppunkt für Meinungen und Verhalten:** Forscher des _Rensselaer Polytechnic Institute_ fanden heraus, dass es nur etwa 10 % der Bevölkerung braucht, die unerschütterlich an einer Überzeugung oder einem (auch Fehl-)Verhalten festhalten, damit sich diese Meinung schlagartig in der Mehrheitsgesellschaft durchsetzt.
+- **Die Trittbrettfahrer-Grenze:**** Gesellschaften tolerieren ein gewisses Maß an „Trittbrettfahrern“ (Menschen, die Regeln brechen, wie Steuern hinterziehen oder Müll wegwerfen). Steigt diese Zahl jedoch über 15 % bis 20 %, kollabiert das soziale Vertrauen. Die ehrliche Mehrheit stellt sich dann die Frage: _„Warum soll ich mich noch an Regeln halten, wenn es die anderen auch nicht tun?“_ (Es droht die „Tragik der Allmende“, genau wie in Ihrem Küchen-Beispiel).
 
 ### 2. In einer Firma oder Institution: Die 5%-Faustregel
 
-- Verlust des Ansehens: Im Reputationsmanagement gilt: Wenn nur 1 % bis 5 % der Mitarbeiter systematisch schwerwiegendes Fehlverhalten (z. B. Korruption, Mobbing, schwere Mängel) zeigen und das Management nicht hart durchgreift, verliert die Firma in der Öffentlichkeit rapide an Ansehen.
-- Zerstörung der Kultur: Studien zur Arbeitsplatzdynamik zeigen, dass ein einziger „toxischer“ Mitarbeiter in einem Team von zehn Personen (10 %) ausreicht, um die Produktivität der gesamten Gruppe um bis zu 30 bis 40 % zu senken. Fehlverhalten wirkt ansteckend.
+- **Verlust des Ansehens:**** Im Reputationsmanagement gilt: Wenn nur 1 % bis 5 % der Mitarbeiter systematisch schwerwiegendes Fehlverhalten (z. B. Korruption, Mobbing, schwere Mängel) zeigen und das Management nicht hart durchgreift, verliert die Firma in der Öffentlichkeit rapide an Ansehen.
+- **Zerstörung der Kultur:**** Studien zur Arbeitsplatzdynamik zeigen, dass ein einziger „toxischer“ Mitarbeiter in einem Team von zehn Personen (10 %) ausreicht, um die Produktivität der gesamten Gruppe um bis zu 30 bis 40 % zu senken. Fehlverhalten wirkt ansteckend.
 
 ### 3. In einer Familie oder Partnerschaft: Die Gottman-Konstante (5:1)
 
@@ -107,7 +110,7 @@ Um gegen solche Zustände vorzugehen, braucht es einen Hebel an drei verschieden
 
 **Das Hauptproblem in den von Ihnen beschriebenen Systemen war, dass Fehlverhalten keine Konsequenzen hatte und Exzellenz nicht belohnt wurde. Gegenmaßnahmen umfassen:**
 
-- Leistungsorientierte Verträge: Die lebenslange Unkündbarkeit im öffentlichen Dienst muss an Qualitätsstandards gekoppelt werden. Wer seine Arbeitszeit im Café verbringt, muss abgemahnt und im Wiederholungsfall entlassen werden können.
+**- Leistungsorientierte Verträge:** Die lebenslange Unkündbarkeit im öffentlichen Dienst muss an Qualitätsstandards gekoppelt werden. Wer seine Arbeitszeit im Café verbringt, muss abgemahnt und im Wiederholungsfall entlassen werden können.
 - Trennung von öffentlicher und privater Praxis: In vielen Ländern (auch in Portugal) arbeiteten Ärzte morgens im chronisch überlasteten staatlichen Gesundheitssystem und nachmittags in ihrer gut bezahlten Privatpraxis. Das führt dazu, dass das staatliche System bewusst ineffizient gehalten wird, um Patienten in die Privatpraxis zu treiben. Eine strikte Trennung oder Exklusivitätsprämien für den öffentlichen Dienst lösen diesen Interessenkonflikt.
 - Ergebnisorientierte Finanzierung: Krankenhäuser und Gerichte werden nicht mehr nur nach "Anwesenheit" bezahlt, sondern nach der Anzahl und Qualität der gelösten Fälle (z. B. Reduzierung von Wartezeiten).
 
@@ -243,15 +246,18 @@ Vejam nesta foto como este albergue é bonito! As suas paredes azuis contrastam 
 
 Em 2024, porém, alguém encenou ali uma "peça de teatro visual". Presumo que tenha sido para chamar a atenção dos peregrinos e alertar para o comportamento de alguns caminhantes. Essa foi a minha interpretação; não sei se os criadores queriam transmitir exatamente o que senti. Mas foi uma imagem chocante, que doía de ver e dava vontade de desviar o olhar. Ficou gravada na minha memória até hoje.
 
-Este é um tema delicado: o peregrino ou caminhante é um hóspede e, como tal, é rei e é recebido como realeza. Mas o comportamento de algumas "vossas altezas" é tudo menos real. 
+**Este é um tema delicado:** o peregrino ou caminhante é um hóspede e, como tal, é rei e é recebido como realeza. Mas o comportamento de algumas "vossas altezas" é tudo menos real. 
 
 **Como chamar a atenção de um hóspede para o seu mau comportamento sem ofender a sua dignidade?**
 
 Para não esquecer, gostaria de listar alguns lugares que me deixaram boas recordações (nem todos no Caminho de Santiago):
 
-- **2014 – "San Gil" perto de Galisteo:** O casal responsável pelo bar social preparou-me a melhor francesinha de sempre. Aquele bar era um ponto de encontro agradável para os habitantes locais durante a sesta ou à noite. Lembro-me perfeitamente de saborear a minha cerveja e a francesinha. Os peregrinos podiam pernoitar no espaço, que parecia ser uma antiga casa do povo. No entanto, os peregrinos que vieram antes de mim tinham tanta pressa que não deixaram a cozinha tal como a encontraram. Desisti de cozinhar e preferi caminhar mais 10 km para tomar um café. Gostaria de um dia voltar lá, ao Bar-Social,  para saborear aquela iguaria e visitar a cidade de Galisteo, pela qual passei a correr na altura por falta de tempo.
+- **2014 – "San Gil" perto de Galisteo:** O casal responsável pelo bar social preparou-me a melhor francesinha de sempre. Aquele bar era um ponto de encontro agradável para os habitantes locais durante a sesta ou à noite. Lembro-me perfeitamente de saborear a minha cerveja e a francesinha. 
 
-**- 2020 – Serra da Estrela:** Estive lá como "refugiado da pandemia", para escapar ao aperto do meu apartamento em Haan. Alguns dias, esperei deliberadamente que as empregadas de limpeza chegassem, pois alguns hóspedes não queriam deixar os seus contactos do Facebook à espera e esqueciam-se de lavar as panelas.
+**A Casa do Povo ou Casa da Junta de Freguesia**
+- Os peregrinos podiam pernoitar no espaço, que parecia ser uma antiga casa do povo. No entanto, os peregrinos que vieram antes de mim tinham tanta pressa que não deixaram a cozinha tal como a encontraram. Desisti de cozinhar e preferi caminhar mais 10 km para tomar um café. Gostaria de um dia voltar lá, ao Bar-Social,  para saborear aquela iguaria e visitar a cidade de Galisteo, pela qual passei a correr na altura por falta de tempo.
+
+- **2020 – Serra da Estrela:** Estive lá como "refugiado da pandemia", para escapar ao aperto do meu apartamento em Haan. Alguns dias, esperei deliberadamente que as empregadas de limpeza chegassem, pois alguns hóspedes não queriam deixar os seus contactos do Facebook à espera e esqueciam-se de lavar as panelas.
 
 **- 2026 – Alcoutim:** Desta vez, fugi da minha alergia ao pólen de bétula e amieiro para aproveitar a primavera sem lágrimas nos olhos. Aqui, alguns trabalhadores sazonais deixaram comida no frigorífico. Ninguém sabia de quem era e ocupava o espaço dos outros hóspedes. Sugeri colocar um aviso: se a comida ficasse ali demasiado tempo, iria para o lixo. Era assim que fazíamos na minha antiga empresa quando os colegas iam de férias e se esqueciam da comida.
 
@@ -270,13 +276,13 @@ No entanto, a investigação científica aponta para limiares surpreendentemente
 
 #### 1. Na Sociedade: A Regra dos 10% e a Perda de Confiança
 
-- O Ponto de Viragem do Comportamento: Investigadores do _Rensselaer Polytechnic Institute_ descobriram que são necessários apenas cerca de 10% da população convicta de uma crença ou comportamento (mesmo que incorreto) para que essa conduta seja adotada repentinamente pela maioria.
-- O Limite dos Oportunistas: As sociedades toleram uma certa quota de "oportunistas" (pessoas que fogem aos impostos ou deitam lixo para o chão). Contudo, se este número ultrapassar os 15% a 20%, a confiança social colapsa. A maioria honesta começa a questionar-se: _"Por que haveria eu de cumprir as regras se os outros não o fazem?"_ (Ocorre a "Tragédia dos Comuns", tal como no seu exemplo da cozinha).
+- **O Ponto de Viragem do Comportamento:** Investigadores do _Rensselaer Polytechnic Institute_ descobriram que são necessários apenas cerca de 10% da população convicta de uma crença ou comportamento (mesmo que incorreto) para que essa conduta seja adotada repentinamente pela maioria.
+- **O Limite dos Oportunistas:** As sociedades toleram uma certa quota de "oportunistas" (pessoas que fogem aos impostos ou deitam lixo para o chão). Contudo, se este número ultrapassar os 15% a 20%, a confiança social colapsa. A maioria honesta começa a questionar-se: _"Por que haveria eu de cumprir as regras se os outros não o fazem?"_ (Ocorre a "Tragédia dos Comuns", tal como no seu exemplo da cozinha).
 
 #### 2. Numa Empresa ou Instituição: A Regra dos 5%
 
-- Perda de Reputação: Na gestão de reputação, estima-se que se apenas 1% a 5% dos funcionários demonstrarem comportamentos graves (corrupção, assédio, negligência) e a gerência não intervir firmemente, a empresa perde rapidamente o seu prestígio público.
-- Destruição da Cultura: Estudos sobre a dinâmica de trabalho revelam que um único funcionário "tóxico" numa equipa de dez pessoas (10%) é suficiente para reduzir a produtividade de todo o grupo em 30% a 40%. O mau comportamento é contagiante.
+- **Perda de Reputação:** Na gestão de reputação, estima-se que se apenas 1% a 5% dos funcionários demonstrarem comportamentos graves (corrupção, assédio, negligência) e a gerência não intervir firmemente, a empresa perde rapidamente o seu prestígio público.
+- **Destruição da Cultura:** Estudos sobre a dinâmica de trabalho revelam que um único funcionário "tóxico" numa equipa de dez pessoas (10%) é suficiente para reduzir a produtividade de todo o grupo em 30% a 40%. O mau comportamento é contagiante.
 
 #### 3. Na Família ou Relações: A Constante de Gottman (5:1)
 
@@ -299,15 +305,18 @@ Look at this photo to see how beautiful this hostel is! Its blue walls contrast 
 
 In 2024, however, someone staged a "visual theatrical performance" there. I assume it was meant to catch the pilgrims' attention and point out the thoughtless behavior of some hikers and pilgrims. That was my interpretation, at least; I don’t know if the creators intended to convey exactly what I felt. But it was an eyesore so painful that you wanted to look away. It remains vividly alive in my memory to this day.
 
-It is a sensitive topic: the pilgrim or hiker is a guest, and as such, the guest is king and receives a royal welcome. Yet, the behavior of some "royal highnesses" is far from kingly. How do you point out a guest's misconduct without offending their dignity?
+**It is a sensitive topic:** the pilgrim or hiker is a guest, and as such, the guest is king and receives a royal welcome. Yet, the behavior of some "royal highnesses" is far from kingly. How do you point out a guest's misconduct without offending their dignity?
 
 So that I don't forget, I would like to list a few wonderful places that left a lasting impression on me (not all of them were on my Camino):
 
-- 2014 – "San Gil" near Galisteo: The couple running the social bar made me the best _Francesinha_ of all time. This bar was a wonderful gathering place for locals during the afternoon siesta or in the evening. I still remember enjoying my beer and the food. Pilgrims were allowed to use the premises—likely a former townhouse—for overnight stays. But the pilgrims before me were in such a hurry that they didn’t leave the kitchen as they had found it. I chose not to use it and preferred to walk another 10 km just to have a coffee. I wish I could return there one day to enjoy that delicacy again and properly visit the town of Galisteo, which I only bypassed back then due to a lack of time.
+- **2014 – "San Gil" near Galisteo:** The couple running the social bar made me the best _Francesinha_ of all time. This bar was a wonderful gathering place for locals during the afternoon siesta or in the evening. I still remember enjoying my beer and the food.
 
-- 2020 – Serra da Estrela: I was there as a "pandemic refugee" to escape the confinement of my apartment in Haan. On some days, I waited until the cleaning staff arrived because some guests seemingly couldn't keep their Facebook contacts waiting and forgot to wash their pots.
+**The community centre or the village hall ?**
+- - Pilgrims were allowed to use the premises—likely a former townhouse—for overnight stays. But the pilgrims before me were in such a hurry that they didn’t leave the kitchen as they had found it. I chose not to use it and preferred to walk another 10 km just to have a coffee. I wish I could return there one day to enjoy that delicacy again and properly visit the town of Galisteo, which I only bypassed back then due to a lack of time.
 
-- 2026 – Alcoutim: This time, I was fleeing my alder and birch pollen allergies, just to enjoy spring without watery eyes. Here, some seasonal workers had left food in the fridge. Nobody knew who it belonged to, and it took up space for other guests. My suggestion was to put up a sign stating that food left for too long would be thrown away. That's how we did it at my former workplace after colleagues went on vacation and forgot their food.
+- **2020 – Serra da Estrela:** I was there as a "pandemic refugee" to escape the confinement of my apartment in Haan. On some days, I waited until the cleaning staff arrived because some guests seemingly couldn't keep their Facebook contacts waiting and forgot to wash their pots.
+
+- **2026 – Alcoutim:** This time, I was fleeing my alder and birch pollen allergies, just to enjoy spring without watery eyes. Here, some seasonal workers had left food in the fridge. Nobody knew who it belonged to, and it took up space for other guests. My suggestion was to put up a sign stating that food left for too long would be thrown away. That's how we did it at my former workplace after colleagues went on vacation and forgot their food.
 
 I walked my first Camino in 2012, and my first flight and hostel bookings were in 2014. Since then, both on the Camino and during travels, I have noticed a major change: hostels and pilgrim accommodations are removing kitchen equipment. When guests complain that there are no utensils to cook with, I always say it stems from the misconduct of previous guests. Cleaning staff are not on-site 24/7. If a guest finds unwashed plates, the hostel gets a negative review. If there are no utensils, the staff doesn't have to waste half the morning cleaning up the kitchen. Pilgrims and hotel guests don't like to hear this, but that is why I found the painful "visual theater piece" in Colombres to be a necessary evil to make us pay attention.
 
@@ -324,13 +333,13 @@ However, research points to surprisingly precise thresholds across various conte
 
 ## 1. In Society: The 10% Rule and the Loss of Trust
 
-- The Behavioral Tipping Point: Researchers at the _Rensselaer Polytechnic Institute_ found that it takes only about 10% of a population holding an unshakeable belief or behavior (even a negative one) for that behavior to suddenly be adopted by the majority.
-- The Free-Rider Limit: Societies tolerate a certain level of "free-riders" (people who break rules, evade taxes, or litter). However, if this number rises above 15% to 20%, social trust collapses. The honest majority begins to ask: _"Why should I follow the rules if no one else does?"_ (This triggers the "Tragedy of the Commons," just like in your kitchen example).
+- **The Behavioral Tipping Point:** Researchers at the _Rensselaer Polytechnic Institute_ found that it takes only about 10% of a population holding an unshakeable belief or behavior (even a negative one) for that behavior to suddenly be adopted by the majority.
+- **The Free-Rider Limit:** Societies tolerate a certain level of "free-riders" (people who break rules, evade taxes, or litter). However, if this number rises above 15% to 20%, social trust collapses. The honest majority begins to ask: _"Why should I follow the rules if no one else does?"_ (This triggers the "Tragedy of the Commons," just like in your kitchen example).
 
 ## 2. In a Company or Institution: The 5% Rule of Thumb
 
-- Loss of Reputation: In reputation management, it is widely accepted that if just 1% to 5% of employees systematically display severe misconduct (e.g., corruption, bullying, major negligence) and management fails to intervene decisively, the company rapidly loses its public standing.
-- Destruction of Culture: Workplace dynamics studies show that a single "toxic" employee in a team of ten (10%) is enough to reduce the entire group's productivity by 30% to 40%. Misconduct is highly contagious.
+- **Loss of Reputation:** In reputation management, it is widely accepted that if just 1% to 5% of employees systematically display severe misconduct (e.g., corruption, bullying, major negligence) and management fails to intervene decisively, the company rapidly loses its public standing.
+- **Destruction of Culture:** Workplace dynamics studies show that a single "toxic" employee in a team of ten (10%) is enough to reduce the entire group's productivity by 30% to 40%. Misconduct is highly contagious.
 
 ## 3. In a Family or Relationship: The Gottman Constant (5:1)
 
@@ -351,11 +360,14 @@ However, research points to surprisingly precise thresholds across various conte
 
 En 2024, sin embargo, alguien montó allí una "obra de teatro visual". Supongo que fue para llamar la atención de los peregrinos y advertir sobre el comportamiento incívico de algunos caminantes. Esa fue mi interpretación; no sé si los creadores querían expresar exactamente lo que yo sentí. Pero era una imagen tan dolorosa a la vista que daban ganas de apartar la mirada. Se ha quedado grabada en mi memoria hasta el día de hoy.
 
-Es un tema delicado: el peregrino o caminante es un huésped, y como tal, el cliente es el rey y se le recibe con honores. Pero el comportamiento de algunas "vuestras altezas" dista mucho de ser real. ¿Cómo se le llama la atención a un huésped sobre su mal comportamiento sin ofender su dignidad?
+**Es un tema delicado:** el peregrino o caminante es un huésped, y como tal, el cliente es el rey y se le recibe con honores. Pero el comportamiento de algunas "vuestras altezas" dista mucho de ser real. ¿Cómo se le llama la atención a un huésped sobre su mal comportamiento sin ofender su dignidad?
 
 Para no olvidarlo, me gustaría enumerar algunos lugares maravillosos que recuerdo con cariño (no todos estaban en mi Camino de Santiago):
 
-- **2014 – "San Gil" cerca de Galisteo:** El matrimonio encargado del bar social me preparó la mejor _francesinha_ de todos los tiempos. Este bar era un lugar de encuentro muy agradable para los lugareños durante la siesta o por la tarde. Recuerdo perfectamente disfrutar de mi cerveza y de la comida. Los peregrinos podían pernoitar en las instalaciones, que parecían ser una antigua casa señorial. Pero los peregrinos que iban delante de mí tenían tanta prisa que no dejaron la cocina tal y como la encontraron. Decidí no usarla y preferí caminar 10 km más solo para tomar un café. Desearía volver allí algún día para disfrutar de nuevo de ese manjar y visitar la villa de Galisteo, por la que entonces pasé de largo por falta de tiempo.
+- **2014 – "San Gil" cerca de Galisteo:** El matrimonio encargado del bar social me preparó la mejor _francesinha_ de todos los tiempos. Este bar era un lugar de encuentro muy agradable para los lugareños durante la siesta o por la tarde. Recuerdo perfectamente disfrutar de mi cerveza y de la comida. 
+
+**La Casa del Pueblo o la Casa Ayuntamiento?** 
+- Los peregrinos podían pernoitar en las instalaciones, que parecían ser una antigua casa señorial. Pero los peregrinos que iban delante de mí tenían tanta prisa que no dejaron la cocina tal y como la encontraron. Decidí no usarla y preferí caminar 10 km más solo para tomar un café. Desearía volver allí algún día para disfrutar de nuevo de ese manjar y visitar la villa de Galisteo, por la que entonces pasé de largo por falta de tiempo.
 
 - **2020 – Serra da Estrela:** Estuve allí como "refugiado de la pandemia" para escapar de la estrechez de mi piso en Haan. Algunos días esperaba a propósito a que llegara el personal de limpieza, porque algunos huéspedes no querían hacer esperar a sus contactos de Facebook y se olvidaban de fregar las ollas.
 
@@ -378,13 +390,13 @@ Sin embargo, las investigaciones científicas revelan umbrales sorprendentemente
 
 #### 1. En la Sociedad: La Regla del 10% y la Pérdida de Confianza
 
-- El Punto de Inflexión Conductual: Investigadores del _Rensselaer Polytechnic Institute_ descubrieron que solo se necesita que aproximadamente el 10% de la población adopte firmemente una creencia o comportamiento (incluso incívico) para que este se extienda de golpe a la mayoría de la sociedad.
-- El Límite del Polizón (Free-rider): Las sociedades toleran un cierto nivel de personas que rompen las reglas (como defraudar impuestos o tirar basura). Pero si esa cifra supera el 15% o 20%, la confianza social se desploma. La mayoría honesta se pregunta: _"¿Por qué voy a seguir las reglas si los demás no lo hacen?"_ (Se produce la "Tragedia de los Comunes", igual que en su ejemplo de la cocina).
+- **El Punto de Inflexión Conductual:** Investigadores del _Rensselaer Polytechnic Institute_ descubrieron que solo se necesita que aproximadamente el 10% de la población adopte firmemente una creencia o comportamiento (incluso incívico) para que este se extienda de golpe a la mayoría de la sociedad.
+- **El Límite del Polizón (Free-rider):** Las sociedades toleran un cierto nivel de personas que rompen las reglas (como defraudar impuestos o tirar basura). Pero si esa cifra supera el 15% o 20%, la confianza social se desploma. La mayoría honesta se pregunta: _"¿Por qué voy a seguir las reglas si los demás no lo hacen?"_ (Se produce la "Tragedia de los Comunes", igual que en su ejemplo de la cocina).
 
 #### 2. En una Empresa o Institución: La Regla del 5%
 
-- Pérdida de Reputación: En la gestión de la reputación se sabe que si solo entre el 1% y el 5% de los empleados muestran conductas graves (corrupción, acoso, negligencia) y la dirección no actúa con firmeza, la empresa pierde su prestigio público con rapidez.
-- Destrucción de la Cultura: Estudios sobre dinámicas laborales demuestran que un solo empleado "tóxico" en un equipo de diez personas (10%) basta para reducir la productividad de todo el grupo entre un 30% y un 40%. La mala conducta se contagia.
+- **Pérdida de Reputación:** En la gestión de la reputación se sabe que si solo entre el 1% y el 5% de los empleados muestran conductas graves (corrupción, acoso, negligencia) y la dirección no actúa con firmeza, la empresa pierde su prestigio público con rapidez.
+- **Destrucción de la Cultura:** Estudios sobre dinámicas laborales demuestran que un solo empleado "tóxico" en un equipo de diez personas (10%) basta para reducir la productividad de todo el grupo entre un 30% y un 40%. La mala conducta se contagia.
 
 #### 3. En la Familia o Pareja: La Constante de Gottman (5:1)
 

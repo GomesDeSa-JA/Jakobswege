@@ -104,7 +104,7 @@ The pilgrim hostel where I stayed had been left to future pilgrims in the will o
 O meu primeiro Caminho de Santiago — o Caminho Francês em 2012. 
 Na altura, viajei de comboio de Baiona para Saint-Jean-Pied-de-Port. Embora só tenha fotografias da tarde de 4 de maio de 2012, a memória daquela viagem de comboio continua totalmente viva na minha mente.
 
-Foi um dos trajetos panorâmicos mais bonitos que vivenciei nos últimos anos e o lugar onde conheci os meus primeiros companheiros de peregrinação. Aquela hora de viagem preparou-me perfeitamente para o tipo de pessoas que me esperavam no Caminho Francês. Era uma carruagem verdadeiramente babilónica, onde se cruzavam pessoas de todas as idades e dos mais diversos países. Lembro-me particularmente de duas jovens peregrinas cujo idioma associei à Escandinávia, embora pudessem ser dos países bálticos. Consigo distinguir relativamente bem o holandês, o polaco e o russo, mas como nunca tinha lidado com pessoas de países nórdicos, foi difícil identificar a origem exata. Uma das jovens estava grávida de cinco meses ou mais, o que foi a primeira de muitas surpresas sobre as diferentes circunstâncias de vida sob as quais as pessoas decidem fazer o Caminho. Mais tarde, também encontrei casais com bebés de um ou dois anos. Os pequenos comportaram-se de forma absolutamente exemplar, tanto à tarde como à noite, e permitiram-nos dormir tranquilamente.
+Foi um dos trajetos panorâmicos mais bonitos que vivenciei nos últimos anos e o lugar onde conheci os meus primeiros companheiros de peregrinação. Aquela hora de viagem preparou-me perfeitamente para o tipo de pessoas que me esperavam no Caminho Francês. Era um comboio verdadeiramente babilónico, onde se cruzavam pessoas de todas as idades e dos mais diversos países. Lembro-me particularmente de duas jovens peregrinas cujo idioma associei à Escandinávia, embora pudessem ser dos países bálticos. Consigo distinguir relativamente bem o holandês, o polaco e o russo, mas como nunca tinha lidado com pessoas de países nórdicos, foi difícil identificar a origem exata. Uma das jovens estava grávida de cinco meses ou mais, o que foi a primeira de muitas surpresas sobre as diferentes circunstâncias de vida sob as quais as pessoas decidem fazer o Caminho. Mais tarde, também encontrei casais com bebés de um ou dois anos. Os pequenos comportaram-se de forma absolutamente exemplar, tanto à tarde como à noite, e permitiram-nos dormir tranquilamente.
 
 #### Trecho 2: Chegada e a primeira noite em Saint-Jean-Pied-de-Port
 
@@ -143,7 +143,7 @@ O albergue onde pernoitei tinha sido deixado aos peregrinos em testamento por um
 
 ---
 
-**↪** 
+**↪** [Etapa-01: Saint Jean Pied de Port  →  Roncesvalles](Etapa-01_Saint-Jean-Pied-de-Port_Roncesvalles.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 

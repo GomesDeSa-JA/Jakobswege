@@ -7,17 +7,14 @@
 
 ![](media/20180526-074736.webp)
 
-
 - **Albergue de Peregrinos de San Esteban de Leces**
 
 ![](media/20180526-075132.webp)
-Alles was  geschen ist, kann ich abrufen.
+Alles was  geschehen ist, kann ich abrufen.
 
 Como o tempo já não dava para chegar a Villaviciosa, decidi começar o dia com mais calma e tirei umas fotos antes de partir, quando alguém me disse "Hombre assim nunca chegas a Santiago". 
 
 Sim ele tinha toda a razão mas mesmo que eu saísse do Albergue ás tantas da medrugada, não era num dia que eu ia chegar a Santiago. 
-
-
 
 ![](media/20180526-081045.webp)
 
@@ -47,14 +44,13 @@ Sim ele tinha toda a razão mas mesmo que eu saísse do Albergue ás tantas da m
 
 ![](media/20180526-115710.webp)
 
-- La Isla
+- **La Isla**
  
 ![](media/20180526-141501.webp)
 
 ![](media/20180526-142218.webp)
 
 ![](media/20180526-143826.webp)
-
 
 - Mein letzter Nachmittagsspaziergang auf dem unvollendeten Weg 
 - O meu último passeio da tarde  no Caminho incompleto 
