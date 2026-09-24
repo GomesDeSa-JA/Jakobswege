@@ -1,28 +1,9 @@
 ## Camino Francés  2012  
 
-### Etapa-20: →  ( Km)
-24 de Mai 2012
+### Etapa-30: →  ( Km)
+02 de Juni 2012
 
-
-![](media04/20120524-075339.webp)
-
-![](media04/20120524-081431.webp)
-
-
-![](media04/20120524-081438.webp)
-
-![](media04/20120524-082743.webp)
-
-![](media04/20120524-090840.webp)
-
-
-![](media04/20120524-105222.webp)
-
-
-![](media04/20120524-125859.webp)
-
-![](media04/20120524-125912.webp)
-
+![](media05/20120602-180432.webp)
 
 <details>
 <summary>🇬🇧  </summary>
@@ -66,7 +47,7 @@
 
 ---
 
-**↪** [Etapa-21](Etapa-21.md)
+**↪** [Etapa-32](Etapa-32.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 

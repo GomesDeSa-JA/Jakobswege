@@ -1,6 +1,6 @@
 ## Camino Francés  2012  
 
-### Etapa-16: →  ( Km)
+### Etapa-17: →  ( Km)
 21 de Mai 2012
 
 

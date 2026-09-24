@@ -4,19 +4,19 @@
 09 de Mai 2012
 
 
-![](20120509-064840.webp)
+![](media02/20120509-064840.webp)
 
-![](20120509-065008-.webp)
+![](media02/20120509-065008.webp)
 
-![](20120509-064954.webp)
+![](media02/20120509-064954.webp)
 
-![](20120509-073500.webp)
+![](media02/20120509-073500.webp)
 
-![](20120509-075648.webp)
+![](media02/20120509-075648.webp)
 
 Drei Portugiesen , Três Portugueses
 
-![](20120509-080101.webp)
+![](media02/20120509-080101.webp)
 
 
 ---
@@ -24,7 +24,7 @@ Drei Portugiesen , Três Portugueses
 
 Sehr gerne. Ich habe den humorvollen Unterton von „Pflichtprogramm“ und die kleine Geschichte mit der Pilgerin beibehalten, aber die Formulierungen flüssiger und erzählerischer gestaltet.
 
-![](20120509-125724.webp)
+![](media02/20120509-125724.webp)
 
 <details>
 <summary>🇵🇹 12:57 — Bodegas Irache </summary>
@@ -101,7 +101,7 @@ Danke schön fur die gelungene humorvoll übersetzung. Bis später.
 
 </details>
 
-![](20120509-191528.webp)
+![](media02/20120509-191528.webp)
 
 ---
 

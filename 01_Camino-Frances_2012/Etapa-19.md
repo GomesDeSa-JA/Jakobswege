@@ -1,11 +1,11 @@
 ## Camino Francés  2012  
 
-### Etapa-16: →  ( Km)
+### Etapa-19: →  ( Km)
 23 de Mai 2012
 
-![](20120523-090324.webp)
+![](media04/20120523-090324.webp)
 
-![](20120523-100230.webp)
+![](media04/20120523-100230.webp)
 
 - É bonito ver como os jovens se unem e percorrem juntos o caminho.
 
@@ -15,15 +15,15 @@
 
 - It’s lovely to see young people coming together and walking this path together.
 
-![](20120523-100447.webp)
+![](media04/20120523-100447.webp)
 
-![](20120523-102436.jpg)
+![](media04/20120523-102436.jpg)
 
-![](20120523-103910.webp)
+![](media04/20120523-103910.webp)
 
 
 
-![](20120523-104548.webp)
+![](media04/20120523-104548.webp)
 
 - Olhei para o relógio, comparei-o com o meu telemóvel e pensei: «Não precisam de ter inveja dos suíços.» Se nos orientarmos por ele, chegaremos a tempo à próxima Albergue.
 
@@ -33,29 +33,29 @@
 
 - I looked at my watch, checked the time on my mobile and thought: ‘There’s no need to be jealous of the Swiss.’ If we stick to this schedule, we’ll arrive at the next Albergue in good time.
 
-![](20120523-120221.jpg)
+![](media04/20120523-120221.jpg)
 
-![](20120523-120349.webp)
+![](media04/20120523-120349.webp)
 
-![](20120523-DSCF3324.webp)
+![](media04/20120523-DSCF3324.webp)
 
-![](20120523-123944.webp)
+![](media04/20120523-123944.webp)
 
-![](20120523-124741.webp)
+![](media04/20120523-124741.webp)
 
-![](20120523-150615.webp)
+![](media04/20120523-150615.webp)
 
-![](20120523-150622.webp)
+![](media04/20120523-150622.webp)
 
 
 
-![](20120523-DSCF3326.webp)
+![](media04/20120523-DSCF3326.webp)
 
-![](20120523-DSCF3327.webp)
+![](media04/20120523-DSCF3327.webp)
 
-![](20120523-DSCF3333.webp)
+![](media04/20120523-DSCF3333.webp)
 
-![](20120523-DSCF3336.webp)
+![](media04/20120523-DSCF3336.webp)
 
 
 <details>

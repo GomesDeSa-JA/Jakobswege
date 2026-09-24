@@ -3,17 +3,13 @@
 ### Etapa-14: →  ( Km)
 16 de Mai 2012
 
+![](media04/20120516-073222.webp)
 
-![](20120516-073222.webp)
+![](media04/20120516-075221.webp)
 
+![](media04/20120516-083022.webp)
 
-
-![](20120516-075221.webp)
-
-
-![](20120516-083022.webp)
-
-![](20120516-083212.webp)
+![](media04/20120516-083212.webp)
 
 Cuando se recorre el «Camino Francés» a primera hora de la mañana, en el aire fresco de la mañana, uno sigue con placer su propia sombra; y al atardecer, con los pies cansados, la propia sombra se arrastra detrás de nosotros, más mal que bien.
 
@@ -25,21 +21,21 @@ When you’re walking along the ‘Camino Francés’ early in the morning, in t
 
 When you walk the ‘French Way’ first thing in the morning, in the cool air of dawn, you take pleasure in following your own shadow; and at dusk, with weary feet, your own shadow trails behind you, barely keeping up.
 
-![](20120516-083301.webp)
+![](media04/20120516-083301.webp)
 
-![](20120516-090252.webp)
+![](media04/20120516-090252.webp)
 
-![](20120516-091951.webp)
+![](media04/20120516-091951.webp)
 
-![](20120516-103828.webp)
+![](media04/20120516-103828.webp)
 
-![](20120516-104328.webp)
+![](media04/20120516-104328.webp)
 
-![](20120516-113530.webp)
+![](media04/20120516-113530.webp)
 
-![](20120516-124644.webp)
+![](media04/20120516-124644.webp)
 
-![](20120516-124728.webp)
+![](media04/20120516-124728.webp)
 
 #### 🇩🇪 Albergue de Peregrinos:  Ruinas del Convento de San Antón
 
@@ -76,7 +72,7 @@ When you walk the ‘French Way’ first thing in the morning, in the cool air o
 > 
 > Se, se, se... tantos "se"! Não adianta ficar remoendo isso. Além disso, quem é que carrega um pombo-correio na mochila?
 
-![](20120516-124728-DSCF3240.webp)
+![](media04/20120516-124728-DSCF3240.webp)
 
 Die Bedeutung im „Siglo XV“ (15. Jahrhundert)
 
@@ -90,8 +86,7 @@ Das „Heilige Feuer“ (Fuego de San Antón)
 
 Das Hospital erlangte im Mittelalter weltweite Berühmtheit durch die Behandlung einer schrecklichen Krankheit: dem **Antoniusfeuer** (_ergotismo_)
 
-
-![](20120525-Mutterkorn.webp)
+![](media04/20120516-Mutterkorn.webp)
 
 **Die Ursache:** Verursacht wurde die Krankheit durch den Verzehr von Getreide (vor allem Roggen), das mit dem giftigen Pilz **Mutterkorn** (_cornezuelo_) befallen war. Die Symptome waren grausam: Halluzinationen, schwere Nervenschäden und ein qualvolles Absterben (Brand) der Gliedmaßen
 
@@ -126,7 +121,7 @@ Heute ist die Gefahr für uns unsichtbar geworden, weil sie lückenlos überwach
 #### 🇩🇪 Convento de San Antón (Castrojeriz) – Mehr als nur ein Pilgerhospital
 
 > 
-> Das Kloster, gelegen rund drei Kilometer vor Castrojeriz auf dem [Camino Francés](https://de.wikipedia.org/wiki/Camino_Franc%C3%A9s), war im Mittelalter und insbesondere im 15. Jahrhundert (Siglo XV) weit mehr als eine gewöhnliche Raststation für müde Wanderer. Es war das spirituelle, medizinische und administrative Zentrum des Antoniter-Ordens auf der Iberischen Halbinsel und genoss direkten königlichen Schutz.
+> Das Kloster, gelegen rund drei Kilometer vor Castrojeriz auf dem Camino Francés, war im Mittelalter und insbesondere im 15. Jahrhundert (Siglo XV) weit mehr als eine gewöhnliche Raststation für müde Wanderer. Es war das spirituelle, medizinische und administrative Zentrum des Antoniter-Ordens auf der Iberischen Halbinsel und genoss direkten königlichen Schutz.
 > 
 > - Das medizinische Zentrum gegen das „Antoniusfeuer“: Das Hospital war weltweit führend in der Behandlung des _Ergotismus_ (Mutterkornvergiftung). Die Mönche heilten die Erkrankten durch die Vergabe von reinem Weizenbrot (statt des kontaminierten Roggens) und der Pflege mit geheimen Kräutersalben.
 > - Königliches Protektorat & Privilegien: Die Anlage stand unter dem direkten Schutz der kastilischen Krone. Die Mönche besaßen das exklusive Recht, die Schweine des Klosters frei durch die Dörfer und Städte laufen zu lassen (_Cerdos de San Antón_), um Futter und Spenden zu sammeln.
@@ -136,7 +131,7 @@ Heute ist die Gefahr für uns unsichtbar geworden, weil sie lückenlos überwach
 #### 🇪🇸 El Convento de San Antón (Castrojeriz) – Más que un simple hospital de peregrinos
 
 
-> El [Convento de San Antón](https://es.wikipedia.org/wiki/Monasterio_de_San_Ant%C3%B3n_%28Castrojeriz%29), situado a unos tres kilómetros antes de Castrojeriz en el Camino Francés, fue durante la Edad Media y especialmente en el siglo XV, mucho más que un simple refugio para caminantes cansados. Era el centro espiritual, médico y administrativo de la Orden de los Antonianos en la Península Ibérica, gozando de la protección directa de la corona.
+> El Convento de San Antón, situado a unos tres kilómetros antes de Castrojeriz en el Camino Francés, fue durante la Edad Media y especialmente en el siglo XV, mucho más que un simple refugio para caminantes cansados. Era el centro espiritual, médico y administrativo de la Orden de los Antonianos en la Península Ibérica, gozando de la protección directa de la corona.
 > 
 > - El centro médico contra el "Fuego de San Antón": El hospital fue un referente mundial en el tratamiento del _ergotismo_ (envenenamiento por cornezuelo de centeno). Los monjes curaban a los enfermos dándoles pan de trigo puro y cuidándolos con bálsamos de hierbas secretos.
 > - Protectorado real y privilegios: El recinto contaba con el amparo directo de la Corona de Castilla. Los monjes tenían el derecho exclusivo de dejar a los cerdos del convento (_los cerdos de San Antón_) sueltos por los pueblos para recoger alimento y limosnas.
@@ -164,19 +159,17 @@ Heute ist die Gefahr für uns unsichtbar geworden, weil sie lückenlos überwach
 > - A arquitetura como portal: A igreja foi construída sobre o próprio Caminho, obrigando os peregrinos a passar fisicamente sob os seus arcos góticos, num ato simbólico de purificação e proteção.
 
 
-![](20120516-130530.webp)
+![](media04/20120516-130530.webp)
 
-![](20120516-130630.webp)
+![](media04/20120516-130630.webp)
 
-![](20120516-131822.webp)
+![](media04/20120516-131822.webp)
 
-![](20120516-132609.webp)
+![](media04/20120516-132609.webp)
 
-![](20120516-132821-DSCF3243.webp)
+![](media04/20120516-132821-DSCF3243.webp)
 
-
-
-![](20120516-132821-DSCF3250.webp)
+![](media04/20120516-132821-DSCF3250.webp)
 
 Wasser, eine Wasserquelle – was für eine wunderbare Sache! Du stillst deinen Durst, andere Pilger tun es dir gleich, und jemand sagt: „Ich gehe weiter, die Herbergen hier sind bestimmt überfüllt.“ Du schaust auf die Uhr, fühlst dich gut  und denkst: Noch eine kleine Anstrengung, dann schaffst du noch ein paar Kilometer. Du nimmst dein gelbes Buch zur Hand und siehst: „Itero de la Vega“, nur  10 km entfernt und mit Übernachtungsmöglichkeiten dort. Na dann, los geht’s!
 
@@ -189,10 +182,9 @@ Agua, un manantial… ¡qué maravilla! Sacias tu sed, otros peregrinos hacen lo
 ---
 Water, a spring – what a marvellous thing! You quench your thirst, other pilgrims do the same, and someone says: ‘I’m carrying on; the hostels here are bound to be packed.’ You glance at your watch, feel good  and think: just a little more effort, and you’ll manage a few more kilometres. You pick up your yellow guidebook and see: ‘Itero de la Vega’, just  10 km away and with accommodation available there. Right then, let’s go!
 
-![](20120516-132821-DSCF3251.webp)
+![](media04/20120516-132821-DSCF3251.webp)
 
-
-![](20120516-145324.webp)
+![](media04/20120516-145324.webp)
 
 Ein Blick zurück auf Castrojeriz, Kurz vor Itero de la Vega
 

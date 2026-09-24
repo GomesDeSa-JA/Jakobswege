@@ -1,22 +1,18 @@
 ## Camino Francés  2012  
 
-### Etapa-16: →  ( Km)
+### Etapa-21: →  ( Km)
 25 de Mai 2012
 
-![](20120525-074200-.webp)
+![](media05/20120525-074200-.webp)
 
-![](20120525-074207.webp)
+![](media05/20120525-074207.webp)
 
-![](20120525-081950.webp)
+![](media05/20120525-081950.webp)
 
+![](media05/20120525-082124.webp)
 
+![](media05/20120525-081814.webp)
 
-
-Ich bin nicht der Weg, Ich bin nur für ein Augenblick ein Teil des Weges.
-
-Meistens glauben wir wir wären die Landschaft und beanspruchen den ganzen Raum in einen Foto,  aber wir sind nur Reisend für eine Bruchteil der  Zeit einer Landschaft.
-
-![](20120525-081814.webp)
 
 Daqui a alguns minutos já não me encontrarão aqui.
 Eu não sou o caminho, sou apenas, por um instante, parte do caminho.
@@ -41,13 +37,11 @@ Most of the time, we think we are the landscape and take up the whole frame in a
 
 ---
 
-![](20120525-082124.webp)
-
-![](20120525-091607.webp)
+![](media05/20120525-091607.webp)
 
 
 
-![](Fr25Mai2012%20093406.webp)
+![](Fr25Mai2012-093406.webp)
 
 
 <details>
@@ -92,7 +86,7 @@ Most of the time, we think we are the landscape and take up the whole frame in a
 
 ---
 
-**↪** 
+**↪** [Etapa-22](Etapa-22.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 

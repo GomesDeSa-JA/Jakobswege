@@ -1,9 +1,9 @@
 ## Camino Francés  2012  
 
-### Etapa-16: →  ( Km)
+### Etapa-25: →  ( Km)
 29 de Mai 2012
 
-
+???
 
 
 <details>
@@ -48,7 +48,7 @@
 
 ---
 
-**↪** 
+**↪** [Etapa-25](Etapa-25.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 

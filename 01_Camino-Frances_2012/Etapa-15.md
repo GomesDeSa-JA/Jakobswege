@@ -4,39 +4,8 @@
 19 de Mai 2012
 
 
-![](20120519-140856.webp)
+![](media04/20120519-140856.webp)
 
-
-
-<details>
-<summary>🇬🇧  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇩🇪  </summary>
-
-
-
-</details>
-
----
-
-<details>
-<summary>🇪🇸  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇵🇹  </summary>
-
-</details>
 
 ---
 

@@ -3,19 +3,27 @@
 ### Etapa-03:  →  ( Km)
 07 de Mai 2012
 
-![](20120507_065109.webp)
+Recuerdo ese día como si hubiera sido ayer
 
-![](20120507_065120.webp)
+Ich erinnere mich an diesen Tag, als wäre es gestern gewesen
 
-![](20120507_065304.webp)
+Vejo este dia, como se tivesse sido ontem
 
-![](20120507_073439.webp)
+I can still picture that day as if it were yesterday
 
-![](20120507_083815.webp)
+![](media02/20120507_065109.webp)
 
-![](20120507_084133.webp)
+![](media02/20120507_065120.webp)
 
-![](20120507_092600-.webp)
+![](media02/20120507_065304.webp)
+
+![](media02/20120507_073439.webp)
+
+![](media02/20120507_083815.webp)
+
+![](media02/20120507_084133.webp)
+
+![](media02/20120507_092600-.webp)
 
 ---
 <details>

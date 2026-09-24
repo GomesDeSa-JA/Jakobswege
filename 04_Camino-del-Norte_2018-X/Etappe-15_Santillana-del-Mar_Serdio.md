@@ -62,7 +62,7 @@ Chega um momento em que o cansaço vence e a bateria do telemóvel fica tão fra
 Tanto eu como esse peregrino falávamos um inglês fraco, mas o suficiente para nos entendermos. Pelo sotaque, eu diria que ele era dos países bálticos ou talvez da Rússia. Já o tinha visto ao final da tarde, sentado num banco, a olhar para o mar e completamente absorto nos seus pensamentos. A julgar pelo seu tom de voz e pelo seu estado de espírito — tanto na noite anterior como na manhã seguinte —, o fardo que ele carregava era muito mais do que o simples peso da sua mochila.
 
 Serdio, Kantabrien
-![](Albergue-de-Peregrinos-de-Serdio.webp)
+![](media/Albergue-de-Peregrinos-de-Serdio.webp)
 Albergue de Peregrinos
 
 - Städtische Herberge von Serdio

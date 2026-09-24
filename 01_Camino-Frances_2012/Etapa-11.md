@@ -3,11 +3,11 @@
 ### Etapa-11: →  ( Km)
 15 de Mai 2012
 
-![](20120515-070956-DSCF3169.webp)
+![](media03/20120515-070956-DSCF3169.webp)
 
 
 20120515-071740
-![](DSCF3175.webp)
+![](media03/DSCF3175.webp)
 
 ---
 <details>
@@ -115,14 +115,14 @@ Nos hicimos fotos mutuamente. Después, como ocurre tantas veces en el Camino, n
 </details>
 
 
-![](DSCF3176.webp)
+![](media03/DSCF3176.webp)
 20120515-071907
 
-![](20120515-072124.JPG)
+![](media03/20120515-072124.JPG)
 
-![](20120515-072156.webp)
+![](media03/20120515-072156.webp)
 
-![](20120515-073811.webp)
+![](media03/20120515-073811.webp)
 
 
 - Meistens glauben wir wären die Landschaft und beanspruchen den ganzen Raum in einen Foto,  aber wir sind nur Reisend für eine Bruchteil der  Zeit einer Landschaft.
@@ -133,23 +133,23 @@ Nos hicimos fotos mutuamente. Después, como ocurre tantas veces en el Camino, n
 
 - La mayoría de las veces creemos que formamos parte del paisaje y ocupamos todo el espacio de una foto, pero solo somos viajeros durante una fracción del tiempo que existe un paisaje.
 
-![](20120515-073920.webp)
+![](media03/20120515-073920.webp)
 In ein paar Minuten werdet ihr mich hier nicht mehr antreffen.
 In a few minutes, you won’t find me here any more.
 Daqui a alguns minutos já não me encontrarão aqui.
 Dentro de unos minutos ya no estaré aquí.
 
-![](20120515-115550.webp)
+![](media03/20120515-115550.webp)
 
-![](DSCF3191.webp)
+![](media03/DSCF3191.webp)
 
 20120515-120131
-![](DSCF3197.webp)
+![](media03/DSCF3197.webp)
 
 20120515-122806
-![](DSCF3198.webp)
+![](media03/DSCF3198.webp)
 
-![](DSCF3199.webp)
+![](media03/DSCF3199.webp)
 
 ---
 
