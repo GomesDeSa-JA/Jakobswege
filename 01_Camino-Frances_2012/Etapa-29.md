@@ -3,37 +3,7 @@
 ### Etapa-29: →  ( Km)
 01 de Juni 2012
 
-???
-
-<details>
-<summary>🇬🇧  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇩🇪  </summary>
-
-
-
-</details>
-
----
-
-<details>
-<summary>🇪🇸  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇵🇹  </summary>
-
-</details>
+**? ? ?**
 
 ---
 

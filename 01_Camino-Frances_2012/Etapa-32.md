@@ -98,7 +98,6 @@ Nach einer weiteren, sehr technischen Erläuterung dieses Moments habe ich der K
 
 >*Hier ist die überarbeitete und erweiterte Version der Erzählung für Ihr Fotobuch. Sie bindet Ihre genauen visuellen Erinnerungen (die zierliche, entschlossene Dame, das Verlassen der Promenade über die Stufen) sowie die ökologische Beschreibung der Mauern wunderschön mit ein.*
 
-
 #### 🇩🇪 Die übersehene Gasse
 
 Wenn ich das Foto dieser Gasse betrachte, habe ich die Szene sofort wieder glasklar vor Augen: Ich lief, lief und lief voller Zuversicht die wunderschöne Buchtpromenade entlang, wo sich alle Menschen treffen. In meinem  Leichtsinn träumte ich fest davon, dass ich einfach nur stur dieser Promenade folgen müsste, um direkt ans Ende der Welt nach Finisterre zu gelangen. Die gelben Pfeile hatte ich völlig ignoriert.
@@ -168,7 +167,7 @@ To anyone who hasn't seen my other photo of the coastal village by the bay, this
 
 ---
 
-**↪**[Etapa-31](Etapa-31.md)
+**↪[Etapa-33](Etapa-33.md)**
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 

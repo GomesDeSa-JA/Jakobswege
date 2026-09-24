@@ -17,36 +17,6 @@
 ![](media03/20120513-111538.webp)
 
 
-<details>
-<summary>🇬🇧  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇩🇪  </summary>
-
-
-
-</details>
-
----
-
-<details>
-<summary>🇪🇸  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇵🇹  </summary>
-
-</details>
-
 ---
 
 <details>

@@ -3,38 +3,8 @@
 ### Etapa-28: →  ( Km)
 31 de Mai 2012
 
-???
+**? ? ?**
 
-
-<details>
-<summary>🇬🇧  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇩🇪  </summary>
-
-
-
-</details>
-
----
-
-<details>
-<summary>🇪🇸  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇵🇹  </summary>
-
-</details>
 
 ---
 

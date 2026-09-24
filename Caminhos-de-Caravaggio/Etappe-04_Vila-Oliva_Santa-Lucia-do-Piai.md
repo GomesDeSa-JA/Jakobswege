@@ -62,7 +62,7 @@ Zurück im Seminar bemerkte ich, dass mein Handy fehlte. Wir machten uns sofort 
 
 Wie das Foto zeigt, das ich um 16:47 Uhr aufnahm, waren  Menschen dort unterwegs. Wer es gesehen hat, muss wohl gedacht haben: „Man darf Dinge, die jemand liegengelassen hat, nicht anfassen, sonst findet der Besitzer sie nicht wieder.“
 
-Das sind keine Ammenmärchen, sondern echte Erlebnisse. Und wo wir gerade von Geschichten sprechen: Ich muss auch noch die Geschichten über Pferde aufschreiben, über die wir beim Abendessen gesprochen haben – genauer gesagt über die Alternativroute, die der Pfarrer hoch zu Ross zurückgelegt hat.
+>Das sind keine Ammenmärchen, sondern echte Erlebnisse. Und wo wir gerade von Geschichten sprechen: Ich muss auch noch die Geschichten über Pferde aufschreiben, über die wir beim Abendessen gesprochen haben – genauer gesagt über die Alternativroute, die der Pfarrer hoch zu Ross zurückgelegt hat.
 
 
 ---
@@ -159,28 +159,31 @@ _(Die Liste bleibt unverändert präzise wie zuvor.)_
 
 No dia 29 de setembro de 2023, às 16h47, aconteceram coisas na pequena cidade de Santa Lúcia do Piaí que o mundo precisa saber. E se o mundo ouvir a história que se passou exatamente um ano antes, do outro lado do Atlântico, em Âncora Praia, também não vai acreditar.
 
-O motivo de eu contar esta história é uma outra anedota incrível que um senhor me contou por acaso. Tudo começou com uma situação perfeitamente quotidiana no dia 10 de abril de 2026. Fui a um banco para levantar dinheiro. Depois de tocar à campainha, entrei e vi dois clientes a serem atendidos nos únicos dois balcões disponíveis. Como não havia onde sentar, esperei um ou dois minutos de pé.
+O motivo de eu contar esta história é uma outra anedota incrível que um senhor me contou por acaso. Tudo começou com uma situação perfeitamente quotidiana no dia 10 de abril de 2026 em Lisboa. Fui a um banco para levantar dinheiro. Depois de tocar à campainha, entrei e vi dois clientes a serem atendidos nos únicos dois balcões disponíveis. Como não havia onde sentar, esperei um ou dois minutos de pé.
 
 Um dos clientes estava a contar um maço de notas, enquanto o funcionário do banco verificava alguns dados. A julgar pelo tamanho e pelo estado um pouco amarrotado das notas, eu diria que o senhor do maço de dinheiro geria uma pequena mercearia de bairro ao virar da esquina, onde vende batatas e algumas cebolas. Quando o outro cliente se levantou e viu o homem ao lado a contar o dinheiro, sussurrou-lhe para não o fazer de forma tão aberta. Disse-lhe que tinha sorte por estarmos em Portugal, um país onde se está seguro.
 
-Depois, contou-me a história de um funcionário de uma empresa de transporte de valores. Ao esvaziar as cassetes das caixas dos Automáticos, o homem terá ido à casa de banho e deixado as cassetes escancaradas em plena passadeira de peões. Muitos transeuntes passaram por ali, mas ninguém tocou no dinheiro. Portugal é seguro; no Brasil, aquele dinheiro já teria desaparecido há muito.
+Depois, contou-me a história de um funcionário de uma empresa de transporte de valores. Ao esvaziar as cassetes das caixas dos Automáticos, o homem terá ido à casa de banho e deixado as cassetes escancaradas em plena passadeira de peões. Muitos transeuntes passaram por ali, mas ninguém tocou no dinheiro. Portugal é seguro; **no Brasil, aquele dinheiro já teria desaparecido há muito.**
 
 Foi então que lhe respondi, num tom sóbrio: "Em Portugal também há roubos. A mim, roubaram-me o telemóvel na plataforma da estação em Âncora Praia. No Brasil, por outro lado, esqueci-me uma vez do telemóvel num banco de jardim e, quando voltei uma hora mais tarde, ainda lá estava."
 
 O homem foi-se embora. Voltei-me para a funcionária do banco e disse: "Nem ao funcionário mais insensato de uma empresa de segurança passaria pela cabeça uma imprudência dessas." Calculo que o senhor tenha visto algo na televisão, do género "Câmara Oculta", onde os transeuntes talvez tenham sido avisados por um sinal para não tocar no dinheiro, porque era apenas uma experiência para mostrar o mundo maravilhoso em que vivemos.
 
+---
+
 #### **A história do meu telemóvel no parque de Santa Lúcia do Piaí**
 
 O que me aconteceu acontece milhões de vezes todos os dias pelo mundo fora. Esquecemo-nos constantemente de algo: o guarda-chuva no comboio e, mal saímos, começa a chover e o comboio já partiu; o jornal não lido no café e, quando o reencontramos, as notícias já estão desatualizadas.
 
-Naquele dia, a Roze e eu tínhamos acabado de fazer uma longa caminhada pelo Caminho de Caravaggio. Depois de nos instalarmos no Seminário de Santa Lúcia do Piaí, decidimos visitar a bonita e tranquila cidadezinha. Avistámos um parque, sentámo-nos, respirámos a paz do lugar, demos um descanso merecido aos nossos pés cansados e planeámos a etapa seguinte. Vimos a rota no telemóvel da Roze, enquanto eu pousei o meu no banco, ao meu lado. Quando caíram as primeiras gotas de chuva, decidimos ir embora. O jantar já nos esperava e não queríamos chegar encharcados. (Ainda tenho de escrever sobre essa noite maravilhosa mais tarde.)
+Naquele dia, a Roze e eu tínhamos acabado de fazer uma longa caminhada pelo Caminho de Caravaggio. Depois de nos instalarmos no Seminário de Santa Lúcia do Piaí, decidimos visitar a bonita e tranquila cidadezinha. Avistámos um parque, sentámo-nos, respirámos a paz do lugar, demos um descanso merecido aos nossos pés cansados e planeámos a etapa seguinte. Vimos a rota no telemóvel da Roze, enquanto eu pousei o meu no banco, ao meu lado. Quando caíram as primeiras gotas de chuva, decidimos ir embora. O jantar já nos esperava e não queríamos chegar encharcados. 
 
-Quando chegámos ao Seminário, percebi que o meu telemóvel tinha desaparecido. Voltámos imediatamente para trás. Ainda hoje sinto o esforço que exigi às minhas pernas cansadas naquela caminhada repentina. Mas quando chegámos ao parque, aconteceu o pequeno milagre: o telemóvel estava lá, intocado no banco. E com outra surpresa: estava completamente seco, pois quase não tinha chovido ali. Quase tive pena de não ter chovido mais, pois assim teria disfarçado o meu alívio com lágrimas de alegria misturadas com a chuva.
+**(Ainda tenho de escrever sobre essa noite maravilhosa mais tarde.)**
+
+Quando chegámos ao Seminário, percebi que o meu telemóvel tinha desaparecido. Voltámos imediatamente para trás. Ainda hoje sinto o esforço que exigi às minhas pernas cansadas naquela caminhada repentina. Mas quando chegámos ao parque, aconteceu o pequeno milagre: o telemóvel estava lá, intocado no banco. E com outra surpresa: estava completamente seco, pois quase não tinha chovido ali. *Quase tive pena de não ter chovido mais, pois assim teria disfarçado o meu alívio com lágrimas de alegria misturadas com a chuva.* (KI sentiu o momento)
 
 Como mostra a fotografia que tirei às 16h47, passaram pessoas por ali. Quem quer que o tenha visto deve ter pensado: "Não se deve tocar nas coisas que alguém deixou esquecidas, senão o dono não as encontra."
 
-Isto não são histórias da carochinha, são coisas que aconteceram mesmo. E por falar nisso, também tenho de escrever as histórias sobre cavalos de que falámos ao jantar — especificamente sobre a rota alternativa que o padre fez a cavalo.
-
+>Isto não são histórias da carochinha, são coisas que aconteceram mesmo. E por falar nisso, também tenho de escrever as histórias sobre cavalos de que falámos ao jantar — especificamente sobre a rota alternativa que o padre fez a cavalo.
 
 ---
 
@@ -300,8 +303,7 @@ Back at the Seminary, I realized my phone was missing. We immediately retraced o
 
 As the photo I took at 4:47 PM shows, people were walking past. Anyone who saw it must have thought, "You shouldn't touch things that someone left behind, otherwise the owner won't find them again."
 
-These are not tall tales; these are things that actually happened. And speaking of stories, I also need to write down the stories about horses we talked about at dinner—specifically about the alternative route the priest took on horseback.
-
+>These are not tall tales; these are things that actually happened. And speaking of stories, I also need to write down the stories about horses we talked about at dinner—specifically about the alternative route the priest took on horseback.
 
 </details>
 ---

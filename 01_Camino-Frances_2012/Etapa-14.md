@@ -6,37 +6,6 @@
 
 ![](media04/20120518-101426.webp)
 
-
-<details>
-<summary>🇬🇧  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇩🇪  </summary>
-
-
-
-</details>
-
----
-
-<details>
-<summary>🇪🇸  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇵🇹  </summary>
-
-</details>
-
 ---
 
 <details>

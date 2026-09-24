@@ -11,35 +11,6 @@
 
 ![](media04/20120522-100257.webp)
 
-<details>
-<summary>🇬🇧  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇩🇪  </summary>
-
-
-
-</details>
-
----
-
-<details>
-<summary>🇪🇸  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇵🇹  </summary>
-
-</details>
 
 ---
 
@@ -53,7 +24,7 @@
 
 ---
 
-**↪** 
+**↪** [Etapa-19](Etapa-19.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 

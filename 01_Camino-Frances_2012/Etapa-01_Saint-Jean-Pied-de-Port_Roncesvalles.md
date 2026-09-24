@@ -39,7 +39,7 @@ Doch hier hatten die Hospitaleros diese Tradition wieder zu Ehren gebracht.
 
 Obwohl ich eigentlich nicht meinen bevorzugten deutschen Filterkaffee erwartet hatte, hatte ich mich auf einen „Café au Lait“ gefreut. Doch als ich den ersten Schluck nahm, erschrak ich über diesen Geschmack – so fremd und zugleich so vertraut. Allein dieser erste Schluck reichte aus, um mich endgültig wachzurütteln.
 
-Das war eine der Lektionen, die ich bereits am ersten Tag gelernt habe: Man muss dankbar sein für das, was uns der Weg gibt. Sonst können wir genauso gut zu Hause bleiben.
+>Das war eine der Lektionen, die ich bereits am ersten Tag gelernt habe: Man muss dankbar sein für das, was uns der Weg gibt. Sonst können wir genauso gut zu Hause bleiben.
 
 </details>
 
@@ -62,7 +62,7 @@ Pero aquí, los hospitaleros habían vuelto a poner aquella tradición en valor.
 
 Aunque no esperaba mi habitual café de filtro alemán—, tenía ganas de tomar un „Café au Lait“. Sin embargo, cuando di el primer sorbo, me sorprendió aquel sabor: tan extraño y, al mismo tiempo, tan familiar. Aquel primer sorbo, por sí solo, fue suficiente para despertarme por completo.
 
-Esta fue una de las lecciones que aprendí ya el primer día: hay que estar agradecido por lo que el Camino nos ofrece. De lo contrario, también podríamos quedarnos en casa.
+>Esta fue una de las lecciones que aprendí ya el primer día: hay que estar agradecido por lo que el Camino nos ofrece. De lo contrario, también podríamos quedarnos en casa.
 
 </details>
 
@@ -85,7 +85,7 @@ Mas aqui, os hospitaleros tinham voltado a dar vida a essa tradição.
 
 Embora eu não esperasse o meu habitual café de filtro alemão —, tinha ficado à espera de um „Café au Lait“. Mas, quando dei o primeiro gole, assustei-me com aquele sabor: tão estranho e, ao mesmo tempo, tão familiar. Só aquele primeiro gole foi suficiente para me despertar completamente.
 
-Esta foi uma das lições que aprendi logo no primeiro dia: é preciso agradecer aquilo que o Caminho nos oferece. Caso contrário, mais vale ficarmos em casa.
+>Esta foi uma das lições que aprendi logo no primeiro dia: é preciso agradecer aquilo que o Caminho nos oferece. Caso contrário, mais vale ficarmos em casa.
 
 </details>
 
@@ -128,7 +128,7 @@ Hier war das anders. Wir waren etwa 60 Pilger im selben Schlafsaal, und wenn wir
 
 Mehr als die Kilometer, die noch vor mir lagen, brauchte dieser Teil der Pilgerreise Zeit, um mich daran zu gewöhnen.
 
-Das waren also meine ersten Eindrücke von meiner ersten Etappe – Eindrücke, die sich mit Fotos allein nicht vermitteln lassen.
+>Das waren also meine ersten Eindrücke von meiner ersten Etappe – Eindrücke, die sich mit Fotos allein nicht vermitteln lassen.
 
 </details>
 
@@ -160,7 +160,7 @@ Aquí no. Éramos unos 60 peregrinos en el mismo dormitorio y, cuando íbamos al
 
 Más que los kilómetros que tenía por delante, fue esta parte de la peregrinación la que más tiempo me llevó a la hora de adaptarme.
 
-Y estas fueron mis primeras impresiones de la primera etapa: impresiones que, por mucho que lo intentemos, no se pueden transmitir únicamente con fotografías.
+>Y estas fueron mis primeras impresiones de la primera etapa: impresiones que, por mucho que lo intentemos, no se pueden transmitir únicamente con fotografías.
 
 </details>
 
@@ -191,7 +191,7 @@ Not here. There were around 60 pilgrims in the same dormitory, and whenever some
 
 More than the kilometres that lay ahead of me, it was this part of the pilgrimage that took me the longest to adapt to.
 
-And these were my first impressions of the first stage — impressions that, no matter how hard we try, cannot be conveyed through photographs alone.
+>And these were my first impressions of the first stage — impressions that, no matter how hard we try, cannot be conveyed through photographs alone.
 
 </details>
 
@@ -221,7 +221,7 @@ Ali não. Éramos cerca de 60 peregrinos no mesmo dormitório e, **quando íamos
 
 Mais do que os quilómetros que ainda tinha pela frente, foi esta parte da peregrinação que me levou mais tempo a adaptar-me.
 
-E foram estas as minhas primeiras impressões da primeira etapa — impressões que, por mais que tentemos, não se conseguem transmitir através de fotografias.
+>E foram estas as minhas primeiras impressões da primeira etapa — impressões que, por mais que tentemos, não se conseguem transmitir através de fotografias.
 
 </details>
 
@@ -265,7 +265,7 @@ Curiosamente, mais do que os quilómetros que ainda tinha pela frente, foi esta 
 
 O Caminho não nos pede apenas pernas e resistência. Também nos pede paciência, respeito pelo outro e a capacidade de adaptar os nossos próprios hábitos aos de dezenas de pessoas que, até há pouco tempo, eram completamente desconhecidas.
 
-E foram estas as minhas primeiras impressões da primeira etapa — impressões que uma fotografia nunca conseguirá transmitir por completo.
+>E foram estas as minhas primeiras impressões da primeira etapa — impressões que uma fotografia nunca conseguirá transmitir por completo.
 
 ---
 
@@ -297,7 +297,7 @@ Interessanterweise waren es nicht die vielen Kilometer, die noch vor mir lagen, 
 
 Der Jakobsweg verlangt nicht nur Kraft und Ausdauer. Er verlangt auch Geduld, Rücksichtnahme und die Bereitschaft, die eigenen Gewohnheiten an die Gewohnheiten von Menschen anzupassen, die bis vor kurzem noch völlig fremd waren.
 
-Das waren meine ersten Eindrücke von der ersten Etappe – Eindrücke, die sich durch ein Foto niemals vollständig vermitteln lassen.
+>Das waren meine ersten Eindrücke von der ersten Etappe – Eindrücke, die sich durch ein Foto niemals vollständig vermitteln lassen.
 
 ---
 
@@ -329,7 +329,7 @@ Curiosamente, más que los kilómetros que todavía tenía por delante, fue esta
 
 El Camino no nos pide solamente fuerza y resistencia. También nos pide paciencia, respeto por los demás y la capacidad de adaptar nuestros propios hábitos a los de personas que, hasta hacía muy poco, eran completamente desconocidas para nosotros.
 
-Y estas fueron mis primeras impresiones de la primera etapa: impresiones que ninguna fotografía podrá transmitir por completo.
+>Y estas fueron mis primeras impresiones de la primera etapa: impresiones que ninguna fotografía podrá transmitir por completo.
 
 ---
 
@@ -363,7 +363,7 @@ The Camino demands more than strength and endurance. It also demands patience, c
 
 And these were my first impressions of the first stage — impressions that no photograph can ever fully convey.
 
-Ich habe dabei bewusst **nicht zu stark ausgeschmückt**: Die zusätzlichen Gedanken über Geduld, Rücksichtnahme und das Zusammenleben ergeben sich direkt aus deiner ursprünglichen Beobachtung und geben dem Text etwas mehr Tiefe, ohne deine eigene Stimme zu verlieren.
+***Ich habe dabei bewusst **nicht zu stark ausgeschmückt**: Die zusätzlichen Gedanken über Geduld, Rücksichtnahme und das Zusammenleben ergeben sich direkt aus deiner ursprünglichen Beobachtung und geben dem Text etwas mehr Tiefe, ohne deine eigene Stimme zu verlieren.***
 
 </details>
 ---
@@ -378,7 +378,7 @@ Ich habe dabei bewusst **nicht zu stark ausgeschmückt**: Die zusätzlichen Geda
 
 ---
 
-**↪** 
+**↪** [Etapa-02_Roncesvalles_Larrasoana](Etapa-02_Roncesvalles_Larrasoana.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 

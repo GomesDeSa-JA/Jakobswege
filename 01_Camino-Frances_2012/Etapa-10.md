@@ -25,7 +25,6 @@
 
 ![](media03/20120514-121728.webp)
 
-
 ???
 
 ![](media03/20120514-124656.webp)
@@ -36,36 +35,6 @@
 
 ![](media03/20120514-202031.webp)
 
-
-<details>
-<summary>🇬🇧  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇩🇪  </summary>
-
-
-
-</details>
-
----
-
-<details>
-<summary>🇪🇸  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇵🇹  </summary>
-
-</details>
 
 ---
 

@@ -9,42 +9,6 @@ Solo una foto de las 17:40, pero emocionalmente ese día todavía lo llevo graba
 
 ![](media02/20120508-174050.webp)
 
-<details>
-<summary> 🇩🇪 </summary>
-
-</details>
-
----
-
-<details>
-<summary> 🇪🇸  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇬🇧 </summary>
-
-</details>
-
----
-
-<details>
-<summary> 🇵🇹  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> </summary>
-
-
-</details>
-
 ---
 
 <details>

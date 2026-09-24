@@ -43,37 +43,6 @@ Most of the time, we think we are the landscape and take up the whole frame in a
 
 ![](Fr25Mai2012-093406.webp)
 
-
-<details>
-<summary>🇬🇧  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇩🇪  </summary>
-
-
-
-</details>
-
----
-
-<details>
-<summary>🇪🇸  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇵🇹  </summary>
-
-</details>
-
 ---
 
 <details>

@@ -188,35 +188,6 @@ Water, a spring – what a marvellous thing! You quench your thirst, other pilgr
 
 Ein Blick zurück auf Castrojeriz, Kurz vor Itero de la Vega
 
-<details>
-<summary>🇬🇧  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇩🇪  </summary>
-
-
-
-</details>
-
----
-
-<details>
-<summary>🇪🇸  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇵🇹  </summary>
-
-</details>
 
 ---
 

@@ -26,42 +26,6 @@ I can still picture that day as if it were yesterday
 ![](media02/20120507_092600-.webp)
 
 ---
-<details>
-<summary> </summary>
-
-<details>
-<summary> 🇩🇪 </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇪🇸  </summary>
-
-
-</details>
-
----
-<details>
-<summary> 🇬🇧 </summary>
-
-
-</details>
-
----
-<details>
-<summary> 🇵🇹  </summary>
-
-
-</details>
-
----
-
-
-</details>
----
 
 <details>
 <summary>  </summary>

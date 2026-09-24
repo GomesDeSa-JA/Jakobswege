@@ -47,8 +47,6 @@
 
 ![](media04/20120523-150622.webp)
 
-
-
 ![](media04/20120523-DSCF3326.webp)
 
 ![](media04/20120523-DSCF3327.webp)
@@ -57,38 +55,6 @@
 
 ![](media04/20120523-DSCF3336.webp)
 
-
-<details>
-<summary>🇬🇧  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇩🇪  </summary>
-
-
-
-</details>
-
----
-
-<details>
-<summary>🇪🇸  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇵🇹  </summary>
-
-</details>
-
----
 
 <details>
 <summary>  </summary>

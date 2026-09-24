@@ -8,51 +8,18 @@
 
 ![](media04/20120524-081431.webp)
 
-
 ![](media04/20120524-081438.webp)
 
 ![](media04/20120524-082743.webp)
 
 ![](media04/20120524-090840.webp)
 
-
 ![](media04/20120524-105222.webp)
-
 
 ![](media04/20120524-125859.webp)
 
 ![](media04/20120524-125912.webp)
 
-
-<details>
-<summary>🇬🇧  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇩🇪  </summary>
-
-
-
-</details>
-
----
-
-<details>
-<summary>🇪🇸  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇵🇹  </summary>
-
-</details>
 
 ---
 

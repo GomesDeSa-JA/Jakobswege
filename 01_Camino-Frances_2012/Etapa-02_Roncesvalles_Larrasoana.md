@@ -35,38 +35,6 @@
 ![](Larrasoana.webp)
 Albergue (Reception)                                                                   Albergue (Dependence?)
 
-
----
-
-<details>
-<summary> 🇵🇹  </summary>
-
-</details>
-
----
-
-<details>
-<summary> 🇩🇪 </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇪🇸  </summary>
-
-
-</details>
-
----
-<details>
-<summary> 🇬🇧 </summary>
-
-
-</details>
-
-
 ---
 
 <details>

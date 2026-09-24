@@ -7,22 +7,13 @@
 
 ![](media02/20120510-063028.webp)
 
-
 ![](media02/20120510-065127.webp)
 
 ![](media02/20120510-075006.webp)
 
-
 ![](media02/20120510-075043.webp)
 
 ![](media02/20120510-113934.webp)
-
-<details>
-<summary>🇬🇧  </summary>
-
-
-
-</details>
 
 ---
 

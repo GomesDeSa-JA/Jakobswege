@@ -5,7 +5,6 @@
 
 ![](20120605-104821.webp)  
 
-
 <details>
 <summary>🇬🇧 Finesterre </summary>
 
@@ -259,19 +258,15 @@ Eu disse-lhe que aquela tinha sido uma decisão tomada pelo próprio filho. Se n
 
 ![](20120605-181743.webp)
 
-
 ![](20120605-182043.webp)
 
 ![](20120605-191733.webp)
 
 ![](20120605-191911.webp)
 
-
 ![](20120605-182915.webp)
 
 ![](20120605-182902.webp)
-
-
 
 ![](20120605-190405.webp)
 

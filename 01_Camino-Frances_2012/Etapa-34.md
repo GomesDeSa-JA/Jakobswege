@@ -3,8 +3,6 @@
 ### Etapa-34: →  ( Km)
 06 de Juni 2012
 
-![](media05/20120606-094822.webp)
-
 ![](media05/20120606-094834.webp)
 
 ---
@@ -84,7 +82,6 @@ Para a maioria dos peregrinos modernos, Finisterra (_Fisterra_) é apenas um bel
     2. Queimar as vestes no cabo, representando o despojamento do "velho eu" e dos fardos do passado.
     3. Contemplar o pôr do sol, funcionando como uma metáfora para a morte do ego e o renascimento espiritual.
     
-
 Finisterra guarda o verdadeiro Quilómetro 0,0 do Caminho: não é uma paragem logística, mas sim o limiar sagrado onde o peregrino morre para o passado e regressa a casa renovado.
 
 ---
@@ -98,6 +95,7 @@ Finisterra guarda o verdadeiro Quilómetro 0,0 do Caminho: não é uma paragem l
 
 ---
 
+**↪**[Etapa-00_Bayonne_Saint-Jean-Pied-de-Port](Etapa-00_Bayonne_Saint-Jean-Pied-de-Port.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 

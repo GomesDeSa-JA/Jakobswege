@@ -20,35 +20,6 @@
 
 ![](media05/20120603-160152.webp)
 
-<details>
-<summary>🇬🇧  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇩🇪  </summary>
-
-
-
-</details>
-
----
-
-<details>
-<summary>🇪🇸  </summary>
-
-
-</details>
-
----
-
-<details>
-<summary> 🇵🇹  </summary>
-
-</details>
 
 ---
 
@@ -62,7 +33,7 @@
 
 ---
 
-**↪** [Etapa-33](Etapa-33.md)
+**↪** [Etapa-32](Etapa-32.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 
