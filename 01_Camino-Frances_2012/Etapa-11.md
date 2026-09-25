@@ -134,10 +134,16 @@ Nos hicimos fotos mutuamente. Después, como ocurre tantas veces en el Camino, n
 - La mayoría de las veces creemos que formamos parte del paisaje y ocupamos todo el espacio de una foto, pero solo somos viajeros durante una fracción del tiempo que existe un paisaje.
 
 ![](media03/20120515-073920.webp)
-In ein paar Minuten werdet ihr mich hier nicht mehr antreffen.
-In a few minutes, you won’t find me here any more.
-Daqui a alguns minutos já não me encontrarão aqui.
-Dentro de unos minutos ya no estaré aquí.
+
+- Wir sind nicht die Landschaft, aber meistens nehmen wir das ganze Bild für uns ein.
+
+Es ist schön, sich selbst beim Gehen zu beobachten.
+Sein eigenes Spiegelbild  kann man  auch zu Hause vor dem Spiegel bewundern.
+
+- Não somos a paisagem, mas, na maioria das vezes, ocupamos toda a imagem.
+
+É bom observar-se a si próprio a andar. O seu próprio reflexo pode ser admirado em casa, diante do espelho.
+
 
 ![](media03/20120515-115550.webp)
 

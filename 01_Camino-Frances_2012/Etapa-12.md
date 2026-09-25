@@ -120,7 +120,6 @@ Heute ist die Gefahr für uns unsichtbar geworden, weil sie lückenlos überwach
 
 #### 🇩🇪 Convento de San Antón (Castrojeriz) – Mehr als nur ein Pilgerhospital
 
-> 
 > Das Kloster, gelegen rund drei Kilometer vor Castrojeriz auf dem Camino Francés, war im Mittelalter und insbesondere im 15. Jahrhundert (Siglo XV) weit mehr als eine gewöhnliche Raststation für müde Wanderer. Es war das spirituelle, medizinische und administrative Zentrum des Antoniter-Ordens auf der Iberischen Halbinsel und genoss direkten königlichen Schutz.
 > 
 > - Das medizinische Zentrum gegen das „Antoniusfeuer“: Das Hospital war weltweit führend in der Behandlung des _Ergotismus_ (Mutterkornvergiftung). Die Mönche heilten die Erkrankten durch die Vergabe von reinem Weizenbrot (statt des kontaminierten Roggens) und der Pflege mit geheimen Kräutersalben.

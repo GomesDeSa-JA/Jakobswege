@@ -25,6 +25,8 @@
 
 🇩🇪 Als ich am frühen Morgen in Santillana del Mar aufbrach, fiel mir der Campingplatz auf. Kaum hatte ich ihn erblickt, dachte ich: „Warum habe ich nicht dort gebucht? Das wäre gemütlicher gewesen als die Pension.“ 
 
+ Auf Campingplätzen ist es praktischer, ein oder zwei Kleidungsstücke zu waschen und die Wanderstiefel zu lüften. Die Betten in einer Pension mögen für den Durchschnittsbürger bequemer sein, aber hat ein Pilger wirklich genau dasselbe Gefühl?
+ 
 ..., ... .   
 
 Irgendwann siegt einfach die Erschöpfung, und der Handyakku ist so leer, dass man nichts mehr festhalten kann. Doch manche Augenblicke davor brennen sich aufgrund der späteren Ereignisse so tief ins Gedächtnis ein, dass man sie nie wieder vergisst. So bleiben einem die Uhrzeit, die Müdigkeit, die Ankunft, der Anruf und das Abendessen für immer präsent. Das alles nur, weil ein Pilger völlig erschöpft und sehr spät in der Herberge von Serdio ankam, als es schon keine freien Betten mehr gab. Das Obergeschoss war komplett belegt, sodass ein anderer Pilger und ich uns unten einrichteten. In diesem Moment sagte der erschöpfte Pilger: „Ich bleibe hier, ich gehe nicht mehr weiter.“ Da ich zu den Letzten gehörte, die eingecheckt hatten, gab mir die Herbergsleiterin noch mit auf den Weg: „Falls noch jemand kommt, rufen Sie mich bitte an. Dann komme ich zurück, um die Person zu registrieren.“
@@ -35,6 +37,7 @@ Sowohl dieser Pilger als auch ich sprachen nur mäßig Englisch – gerade gut g
 
 🇪🇸  Al salir temprano por la mañana de Santillana del Mar, me llamó la atención el camping. En cuanto lo vi, pensé: «¿Por qué no habré reservado allí? Habría sido más cómodo que la pensión». 
 
+ En los campings resulta más práctico lavar una o dos prendas y airear las botas de senderismo. Puede que las camas de una pensión sean más cómodas para el ciudadano medio, pero ¿realmente tiene un peregrino exactamente la misma sensación?
 ...., ... . 
 
 Llega un momento en que el cansancio te supera y la batería del móvil está tan baja que ya no te permite registrar nada. Sin embargo, hay ciertos instantes previos que, por lo que ocurre después, se te quedan grabados en la memoria para siempre; es así como recuerdas  la hora, el cansancio, la llegada, la llamada y la cena. Y todo porque un peregrino llegó exhausto y muy tarde al albergue de Serdio cuando ya no quedaban camas libres; la planta de arriba estaba llena, por lo que otro peregrino y yo nos acomodamos abajo. Fue entonces cuando aquel hombre dijo: «Me quedo aquí, no voy a continuar la caminata». Como yo había sido de los últimos en llegar, la hospitalera me dijo: «Si viene alguien más, por favor llámeme; volveré para registrarlo».
@@ -45,6 +48,7 @@ Tanto él como ich hablábamos un inglés precario, pero suficiente para entende
 
 🇺🇸 As I set off from Santillana del Mar early in the morning, the campsite caught my eye. The moment I saw it, I thought, "Why didn't I book a spot there? It would have been much nicer than the guesthouse."
 
+At campsites, it’s more practical to wash one or two items of clothing and air out your walking boots. The beds in a guesthouse may be more comfortable for the average person, but does a pilgrim really feel exactly the same way?
 ..., ... . 
 
 Eventually, exhaustion takes over, and your phone battery gets so low that you can't record anything anymore. Yet, there are certain moments leading up to it that stick in your mind forever because of what happens next; that is how we remember the  time, the fatigue, the arrival, the phone call, and the dinner. It all happened because a pilgrim arrived at the Serdio albergue incredibly tired and very late, at a point when there were no free beds left. The upper floor was completely full, so another pilgrim and I set ourselves up downstairs. That was when the weary pilgrim said, "I’m staying here; I’m not going any further." Since I was one of the last to arrive, the hospitalera told me, "If anyone else shows up, please call me, and I’ll come back to register them."
@@ -55,6 +59,7 @@ Both that pilgrim and I spoke broken English, but it was just enough to understa
 
 🇵🇹 Ao partir de Santillana del Mar de manhã cedo, o parque de campismo chamou-me a atenção. Assim que o vi, pensei: "Por que não reservei ali? Teria sido mais agradável do que a pensão." 
 
+ Nos parques de campismo, é mais prático lavar uma ou duas peças de roupa e arejar as botas de caminhada. As camas numa pensão podem ser mais confortáveis para o cidadão comum, mas será que um peregrino tem realmente exatamente a mesma sensação?
 ..., ... . 
 
 Chega um momento em que o cansaço vence e a bateria do telemóvel fica tão fraca que já não se consegue registar nada. No entanto, há certos momentos anteriores que, devido aos acontecimentos seguintes, ficam gravados na memória e nunca mais se esquecem; é por isso que guardamos a hora , o cansaço, a chegada, a chamada e o jantar na lembrança. E tudo porque um peregrino chegou exausto e muito tarde ao albergue de Serdio, quando já não havia camas livres; o andar de cima estava lotado, por isso eu e outro peregrino acomodámo-nos no rés do chão. Foi então que ele disse: "Eu fico aqui, não vou continuar a caminhada." Como eu tinha sido um dos últimos a chegar, a hospitaleira disse-me: "Se aparecer mais alguém, por favor ligue-me; eu volto para o registar."

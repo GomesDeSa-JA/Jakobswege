@@ -52,7 +52,7 @@ La gasolinera de allí ya no es más que una sombra de lo que fue.
 
 ---
 
-- Ab hier legt man eine Zickzackstrecke zurück, und für 100 m iLuftlinie benötigt man mehr als 10 Sekunden.
+- Ab hier legt man eine Zickzackstrecke zurück, und für 100 m Luftlinie benötigt man mehr als 10 Sekunden.
 - A partir daqui, percorre-se um trajeto em ziguezague e são necessários mais de 10 segundos para percorrer 100 m em linha reta.
 
 

@@ -22,7 +22,7 @@
 06 de Maio de 2012
 
 ---
-#### [Etapa-03](Etapa-03.md)
+#### [Etapa-03_Larrasoana_Pamplona](Etapa-03_Larrasoana_Pamplona.md)
 07 de Maio de 2012
 
 Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
