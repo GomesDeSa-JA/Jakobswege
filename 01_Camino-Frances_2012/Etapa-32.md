@@ -34,7 +34,17 @@
 ![](media05/20120604-115445.webp)
 
 ---
+**A viela**
 
+1. Termos Regionais e Tradicionais
+
+- **Congosta (ou Cangosta):** É um termo muito comum no norte de Portugal e na Galiza. Define exatamente um caminho público ou viela muito estreita, frequentemente apertada entre muros altos de pedra (geralmente granito) ou entre um muro e uma encosta/terreno elevado. 
+
+- **Quelha:** Outro termo tradicional do norte de Portugal para designar uma ruela ou viela muito estreita e ladeada por muros ou fachadas altas de pedra.
+
+**Trincheira / Via em Trincheira:** Se a viela passa por um corredor escavado onde os dois lados são muito altos (mesmo que um seja o próprio corte do terreno e o outro seja o muro estrutural), os urbanistas chamam essa configuração de "via em trincheira".
+
+![](media05/20120604-121936.webp)
 
 <details>
 <summary> 🇩🇪 Die Cangosta  </summary>
@@ -143,7 +153,7 @@ To anyone who hasn't seen my other photo of the coastal village by the bay, this
 
 </details>
 
-![](media05/20120604-121936.webp)
+
 
 **A viela**
 

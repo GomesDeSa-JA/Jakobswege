@@ -5,8 +5,6 @@
 
 🇩🇪 Ich muss versuchen, die Geschichte über das frühere Leben voller harter Arbeit in den weiten Ebenen der Meseta zu rekonstruieren, die mir die älteren spanischen Pilgerinnen erzählt haben, die ich in Tosantos kennengelernt habe.
 
-Ich
-
 🇵🇹 Tenho de tentar reconstruir a história sobre a antiga vida de trabalho árduo nas vastas planícies da Meseta, contada pelas peregrinas espanholas mais velhas que conheci em Tosantos.
 
 🇪🇸 Tengo que intentar reconstruir la historia de la antigua vida de duro trabajo en las vastas llanuras de la Meseta, tal y como me la contaron las peregrinas españolas de más edad que conocí en Tosantos.

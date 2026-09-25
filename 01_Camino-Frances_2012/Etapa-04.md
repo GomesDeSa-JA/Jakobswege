@@ -21,7 +21,7 @@ Solo una foto de las 17:40, pero emocionalmente ese día todavía lo llevo graba
 
 ---
 
-**↪** [Etapa-05](Etapa-05.md)
+**↪** [Etapa-05_Puente-la-Reina_ Villamayor-de-Monjardín.Los-Arcos12km2](Etapa-05_Puente-la-Reina_%20Villamayor-de-Monjardín.Los-Arcos12km2.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 

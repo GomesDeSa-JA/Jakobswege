@@ -1,8 +1,7 @@
 ## Camino Francés  2012  
 
-### Etapa-05: →  ( 21,6 + 9,1Km)
-09 de Mai 2012
-
+### Etapa-05: Puente la Reina → Villamayor de Monjardín (21,6 + 9,1Km) Los ₤ Arcos 🚕 12.2Km 
+09 de Mai 2012 
 
 ![](media02/20120509-064840.webp)
 
@@ -14,10 +13,15 @@
 
 ![](media02/20120509-075648.webp)
 
-Drei Portugiesen , Três Portugueses lá no fundo falando do quatidiano e de questõss de trabalho. Eu distancei-me porque não eram coisas que me diziam respeito. Eu muitas vezes apresentava-me para es pessoas saberem quem vem atrás. Mas neste dia queria o caminho sô para mim. 
+ 🇵🇹 Três portugueses, lá à frente, conversavam sobre o dia-a-dia e assuntos profissionais. Mantive a distância, porque aquilo não me dizia respeito. Muitas vezes, apresentava-me para que as pessoas soubessem quem vinha atrás delas. Mas, naquela manhã, queria ter o caminho só para mim.
+
+🇩🇪 Drei Portugiesen, weiter vorne, unterhielten sich über den Alltag und berufliche Angelegenheiten. Ich hielt Abstand, denn das ging mich nichts an. Oft stellte ich mich vor, damit die Leute wussten, wer hinter ihnen herkam. Aber an diesem Morgen wollte ich den Weg ganz für mich allein haben.
+
+🇪🇸 Tres portugueses, allí delante, hablaban sobre su día a día y asuntos profesionales. Me mantuve a distancia, porque aquello no me incumbía. A menudo me presentaba para que la gente supiera quién venía detrás de ellos. Pero aquella mañana quería tener el camino solo para mí.
+
+🇬🇧  Three Portuguese men, up ahead, were chatting about everyday life and work matters. I kept my distance, as it was none of my business. I often introduced myself so that people would know who was coming up behind them. But that morning, I wanted to have the path all to myself.
 
 ![](media02/20120509-080101.webp)
-
 
 ---
 - **12:57 — Bodegas Irache:**  Der Humoranteil in diesem von ChatGPT übersetzten Text liegt zwischen 10 % und 20 %
@@ -80,6 +84,7 @@ A little later, a couple of about forty came along. Unfortunately, I can only re
 In the end, we took photos of one another, and so I was able to capture another one of those small moments that make up the experience of the Camino.
 
 </details>
+
 ---
 
 <details>
@@ -97,16 +102,15 @@ Kurz darauf kam ein etwa vierzigjähriges Paar vorbei. An die beiden kann ich mi
 
 Am Ende machten wir gegenseitig Fotos voneinander. So konnte auch dieser kleine Moment des „Pflichtprogramms“ auf meiner Kamera festgehalten werden.
 
-Danke schön fur die gelungene humorvoll übersetzung. Bis später.
-
 </details>
 
 ![](media02/20120509-191528.webp)
 
-
 ---
+<details>
+<summary> 🇩🇪 Ich spüre den gestrigen Tag, aber ich sehe ihn nicht   </summary>
 
-### 🇩🇪 
+####  Puente la Reina – Villamayor de Monjardín (Los Arcos)
 
 Ich kann mich nicht mehr genau an die Strecke des Vortags erinnern, aber ich weiß noch genau, wie ich mich fühlte, als ich in der Pilgerherberge von Puente la Reina ankam. Es war eine harte Etappe gewesen, kaum in Worte zu fassen. Es war ein durchwachsener Wettertag – das einzige Foto, das ich von diesem Tag habe, zeigt den Altar der Kirche, aufgenommen um 17:40 Uhr.
 
@@ -122,11 +126,13 @@ Als ich dort ankam, musste ich feststellen, dass die städtische Herberge (die a
 
 Da saßen wir nun – eine Gruppe erschöpfter Pilger am Rande unserer Kräfte. Was sollten wir tun? Jemand ergriff die Initiative und rief ein Taxi. Ohne lange nachzudenken, stieg ich in den Großraum-Pkw. Er hatte etwa sechs bis acht Plätze, aber wir saßen so dicht gedrängt, dass man sie kaum zählen konnte. Die Amerikanerin und der Ire kamen nicht mit; ich weiß nicht, ob sie bereits eine Unterkunft hatten. Als ich die beiden am nächsten Tag wiedertraf, fragte er mich, ob ich den Namen der gelben Pflanzen wüsste, die den Feldern entlang des Weges so eine fröhliche Farbe verliehen. Ich musste passen – das englische Wort dafür fiel mir einfach nicht ein. (Raps)
 
+</details>
+
 ---
+<details>
+<summary> 🇵🇹 Ich spüre den gestrigen Tag, aber ich sehe ihn nicht </summary>
 
-## 🇵🇹 Português
-
-Puente la Reina – Villamayor de Monjardín (Los Arcos)
+#### Puente la Reina – Villamayor de Monjardín (Los Arcos)
 
 Já não me lembro bem do percurso do dia anterior, mas recordo perfeitamente como me senti ao chegar ao albergue de peregrinos de Puente la Reina. Tinha sido uma etapa difícil, nem sei bem como descrevê-la. Foi um dia de tempo instável e cinzento — a única foto que tenho desse dia é do altar da igreja, tirada às 17h40.
 
@@ -142,11 +148,13 @@ Quando cheguei, soube que o albergue municipal (que funcionava por donativos) es
 
 Ali estávamos nós — um grupo de peregrinos no limite das nossas forças. O que fazer? Alguém tomou uma decisão e chamou um táxi. Sem saber bem o que fazer, entrei na carrinha de caixa aberta/mini-bus. Tinha cerca de 6 a 8 lugares, mas estávamos tão apertados que nem dava para contar. A peregrina americana e o companheiro irlandês não vieram connosco; não sei se já tinham alojamento. Quando os reencontrei no dia seguinte, ele perguntou-me se eu sabia o nome daquelas plantas amarelas que davam uma cor tão alegre aos campos ao longo do caminho. Disse-lhe que não sabia o nome em inglês. (Colza)
 
+</details>
+
 ---
+<details>
+<summary> 🇪🇸 Siento lo que pasó ayer, pero no lo veo  </summary>
 
-## 🇪🇸 Español
-
-Puente la Reina – Villamayor de Monjardín (Los Arcos)
+#### Puente la Reina – Villamayor de Monjardín (Los Arcos)
 
 Ya no recuerdo el trayecto del día anterior, pero sí sé exactamente cómo me sentí al llegar al albergue de peregrinos de Puente la Reina. Había sido una etapa dura, difícil de describir. Fue un día de tiempo muy variable; de hecho, la única foto que tengo de ese día es del altar de la iglesia, tomada a las 17:40.
 
@@ -162,11 +170,13 @@ Al llegar, me enteré de que el albergue municipal (el que funcionaba con donati
 
 Allí estábamos, un grupo de peregrinos al límite de nuestras fuerzas. ¿Qué podíamos hacer? Alguien tomó la iniciativa y llamó a un taxi. Sin saber muy bien qué hacer, me subí a la furgoneta/monovolumen. Tenía entre 6 y 8 plazas, pero íbamos tan apretados que era imposible contarlas. La estadounidense y el irlandés no subieron; no sé si ya tenían alojamiento. Al día siguiente me los volví a encontrar, y él me preguntó si sabía el nombre de esas plantas amarillas que daban un color tan alegre a los campos del camino. Le contesté que no sabía cómo se decían en inglés. (Colza)
 
+</details>
 ---
 
-## 🇬🇧 English
+<details>
+<summary> 🇬🇧 I can sense the previous day, but I can’t see it  </summary>
 
-Puente la Reina – Villamayor de Monjardín (Los Arcos)
+#### Puente la Reina – Villamayor de Monjardín (Los Arcos)
 
 I can no longer look back and remember the previous day's route, but I vividly recall how I felt upon arriving at the pilgrim hostel in Puente la Reina. It had been a grueling stage, hard to put into words. It was a day of mixed and unsettled weather—the only photo I have from that day is of the church altar, taken at 5:40 PM.
 
@@ -182,50 +192,7 @@ When I arrived, I found out that the municipal donativo hostel was closed. As fa
 
 There we sat—a group of exhausted pilgrims at the end of our ropes. What were we to do? Someone took charge and called a taxi. Not knowing what else to do, I piled into the minivan. It had about six to eight seats, but we were squeezed in so tightly that it was impossible to count them. The American pilgrim and her Irish partner didn't join us; I wasn't sure if they had already found a place to stay. I ran into them again the next day, and he asked me if I knew the name of the bright yellow plants that added such a cheerful color to the fields along the trail. I told him I didn't know the English word for it. (Rapeseed)
 
----
-
-Passt die Beschreibung des Wetters so besser in deine Erzählung, oder gibt es noch ein anderes Detail, das wir anpassen sollen?
-
-
-Puente la Reina -  Villamayor de Monjardín (Los Arcos)
-
-Ich kann mich nicht mehr an die Strecke des Vortags erinnern, aber ich weiß noch, wie ich mich gefühlt habe, als ich in der Pilgerherberge von Puente la Reina ankam. Es war eine schwierige Etappe gewesen, ich weiß gar nicht, wie ich sie beschreiben soll; es regnete, denn ich habe nur ein Foto vom Altar der Kirche, das ich um 17:40 Uhr aufgenommen habe
-
-Ich war müde, und da es regnete, suchten wir Zuflucht in der Herberge, die mir etwas beengt vorkam, da wir alle zusammen waren und die Gemeinschaftsräume nicht für alle gleichzeitig ausreichten.
-
-In dieser vergangenen Nacht kämpfte ich mit mir selbst und stand sehr früh auf, wobei ich einen niederländischen Pilger weckte, der daraufhin verärgert war.
-
-Ich machte mich auf den Weg und hatte feuchte Kleidung im Rucksack, die aufgrund der feuchten Nacht nicht vollständig getrocknet war.
-
-Auf dieser Strecke erinnere ich mich, dass wir an Weinbergen und Weinbergen vorbeikamen, aber ich fand keinen Ort, an dem ich mich ausruhen konnte, und ich erinnere mich, dass die Reben besprüht worden waren, was mich nicht gerade in gute Laune versetzte.
-
-Und ich glaube, dass der Schluck Wein, den ich am frühen Nachmittag in den „Bodegas Irache“ getrunken hatte, ebenfalls dazu beigetragen hat. Ich hatte an diesem Morgen wenig gegessen, nur etwas Trockenes, ein einfaches Brötchen.
-
-Kurz bevor wir Vila Maior de Monjardim erreichten, traf ich eine etwa 60-jährige niederländische Pilgerin, und wir gingen gemeinsam weiter bis nach Vila Maior de Monjardim. Mit größeren Schritten überholte uns der niederländische Pilger, den ich am Morgen verärgert hatte, und ohne ein Wort entschuldigte ich mich bei ihm, woraufhin er mit einem Nicken und in freundlichem Ton sagte: „Buen Camino“.
-
- Er ging weiter und fand in Vila Maior de Monjardim sogar noch einen freien Schlafplatz.
-
- Als ich ankam, erfuhr ich, dass die städtische Herberge oder die Herberge auf Spendenbasis geschlossen war, und soweit ich mich erinnere, sah sie eher wie ein Schuppen oder ein alter Tierstall aus.
-Da die Betreiber oder Besitzer der anderen Herberge Niederländer waren, ging die niederländische Pilgerin dorthin, um zu sehen, ob sie noch ein freies Plätzchen finden würde. Ich setzte mich auf eine Terrasse und lernte eine Amerikanerin mit ihrem Partner (einem Fotografen) aus Irland kennen. Als die niederländische Pilgerin zurückkam und sagte, dass es in der Herberge keinen Platz gäbe, stand ich auf, um das Bier zu bezahlen, doch da sagte der irische Pilger: „Das ist schon bezahlt.“ Da saßen wir nun, eine Gruppe von Pilgern, am Rande unserer Kräfte. Was sollten wir nun tun?  Jemand traf eine Entscheidung und rief ein Taxi, und ich, ohne zu wissen, was ich tun sollte, stieg in den Taxi-Kleinbus, der etwa 6 bis 8 Plätze hatte – ich erinnere mich nicht mehr genau, weil wir so eng gedrängt saßen, dass man sie gar nicht zählen konnte. Die amerikanische Pilgerin und ihr irischer Partner kamen nicht mit. Ich weiß nicht, ob sie bereits einen Platz in der Herberge hatten. Ich traf sie am nächsten Tag wieder, wusste aber nicht, wo sie übernachtet hatten, und er fragte mich, ob ich den Namen der gelben Pflanzen kenne, die den Feldern entlang des Weges eine fröhliche Farbe verliehen. Ich sagte ihm, dass ich den Namen auf Englisch nicht kenne. (Rabs)
-
-
-
- Eu não me recordo do percurso do dia anterior , mas sei como me senti qundo cheguei a Albergue de Peregrinos de Puente la Reina. Tinha sido uma etapa dificil sem saber como descreve-lo, choveu porque eu só tenho uma foto do altar da igreja, que tirei às  17:40
- Estava cansado, e como chovia nós refugiamos-nos no Albergue que me pareceu um pouco apertado com todos juntos onde os lugares comuns não dava para todos ao mesmo tempo.
-
-Nesta noite passada lutei comigo e  levantei-me muito cedo e acordei um peregrino Holandês e ele ficou irritado. 
-
-Eu pus-me a caminho e levava roupa húmida na mochila que não tinha secado por completo, devido a noite humida.  
-
-Neste Percurso lembro-me de passarmos por vinhas e vinhas mas não encontrava um lugar que me desse repouso  e recordo-me que tinham curado as vinhas  o que me não deixou bem disposto.
-E eu penso que o golinho de vinho que bebi no pricipio da tarde nas "Bodegas Irache" também ajudou. Eu tinha comido pouco nessa manhã, algo de seco uma bucha simples.
-
-Pouco antes de chegar a Vila Maior de Monjardim  encontrei uma peregrina Holandesa de uns 60 anos e seguimos juntos até  Vila Maior de Monjardim.  Com um passo mais largo o Peregrino Holandês ,que eu irritei de manhã  passou por nós  e sem palavras eu desculpei-me e ele disse com um aceno e num tom amável  "Buen Camino"
- 
- Ele seguiu em frente e ainda encontrou um lugar livre em Vila Maior de Monjardim para dormir. 
- 
- Quando cheguei  vim a saber que a Albergue Municipal ou donativo estava fechado  e  segundo  me recordo parecia mais  um barracão ou antigo estábulo de animais . 
-Como a os gerentes ou donos da Albergue eram Holandeses, a peregrina Holandesa  foi lá para ver se encontrava um cantinho livre. Eu sentei-me numa explanada e conhecia uma Americana com o parceiro (fotografo) da Irlanda.  Quando a Peregrina Holandesa voltou disse que e não há lugar na Albergue, eu levantei-me para pagar a cerveja qundo o peregrino Irlandês disse, já esta paga.    Ali estavamos nós  um grupo de peregrinos, no limite das nossa forças. Que fazemos agora.  Alguém tomou uma decisão e chamou um taxi e eu sem saber o que fazer entrei na carrinha-Taxi que tinha uns 6 a 8 lugares, já não me recordo porque iamos tão apertados que nem dava para contar.   A Peregrina Americana e o parceiro Irlandês não foram connosco. Eu não sei se eles já tinham lugar na Albergue.  Encontreio-os no proximo dia mas não soube onde dormiram e  que  ele me perguntou  se eu sabia o nome   das plantas amarelas que davam uma cor alegre aos campos o longo do caminho. Eu disse-lhe que não sabia o nome em Inglês. (Rabs)
+</details>
 
 ---
 
