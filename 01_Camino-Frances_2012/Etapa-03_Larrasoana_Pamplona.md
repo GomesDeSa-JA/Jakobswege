@@ -27,7 +27,7 @@ I can still picture that day as if it were yesterday
 
 - Albergue municipal Jesús y María
 
-![](Albergue-municipal-Jesus-y-Maria.webp)
+![](media01/Albergue-municipal-Jesus-y-Maria.webp)
 Google-Maps-Bild von „Caïna Verrin“ aus dem Jahr 2026
 
 Imagem do Google Maps de „Caïna Verrin“, de 2026
