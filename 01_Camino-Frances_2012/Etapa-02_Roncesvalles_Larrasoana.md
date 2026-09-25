@@ -60,7 +60,7 @@ Hier war meine Rettung und ich wurde sagen, wenn ich nicht hier angehalten hätt
 Diese Ereignisse reichen über den gelebten Moment hinaus, daher werde ich überlegen, wie ich sie formulieren kann
 
 
-![](Larrasoana.webp)
+![](media02/Larrasoana.webp)
 Albergue (Reception)                                                                   Albergue (Dependence?)
 
 ---
