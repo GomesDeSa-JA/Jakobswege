@@ -125,14 +125,6 @@ Nos hicimos fotos mutuamente. Después, como ocurre tantas veces en el Camino, n
 ![](media03/20120515-073811.webp)
 
 
-- Meistens glauben wir wären die Landschaft und beanspruchen den ganzen Raum in einen Foto,  aber wir sind nur Reisend für eine Bruchteil der  Zeit einer Landschaft.
-
-- Most of the time, we think we are the landscape and take up the whole frame in a photograph, but we are merely travellers for a fraction of the time a landscape exists.
-
-- Na maioria das vezes, pensamos que somos a paisagem e ocupamos todo o espaço numa fotografia, mas somos apenas viajantes durante uma fração do tempo de uma paisagem.
-
-- La mayoría de las veces creemos que formamos parte del paisaje y ocupamos todo el espacio de una foto, pero solo somos viajeros durante una fracción del tiempo que existe un paisaje.
-
 ![](media03/20120515-073920.webp)
 
 - Wir sind nicht die Landschaft, aber meistens nehmen wir das ganze Bild für uns ein.

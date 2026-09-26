@@ -3,7 +3,7 @@
 ### Etapa-32: →  ( Km)
 05 de Juni 2012
 
-![](20120605-104821.webp)  
+![](media05/20120605-104821.webp)  
 
 <details>
 <summary>🇬🇧 Finesterre </summary>
@@ -26,7 +26,7 @@ It was no big deal, and yet it was exactly what I needed at that moment: a place
 
 **05.06.2012**
 
-![](20120605-104831.webp)
+![](media05/20120605-104831.webp)
 
 #### The English pilgrim
 
@@ -250,25 +250,25 @@ Eu disse-lhe que aquela tinha sido uma decisão tomada pelo próprio filho. Se n
 </details>
 
 
-![](20120605-180038.webp)
+![](media05/20120605-180038.webp)
 
 
-![](20120605-181058.webp)
+![](media05/20120605-181058.webp)
 
 
-![](20120605-181743.webp)
+![](media05/20120605-181743.webp)
 
-![](20120605-182043.webp)
+![](media05/20120605-182043.webp)
 
-![](20120605-191733.webp)
+![](media05/20120605-191733.webp)
 
-![](20120605-191911.webp)
+![](media05/20120605-191911.webp)
 
-![](20120605-182915.webp)
+![](media05/20120605-182915.webp)
 
-![](20120605-182902.webp)
+![](media05/20120605-182902.webp)
 
-![](20120605-190405.webp)
+![](media05/20120605-190405.webp)
 
 ---
 
