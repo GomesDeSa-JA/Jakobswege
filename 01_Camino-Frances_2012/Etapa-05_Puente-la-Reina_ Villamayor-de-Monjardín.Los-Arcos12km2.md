@@ -128,9 +128,13 @@ Da saßen wir nun – eine Gruppe erschöpfter Pilger am Rande unserer Kräfte. 
 
 </details>
 
+- 26.09.2026 09:36: Ich sehe ihn wieder   
+
+Mein Erinnerungsanker: **Foto vom Alto del Pardon auf Google Maps, von Mixel Paillot, aus dem Jahr 2020:** Soweit ich mich erinnere, hat zu der Zeit (2012), als wir Pilger hier vorbeikamen, niemand angehalten, um Fotos zu machen 
+
 ---
 <details>
-<summary> 🇵🇹 Ich spüre den gestrigen Tag, aber ich sehe ihn nicht </summary>
+<summary> 🇵🇹 Sinto o dia de ontem, mas não o vejo </summary>
 
 #### Puente la Reina – Villamayor de Monjardín (Los Arcos)
 
@@ -150,7 +154,11 @@ Ali estávamos nós — um grupo de peregrinos no limite das nossas forças. O q
 
 </details>
 
+- 26/09/2026 09:36: **Volto a vê-lo**
+A minha âncora de memória: **foto do Alto del Pardon no Google Maps, de Mixel Paillot, de 2020:** tanto quanto me lembro, na altura (2012) em que nós, os peregrinos, passámos por aqui, ninguém parou para tirar fotos 
+
 ---
+
 <details>
 <summary> 🇪🇸 Siento lo que pasó ayer, pero no lo veo  </summary>
 
@@ -173,6 +181,11 @@ Allí estábamos, un grupo de peregrinos al límite de nuestras fuerzas. ¿Qué 
 </details>
 ---
 
+- 26/09/2026 09:36: **Vuelvo a verlo**   
+
+Mi punto de referencia: **foto del Alto del Perdón en Google Maps, de Mixel Paillot, de 2020:** por lo que recuerdo, cuando nosotros, los peregrinos, pasamos por aquí (2012), nadie se detuvo a hacer fotos 
+
+---
 <details>
 <summary> 🇬🇧 I can sense the previous day, but I can’t see it  </summary>
 
@@ -193,6 +206,10 @@ When I arrived, I found out that the municipal donativo hostel was closed. As fa
 There we sat—a group of exhausted pilgrims at the end of our ropes. What were we to do? Someone took charge and called a taxi. Not knowing what else to do, I piled into the minivan. It had about six to eight seats, but we were squeezed in so tightly that it was impossible to count them. The American pilgrim and her Irish partner didn't join us; I wasn't sure if they had already found a place to stay. I ran into them again the next day, and he asked me if I knew the name of the bright yellow plants that added such a cheerful color to the fields along the trail. I told him I didn't know the English word for it. (Rapeseed)
 
 </details>
+
+- 26/09/2026 09:36: **I can see it again**   
+
+My memory anchor: **a photo of Alto del Pardon on Google Maps, by Mixel Paillot, from 2020:** as far as I can remember, when we pilgrims passed through here (2012) , nobody stopped to take photos 
 
 ---
 

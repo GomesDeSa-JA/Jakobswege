@@ -11,13 +11,13 @@
 
 ![](media04/20120516-083212.webp)
 
-Cuando se recorre el «Camino Francés» a primera hora de la mañana, en el aire fresco de la mañana, uno sigue con placer su propia sombra; y al atardecer, con los pies cansados, la propia sombra se arrastra detrás de nosotros, más mal que bien.
+🇪🇸 Cuando se recorre el «Camino Francés» a primera hora de la mañana, en el aire fresco de la mañana, uno sigue con placer su propia sombra; y al atardecer, con los pies cansados, la propia sombra se arrastra detrás de nosotros, más mal que bien.
 
-Wenn man frühmorgens in der frischen Morgenluft den „Französischen Weg“ entlanggeht, folgt man gerne seinem eigenen Schatten; und bei Einbruch der Dunkelheit, mit müden Füßen, schleppt sich der eigene Schatten hinter uns her, mehr schlecht als recht.
+🇩🇪 Wenn man frühmorgens in der frischen Morgenluft den „Französischen Weg“ entlanggeht, folgt man gerne seinem eigenen Schatten; und bei Einbruch der Dunkelheit, mit müden Füßen, schleppt sich der eigene Schatten hinter uns her, mehr schlecht als recht.
 
-Quando se percorre o «Caminho Francês» logo pela manhã, no ar fresco do amanhecer, segue-se com prazer a própria sombra; e ao anoitecer, com os pés cansados, a própria sombra arrasta-se atrás de nós, mais mal do que bem.
+🇵🇹 Quando se percorre o «Caminho Francês» logo pela manhã, no ar fresco do amanhecer, segue-se com prazer a própria sombra; e ao anoitecer, com os pés cansados, a própria sombra arrasta-se atrás de nós, mais mal do que bem.
 
-When you’re walking along the ‘Camino Francés’ early in the morning, in the crisp morning air, you happily follow your own shadow; and in the evening, with tired feet, your shadow drags itself along behind you, barely keeping up.
+🇬🇧 When you’re walking along the ‘Camino Francés’ early in the morning, in the crisp morning air, you happily follow your own shadow; and in the evening, with tired feet, your shadow drags itself along behind you, barely keeping up.
 
 When you walk the ‘French Way’ first thing in the morning, in the cool air of dawn, you take pleasure in following your own shadow; and at dusk, with weary feet, your own shadow trails behind you, barely keeping up.
 
@@ -170,16 +170,16 @@ Heute ist die Gefahr für uns unsichtbar geworden, weil sie lückenlos überwach
 
 ![](media04/20120516-132821-DSCF3250.webp)
 
-Wasser, eine Wasserquelle – was für eine wunderbare Sache! Du stillst deinen Durst, andere Pilger tun es dir gleich, und jemand sagt: „Ich gehe weiter, die Herbergen hier sind bestimmt überfüllt.“ Du schaust auf die Uhr, fühlst dich gut  und denkst: Noch eine kleine Anstrengung, dann schaffst du noch ein paar Kilometer. Du nimmst dein gelbes Buch zur Hand und siehst: „Itero de la Vega“, nur  10 km entfernt und mit Übernachtungsmöglichkeiten dort. Na dann, los geht’s!
+🇩🇪 Wasser, eine Wasserquelle – was für eine wunderbare Sache! Du stillst deinen Durst, andere Pilger tun es dir gleich, und jemand sagt: „Ich gehe weiter, die Herbergen hier sind bestimmt überfüllt.“ Du schaust auf die Uhr, fühlst dich gut  und denkst: Noch eine kleine Anstrengung, dann schaffst du noch ein paar Kilometer. Du nimmst dein gelbes Buch zur Hand und siehst: „Itero de la Vega“, nur  10 km entfernt und mit Übernachtungsmöglichkeiten dort. Na dann, los geht’s!
 
 ---
-Água, uma fonte de água – que coisa maravilhosa! Sacias a tua sede, outros peregrinos fazem o mesmo, e alguém diz: «Vou continuar, as pousadas por aqui devem estar lotadas.» Olhas para o relógio, sentes-te bem e pensas: «Mais um pequeno esforço e consegues percorrer mais alguns quilómetros.» Pegas no teu livro amarelo e vês: «Itero de la Vega», a apenas 10 km de distância e com alojamento disponível lá. Então, vamos lá!
+🇵🇹 Água, uma fonte de água – que coisa maravilhosa! Sacias a tua sede, outros peregrinos fazem o mesmo, e alguém diz: «Vou continuar, as pousadas por aqui devem estar lotadas.» Olhas para o relógio, sentes-te bem e pensas: «Mais um pequeno esforço e consegues percorrer mais alguns quilómetros.» Pegas no teu livro amarelo e vês: «Itero de la Vega», a apenas 10 km de distância e com alojamento disponível lá. Então, vamos lá!
 
 ---
-Agua, un manantial… ¡qué maravilla! Sacias tu sed, otros peregrinos hacen lo mismo que tú, y alguien dice: «Yo sigo adelante, seguro que los albergues de por aquí están a rebosar». Miras el reloj, te sientes bien  y piensas: «Un pequeño esfuerzo más y podrás recorrer unos kilómetros más». Coges tu libreta amarilla y ves: «Itero de la Vega», a solo  10 km de distancia y con alojamiento allí. ¡Pues nada, allá vamos!
+🇪🇸 Agua, un manantial… ¡qué maravilla! Sacias tu sed, otros peregrinos hacen lo mismo que tú, y alguien dice: «Yo sigo adelante, seguro que los albergues de por aquí están a rebosar». Miras el reloj, te sientes bien  y piensas: «Un pequeño esfuerzo más y podrás recorrer unos kilómetros más». Coges tu libreta amarilla y ves: «Itero de la Vega», a solo  10 km de distancia y con alojamiento allí. ¡Pues nada, allá vamos!
 
 ---
-Water, a spring – what a marvellous thing! You quench your thirst, other pilgrims do the same, and someone says: ‘I’m carrying on; the hostels here are bound to be packed.’ You glance at your watch, feel good  and think: just a little more effort, and you’ll manage a few more kilometres. You pick up your yellow guidebook and see: ‘Itero de la Vega’, just  10 km away and with accommodation available there. Right then, let’s go!
+🇬🇧 Water, a spring – what a marvellous thing! You quench your thirst, other pilgrims do the same, and someone says: ‘I’m carrying on; the hostels here are bound to be packed.’ You glance at your watch, feel good  and think: just a little more effort, and you’ll manage a few more kilometres. You pick up your yellow guidebook and see: ‘Itero de la Vega’, just  10 km away and with accommodation available there. Right then, let’s go!
 
 ![](media04/20120516-132821-DSCF3251.webp)
 

@@ -1,6 +1,6 @@
 ## Camino Francés  2012  
 
-### Etapa-03:  →  (14,9 Km)
+### Etapa-03:  Larrasoaña → Pamplona "Iruña"  (14,9 Km)
 07 de Mai 2012
 
 Recuerdo ese día como si hubiera sido ayer
@@ -129,7 +129,7 @@ Die letzte deutsche Fassung würde ich als **Grundfassung** für einen persönli
 
 ---
 
-**↪** [Etapa-04](Etapa-04.md)
+**↪** [Etapa-04_Pamplona_Puente-la-Reina](Etapa-04_Pamplona_Puente-la-Reina.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 

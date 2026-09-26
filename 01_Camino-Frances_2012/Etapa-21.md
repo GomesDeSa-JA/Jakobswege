@@ -54,7 +54,7 @@ Most of the time, we think we are the landscape and take up the whole frame in a
 
 ![](media05/20120525-091607.webp)
 
-![](Fr25Mai2012-093406.webp)
+![](media05/Fr25Mai2012-093406.webp)
 
 ---
 

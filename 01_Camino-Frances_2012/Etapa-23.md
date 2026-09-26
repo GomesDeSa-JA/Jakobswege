@@ -3,10 +3,11 @@
 ### Etapa-23: →  ( Km)
 27 de Mai 2012
 
+![](media05/So27Mai2012-074556DSCF3393.webp)
 
 ![](media05/20120527-110411.webp)
 
-![](media05/So27Mai2012-074556DSCF3393.webp)
+
 
 ---
 

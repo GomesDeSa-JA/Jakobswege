@@ -28,7 +28,7 @@
 Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 
 ---
-#### [Etapa-04](Etapa-04.md)
+#### [Etapa-04_Pamplona_Puente-la-Reina](Etapa-04_Pamplona_Puente-la-Reina.md)
 08 de Maio de 2012
 
 ---

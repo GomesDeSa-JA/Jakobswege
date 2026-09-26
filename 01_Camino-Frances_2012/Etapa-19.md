@@ -25,13 +25,13 @@
 
 ![](media04/20120523-104548.webp)
 
-- Olhei para o relógio, comparei-o com o meu telemóvel e pensei: «Não precisam de ter inveja dos suíços.» Se nos orientarmos por ele, chegaremos a tempo à próxima Albergue.
+- 🇵🇹 Olhei para o relógio, comparei-o com o meu telemóvel e pensei: «Não precisam de ter inveja dos suíços.» Se nos orientarmos por ele, chegaremos a tempo à próxima Albergue.
 
-- Ich schaute auf die Uhr, verglich sie mit meinem Handy und dachte: „Ihr müsst nicht neidisch auf die Schweizer sein.“ Wenn wir uns danach richten, kommen wir rechtzeitig zur nächsten Herberge.
+- 🇩🇪 Ich schaute auf die Uhr, verglich sie mit meinem Handy und dachte: „Ihr müsst nicht neidisch auf die Schweizer sein.“ Wenn wir uns danach richten, kommen wir rechtzeitig zur nächsten Herberge.
 
-- Miré el reloj, lo comparé con mi móvil y pensé: «No tenéis por qué envidiar a los suizos». Si nos guiamos por eso, llegaremos a tiempo al siguiente albergue.
+- 🇪🇸 Miré el reloj, lo comparé con mi móvil y pensé: «No tenéis por qué envidiar a los suizos». Si nos guiamos por eso, llegaremos a tiempo al siguiente albergue.
 
-- I looked at my watch, checked the time on my mobile and thought: ‘There’s no need to be jealous of the Swiss.’ If we stick to this schedule, we’ll arrive at the next Albergue in good time.
+- 🇬🇧 I looked at my watch, checked the time on my mobile and thought: ‘There’s no need to be jealous of the Swiss.’ If we stick to this schedule, we’ll arrive at the next Albergue in good time.
 
 ![](media04/20120523-120221.jpg)
 
