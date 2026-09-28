@@ -242,9 +242,9 @@ Ich hätte meine Tagesetappe gerne dort beendet, aber es war überall voll. Ich 
 
 **↓** Itero de la Vega **↓** 
 
-![](Pasted%20image%2020260927201340.png)
+![](media04/20260927201340.png)
 Fotos **↓** **↑** von : alberguescaminosantiago.com
-![](Pasted%20image%2020260927201244.png)
+![](media04/20260927201244.png)
 ⚠️ Albergue cerrado temporalmente ⚠️ Geschlossen 
 
 ---
