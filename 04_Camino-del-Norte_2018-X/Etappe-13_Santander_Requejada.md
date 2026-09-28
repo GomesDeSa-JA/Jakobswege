@@ -126,9 +126,7 @@ I estimated the distances between the trains from a distance and then waited unt
 
 ---
 
-![](Sra-da-Albergue-faleceu-chovia-voltei-para-trás-dormitoriopequeno-lugarscomunsJardimsuper.webp)
 </details>
-
 
 
 ![](media/20260916_124955.webp)

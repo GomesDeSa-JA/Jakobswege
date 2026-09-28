@@ -141,7 +141,6 @@ Mehr als die Kilometer, die noch vor mir lagen, brauchte dieser Teil der Pilgerr
 
 Ya desde el primer día, disfrutamos de un día maravilloso. Fue tan agradable contemplar el paisaje que nos olvidamos del esfuerzo de la subida. Después, sopló un viento acompañado de unas gotas de lluvia y algunos pequeños granizos. No fue nada del otro mundo, solo un pequeño susto, pero nos dio una pequeña idea del tiempo que nos espera en los Pirineos.
 
-
 #### El descenso
 
 Poco antes de llegar a Roncesvalles, empezó a llover. No fue mucha lluvia, pero sí la suficiente para bautizar mis nuevas botas de senderismo con el barro del Camino de Santiago.
@@ -171,7 +170,6 @@ Más que los kilómetros que tenía por delante, fue esta parte de la peregrinac
  #### The climb
 
 Right from the very first day, we had a wonderful day. It was so lovely to take in the scenery that we forgot all about the effort of the climb. Then a wind picked up, accompanied by a few drops of rain and some small hailstones. It was nothing to worry about – just a bit of a scare – but it gave us a little taste of the weather that awaits us in the Pyrenees.
-
 
 #### The Descent
 
@@ -203,7 +201,7 @@ More than the kilometres that lay ahead of me, it was this part of the pilgrimag
 
 Logo no primeiro dia, tivemos um dia maravilhoso. Foi tão agradável apreciar a paisagem que nos esquecemos do esforço da subida. Depois, soprou um vento acompanhado de algumas gotas de chuva e alguns pequenos grãos de granizo. Não foi nada de mais, foi apenas um pequeno susto, mas deu-nos uma pequena ideia do tempo que nos espera nos Pirenéus.
 
-### A descida
+#### A descida
 
 Pouco antes de chegarmos a Roncesvalles, começou a chover. Não foi muita chuva, mas foi suficiente para batizar as minhas novas botas de caminhada com a lama do Caminho de Santiago.
 
@@ -231,15 +229,14 @@ Mais do que os quilómetros que ainda tinha pela frente, foi esta parte da pereg
 <details>
 <summary>ChatGPT-Version </summary>
 
-**- §1)** 
-- - Das macht man direkt nach der Ankunft
-- - This is what you do straight after arriving
-- - Isto faz-se logo após a chegada
-- - Esto es lo que hay que hacer nada más llegar
+- **«Ducharse» se entendió como «ir al baño».** ⁘ *„Auf die Toilette gehen“ wurde als „duschen“ verstanden.*   ⁘   **«Ir à casa de banho» foi interpretado como «tomar banho».**  ⁘   *‘Going to the toilet’ was understood to mean ‘having a shower’.*  
+- 
+- - §1) **„duschen“:** Das macht man direkt nach der Ankunft
+- - §1) **‘having a shower’:** This is what you do straight after arriving
+- - §1) **«tomar banho»:** Isto faz-se logo após a chegada (corrigi)
+- - §1) **«Ducharse»:**  Esto es lo que hay que hacer nada más llegar
 
-#### 🇵🇹 Português
-
-#### A descida
+#### 🇵🇹 A descida
 
 Pouco antes de chegarmos a Roncesvalles, começou a chover. Não era uma chuva forte, mas foi suficiente para batizar as minhas botas novas de caminhada com a primeira lama do Caminho de Santiago.
 
@@ -259,7 +256,7 @@ Outra coisa que me era familiar era a pontualidade com que as luzes eram apagada
 
 A diferença é que, nos nossos quartos, ainda podíamos estudar, ouvir música baixinho ou conversar em voz baixa. No albergue era diferente.
 
-Éramos cerca de sessenta peregrinos no mesmo dormitório. **Quando se ia ao banho** **§1**, esperava-se um silêncio absoluto. E isso nem sempre era fácil. Nos primeiros dias, ainda estávamos a aprender o ritmo do Caminho. Muitas vezes, meio sonolentos, tínhamos primeiro de nos lembrar de manter o silêncio antes mesmo de nos levantarmos.
+Éramos cerca de sessenta peregrinos no mesmo dormitório. **Quando se ia à casa de banho** **§1**, esperava-se um silêncio absoluto. E isso nem sempre era fácil. Nos primeiros dias, ainda estávamos a aprender o ritmo do Caminho. Muitas vezes, meio sonolentos, tínhamos primeiro de nos lembrar de manter o silêncio antes mesmo de nos levantarmos.
 
 Curiosamente, mais do que os quilómetros que ainda tinha pela frente, foi esta nova forma de viver com outras pessoas que me exigiu mais tempo de adaptação.
 
@@ -269,9 +266,7 @@ O Caminho não nos pede apenas pernas e resistência. Também nos pede paciênci
 
 ---
 
-#### 🇩🇪 Deutsch
-
-### Der Abstieg
+#### 🇩🇪 Der Abstieg
 
 Kurz bevor wir Roncesvalles erreichten, begann es zu regnen. Es war kein starker Regen, aber genug, um meine neuen Wanderschuhe mit dem ersten Schlamm des Jakobswegs zu taufen.
 
@@ -301,13 +296,11 @@ Der Jakobsweg verlangt nicht nur Kraft und Ausdauer. Er verlangt auch Geduld, R�
 
 ---
 
-#### 🇪🇸 Español
-
-### El descenso
+#### 🇪🇸 El descenso
 
 Poco antes de llegar a Roncesvalles, empezó a llover. No era una lluvia fuerte, pero sí suficiente para bautizar mis nuevas botas de senderismo con el primer barro del Camino de Santiago.
 
-### La llegada
+#### La llegada
 
 Cuando finalmente llegué al albergue de Roncesvalles, una de las primeras cosas que me impresionó fue la cantidad de peregrinos reunidos en un mismo lugar. Después de tantas horas caminando, casi daba la sensación de haber llegado a una pequeña ciudad de peregrinos.
 
@@ -333,13 +326,11 @@ El Camino no nos pide solamente fuerza y resistencia. También nos pide pacienci
 
 ---
 
-#### 🇬🇧 English
-
-### The Descent
+#### 🇬🇧 The Descent
 
 Shortly before we reached Roncesvalles, it started to rain. It wasn't heavy rain, but it was enough to baptize my new hiking boots with the first mud of the Camino de Santiago.
 
-### The Arrival
+#### The Arrival
 
 When I finally arrived at the Albergue in Roncesvalles, one of the first things that struck me was the sheer number of pilgrims gathered in one place. After so many hours of walking, it almost felt as though we had arrived in a small town inhabited entirely by pilgrims.
 

@@ -15,8 +15,6 @@ Um lugar onde eu gostaria de voltar.
 
 ![](media/20180519-080512.webp)
 
-
-
 ![](media/20180519-081620.webp)
 
 ![](media/20180519-081736.webp)

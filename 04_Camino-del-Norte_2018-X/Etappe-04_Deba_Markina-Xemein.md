@@ -7,9 +7,7 @@
 
 ![](media/20180512-073607.webp)
 
-
 ![](media/20180512-074822.webp)
-
 
 ![](media/20180512-074827.webp)
 
@@ -18,7 +16,6 @@
 ![](media/20180512-085130.webp)
 
 - Ontem o tempo estava maravilhoso, mas hoje nem pensar nisso. É o «Camino del Norte». Só o poncho, que nos obstrui um pouco a visão, tira um pouco do encanto deste percurso, que, com este tempo, é realmente mágico.
-
 
 ![](media/20180512-085212.webp)
 

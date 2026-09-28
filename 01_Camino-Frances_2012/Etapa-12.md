@@ -74,7 +74,43 @@ When you walk the ‘French Way’ first thing in the morning, in the cool air o
 
 ![](media04/20120516-124728-DSCF3240.webp)
 
-Die Bedeutung im „Siglo XV“ (15. Jahrhundert)
+#### 🇩🇪 Convento de San Antón
+
+**Vom Niedergang zum _–modernen–_ Refugium**
+
+> _–modern– und ohne Strom_: eine stille Anspielung auf das globale Klimaziel, unseren Planeten zu bewahren.
+
+Heute beherbergen die geschützten Mauern ein **einfaches, traditionelles Pilgerrefugium** – _ohne Strom und geführt von freiwilligen Hospitaleros_. Von Mai bis Oktober lebt hier die jahrhundertealte Tradition der Gastfreundschaft an diesem mystischen Ort weiter.
+
+#### 🇪🇸 Convento de San Antón
+
+**De la decadencia a un refugio _–moderno–_**
+
+> _–moderno– y sin electricidad_: una sutil alusión al objetivo climático global de preservar nuestro planeta.
+
+Hoy, sus muros protegidos albergan un **sencillo refugio tradicional para peregrinos** – _sin electricidad y atendido por hospitaleros voluntarios_. De mayo a octubre, este lugar místico mantiene viva la tradición centenaria de la hospitalidad.
+
+#### 🇵🇹 Convento de San Antón
+
+**Da decadência a um refúgio _–moderno–_**
+
+> _–moderno– e sem eletricidade_: uma alusão subtil ao objetivo climático global de preservar o nosso planeta.
+
+Hoje, as suas muralhas protegidas acolhem um **refúgio tradicional e simples para peregrinos** – _sem eletricidade e cuidado por hospitaleros voluntários_. De maio a outubro, este lugar místico mantém viva a tradição secular da hospitalidade.
+
+#### 🇬🇧 Convento de San Antón
+
+**From decline to a _–modern–_ refuge**
+
+> _–modern– and without electricity_: a subtle reference to the global climate goal of preserving our planet.
+
+Today, its protected walls shelter a **simple, traditional pilgrims’ refuge** – _without electricity and run by volunteer hospitaleros_. From May to October, this mystical place keeps alive a centuries-old tradition of hospitality.
+
+Wenn der Text **für eine Infotafel, einen Reiseführer oder eine Website** gedacht ist, kann ich ihn noch gezielter auf diesen Zweck zuschneiden – insbesondere die Pointe mit „_modern und ohne Strom_“ lässt sich noch etwas eleganter und augenzwinkernder gestalten.
+
+---
+
+#### Die Bedeutung im „Siglo XV“ (15. Jahrhundert)
 
 Obwohl das Kloster bereits im **12. Jahrhundert** (1146 durch König Alfons VII.) gegründet wurde, erlebte es im **14. und 15. Jahrhundert** seine architektonische und medizinische Blütezeit
 
@@ -87,6 +123,16 @@ Das „Heilige Feuer“ (Fuego de San Antón)
 Das Hospital erlangte im Mittelalter weltweite Berühmtheit durch die Behandlung einer schrecklichen Krankheit: dem **Antoniusfeuer** (_ergotismo_)
 
 ![](media04/20120516-Mutterkorn.webp)
+.................. **↑** **Mutterkorn** **↑** 
+
+- Mutterkorn + essen/comer/to eat **=** **Ergotismo**
+- - = Mutterkornvergiftung
+- - = Envenenamento por esporão-de-centeio
+- - = Envenenamiento por cornezuelo de centeno
+- - = Ergot poisoning
+
+---
+#### Antoniusfeuer  ⁘  Fuego de San Antón  ⁘  Fogo de Santo Antão  ⁘  St. Anthony's Fire
 
 **Die Ursache:** Verursacht wurde die Krankheit durch den Verzehr von Getreide (vor allem Roggen), das mit dem giftigen Pilz **Mutterkorn** (_cornezuelo_) befallen war. Die Symptome waren grausam: Halluzinationen, schwere Nervenschäden und ein qualvolles Absterben (Brand) der Gliedmaßen
 
@@ -94,13 +140,11 @@ Das Hospital erlangte im Mittelalter weltweite Berühmtheit durch die Behandlung
 
 **Schutz- und Abwehrzauber:** Da man die biologische Ursache damals nicht verstand, galt die Heilung als göttliches Wunder. Die Mönche gaben den Pilgern das sogenannte **Tau-Kreuz** (ein T-förmiges Symbol) als Schutzamulett mit auf den Weg – ein Zeichen, das noch heute überall in den Ruinen zu sehen ist.
 
-Vom Niedergang zum modernen Refugium
+Mit dem Rückgang der Krankheit und der Auflösung des Ordens Ende des 18. Jahrhunderts begann der Verfall der Anlage. Nach der Desaueration (_Desamortización_) im 19. Jahrhundert stürzten die Dächer ein, und das Areal ging in Privatbesitz über.
 
-Mit dem Rückgang der Krankheit und der Auflösung des Ordens Ende des 18. Jahrhunderts begann der Verfall der Anlage. Nach der Desaueration (_Desamortización_) im 19. Jahrhundert stürzten die Dächer ein, und das Areal ging in Privatbesitz über
+----
 
-Heute beherbergen die geschützten Mauern ein sehr einfaches, **traditionelles Pilgerrefugium** (ohne Strom, bewirtschaftet durch freiwillige Hospitaleros), das die jahrhundertealte Tradition der Gastfreundschaft an diesem mystischen Ort von Mai bis Oktober fortführt
-
-Die akute Gefahr durch Mutterkorn wurde ==**in der ersten Hälfte des 19. Jahrhunderts**== für die breite Bevölkerung gebannt. Dass heute in Ihrem Dorf kaum noch jemand darüber spricht, liegt daran, dass das Problem seit über 150 Jahren rein technisch und behördlich im Hintergrund gelöst wird
+Die akute Gefahr durch Mutterkorn wurde **in der ersten Hälfte des 19. Jahrhunderts** für die breite Bevölkerung gebannt. Dass heute in Ihrem Dorf kaum noch jemand darüber spricht, liegt daran, dass das Problem seit über 150 Jahren rein technisch und behördlich im Hintergrund gelöst wird
 
 1. Die Entdeckung der Ursache (Spätes 17. Jahrhundert)
 
@@ -116,7 +160,12 @@ Heute ist die Gefahr für uns unsichtbar geworden, weil sie lückenlos überwach
 - **Farbausleser (Optische Sortierer):** In modernen Mühlen scannen Hochgeschwindigkeitskameras jedes einzelne Korn. Da Mutterkorn fast schwarz ist, wird es vollautomatisch per Druckluftstrahl in Millisekunden aussort
 **Strengste Gesetze:** Die Europäische Union überwacht akribisch. Mit aktuellen Verordnungen (wie der EU-Verordnung 2024/1808) wurden die Grenzwerte für unverarbeiteten Roggen und Mehle nochmals drastisch gesenkt, um absolut jedes Risiko für Verbraucher auszuschließen
 
+---
+
+
 ### Convento San Anton History
+
+Ich hätte meine Tagesetappe gerne dort beendet, aber es war überall voll. Ich wusste, dass es früher ein Krankenhaus für Pilger gewesen war, aber als ich die Informationen las, wurde mir klar, dass es mehr als nur ein Krankenhaus für Pilger war. Ich möchte die historische Bedeutung dieses Ortes in meinem GitHub/Obsidian-Tagebuch auf Spanisch, Deutsch, Portugiesisch und Englisch festhalten.
 
 #### 🇩🇪 Convento de San Antón (Castrojeriz) – Mehr als nur ein Pilgerhospital
 
@@ -157,6 +206,7 @@ Heute ist die Gefahr für uns unsichtbar geworden, weil sie lückenlos überwach
 > - A proteção da Cruz de Tau: A cruz em forma de T era o símbolo dos Antonianos. Considerada um poderoso amuleto contra doenças e demônios, os peregrinos a recebiam aqui como uma bênção para a jornada.
 > - A arquitetura como portal: A igreja foi construída sobre o próprio Caminho, obrigando os peregrinos a passar fisicamente sob os seus arcos góticos, num ato simbólico de purificação e proteção.
 
+---
 
 ![](media04/20120516-130530.webp)
 
@@ -184,9 +234,68 @@ Heute ist die Gefahr für uns unsichtbar geworden, weil sie lückenlos überwach
 ![](media04/20120516-132821-DSCF3251.webp)
 
 ![](media04/20120516-145324.webp)
+.................**↑**....Castrojeriz....**↑**
+- Ein Blick zurück auf Castrojeriz, kurz vor der Ankunft in Itero de la Vega
+- A view back towards Castrojeriz, just before Itero de la Vega
+- Uma vista para trás, para Castrojeriz, pouco antes de chegar a Itero de la Vega
+- A look back towards Castrojeriz, just before reaching Itero de la Vega
 
-Ein Blick zurück auf Castrojeriz, Kurz vor Itero de la Vega
+**↓** Itero de la Vega **↓** 
 
+![](Pasted%20image%2020260927201340.png)
+Fotos **↓** **↑** von : alberguescaminosantiago.com
+![](Pasted%20image%2020260927201244.png)
+⚠️ Albergue cerrado temporalmente ⚠️ Geschlossen 
+
+---
+**„Da es nicht mein Erzählstil ist, aber meine Erlebnisse und meine Schilderung dessen, was ich gespürt habe, unterschreibe ich diesen von der KI formulierten literarischen Text als meinen eigenen.“**
+
+*Ich neige dazu, kurze Texte zu formulieren, die je nach Situation ironisch, sachlich, ernst oder nachdenklich sein können, aber da alles, was in dieser Geschichte passiert ist, wahr ist, lasse ich sie so stehen, auch wenn einige davon ein wenig ausgeschmückt sind.*
+#### Kapitel: Die Stille von Itero de la Vega und das Echo der Heimat
+
+Es gibt Nächte auf dem Camino, die sich nicht an die Regeln der Zeit halten. Sie dehnen sich aus, werden weit und atmen eine Ruhe, die man in den überfüllten Herbergen der großen Etappenorte vergeblich sucht. Nach den unerbittlichen Kilometern durch die flimmernde Hitze der Meseta und dem steilen, schweißtreibenden Aufstieg zum _Alto de Mostelares_ hatte mich der Weg an diesem Abend reich beschenkt. Während die meisten Pilger wegen der einfachen, **spartanischen Gemeinschaftsduschen** in die moderneren Privatherbergen des Ortes geflüchtet waren, fand ich in der schlichten _Albergue Municipal de Itero de la Vega_ meinen perfekten Rückzugsort. Ein ganzer Saal,  und eine absolute, wohltuende Stille, die mir ganz allein gehörte.
+
+Kurz vor zweiundzwanzig Uhr hielt mich nichts mehr in dem großen, leeren Raum. Ich zog die Tür hinter mir zu und trat hinaus auf die Straße. Die Nacht in diesen kleinen, kastilischen Dörfern ist zauberhaft. Die Luft kühlt spürbar ab, die Sterne stehen unendlich klar über dem flachen Horizont der _Tierra de Campos_ und die Dunkelheit legt sich wie ein schützender Mantel über das geplagte Land.
+
+Und dann schenkte mir der Camino einen jener magischen Momente, die man nicht planen kann. Im fahlen Licht der Gassen traf ich zwei ältere spanische Pilgerinnen wieder. Unsere Wege hatten sich Tage zuvor schon einmal in _Tosantos_ gekreuzt – jenem spirituellen Meilenstein, an dem man abends in der in den Fels gehauenen Einsiedelei gemeinsam betet und singt und die Herzen sich füreinander öffnen. Die Wiedersehensfreude war groß, und aus einem flüchtigen Gruß in der Nacht wurde ein langes, tiefes Gespräch.
+
+Die beiden Frauen begannen zu erzählen. Sie sprachen von der Hochebene, auf der wir uns befanden, aber sie sprachen nicht als Touristinnen, sondern mit der Stimme der Erinnerung. Sie erzählten vom früheren Arbeitsleben auf der Meseta. Vom Hüten der Ziegen und Schafe. Von den endlosen Sommern, in denen die Ernte noch in mühsamer Handarbeit mit der Sense eingeholt wurde, und von der tiefen, fast schmerzhaften Verbundenheit der Menschen mit diesem kargen, unbarmherzigen Boden.
+
+Während ich ihnen lauschte, passierte etwas Seltsames in mir. Die weite spanische Hochebene verschwamm vor meinen Augen und machte Platz für Bilder aus meiner eigenen Vergangenheit. Ich hörte nicht nur ihre Geschichten – ich spürte sie. Bis 1986 (1986-1993 1 Monat) hatte ich dieses Leben selbst noch genau kennengelernt, weit weg von hier, im portugiesischen Distrikt Viseu, in _Ferreira de Aves_. Auch mir waren die harte Arbeit auf den Feldern, das Klappern der Sensen und das Hüten der Tiere vertraut. Die Brücke quer über die iberische Halbinsel war im Nu geschlagen.
+
+Doch im selben Moment begriff ich das ganze Ausmaß der Härte, von der die beiden Spanierinnen sprachen. In Portugal war das Land hügeliger, oft grüner. Hier in der Meseta aber herrschten extreme, fast unmenschliche Bedingungen. Tagsüber brannte die Sonne ohne jeden Schutz so gnadenlos nieder, dass der Boden aufsprang. 
+
+>*Und wenn dann die Nacht hereinbrach und man dachte, die Temperaturen wären angenehm, schlug das Wetter radikal um. **Ab vier Uhr morgens** zog regelmäßig ein von den Bergen gepeitschter, schneidender, kühler Wind über das flache Land.* 
+
+<details>
+<summary>The cold nights on the Meseta with D. Trump,  a likeable bloke</summary>
+
+**04:00** 🇩🇪  Die kalten Nächte auf der Meseta.
+
+– Deshalb musste ich mein Biwak zu dieser Uhrzeit (um 4:00 Uhr) am Busbahnhof von Tordesillas auspacken, was ich bis jetzt nur einmal im Jahr 2014 getan hatte und das ich 2012 gekauft hatte. – Nur um zu sehen, wo der Vertrag unterzeichnet worden war. Wenn ich heute daran denke, was ich alles durchmachen musste, um diesem historischen Moment so nahe zu sein, dann muss ich ehrlich sagen … Und wenn man an diesen historischen Vertrag denkt, muss man zugeben, dass D. Trump ein sympathischer Typ ist. Er will nur eine Insel, auf der die Nächte noch unerbittlicher sind.
+
+---
+
+**04:00** 🇵🇹 As noites frias na Meseta (no Planalto).
+
+– Foi por isso que tive de desembalar o meu biwak àquela hora (às 4h00) na estação rodoviária de Tordesillas, algo que até agora só fizera uma vez, em 2014, e que tinha comprado em 2012. – Só para ver onde o tratado tinha sido assinado. Quando hoje penso em tudo o que tive de passar para estar tão perto daquele momento histórico, a verdade é que… E quando se pensa nesse tratado histórico, é preciso reconhecer que o D. Trump é um tipo simpático. Ele só quer uma ilha onde as noites são ainda mais implacáveis.
+
+---
+
+**04:00** 🇪🇸 Las frías noches en la Meseta.
+
+– Por eso tuve que desembalar mi biwak a esa hora (las 4:00) en la estación de autobuses de Tordesillas, algo que hasta ahora solo había hecho una vez en 2014 y que había comprado en 2012. – Solo para ver dónde se había firmado el tratado. Cuando hoy pienso en todo lo que tuve que pasar para estar tan cerca de ese momento histórico, la verdad es que… Y cuando uno piensa en ese tratado histórico, hay que reconocer que D. Trump es un tipo simpático. Solo quiere una isla en la que las noches sean aún más implacables.
+
+---
+**04:00** 🇬🇧 The cold nights on the Meseta.
+
+– That’s why I had to unpack my bivouac at that time (4.00 am) at the Tordesillas coach station – something I’d only done once before, back in 2014, and which I’d bought in 2012. – Just to see where the treaty had been signed. When I think today about everything I had to go through to be so close to that historic moment, the truth is that… And when you think about that historic treaty, you have to admit that Trump is a likeable bloke. He just wants an island where the nights are even more unforgiving.
+
+</details>
+
+Dieser ständige Kampf gegen die Extreme – tagsüber zu verbrennen und nachts in der zugigen Kälte gegen den Wind anzuarbeiten – machte das Leben der hiesigen Bauern und Hirten noch um ein Vielfaches härter, als ich es aus der Heimat in Erinnerung hatte.
+
+In dieser zauberhaften Nacht in Itero de la Vega standen wir nicht als Fremde zusammen. Es war eine Begegnung von Menschen, die den Wert und die Entbehrungen einer alten, langsam verschwindenden Lebenswelt noch im eigenen Leib trugen. Als ich später in mein Bett im stillen Schlafsaal der Herberge zurückkehrte, war ich nicht mehr allein. Ich war erfüllt von den Geschichten der beiden Frauen, den Echos meiner eigenen Jugend in Portugal und dem tiefen Wissen, dass jeder Schritt auf diesem staubigen Pfad mich nicht nur näher nach Santiago brachte, sondern auch näher zu mir selbst.
 
 ---
 

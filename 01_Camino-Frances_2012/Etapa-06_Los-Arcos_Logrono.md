@@ -1,6 +1,6 @@
 ## Camino Francés  2012  
 
-### Etapa-06: →  ( Km)
+### Etapa-06: Los Arcos → Logroño  ( 27,6 km )
 10 de Mai 2012
 
 ![](media02/20120510-061849.webp)

@@ -41,7 +41,8 @@ I and a few other pilgrims covered fewer kilometres than the others, and yet we 
 ..., ... .
 
 pois ainda tenho diante dos olhos as expressões faciais dos outros peregrinos que caminhavam à beira do caminho; mas perguntou-se-lhes, e também eles tinham tido a mesma oportunidade, mas estavam com pressa e partiram logo de manhã cedo, ainda antes de os primeiros raios de sol terem penetrado na camada de nevoeiro que pairava sobre o céu.
-Eu e alguns outros peregrinos percorremos menos km do que os outros e, mesmo assim, chegámos mais tarde a Santander
+Eu e alguns outros peregrinos percorremos menos km do que os outros e, mesmo assim, chegámos mais tarde a Santander.
+
 </details>
 
 ![](media/20180520-075857.webp)
@@ -483,7 +484,7 @@ Ich kann weder Bayerisch noch Schwäbisch. Aber ihrem Akzent nach würde ich ver
 Was mir von dieser Begegnung geblieben ist, ist weniger der Camino selbst als diese stille Form der Fürsorge: Ein Vater begleitet seine erwachsene Tochter ein Stück ihres Weges, bis er weiß, dass sie allein weitergehen kann.
 
 
-[Erinnerungsfragment](Erinnerungsfragment.md)
+[Erinnerungsfragmente](Erinnerungsfragmente.md)
 
 #### 3. 2018 – Camino del Norte, Santillana del Mar
 
@@ -721,7 +722,7 @@ No hablo ni bávaro ni suabo. Pero, por el acento, diría que probablemente eran
 
 Lo que me quedó de aquel encuentro no fue tanto el Camino como aquella forma silenciosa de cuidar: un padre acompaña a su hija adulta durante una parte de su recorrido, hasta saber que puede continuar sola.
 
-[Erinnerungsfragment](Erinnerungsfragment.md)
+[Erinnerungsfragmente](Erinnerungsfragmente.md)
 
 #### 3. 2018 – Camino del Norte, Santillana del Mar
 

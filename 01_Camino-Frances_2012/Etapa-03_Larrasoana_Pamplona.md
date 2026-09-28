@@ -23,7 +23,7 @@ I can still picture that day as if it were yesterday
 
 ![](media02/20120507_084133.webp)
 
-![](media02/20120507_092600-.webp)
+![](20120507_092600.webp)
 
 - Albergue municipal Jesús y María
 
@@ -37,10 +37,10 @@ Google Maps image by “Caïna Verrin” from 2026
 <details>
 <summary>🇩🇪 Die abgelehnte Hilfe </summary>
 
-Städtische Herberge „Jesús y María“  
+#### Städtische Herberge „Jesús y María“  
 
-
-Ich bin mir nicht mehr ganz sicher, ob dies der einzige Schlafsaal auf diesem Korridor ist. Aber in einem solchen habe ich 2012 geschlafen. Ich lag im oberen Bett eines Etagenbetts, direkt gegenüber stand der Schrank. Während ich mich auf dem Bett in den Buddha-Sitz setzte und Laken und Schlafsack zurechtzog, nahm eine Pilgerin aus Österreich auf der Bank neben dem Schrank Platz.
+Ich bin mir nicht mehr sicher, ob dies der einzige Flur mit Etagenbetten in der Herberge ist.
+Aber in einem solchen habe ich 2012 geschlafen. Ich lag im oberen Bett eines Etagenbetts, direkt gegenüber stand der Schrank. Während ich mich auf dem Bett in den Buddha-Sitz setzte und Laken und Schlafsack zurechtzog, nahm eine Pilgerin aus Österreich auf der Bank neben dem Schrank Platz.
 
 Sie war zugleich die erste Pilgerin, die ich sah, die vorsichtshalber Pflaster auf ihre Zehen geklebt hatte. Dieses Bild ist mir bis heute geblieben. Und wie so oft auf dem Weg kamen wir ins Gespräch – über die Etappe, die hinter uns lag, und über die, die noch vor uns lag.
 
@@ -57,9 +57,9 @@ Diese letzte Erinnerung ist nicht mehr ganz so deutlich wie die erste. Aber die 
 <details>
 <summary>🇵🇹 A ajuda recusada  </summary>
 
-Albergue Municipal „Jesús y María“  
+#### Albergue Municipal „Jesús y María“  
 
-Já não tenho a certeza absoluta de que este seja o único dormitório no corredor. Mas foi num dormitório assim que dormi em 2012. Eu estava na cama de cima de um beliche, com o armário mesmo em frente. Enquanto me sentava na cama, em posição de Buda, e ajeitava o lençol e o saco-cama, uma peregrina austríaca sentou-se no banco ao lado do armário.
+Já não tenho a certeza se este é o único corredor com beliches do albergue. Mas foi num dormitório assim que dormi em 2012. Eu estava na cama de cima de um beliche, com o armário mesmo em frente. Enquanto me sentava na cama, em posição de Buda, e ajeitava o lençol e o saco-cama, uma peregrina austríaca sentou-se no banco ao lado do armário.
 
 Foi também a primeira peregrina que vi que, por precaução, tinha colocado pensos nos dedos dos pés. Essa imagem ficou comigo até hoje. E, como tantas vezes acontecia no Caminho, começámos a conversar – sobre a etapa que tínhamos deixado para trás e sobre aquela que ainda tínhamos pela frente.
 
@@ -76,9 +76,9 @@ Esta última lembrança já não é tão nítida como a primeira. Mas ainda cons
 <details>
 <summary>🇪🇸 La ayuda rechazada </summary>
 
-Albergue Municipal «Jesús y María»  
+#### Albergue Municipal «Jesús y María»  
 
-Ya no estoy del todo seguro de que este sea el único dormitorio de aquel pasillo. Pero en uno así dormí en 2012. Yo estaba en la cama de arriba de una litera, con el armario justo enfrente. Mientras me sentaba en la cama en posición de Buda y acomodaba la sábana y el saco de dormir, una peregrina austríaca se sentó en el banco junto al armario.
+Ya no estoy seguro de si este es el único pasillo con literas del albergue. Pero en uno así dormí en 2012. Yo estaba en la cama de arriba de una litera, con el armario justo enfrente. Mientras me sentaba en la cama en posición de Buda y acomodaba la sábana y el saco de dormir, una peregrina austríaca se sentó en el banco junto al armario.
 
 Fue también la primera peregrina que vi que, por precaución, se había puesto tiritas en los dedos de los pies. Esa imagen se me ha quedado grabada hasta hoy. Y, como tantas veces ocurría en el Camino, empezamos a hablar: de la etapa que habíamos dejado atrás y de la que todavía teníamos por delante.
 
@@ -95,13 +95,9 @@ Este último recuerdo ya no es tan nítido como el primero. Pero todavía puedo 
 <details>
 <summary>🇬🇧 The help that was refused </summary>
 
+#### Municipal Hostel “Jesús y María”  
 
-
-
-Municipal Hostel “Jesús y María”  
-
-
-I’m no longer completely sure whether this is the only dormitory along that corridor. But I slept in one like it in 2012. I was in the upper bunk, with the wardrobe directly opposite. As I settled onto the bed in the Buddha position and adjusted the sheet and sleeping bag, an Austrian pilgrim sat down on the bench beside the wardrobe.
+I’m no longer sure if this is the only corridor with bunk beds in the hostel. But I slept in one like it in 2012. I was in the upper bunk, with the wardrobe directly opposite. As I settled onto the bed in the Buddha position and adjusted the sheet and sleeping bag, an Austrian pilgrim sat down on the bench beside the wardrobe.
 
 She was also the first pilgrim I had ever seen who, as a precaution, had put plasters on her toes. That image has stayed with me to this day. And, as so often happened on the Camino, we began to talk – about the stage we had just left behind and the one that still lay ahead.
 

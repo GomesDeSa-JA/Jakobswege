@@ -36,7 +36,7 @@ Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 09 de Maio de 2012
 
 ---
-#### [Etapa-06](Etapa-06.md)
+#### [Etapa-06_Los-Arcos_Logrono](Etapa-06_Los-Arcos_Logrono.md)
 10 de Maio de 2012
 
 ---
@@ -177,8 +177,6 @@ DD de MMMM de 20xx
 **↪** [Historical-inventory-of-accommodation](Historical-inventory-of-accommodation.md)
 
 **↪** [Camino-Frances_Credencial-del-Peregrino](Camino-Frances_Credencial-del-Peregrino.md)
-
-**↪** 
 
 🔁 
 

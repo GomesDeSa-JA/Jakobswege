@@ -112,11 +112,11 @@ Am Ende machten wir gegenseitig Fotos voneinander. So konnte auch dieser kleine 
 
 ####  Puente la Reina – Villamayor de Monjardín (Los Arcos)
 
-Ich kann mich nicht mehr genau an die Strecke des Vortags erinnern, aber ich weiß noch genau, wie ich mich fühlte, als ich in der Pilgerherberge von Puente la Reina ankam. Es war eine harte Etappe gewesen, kaum in Worte zu fassen. Es war ein durchwachsener Wettertag – das einzige Foto, das ich von diesem Tag habe, zeigt den Altar der Kirche, aufgenommen um 17:40 Uhr.
+Ich kann mich nicht mehr genau an die Strecke des Vortags (08.05.2012) erinnern, aber ich weiß noch genau, wie ich mich fühlte, als ich in der Pilgerherberge von Puente la Reina ankam. Es war eine harte Etappe gewesen, kaum in Worte zu fassen. Es war ein durchwachsener Wettertag – das einzige Foto, das ich von diesem Tag habe, zeigt den Altar der Kirche, aufgenommen um 17:40 Uhr.
 
 Ich war völlig erschöpft. Wegen des Regens suchten wir Zuflucht in der Herberge, die mir jedoch sehr beengt vorkam. Wir drängten uns alle dicht an dicht, und die Gemeinschaftsräume reichten bei weitem nicht für alle Pilger gleichzeitig aus.
 
-In jener Nacht schlief ich unruhig und kämpfte mit meinen Gedanken. Ich stand schließlich sehr früh auf und weckte dabei versehentlich einen niederländischen Pilger, der verständlicherweise verärgert war. Als ich mich auf den Weg machte, trug ich noch feuchte Kleidung im Rucksack; wegen der klammen Nachtluft war sie einfach nicht getrocknet.
+In jener Nacht schlief ich unruhig und kämpfte mit meinen Gedanken. Ich stand schließlich sehr früh auf (09.05.2012) und weckte dabei versehentlich einen niederländischen Pilger, der verständlicherweise verärgert war. Als ich mich auf den Weg machte, trug ich noch feuchte Kleidung im Rucksack; wegen der klammen Nachtluft war sie einfach nicht getrocknet.
 
 Ich erinnere mich, dass der Weg an endlosen Weinbergen vorbeiführte. Allerdings fand ich nirgends ein trockenes Plätzchen zum Ausruhen. Zudem waren die Reben frisch gespritzt worden, was meine ohnehin gedrückte Stimmung nicht gerade besserte. Ich glaube, auch der Schluck Wein, den ich am frühen Nachmittag bei den „Bodegas Irache“ trank, tat sein Übriges. Ich hatte an diesem Morgen nur etwas gegessen . 
 
@@ -130,7 +130,7 @@ Da saßen wir nun – eine Gruppe erschöpfter Pilger am Rande unserer Kräfte. 
 
 - 26.09.2026 09:36: Ich sehe ihn wieder   
 
-Mein Erinnerungsanker: **Foto vom Alto del Pardon auf Google Maps, von Mixel Paillot, aus dem Jahr 2020:** Soweit ich mich erinnere, hat zu der Zeit (2012), als wir Pilger hier vorbeikamen, niemand angehalten, um Fotos zu machen 
+> Mein Erinnerungsanker: **Foto vom Alto del Pardon auf Google Maps, von Mixel Paillot, aus dem Jahr 2020:** Soweit ich mich erinnere, hat zu der Zeit (2012), als wir Pilger hier vorbeikamen, niemand angehalten, um Fotos zu machen 
 
 ---
 <details>
@@ -138,11 +138,11 @@ Mein Erinnerungsanker: **Foto vom Alto del Pardon auf Google Maps, von Mixel Pai
 
 #### Puente la Reina – Villamayor de Monjardín (Los Arcos)
 
-Já não me lembro bem do percurso do dia anterior, mas recordo perfeitamente como me senti ao chegar ao albergue de peregrinos de Puente la Reina. Tinha sido uma etapa difícil, nem sei bem como descrevê-la. Foi um dia de tempo instável e cinzento — a única foto que tenho desse dia é do altar da igreja, tirada às 17h40.
+Já não me lembro bem do percurso do dia anterior (08.05.2012), mas recordo perfeitamente como me senti ao chegar ao albergue de peregrinos de Puente la Reina. Tinha sido uma etapa difícil, nem sei bem como descrevê-la. Foi um dia de tempo instável e cinzento — a única foto que tenho desse dia é do altar da igreja, tirada às 17h40.
 
 Estava exausto e, como chovia, procurámos refúgio no albergue. Pareceu-me um espaço muito claustrofóbico, pois estávamos todos amontoados e as áreas comuns não chegavam para todos ao mesmo tempo.
 
-Nessa noite, dormi mal e lutei com os meus pensamentos. Acabei por me levantar muito cedo e acabei por acordar um peregrino holandês, que ficou bastante irritado. Quando me fiz ao caminho, levava roupa húmida na mochila, que não tinha secado devido à humidade da noite.
+Nessa noite, dormi mal e lutei com os meus pensamentos. Acabei por me levantar muito cedo (09.05.2012) e acabei por acordar um peregrino holandês, que ficou bastante irritado. Quando me fiz ao caminho, levava roupa húmida na mochila, que não tinha secado devido à humidade da noite.
 
 Lembro-me de passar por vinhas e mais vinhas, mas não encontrava nenhum lugar para descansar. Além disso, as videiras tinham sido pulverizadas com produtos químicos, o que não ajudou a melhorar o meu humor. Acho que o golo de vinho que tomei ao início da tarde nas "Bodegas Irache" também contribuiu para isso. Tinha comido muito pouco de manhã: apenas um pão seco e simples.
 
@@ -155,7 +155,8 @@ Ali estávamos nós — um grupo de peregrinos no limite das nossas forças. O q
 </details>
 
 - 26/09/2026 09:36: **Volto a vê-lo**
-A minha âncora de memória: **foto do Alto del Pardon no Google Maps, de Mixel Paillot, de 2020:** tanto quanto me lembro, na altura (2012) em que nós, os peregrinos, passámos por aqui, ninguém parou para tirar fotos 
+
+ >*A minha âncora de memória: **foto do Alto del Pardon no Google Maps, de Mixel Paillot, de 2020:** tanto quanto me lembro, na altura (2012) em que nós, os peregrinos, passámos por aqui, ninguém parou para tirar fotos* 
 
 ---
 
@@ -164,11 +165,11 @@ A minha âncora de memória: **foto do Alto del Pardon no Google Maps, de Mixel 
 
 #### Puente la Reina – Villamayor de Monjardín (Los Arcos)
 
-Ya no recuerdo el trayecto del día anterior, pero sí sé exactamente cómo me sentí al llegar al albergue de peregrinos de Puente la Reina. Había sido una etapa dura, difícil de describir. Fue un día de tiempo muy variable; de hecho, la única foto que tengo de ese día es del altar de la iglesia, tomada a las 17:40.
+Ya no recuerdo el trayecto del día anterior (08.05.2012), pero sí sé exactamente cómo me sentí al llegar al albergue de peregrinos de Puente la Reina. Había sido una etapa dura, difícil de describir. Fue un día de tiempo muy variable; de hecho, la única foto que tengo de ese día es del altar de la iglesia, tomada a las 17:40.
 
 Estaba agotado y, como no paraba de llover, nos refugiamos en el albergue. Me pareció un lugar muy angosto, ya que estábamos todos amontonados y las zonas comunes no daban abasto para tanta gente a la vez.
 
-Esa noche pasé una mala noche y apenas pude conciliar el sueño. Me levanté muy temprano y, al hacerlo, desperté a un peregrino holandés que se molestó bastante. Me puse en marcha con la ropa aún húmeda en la mochila, ya que no se había secado debido a la humedad de la noche.
+Esa noche pasé una mala noche y apenas pude conciliar el sueño. Me levanté muy temprano (09.05.2012) y, al hacerlo, desperté a un peregrino holandés que se molestó bastante. Me puse en marcha con la ropa aún húmeda en la mochila, ya que no se había secado debido a la humedad de la noche.
 
 Recuerdo que el camino transcurría entre interminables viñedos, pero no encontraba ningún sitio seco donde descansar. Para colmo, acababan de fumigar las vides, lo que terminó de estropearme el humor. Creo que el trago de vino que me tomé a primera hora de la tarde en las "Bodegas Irache" también influyó. Había desayunado muy poco esa mañana: solo un pan simple y seco.
 
@@ -183,7 +184,7 @@ Allí estábamos, un grupo de peregrinos al límite de nuestras fuerzas. ¿Qué 
 
 - 26/09/2026 09:36: **Vuelvo a verlo**   
 
-Mi punto de referencia: **foto del Alto del Perdón en Google Maps, de Mixel Paillot, de 2020:** por lo que recuerdo, cuando nosotros, los peregrinos, pasamos por aquí (2012), nadie se detuvo a hacer fotos 
+> *Mi punto de referencia: **foto del Alto del Perdón en Google Maps, de Mixel Paillot, de 2020:** por lo que recuerdo, cuando nosotros, los peregrinos, pasamos por aquí (2012), nadie se detuvo a hacer fotos* 
 
 ---
 <details>
@@ -191,11 +192,11 @@ Mi punto de referencia: **foto del Alto del Perdón en Google Maps, de Mixel Pai
 
 #### Puente la Reina – Villamayor de Monjardín (Los Arcos)
 
-I can no longer look back and remember the previous day's route, but I vividly recall how I felt upon arriving at the pilgrim hostel in Puente la Reina. It had been a grueling stage, hard to put into words. It was a day of mixed and unsettled weather—the only photo I have from that day is of the church altar, taken at 5:40 PM.
+I can no longer look back and remember the previous day's route (08.05.2012), but I vividly recall how I felt upon arriving at the pilgrim hostel in Puente la Reina. It had been a grueling stage, hard to put into words. It was a day of mixed and unsettled weather—the only photo I have from that day is of the church altar, taken at 5:40 PM.
 
 I was exhausted. Because of the weather, we all sought refuge in the hostel, which felt incredibly cramped. We were packed in tightly, and the common areas were far from large enough to accommodate everyone at once.
 
-That night was a restless struggle. I got up very early, inadvertently waking a Dutch pilgrim who was understandably annoyed. When I set off, I had to pack damp clothes into my backpack; they simply hadn't dried due to the humid night air.
+That night was a restless struggle. I got up very early (09.05.2012), inadvertently waking a Dutch pilgrim who was understandably annoyed. When I set off, I had to pack damp clothes into my backpack; they simply hadn't dried due to the humid night air.
 
 I remember walking past endless vineyards, yet I couldn't find a single dry spot to take a rest. To make matters worse, the vines had recently been sprayed, which did nothing to improve my mood. I suspect the sip of wine I had earlier that afternoon at "Bodegas Irache" didn't help either. I had eaten very little that morning—just a plain, dry bread roll.
 
@@ -207,9 +208,25 @@ There we sat—a group of exhausted pilgrims at the end of our ropes. What were 
 
 </details>
 
-- 26/09/2026 09:36: **I can see it again**   
+ - 26/09/2026 09:36: **I can see it again**   
 
-My memory anchor: **a photo of Alto del Pardon on Google Maps, by Mixel Paillot, from 2020:** as far as I can remember, when we pilgrims passed through here (2012) , nobody stopped to take photos 
+ > *My memory anchor: **a photo of Alto del Pardon on Google Maps, by Mixel Paillot, from 2020:** as far as I can remember, when we pilgrims passed through here (2012) , nobody stopped to take photos* 
+
+#### Los ₤ Arcos 🚕 12.2Km 
+
+##### Die Empfelung 
+
+..., ... .
+
+##### The recommendation
+
+..., ... .
+
+##### La recomendación
+
+..., ... .
+
+##### A recomendação
 
 ---
 
@@ -223,7 +240,7 @@ My memory anchor: **a photo of Alto del Pardon on Google Maps, by Mixel Paillot,
 
 ---
 
-**↪** [Etapa-06](Etapa-06.md)
+**↪** [Etapa-06_Los-Arcos_Logrono](Etapa-06_Los-Arcos_Logrono.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 
