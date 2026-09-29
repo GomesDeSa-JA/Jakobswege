@@ -78,7 +78,7 @@ Sie haben damals also unbewusst die perfekte Physik-Maschine für solche Kunstst
 
 </details>
 
-Er hatte bereits einen klaren Plan. Ob er wohl auch daran gedacht hatte, dass er durch den Wechsel auf den Drahtesel viel zu früh vor seinem ursprünglichen Zeitplan in Santiago ankommen könnte? Und dort stünde, ohne zu wissen, was er mit der restlichen Zeit anfangen soll? 
+Er hatte bereits einen klaren Plan. Ob er wohl auch daran gedacht hatte, dass er durch den Wechsel auf den Drahtesel viel zu früh vor seinem ursprünglichen Zeitplan in Santiago ankommen könnte? *Und dort stünde, ohne zu wissen, was er mit der restlichen Zeit anfangen soll?* 
 
 **Fakt ist:** Kein Pilger verschwendet im Voraus auch nur einen Gedanken an so etwas.
 
@@ -146,7 +146,8 @@ Eso significa que aquellas proezas que yo consideraba casi acrobáticas se las d
 
 </details>
 
-Tenía un plan muy claro. No sé si pensó en que, debido a esto, podría llegar a Santiago mucho antes de lo previsto según su itinerario original, quedándose allí sin saber qué más hacer. 
+Tenía un plan muy claro. No sé si pensó en que, debido a esto, podría llegar a Santiago mucho antes de lo previsto según su itinerario original, *quedándose allí sin saber qué más hacer.* 
+
 **Lo cierto es** que ningún peregrino desperdicia un solo segundo pensando en esas cosas.
 
 Después volví a lo mío, a descansar, y me alegré de que a ningún otro peregrino le hubiera pasado algo similar. ¡Imagínense si a varios les hubiera dado por lo mismo! A la mañana siguiente habríamos tenido que abrirnos paso entre una manada de "burros de hierro" solo para lograr salir del albergue.
@@ -211,7 +212,8 @@ That means the seemingly almost acrobatic tricks I thought I was performing were
 
 </details>
 
-He already had a clear plan. I wonder if he also considered that, by switching to a bike, he might arrive in Santiago way ahead of his original schedule, standing there with no idea what to do next. 
+He already had a clear plan. I wonder if he also considered that, by switching to a bike, he might arrive in Santiago way ahead of his original schedule, *standing there with no idea what to do next.* 
+
 **The fact is,** no pilgrim wastes a single moment worrying about that.
 
 I then went back to my own recovery, glad that nothing similar had happened to any other pilgrims. Just imagine if the same thing had happened to several people, and the next morning you had to fight your way through a whole herd of iron steeds just to find your way out!
@@ -277,7 +279,9 @@ Isso significa que minhas proezas, que eu considerava quase acrobáticas, devo e
 
 </details>
 
-Ele já tinha um plano muito claro. Não sei se terá pensado que, por causa disso, poderia chegar a Santiago muito antes do previsto no seu plano original, ficando lá sem saber o que fazer com o resto do tempo. O facto é que nenhum peregrino perde um único segundo a pensar nessas coisas.
+Ele já tinha um plano muito claro. Não sei se terá pensado que, por causa disso, poderia chegar a Santiago muito antes do previsto no seu plano original, *ficando lá sem saber o que fazer com o resto do tempo.* 
+
+**O facto é** que nenhum peregrino perde um único segundo a pensar nessas coisas.
 
 Depois disso, voltei a focar-me no meu descanso e fiquei feliz por ver que o mesmo não tinha acontecido a outros peregrinos. Imaginem só se o mesmo tivesse acontecido a vários: na manhã seguinte, teríamos de lutar contra uma manada de "burros de ferro" só para conseguir encontrar a saída!
 
