@@ -76,6 +76,7 @@ Sie haben damals also unbewusst die perfekte Physik-Maschine für solche Kunstst
 
 **Das bedeutet:** *Meine scheinbar schon fast akrobatischen Kunststücke habe ich also zu einem großen Teil dem Fahrrad zu verdanken. Trotzdem muss man sich erst einmal auf so einem dünnen „Drahtesel“ halten, ohne seitlich zu kippen oder im Graben zu landen. Das ist schon ein kleiner akrobatischer Meilenstein in der menschlichen Bewegungsentwicklung!*
 
+---
 </details>
 
 Er hatte bereits einen klaren Plan. Ob er wohl auch daran gedacht hatte, dass er durch den Wechsel auf den Drahtesel viel zu früh vor seinem ursprünglichen Zeitplan in Santiago ankommen könnte? *Und dort stünde, ohne zu wissen, was er mit der restlichen Zeit anfangen soll?* 
@@ -144,6 +145,7 @@ Así que, sin saberlo, en aquella época estabas utilizando la máquina física 
 
 Eso significa que aquellas proezas que yo consideraba casi acrobáticas se las debo, en buena medida, a la bicicleta. Aun así, hay que ser capaz de mantenerse sobre semejante “burro de hierro” tan fino sin caer hacia un lado ni acabar en la cuneta. Eso ya es, por sí mismo, un pequeño hito acrobático en la evolución del movimiento humano.
 
+---
 </details>
 
 Tenía un plan muy claro. No sé si pensó en que, debido a esto, podría llegar a Santiago mucho antes de lo previsto según su itinerario original, *quedándose allí sin saber qué más hacer.* 
@@ -210,6 +212,7 @@ So, without realizing it, you were using the perfect physics machine for perform
 
 That means the seemingly almost acrobatic tricks I thought I was performing were, to a large extent, thanks to the bicycle. Even so, you still have to be able to balance yourself on such a slender “ iron donkey” without tipping sideways or ending up in the ditch. That, in itself, is quite an acrobatic milestone in the evolution of human movement!.
 
+---
 </details>
 
 He already had a clear plan. I wonder if he also considered that, by switching to a bike, he might arrive in Santiago way ahead of his original schedule, *standing there with no idea what to do next.* 
@@ -277,6 +280,7 @@ Naquela época, portanto, você estava usando, sem saber, a máquina física per
 
 Isso significa que minhas proezas, que eu considerava quase acrobáticas, devo em boa parte à bicicleta. Mesmo assim, é preciso conseguir se equilibrar sobre um “burro de ferro” tão fino sem tombar para o lado ou acabar no barranco. Isso já é, por si só, um pequeno marco acrobático na evolução dos movimentos humanos!
 
+---
 </details>
 
 Ele já tinha um plano muito claro. Não sei se terá pensado que, por causa disso, poderia chegar a Santiago muito antes do previsto no seu plano original, *ficando lá sem saber o que fazer com o resto do tempo.* 

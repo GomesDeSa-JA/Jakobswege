@@ -106,8 +106,6 @@ Hoje, as suas muralhas protegidas acolhem um **refúgio tradicional e simples pa
 
 Today, its protected walls shelter a **simple, traditional pilgrims’ refuge** – _without electricity and run by volunteer hospitaleros_. From May to October, this mystical place keeps alive a centuries-old tradition of hospitality.
 
-Wenn der Text **für eine Infotafel, einen Reiseführer oder eine Website** gedacht ist, kann ich ihn noch gezielter auf diesen Zweck zuschneiden – insbesondere die Pointe mit „_modern und ohne Strom_“ lässt sich noch etwas eleganter und augenzwinkernder gestalten.
-
 ---
 
 #### Die Bedeutung im „Siglo XV“ (15. Jahrhundert)
