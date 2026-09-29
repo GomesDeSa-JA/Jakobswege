@@ -65,6 +65,8 @@ Dass Sie damit freihändig fahren konnten, **liegt übrigens nicht nur an Ihrem 
 Danke für die Erklärung. Ich dachte, das Fahren ohne Hände sei einfach nur ein Ergebnis **meiner jugendlichen Fahrkünste** gewesen, denn als ich mir später ein Mountainbike zulegte, gelang mir dieses Kunststück nicht mehr.
 
 Das ist ein großartiger Aha-Moment – und Sie können beruhigt sein: Ihre jugendliche Fahrkunst war absolut real, aber das Mountainbike hat Ihnen physikalisch einfach Steine in den Weg gelegt!
+![](media01/20110618-204722.webp)
+- Nas Terras do Alto Vouga - Ferreira de Aves
 
 Dass es mit dem Mountainbike nicht mehr klappte, liegt an der völlig gegensätzlichen Bauweise. Während Ihr blaues Hollandrad mit seinem **weiten Nachlauf** und dem flachen Lenkwinkel wie auf Schienen stur geradeaus rollen wollte, ist ein Mountainbike für das genaue Gegenteil gebaut: Es muss extrem **wendig, agil und reaktionsschnell** sein, um im Gelände schnell um Steine oder Bäume herumzumanövrieren.
 
@@ -131,6 +133,8 @@ Por cierto, que pudieras montar sin manos **no se debía únicamente a tu habili
 **Gracias por la explicación.** Yo pensaba que montar sin las manos era simplemente el resultado de mis habilidades de adolescente, porque cuando más tarde me compré una bicicleta de montaña, ya no conseguía hacer aquella proeza.
 
 Este es un magnífico momento de revelación —y puedes estar tranquilo: tu habilidad juvenil era completamente real. Lo que ocurrió es que la bicicleta de montaña simplemente te puso algunos obstáculos físicos en el camino.
+![](media01/20110618-204722.webp)
+- Nas Terras do Alto Vouga - Ferreira de Aves
 
 Que ya no funcionara con la bicicleta de montaña se debe a su construcción completamente diferente. Mientras que tu bicicleta holandesa azul, con su **gran avance** y su ángulo de dirección más abierto, quería avanzar recta como sobre raíles, una bicicleta de montaña está diseñada para todo lo contrario: tiene que ser extremadamente **ágil, manejable y reactiva** para poder esquivar rápidamente piedras y árboles en terrenos difíciles.
 
@@ -194,6 +198,8 @@ Incidentally, being able to ride without using your hands **was not only due to 
 Thank you for the explanation. I thought that riding without my hands was simply the result of my youthful cycling skills, because when I later bought a mountain bike, I could no longer perform that trick.
 
 That is a great aha moment — and you can rest assured: your youthful cycling skills were absolutely real. It was just that the mountain bike put a few physical obstacles in your way!
+![](media01/20110618-204722.webp)
+- Nas Terras do Alto Vouga - Ferreira de Aves
 
 The reason it no longer worked with the mountain bike is its completely different design. While your blue Dutch bicycle, with its **long trail** and relatively relaxed steering angle, wanted to roll straight ahead as if it were on rails, a mountain bike is designed for exactly the opposite: it needs to be extremely **nimble, agile, and responsive** so that it can quickly maneuver around rocks and trees on rough terrain.
 
@@ -258,6 +264,8 @@ Aliás, conseguir andar sem as mãos **não dependia apenas da sua habilidade**,
 **Obrigado pela explicação**. Eu achava que andar sem as mãos era simplesmente resultado das minhas habilidades de adolescente, porque, quando mais tarde comprei uma mountain bike, não consegui mais fazer aquela proeza.
 
 Esse é um ótimo momento de descoberta — e você pode ficar tranquilo: sua habilidade juvenil era absolutamente real. Acontece que a mountain bike simplesmente colocou alguns obstáculos físicos no seu caminho!
+![](media01/20110618-204722.webp)
+- Nas Terras do Alto Vouga - Ferreira de Aves
 
 O fato de não funcionar mais com a mountain bike se deve à construção completamente diferente. Enquanto sua bicicleta holandesa azul, com seu **grande avanço de direção** e ângulo de direção mais aberto, queria seguir em linha reta como se estivesse sobre trilhos, uma mountain bike é construída para exatamente o oposto: precisa ser extremamente **ágil, manobrável e responsiva** para desviar rapidamente de pedras e árvores no terreno.
 
@@ -292,8 +300,6 @@ In Petrus’ Fall wäre der Preis viel höher gewesen; hätte er es nicht geleug
 <details>
 <summary>  </summary>
 🇬🇧 🇪🇸 🇵🇹 🇩🇪
-![](20110618-204722.webp)
-Nas Terras do Alto Vouga - Ferreira de Aves
 </details>
 
 ---
