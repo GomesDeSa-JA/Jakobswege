@@ -62,8 +62,10 @@ Yet because of the extremely long working hours, which leave him almost no free 
 
 I told her that it was a decision her son had made for himself. If he had not done it, he might one day have regretted it. The experience would enrich his life – perhaps even more than simply crossing the vast oceans and discovering distant parts of the world.
 
+<details>
+<summary>   </summary>
 *Another topic we discussed was mobile phone radiation and the associated health risks. As I’ve bought my first mobile phone and have looked into the matter quite thoroughly to understand when risks might arise, I was able to express my views on the subject.*
-
+</details>
 </details>
 
 ---
@@ -123,9 +125,12 @@ Doch angesichts der extrem langen Arbeitszeiten, durch die ihm kaum Freizeit ble
 
 Ich sagte ihr, dass es eine Entscheidung sei, die ihr Sohn selbst getroffen habe. Wenn er es nicht getan hätte, würde er es vielleicht eines Tages bereuen. Diese Erfahrung werde sein Leben bereichern – vielleicht sogar mehr als allein die Möglichkeit, die weiten Ozeane zu überqueren und ferne Länder kennenzulernen.
 
+<details>
+<summary>   </summary>
 *Ein weiteres Thema, über das wir auc gesprochen haben, war die Strahlung von Mobiltelefonen und die damit verbundenen Gesundheitsrisiken. Da ich mir mein erstes Handy gekauft habe und mich relativ gut damit auseinandergesetzt habe, wann Gefahren bestehen können, konnte ich meine Meinung dazu äußern.*
-
 </details>
+</details>
+
 
 ---
 
@@ -184,8 +189,10 @@ Sin embargo, debido a las jornadas laborales extremadamente largas, que le dejan
 
 Le dije que era una decisión que su hijo había tomado por sí mismo. Si no lo hubiera hecho, quizá algún día se arrepentiría. Aquella experiencia enriquecería su vida, quizá incluso más que el simple hecho de conocer los grandes océanos y descubrir lugares lejanos.
 
+<details>
+<summary>   </summary>
 *Otro tema del que también hablamos fue la radiación de los teléfonos móviles y los riesgos para la salud asociados a ella. Como me compré mi primer móvil y me he informado bastante bien sobre cuándo pueden existir riesgos, pude expresar mi opinión al respecto.*
-
+</details>
 </details>
 
 ---
@@ -245,16 +252,16 @@ No entanto, devido às jornadas de trabalho extremamente longas, que lhe deixam 
 
 Eu disse-lhe que aquela tinha sido uma decisão tomada pelo próprio filho. Se não a tivesse tomado, talvez um dia viesse a arrepender-se. Essa experiência iria enriquecer a sua vida – talvez até mais do que simplesmente conhecer os vastos oceanos e lugares distantes.
 
+<details>
+<summary>   </summary>
 *Outro tema sobre o qual também falámos foi a radiação dos telemóveis e os riscos para a saúde a ela associados. Como comprei o meu primeiro telemóvel e me informei relativamente bem sobre em que situações podem existir riscos, pude dar a minha opinião sobre o assunto.*
-
+</details>
 </details>
 
 
 ![](media05/20120605-180038.webp)
 
-
 ![](media05/20120605-181058.webp)
-
 
 ![](media05/20120605-181743.webp)
 

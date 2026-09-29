@@ -234,7 +234,7 @@ Ich hätte meine Tagesetappe gerne dort beendet, aber es war überall voll. Ich 
 ![](media04/20120516-132821-DSCF3251.webp)
 
 ![](media04/20120516-145324.webp)
-.................**↑**....Castrojeriz....**↑**
+..............**↑**....Castrojeriz....**↑**
 - Ein Blick zurück auf Castrojeriz, kurz vor der Ankunft in Itero de la Vega
 - A view back towards Castrojeriz, just before Itero de la Vega
 - Uma vista para trás, para Castrojeriz, pouco antes de chegar a Itero de la Vega
@@ -250,7 +250,7 @@ Fotos **↓** **↑** von : alberguescaminosantiago.com
 ---
 **„Da es nicht mein Erzählstil ist, aber meine Erlebnisse und meine Schilderung dessen, was ich gespürt habe, unterschreibe ich diesen von der KI formulierten literarischen Text als meinen eigenen.“**
 
-*Ich neige dazu, kurze Texte zu formulieren, die je nach Situation ironisch, sachlich, ernst oder nachdenklich sein können, aber da alles, was in dieser Geschichte passiert ist, wahr ist, lasse ich sie so stehen, auch wenn einige davon ein wenig ausgeschmückt sind.*
+*Ich neige dazu, kurze Texte zu formulieren, die je nach Situation ironisch, sachlich, ernst oder nachdenklich sein können, aber da alles, was in dieser Geschichte passiert ist, wahr ist, lasse ich sie so stehen, auch wenn einige davon ein klein wenig ausgeschmückt sind.*
 #### Kapitel: Die Stille von Itero de la Vega und das Echo der Heimat
 
 Es gibt Nächte auf dem Camino, die sich nicht an die Regeln der Zeit halten. Sie dehnen sich aus, werden weit und atmen eine Ruhe, die man in den überfüllten Herbergen der großen Etappenorte vergeblich sucht. Nach den unerbittlichen Kilometern durch die flimmernde Hitze der Meseta und dem steilen, schweißtreibenden Aufstieg zum _Alto de Mostelares_ hatte mich der Weg an diesem Abend reich beschenkt. Während die meisten Pilger wegen der einfachen, **spartanischen Gemeinschaftsduschen** in die moderneren Privatherbergen des Ortes geflüchtet waren, fand ich in der schlichten _Albergue Municipal de Itero de la Vega_ meinen perfekten Rückzugsort. Ein ganzer Saal,  und eine absolute, wohltuende Stille, die mir ganz allein gehörte.
