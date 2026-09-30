@@ -297,9 +297,11 @@ After my backpack had lost a few kilos, I sat down by the river, put my feet in 
 
 Perhaps that was the real lesson of the day.
 
+</details>
+
+
 ![](media01/GoogleFotos-von-Camilo-GF.webp)
 
-</details>
 
 ---
 
