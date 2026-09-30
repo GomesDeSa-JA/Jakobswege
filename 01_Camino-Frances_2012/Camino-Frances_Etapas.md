@@ -40,7 +40,7 @@ Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 10 de Maio de 2012
 
 ---
-#### [Etapa-07](Etapa-07.md)
+#### [Etapa-07_Logrono_Najera](Etapa-07_Logrono_Najera.md)
 11 de Maio de 2012
 
 ---

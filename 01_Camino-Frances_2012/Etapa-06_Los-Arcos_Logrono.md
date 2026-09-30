@@ -27,14 +27,14 @@ Sie gingen die ganze Zeit zusammen, aber dann ..., ... .
 
 #### Der deutsche Pilger mit dem Rückenproblem und seinem Drahtesel
 
-Er war einer von vielen, die ihren Weg irgendwo in den Pyrenäen begannen. Doch dann passierte, was sich kein Pilger und kein Mensch wünscht: Er bekam Rückenprobleme. Da er aber nicht bereit war, sein Ziel aufzugeben, kaufte er sich kurzerhand einen Drahtesel – genauer gesagt, ein Hollandrad.
+Er war einer von vielen, die ihren Weg irgendwo in den Pyrenäen begannen. Doch dann passierte, was sich kein Pilger und kein Mensch wünscht: Er bekam Rückenprobleme. Da er aber nicht bereit war, sein Ziel aufzugeben, kaufte er sich kurzerhand einen alten Drahtesel – genauer gesagt, ein Hollandrad.
 
 Die meisten Herbergen verfügen über keinen Stall für solche Drahtesel. Er hatte zwar eine Ecke gesehen, an der man es anbinden konnte, aber wie es sich gehört, bindet man seinen „Esel“ nicht einfach irgendwo an, ohne um Erlaubnis zu fragen. Aber wie stellt man das an, wenn man die Sprache nicht beherrscht? So stand er vor mir, entschuldigte sich für die Störung und fragte, ob ich ein wenig meiner Erholungszeit entbehren könnte, um ihm zu helfen. Dann schilderte er mir seine Situation.
 
 Ich kämpfte damals selbst noch mit mir und war beeindruckt zu sehen, dass manche Menschen trotz aller Schwierigkeiten nicht aufgaben. Also half ich ihm gerne. So verbrachte sein Drahtesel die Nacht in einer sicheren Ecke, und der Pilger konnte beruhigt schlafen – in der Gewissheit, dass sein Esel nicht davonlaufen würde. Da ich mich mit dem Fahrrad auf unwegsamen Pfaden gut auskenne, gab ich ihm zu bedenken, dass er mit diesem Hollandrad auf den schmalen Ziegenpfaden Probleme bekommen würde. Er antwortete, dass er seinen treuen Helfer dort, wo es nötig sei, schieben und ansonsten aufsteigen würde, um schwierige Abschnitte zu umfahren.
 
 <details>
-<summary>🇩🇪 Meine akrobatischen Kunststücke</summary>
+<summary>Meine akrobatischen Kunststücke</summary>
 
 ### Meine akrobatischen Kunststücke auf dem Fahrrad
 
@@ -94,7 +94,7 @@ Ich widmete mich danach wieder meiner eigenen Erholung und war froh, dass andere
 
 #### El peregrino alemán con problemas de espalda y su "burro de hierro"
 
-Era uno de tantos que comenzaron su camino en algún lugar de los Pirineos. Pero entonces ocurrió lo que ningún peregrino ni ninguna persona desea: empezó a sufrir de la espalda. Como no estaba dispuesto a renunciar a su meta, no se lo pensó dos veces y se compró un "burro de hierro", o mejor dicho, una Hollandrad.
+Era uno de tantos que comenzaron su camino en algún lugar de los Pirineos. Pero entonces ocurrió lo que ningún peregrino ni ninguna persona desea: empezó a sufrir de la espalda. Como no estaba dispuesto a renunciar a su meta, no se lo pensó dos veces y se compró un "burro de hierro" viejo, o mejor dicho, una Hollandrad.
 
 La mayoría de los albergues no tienen un establo para este tipo de "burros". Él había visto un rincón donde podría amarrarla, pero, como es debido, uno no ata a su "animal" en cualquier sitio sin pedir permiso. ¿Pero cómo hacerlo si no se domina el idioma? Así que se plantó ante mí, me pidió disculpas por la molestia y me preguntó si podía robarle un momento a mi tiempo de descanso para ayudarle, explicándome su situación.
 
@@ -103,7 +103,7 @@ En ese momento yo también seguía luchando con mis propias dificultades, y me a
 Como conozco bien las rutas difíciles en bicicleta, le advertí que con esa bici holandesa tendría problemas para pasar por los senderos de cabras. Me contestó que, donde no se pudiera avanzar, llevaría a su ayudante de la mano y, donde no fuera posible, se subiría a él para rodear el obstáculo.
 
 <details>
-<summary>🇪🇸 Mis hazañas acrobáticas </summary>
+<summary>Mis hazañas acrobáticas </summary>
 
 ###  Mis habilidades sobre la bicicleta en Münsterland
 
@@ -163,14 +163,14 @@ Después volví a lo mío, a descansar, y me alegré de que a ningún otro pereg
 
 #### The German pilgrim with a bad back and his iron steed
 
-He was one of many who started their journey somewhere in the Pyrenees. But then, the very thing no pilgrim or human being wishes for happened: he developed severe back problems. Since he was not willing to give up on his goal, he didn't hesitate and bought himself an "iron steed"—or more precisely, a Hollandrad.
+He was one of many who started their journey somewhere in the Pyrenees. But then, the very thing no pilgrim or human being wishes for happened: he developed severe back problems. Since he was not willing to give up on his goal, he didn't hesitate and bought himself an old  "iron steed"—or more precisely, a Hollandrad.
 
 Most hostels don't have a stable for iron steeds. He had spotted a corner where he could tie it up, but as manners dictate, you don't just hitch your "donkey" anywhere without asking for permission. But how do you do that when you don't speak the language? So there he stood in front of me, apologizing for the interruption, asking if I could spare a bit of my rest time to help him, and explained his situation.
 
 At the time, I was still struggling with my own challenges, and it cheered me up to see that some people refuse to give up despite the hardships. So I was happy to help. His iron steed spent the night in a cozy, secure corner, and he could sleep soundly, knowing his donkey wouldn't run away. Since I know my way around rough terrain on two wheels, I pointed out that he would have a hard time getting through narrow goat tracks with a Dutch bike. He replied that where the path got too rough, he would simply lead his helper by the hand, and awhere this was not possible, one would climb onto it to get round the obstacle.
 
 <details>
-<summary>🇬🇧 My acrobatic feats </summary>
+<summary>My acrobatic feats </summary>
 
 #### My Cycling Skills in Münsterland
 
@@ -229,7 +229,7 @@ I then went back to my own recovery, glad that nothing similar had happened to a
 
 #### O peregrino alemão com problemas nas costas e a seu "burro de ferro"
 
-Ele era um entre tantos que começaram o seu caminho algures nos Pirenéus. Mas então aconteceu o que nenhum peregrino ou ser humano deseja: começou a ter problemas nas costas. Como não estava disposto a desistir do seu objetivo, não hesitou e comprou um "burro de ferro" — ou melhor dizendo, uma Hollandrad.
+Ele era um entre tantos que começaram o seu caminho algures nos Pirenéus. Mas então aconteceu o que nenhum peregrino ou ser humano deseja: começou a ter problemas nas costas. Como não estava disposto a desistir do seu objetivo, não hesitou e comprou um "burro de ferro" velho— ou melhor dizendo, uma Hollandrad.
 
 A maioria dos albergues não tem um estábulo para este tipo de "animais". Ele tinha visto um canto onde a poderia prender, mas, como manda o bom senso, ninguém amarra o seu "burro" em qualquer lado sem pedir autorização. Mas como fazer isso quando não se domina a língua? Foi assim que ele apareceu à minha frente, pediu desculpa pela interrupção e perguntou-me se eu podia dispensar um pouco do meu tempo de descanso para o ajudar, explicando-me a sua situação.
 
@@ -238,7 +238,7 @@ Na altura, eu próprio ainda lutava com as minhas próprias dificuldades e fique
 Como conheço bem os caminhos difíceis de bicicleta, avisei-o de que teria problemas em passar por trilhos de cabras com aquela bicicleta holandesa. Ele respondeu que, onde não desse para andar, levaria o seu companheiro de ajuda pela mão e, onde não  fosse possível, montaria nele para contornar o caminho.
 
 <details>
-<summary> 🇵🇹 As minhas proezas acrobáticas </summary>
+<summary> As minhas proezas acrobáticas </summary>
 
 #### As minhas habilidades com a bicicleta em Münsterland
 
@@ -303,6 +303,8 @@ In Petrus’ Fall wäre der Preis viel höher gewesen; hätte er es nicht geleug
 
 ..., ... .
 
+![](media01/20260929203539.png)
+
 ---
 
 <details>
@@ -312,7 +314,7 @@ In Petrus’ Fall wäre der Preis viel höher gewesen; hätte er es nicht geleug
 
 ---
 
-**↪** [Etapa-07](Etapa-07.md)
+**↪** [Etapa-07_Logrono_Najera](Etapa-07_Logrono_Najera.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 
