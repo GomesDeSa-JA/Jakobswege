@@ -15,11 +15,94 @@
 
 ![](media02/20120510-113934.webp)
 
-#### Die beiden japanischen Pilgerinnen
 
-Sie gingen die ganze Zeit zusammen, aber dann ..., ... . 
+---
 
-..., ... .
+<details>
+<summary> 🇩🇪 Die zwei japanischen Pilgerinnen </summary>
+
+#### Die zwei japanischen Pilgerinnen
+
+> Sie gingen die ganze Zeit zusammen, doch dann ließ eine von ihnen einen Handschuh fallen. Sie kehrte ein paar Meter um, um ihn aufzuheben. Nachdem sie das getan hatte, lächelte sie erfreut, drehte sich um und eilte davon. Irgendetwas an diesem Bild, das mir auf dem Weg immer wieder begegnete, beschäftigte mich: Sie war plötzlich allein. Ich spähte in die Ferne, blickte zurück, doch von ihrer Begleiterin war weit und breit nichts zu sehen.
+
+> Was war passiert? Ich wusste es nicht, aber ich machte mir meine Gedanken. Ich stellte mir vor, wie schwer es sein muss, die weite Reise aus Japan auf sich zu nehmen, um den Camino gemeinsam zu gehen – nur um den Weg nun allein fortzusetzen.
+
+> Doch oft unterscheidet sich das Zusammenleben zu Hause grundlegend von dem auf dem Weg. Daheim verbringt man höchstens ein Drittel des Tages miteinander; hier auf dem Camino ist man bis zu 24 Stunden zusammen. Das sind Herausforderungen, derer sich viele Pilgergemeinschaften – ob zu zweit oder in der Gruppe – vorab nicht bewusst sind. Ob man die Reise am Ende voller Genuss und Freude abschließt, hängt meist von den kleinen, banalen Dingen des Alltags ab, an die man gewöhnt ist: vom eigenen Biorhythmus, den Plänen und den persönlichen Interessen.
+
+> Die eine möchte vielleicht früher aufstehen und ohne Frühstück losziehen, um mehr Sehenswürdigkeiten zu besichtigen oder zeitig am Etappenziel anzukommen. Die andere möchte lieber 30 Minuten länger schlafen, in aller Ruhe eine Tasse Kaffee oder Tee trinken, unterwegs öfter verweilen und die Landschaft genießen, anstatt sich zu beeilen, nur um am Ende alle Kathedralen zu besichtigen – die man ohnehin auch mit dem Bus erreichen könnte. Zudem hat jeder seinen ganz eigenen, vielleicht langsameren Laufrhythmus; versucht man ständig, mit dem anderen Schritt zu halten, ist das auf Dauer zum Scheitern verurteilt. Sich genau in diesen Punkten zu synchronisieren, ist manchmal schwieriger als man denkt.
+
+> Der Weg war breit und ich musste nicht einmal besonders darauf achten, wohin ich trat; man könnte sagen, auf dem Camino Francés kann man einen Großteil der Strecke im Schlaf zurücklegen. Und ehe ich mich versah, stand ich bereits in der langen Warteschlange vor der Rezeption der Pilgerherberge in Logroño. Da sah ich die eine japanische Pilgerin weit vor mir stehen, beide Handschuhe an und den Pilgerausweis in der Hand. Von der anderen war weit und breit nichts zu sehen. Erst nach einer Weile erblickte ich sie: Völlig erschöpft ließ sie sich auf eine Bank sinken, ohne die Kraft, sich in die Schlange einzureihen. Plötzlich kam die erste Japanerin zu ihr, nahm ihr sanft die Wanderstöcke ab und führte sie zu ihrem Schlafplatz.
+
+> Ich bin mir sicher, dass sie überglücklich waren, als sie schließlich gemeinsam das Grab des heiligen Jakobus besuchten – und vielleicht sind sie am Ende sogar Seite an Seite bis an das Ende der Welt gelaufen.
+
+</details>
+
+---
+
+<details>
+<summary> 🇪🇸 Las dos peregrinas japonesas  </summary>
+
+#### Las dos peregrinas japonesas
+
+> Caminaban juntas todo el tiempo, pero de repente a una se le cayó un guante. Retrocedió unos metros para recogerlo y, tras hacerlo, sonrió complacida, se dio la vuelta y se marchó apresuradamente. Algo en esa imagen, que me había cruzado varias veces en el camino, me inquietó: estaba sola. Miré a lo lejos, miré hacia atrás, pero no vi a su compañera por ninguna parte.
+
+> ¿Qué habría pasado? No lo sabía, pero no podía dejar de darle vueltas. Pensaba en lo difícil que debía de ser tomar un avión desde el lejano Japón para hacer el Camino juntos, para luego terminar caminando en soledad.
+
+> Sin embargo, a menudo la convivencia en casa es muy distinta a la del camino. En el hogar compartes como mucho un tercio del día; aquí en el Camino estás junto al otro las 24 horas. Son desafíos que muchas comunidades de peregrinos, ya sea en pareja o en grupo, no prevén. Que una comunidad termine el viaje con alegría y disfrute depende casi siempre de los pequeños y banales detalles cotidianos a los que uno está acostumbrado, del propio biorritmo y de los intereses de cada cual.
+
+> Uno prefiere madrugar y salir sin desayunar para ver más monumentos o llegar antes al final de la etapa. El otro prefiere dormir 30 minutos más, tomarse una taza de café o té con total tranquilidad, detenerse más a menudo por el camino y disfrutar del paisaje en lugar de ir corriendo solo para visitar catedrales al final de la jornada, a las que de todos modos se podría llegar en autobús. Además, cada uno tiene un ritmo de caminata completamente distinto y más lento, y si intenta mantener el paso del otro, está condenado al fracaso a largo plazo. Sincronizarse en estos aspectos es, a veces, más difícil de lo que parece.
+
+> El sendero era ancho y ni siquiera tenía que fijarme mucho por dónde pisaba; se podría decir que en el Camino Francés se puede andar gran parte de las etapas casi dormido. Y antes de darme cuenta, ya estaba en la larga cola de la recepción del albergue de Logroño. Allí vi a la primera peregrina japonesa, mucho más adelante, con sus dos guantes puestos y la credencial en la mano. De la otra no había ni rastro. Solo después de un rato la vi llegar, completamente exhausta, dejándose caer en un banco sin fuerzas ni para ponerse en la cola. De repente, la otra japonesa se acercó a ella, le quitó con cuidado los bastones de senderismo y la guio hacia su lugar de descanso.
+
+> Estoy seguro de que se sintieron inmensamente felices cuando visitaron juntas la tumba del apóstol Santiago, y tal vez incluso caminaron codo con codo hasta el fin del mundo.
+
+</details>
+
+---
+
+<details>
+<summary> 🇬🇧 The Two Japanese Pilgrims </summary>
+
+#### The Two Japanese Pilgrims
+
+> They were walking together the entire time, but then one of them dropped a glove. She turned back a few meters to pick it up. After doing so, she smiled happily, turned around, and hurried off. Something about this image, which I kept encountering along the way, troubled me: she was alone. I peered into the distance, I looked back, but her companion was nowhere to be seen.
+
+> What had happened? I didn't know, but I couldn't stop thinking about it. I thought about how difficult it must be to take a flight all the way from distant Japan to walk the Camino together, only to end up walking the path alone.
+
+> Yet, living together at home is often completely different from being together on the trail. At home, you spend at most a third of the day together; here on the Camino, you are together up to 24 hours a day. These are challenges that many pilgrim communities—whether a duo or a group—are simply not aware of beforehand. Whether a community ends the journey with pleasure and joy mostly depends on the small, mundane things of daily life that one is used to, on one's own biorhythm, plans, and personal interests.
+
+> One person wants to get up early and leave without breakfast to see more sights or to arrive earlier at the day's destination. The other prefers to sleep 30 minutes longer, drink a cup of coffee or tea in complete peace, linger more often along the way, and enjoy the scenery instead of rushing ahead just to visit all the cathedrals at the end of the stages—which one could easily reach by bus anyway. Furthermore, one might have a completely different and slower walking pace, and trying to keep up with the other is doomed to fail in the long run. Synchronizing these aspects is sometimes harder than one thinks.
+ 
+> The path was wide and I didn't even have to watch where I was walking; you could say that on the Camino Francés, you can walk a large part of the distance in your sleep. And before I knew it, I was standing in the long queue at the reception of the pilgrim hostel in Logroño. There I saw the first Japanese pilgrim far ahead of me, both gloves on and her pilgrim credential in hand. Of the other pilgrim, there was no sign anywhere. Only after a while did I spot her, completely exhausted, sinking onto a bench without even the strength to join the queue. Suddenly, the other Japanese woman came over to her, gently took her walking sticks, and guided her to her sleeping quarters.
+
+> I am certain they were overjoyed when they visited the tomb of Saint James together, and perhaps they even walked side by side all the way to the end of the world.
+
+
+</details>
+
+---
+<details>
+<summary> 🇵🇹 As duas peregrinas japonesas </summary>
+
+####  As duas peregrinas japonesas
+
+> Elas caminhavam juntas o tempo todo, mas a certa altura uma delas deixou cair uma luva. Retrocedeu alguns metros para a apanhar e, depois de o fazer, sorriu satisfeita, virou-se e partiu apressadamente. Algo naquela imagem, com a qual me cruzei várias vezes ao longo do caminho, me incomodou: ela estava sozinha. Olhei para o horizonte, olhei para trás, mas não vi a sua companheira em lado nenhum.
+
+> O que teria acontecido? Não sabia, mas não conseguia parar de pensar nisso. Pensava no quão difícil deve ser apanhar um avião do longínquo Japão para fazer o Caminho juntos, para depois acabar a caminhar na solidão.
+ 
+> No entanto, muitas vezes a convivência em casa é completamente diferente daquela que se vive no caminho. Em casa, partilha-se no máximo um terço do dia; aqui no Caminho estamos juntos 24 horas por dia. São desafios para os quais muitas comunidades de peregrinos — seja em dupla ou em grupo — não estão preparadas. Se uma comunidade termina a viagem com prazer e alegria depende quase sempre dos pequenos e banais detalhes do dia a dia a que se está habituado, do próprio biorritmo, dos planos e dos interesses pessoais.
+ 
+> Um prefere acordar cedo e sair sem pequeno-almoço para ver mais monumentos ou chegar mais cedo ao destino da etapa. O outro prefere dormir mais 30 minutos, tomar uma chávena de café ou chá com toda a calma, parar mais vezes pelo caminho e desfrutar da paisagem em vez de correr só para visitar as catedrais no final da jornada — que, de qualquer forma, poderiam ser alcançadas de autocarro. Além disso, cada um tem um ritmo de caminhada completamente diferente e mais lento; tentar acompanhar o passo do outro está condenado ao fracasso a longo prazo. Sincronizar-se nestes aspetos é, por vezes, mais difícil do que parece.
+
+> O trilho era largo e eu nem precisava de prestar muita atenção por onde caminhava; podia dizer-se que, no Camino Francés, é possível fazer uma grande parte do percurso quase a dormir. E antes que me apercebesse, já estava na longa fila da receção do albergue de peregrinos de Logroño. Ali vi a primeira peregrina japonesa bem mais à frente, com as suas duas luvas calçadas e a credencial na mão. Da outra não havia nem sinal. Só passados alguns momentos a avistei: completamente exausta, deixou-se cair num banco, sem forças sequer para se colocar na fila. De repente, a outra japonesa aproximou-se dela, tirou-lhe gentilmente os bastões de caminhada e guiou-a até ao seu lugar de descanso.
+
+> Tenho a certeza de que ficaram imensamente felizes quando visitaram juntas o túmulo de Santiago Maior — e talvez tenham até caminhado lado a lado até ao fim do mundo.
+
+</details>
+
+---
+
+![](media01/20260929203539.png)
 
 ---
 <details>
@@ -291,19 +374,46 @@ Depois disso, voltei a focar-me no meu descanso e fiquei feliz por ver que o mes
 
 </details>
 
-#### Die Spanierin, die lautstark leugnet, Englisch zu sprechen.
+---
 
-#### Das Echo hallt durch die Räume
+#### 🇩🇪 Die Spanierin, die lautstark leugnet, Englisch zu sprechen.
 
-Ich bin ihr davor und danach noch einmal begegnet, und sie hat mir sogar ihren Namen genannt, aber  ich habe ihn schließlich wieder vergessen.
+> **Das Echo hallt durch die Räume.**  
 
-Genau wie Petrus hat sie es geleugnet; sie wollte nur ein wenig Ruhe, um neue Kraft zu tanken, damit sie es bis ans Ende der Welt schaffen konnte.
+> Ich bin ihr davor und danach noch einmal begegnet, und sie hat mir sogar ihren Namen genannt, aber ich habe ihn schließlich wieder vergessen.  
+> Genau wie Petrus hat sie es geleugnet; sie wollte nur ein wenig Ruhe, um neue Kraft zu tanken, damit sie es bis ans Ende der Welt schaffen konnte.  
+> In Petrus’ Fall wäre der Preis viel höher gewesen; hätte er es nicht geleugnet, hätte er vielleicht nicht den ersten Stein gelegt.
 
-In Petrus’ Fall wäre der Preis viel höher gewesen; hätte er es nicht geleugnet, hätte er vielleicht nicht den ersten Stein gelegt.
+---
 
-..., ... .
+#### 🇪🇸 La española que niega rotundamente hablar inglés.
+ 
+> **El eco resuena por las habitaciones.**  
 
-![](media01/20260929203539.png)
+> Coincidí con ella antes y después, e incluso me dijo su nombre, pero al final lo olvidé.  
+> Al igual que Pedro, ella lo negó; solo quería un poco de paz para recuperar fuerzas y poder llegar hasta el fin del mundo.  
+> En el caso de Pedro, el precio habría sido mucho más alto; si no lo hubiera negado, tal vez no habría puesto la primera piedra.
+
+---
+
+#### 🇬🇧 The Spanish woman who loudly denies speaking English.
+
+> **The echo resounds through the rooms**.  
+
+> I met her once before and once after, and she even told me her name, but in the end, I forgot it again.  
+> Just like Peter, she denied it; she only wanted a little peace to recharge her batteries so that she could make it to the end of the world.  
+> In Peter's case, the price would have been much higher; had he not denied it, perhaps he would not have laid the first stone.
+
+---
+
+#### 🇵🇹 A espanhola que nega veementemente falar inglês.
+
+> **O eco ressoa pelas salas.**  
+
+> Cruzei-me com ela antes e depois, e ela até me disse o seu nome, mas acabei por esquecê-lo.  
+> Tal como Pedro, ela negou-o; apenas queria um pouco de paz para recuperar forças e conseguir chegar ao fim do mundo.  
+> No caso de Pedro, o preço teria sido muito mais alto; se não o tivesse negado, talvez não tivesse lançado (teria posto) a primeira pedra.
+
 
 ---
 

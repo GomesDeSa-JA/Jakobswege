@@ -105,7 +105,7 @@
 
 >„Im Jahr 2012 habe ich während meiner Pilgerreise auf dem Camino Francés die Messe in der Kathedrale von Santo Domingo de la Calzada besucht, wo der Hahn in seinem Käfig an der Wand lebt. Man erlebt ihn dort sozusagen live während des Sonntagsgottesdienstes. Bei dieser Gelegenheit habe ich die Legende vom Hühnerwunder nach mehreren Jahrzehnten zum ersten Mal wieder gehört.
 
- >Im Jahr 2019 war ich dann zum ersten Mal in Barcelos, als ich von Ávila nach Santiago de Compostela und von dort weiter nach Fátima gelaufen bin.  Der berühmte Keramikhahn in den portugiesischen Nationalfarben Rot und Grün ist überall im Stadtbild präsent und wenn ich den Barcelos Hahn sehe, ist diese Geschichte immer in Hinterkopf.  
+ >Im Jahr 2019 war ich dann zum ersten Mal in Barcelos, als ich von Ávila nach Santiago de Compostela und von dort weiter nach Fátima gelaufen bin.  Der berühmte Keramikhahn in den portugiesischen –*Nationalfarben Rot und Grün*– ist überall im Stadtbild präsent und wenn ich den Barcelos Hahn sehe, ist diese Geschichte immer in Hinterkopf.  
 
 >Nach diesen Reisen frage ich mich, ob es wohl nur in diesen beiden Städten so war, dass der Hahn vor dem Richter floh, weil jemandem Unrecht widerfahren war.
 
@@ -189,7 +189,7 @@
 - The Cause: In Santo Domingo, the young pilgrim is framed by an innkeeper's daughter who hides a silver cup in his bag after he rejects her advances. In Barcelos, a Galician pilgrim is arrested purely because a crime occurred in the town and he is a suspicious stranger.
 - The Timing: In Spain, the boy is already hanged but survives on the gallows because Saint Dominic holds him up. When the parents tell the magistrate, he scoffs: _“Your son is as alive as these roasted birds on my plate”_. In Portugal, the pilgrim makes a prophecy before execution at the judge's dinner table: _“If I am innocent, this rooster will crow!”_. As the rope tightens, the rooster stands up and crows.
 - The Number of Birds: In Santo Domingo, a rooster and a hen both revive (hence the live pair in the cathedral). In Barcelos, it is only a single rooster.
-- 
+
 #### 📖 The Story (Short Version)
 
 > "An innocent pilgrim on his way to Santiago is falsely accused of theft and sentenced to hang. On the day of his execution, he begs for a final audience with the judge, who is about to eat a roasted rooster. When the judge disbelieves his innocence, the pilgrim declares that the cooked bird will rise from the plate and crow to prove the truth. At the exact moment of the execution, the miracle occurs: the roasted poultry comes back to life, stands up, and crows loudly. The pilgrim is saved and allowed to continue his journey unharmed." 
@@ -222,7 +222,7 @@
 - O Motivo: Em Santo Domingo, o jovem peregrino é vítima de uma armadilha amorosa; a filha do estalajadeiro esconde uma taça de prata na sua mala porque ele a rejeitou. Em Barcelos, o peregrino galego é preso simplesmente por ser um estranho na cidade onde tinha ocorrido um crime.
 - O Momento do Milagre: Em Espanha, o jovem já foi enforcado, mas sobrevive na corda porque São Domingos o segura. Quando os pais avisam o juiz, este diz com desdém: _“O vosso filho está tão vivo como este galo e esta galinha assados no meu prato”_. Em Portugal, o milagre acontece antes da execução: o peregrino avisa o juiz à mesa que o galo cantará se for inocente, e o animal levanta-se quando a corda se aperta.
 - O Número de Aves: Em Santo Domingo ressuscitam um galo e uma galinha (razão pela qual há um casal vivo na catedral). Em Barcelos, é apenas um galo.
-- 
+
 #### 📖 A História (Resumo)
 
 > „Um peregrino inocente a caminho de Santiago de Compostela é injustamente acusado de roubo e condenado à forca. Antes do cumprimento da sentença, pede para ver o juiz, que se encontra a comer um galo assado. Diante da incredulidade do magistrado, o condenado afirma que, como prova da sua inocência, a ave cozinhada se levantará do prato e cantará. No momento exato da execução, o milagre acontece: o galo assado ganha vida, põe-se de pé e canta ruidosamente. 
@@ -236,15 +236,20 @@
 
 <details>
 <summary>  </summary>
-🇬🇧
-🇪🇸
-🇵🇹
-🇩🇪
+- 🇬🇧 –*National colours: red and green*–
+How deeply that first memory of the Galo de Barcelos has been etched into my mind.
+- 🇪🇸 –*Colores nacionales: rojo y verde*–
+Cómo se me quedó profundamente grabada en la mente esta primera recuerdo del Galo de Barcelos.
+- 🇵🇹 –*Cores nacionais: vermelho e verde*–
+Como esta primeira memória do Galo de Barcelos ficou profundamente gravada na minha mente.
+- 🇩🇪 –*Nationalfarben: Rot und Grün*–
+Wie sehr hat sich diese erste Erinnerung an den Galo de Barcelos doch tief in mein Gedächtnis eingegraben.
+
 </details>
 
 ---
 
-**↪** [Etapa-09](Etapa-09.md)
+**↪** [Etapa-09_Santo-Domingo-de-la-Calzada_Tosantos](Etapa-09_Santo-Domingo-de-la-Calzada_Tosantos.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 

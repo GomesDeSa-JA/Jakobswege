@@ -1,6 +1,6 @@
 ## Camino Francés  2012  
 
-### Etapa-09: →  ( Km)
+### Etapa-09: Santo Domingo de la Calzada → Tosantos ( 25,5 Km)
 13 de Mai 2012
 
 
@@ -15,7 +15,6 @@
 ![](media03/20120513-090412.webp)
 
 ![](media03/20120513-111538.webp)
-
 
 ---
 
