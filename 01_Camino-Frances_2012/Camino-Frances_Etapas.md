@@ -44,7 +44,7 @@ Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 11 de Maio de 2012
 
 ---
-#### [Etapa-08](Etapa-08.md)
+#### [Etapa-08_Najera_Santo-Domingo-de-la-Calzada](Etapa-08_Najera_Santo-Domingo-de-la-Calzada.md)
 12 de Maio de 2012
 
 ---

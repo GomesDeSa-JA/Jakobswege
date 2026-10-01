@@ -315,7 +315,7 @@ Perhaps that was the real lesson of the day.
 
 ---
 
-**↪** [Etapa-08](Etapa-08.md)
+**↪** [Etapa-08_Najera_Santo-Domingo-de-la-Calzada](Etapa-08_Najera_Santo-Domingo-de-la-Calzada.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 
