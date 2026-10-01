@@ -59,7 +59,7 @@ Diese Ereignisse reichen über den gelebten Moment hinaus, daher werde ich über
 
 
 ![](media02/Larrasoana.webp)
-**↑** Albergue de Peregrinos (Reception)  **↑** ........................................**↑** Albergue (Dependence?) **↑**
+Albergue de Peregrinos (Reception)   AND  Albergue (Dependence?)
 
 ---
 

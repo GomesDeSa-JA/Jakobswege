@@ -215,7 +215,7 @@
 
 ---
 <details>
-<summary> 🔍 Diferenças em detalhe  </summary>
+<summary> Diferenças em detalhe  </summary>
 
 ####  🔍 Diferenças em detalhe
 
@@ -229,7 +229,6 @@
 > **O peregrino é salvo e pode continuar o seu caminho são e salvo.“** 
 
 </details>
-
 </details>
 
 ---

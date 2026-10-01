@@ -1,6 +1,6 @@
 ## Camino Francés  2012  
 
-### Etapa-03:  Larrasoaña → Pamplona "Iruña"  (14,9 Km)
+### Etapa-03: Larrasoaña → Pamplona "Iruña"  (14,9 Km)
 07 de Mai 2012
 
 Recuerdo ese día como si hubiera sido ayer
@@ -14,9 +14,9 @@ I can still picture that day as if it were yesterday
 ![](media02/20120507_065109.webp)
 
 ![](media02/20120507_065120.webp)
-
+Albergue de Peregrinos de Larrasoaña  (Reception)   
 ![](media02/20120507_065304.webp)
-
+Albergue de Peregrinos de Larrasoaña (Dependence?)
 ![](media02/20120507_073439.webp)
 
 ![](media02/20120507_083815.webp)

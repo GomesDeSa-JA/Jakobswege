@@ -10,7 +10,7 @@
 ![](media03/20120511-095621-DSCF3107.webp)
 
 ![](media01/Google-Fotoausschnitt_Hinko-Seglin_AND_Yi-Han-Huang.webp)
-
+Google-Fotoausschnitt von Yi Han Huang AND Hinko Seglin 
 <details>
 <summary>🇩🇪 In der Tat fließendes, klares, reines und kaltes Wasser!</summary>
 
