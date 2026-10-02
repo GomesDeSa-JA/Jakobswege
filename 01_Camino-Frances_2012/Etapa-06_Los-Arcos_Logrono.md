@@ -102,7 +102,7 @@
 
 ---
 
-![](media01/20260929203539.png)
+![](media01/20260929203539.webp)
 
 ---
 <details>
@@ -413,7 +413,6 @@ Depois disso, voltei a focar-me no meu descanso e fiquei feliz por ver que o mes
 > Cruzei-me com ela antes e depois, e ela até me disse o seu nome, mas acabei por esquecê-lo.  
 > Tal como Pedro, ela negou-o; apenas queria um pouco de paz para recuperar forças e conseguir chegar ao fim do mundo.  
 > No caso de Pedro, o preço teria sido muito mais alto; se não o tivesse negado, talvez não tivesse lançado (teria posto) a primeira pedra.
-
 
 ---
 

@@ -118,7 +118,7 @@ Nos hicimos fotos mutuamente. Después, como ocurre tantas veces en el Camino, n
 ![](media03/DSCF3176.webp)
 20120515-071907
 
-![](media03/20120515-072124.JPG)
+![](media03/20120515-072124.webp)
 
 ![](media03/20120515-072156.webp)
 

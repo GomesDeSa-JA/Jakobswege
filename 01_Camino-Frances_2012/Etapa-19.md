@@ -17,11 +17,9 @@
 
 ![](media04/20120523-100447.webp)
 
-![](media04/20120523-102436.jpg)
+![](media04/20120523-102436.webp)
 
 ![](media04/20120523-103910.webp)
-
-
 
 ![](media04/20120523-104548.webp)
 
@@ -33,7 +31,7 @@
 
 - 🇬🇧 I looked at my watch, checked the time on my mobile and thought: ‘There’s no need to be jealous of the Swiss.’ If we stick to this schedule, we’ll arrive at the next Albergue in good time.
 
-![](media04/20120523-120221.jpg)
+![](media04/20120523-120221.webp)
 
 ![](media04/20120523-120349.webp)
 
