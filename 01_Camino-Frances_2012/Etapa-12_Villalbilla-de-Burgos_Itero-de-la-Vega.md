@@ -1,6 +1,6 @@
 ## Camino Francés  2012  
 
-### Etapa-14: →  ( Km)
+### Etapa-14: Villalbilla de Burgos →  (43,9 Km)
 16 de Mai 2012
 
 ![](media04/20120516-073222.webp)
@@ -238,7 +238,7 @@ Ich hätte meine Tagesetappe gerne dort beendet, aber es war überall voll. Ich 
 - Uma vista para trás, para Castrojeriz, pouco antes de chegar a Itero de la Vega
 - A look back towards Castrojeriz, just before reaching Itero de la Vega
 
-**↓** Itero de la Vega **↓** 
+**↓ Itero de la Vega ↓** 
 
 ![](media04/20260927201340.webp)
 Fotos **↓** **↑** von : alberguescaminosantiago.com
@@ -307,7 +307,7 @@ In dieser zauberhaften Nacht in Itero de la Vega standen wir nicht als Fremde zu
 
 ---
 
-**↪** [Etapa-13](Etapa-13.md)
+**↪** [Etapa-13_Itero-del-la-Vega_Carrion-de-los-Condes](Etapa-13_Itero-del-la-Vega_Carrion-de-los-Condes.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 

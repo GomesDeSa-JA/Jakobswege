@@ -56,19 +56,19 @@ Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 14 de Maio de 2012
 
 ---
-#### [Etapa-11](Etapa-11.md)
+#### [Etapa-11_Atapuerca_Villalbilla-de-Burgos](Etapa-11_Atapuerca_Villalbilla-de-Burgos.md)
 15 de Maio de 2012
 
 ---
-#### [Etapa-12](Etapa-12.md)
+#### [Etapa-12_Villalbilla-de-Burgos_Itero-de-la-Vega](Etapa-12_Villalbilla-de-Burgos_Itero-de-la-Vega.md)
 16 de Maio de 2012
 
 ---
-#### [Etapa-13](Etapa-13.md)
+#### [Etapa-13_Itero-del-la-Vega_Carrion-de-los-Condes](Etapa-13_Itero-del-la-Vega_Carrion-de-los-Condes.md)
 17 de Maio de 2012
 
 ---
-#### [Etapa-14](Etapa-14.md)
+#### [Etapa-14_Carrion-de-los-Condes_Terradillos-de-los-Templarios](Etapa-14_Carrion-de-los-Condes_Terradillos-de-los-Templarios.md)
 18 de Maio de 2012
 
 ---

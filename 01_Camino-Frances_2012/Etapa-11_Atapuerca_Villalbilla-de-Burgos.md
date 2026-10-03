@@ -1,10 +1,9 @@
 ## Camino Francés  2012  
 
-### Etapa-11: →  ( Km)
+### Etapa-11: Atapuerca → Villalbilla de Burgos (25,x Km)
 15 de Mai 2012
 
 ![](media03/20120515-070956-DSCF3169.webp)
-
 
 20120515-071740
 ![](media03/DSCF3175.webp)
@@ -124,7 +123,6 @@ Nos hicimos fotos mutuamente. Después, como ocurre tantas veces en el Camino, n
 
 ![](media03/20120515-073811.webp)
 
-
 ![](media03/20120515-073920.webp)
 
 - Wir sind nicht die Landschaft, aber meistens nehmen wir das ganze Bild für uns ein.
@@ -136,6 +134,69 @@ Sein eigenes Spiegelbild  kann man  auch zu Hause vor dem Spiegel bewundern.
 
 É bom observar-se a si próprio a andar. O seu próprio reflexo pode ser admirado em casa, diante do espelho.
 
+---
+#### Aber vorher – wo genau?
+
+Wir waren drei oder vier Pilger, die relativ dicht beieinander unterwegs waren. Als wir ihn über ein Feld gehen sahen, bemerkten wir an den Fußspuren, dass diesen Weg vor uns offenbar kaum jemand genommen hatte. Aber er war ein spanischer Pilger, und wir vertrauten auf seinen Instinkt als Einheimischer. Also beschlossen wir, ihm zu folgen.
+
+Als er bemerkte, dass wir hinter ihm hergingen, drehte er sich um und sagte uns, dass dies nicht der offizielle Weg sei **und dass er sich vielleicht irren könne**. Laut GPS würde er jedoch wieder auf den richtigen Weg gelangen. Wir überhörten großzügig das kleine Wort „irren“ und antworteten nur: „Na gut.“ Und so folgten wir ihm weiter.
+
+
+>**dass er sich vielleicht irren könne:** Das war nicht genau die Formulierung, die er verwendet hat, sondern eher so etwas wie: dass es vielleicht keinen Durchgang oder Ausgang gäbe.
+
+
+> *Später, am Ende des Französischen Jakobswegs und auch auf allen anderen Jakobswegen, bin ich noch ziemlich oft von den gelben Pfeilen abgewichen. Dann habe ich einfach dem GPS bis zur nächsten Kirche im nächsten Ort vertraut – und dort schließlich wieder die vertrauten gelben Pfeile gefunden.*
+
+#### Mas antes disso – onde exatamente?
+
+Éramos três ou quatro peregrinos que caminhávamos relativamente próximos uns dos outros. Quando o vimos atravessar um campo, percebemos pelas pegadas que, aparentemente, quase ninguém tinha seguido aquele caminho antes de nós. Mas ele era um peregrino espanhol, e confiámos no seu instinto de alguém da região. Por isso, decidimos segui-lo.
+
+Quando percebeu que estávamos a segui-lo, virou-se e disse-nos que aquele não era o caminho oficial e que talvez pudesse estar enganado. Segundo o GPS, porém, acabaria por voltar a encontrar o caminho certo. Nós, generosamente, ignorámos a pequena palavra «enganado» e respondemos apenas: «Está bem.» E continuámos a segui-lo.
+
+>**que ele talvez pudesse estar enganado:** Não foi exatamente essa a formulação que ele utilizou, mas sim algo do género: que talvez não houvesse nenhuma passagem ou saída.
+
+> *Mais tarde, no final do Caminho Francês e também nos outros Caminhos de Santiago, desviei-me muitas vezes das setas amarelas. Nessas ocasiões, simplesmente confiei no GPS e segui-o até à igreja seguinte, na localidade seguinte – e, finalmente, voltava a encontrar as familiares setas amarelas.*
+
+#### Pero antes de eso, ¿por dónde?
+
+Éramos tres o cuatro peregrinos que caminábamos relativamente cerca unos de otros. Cuando lo vimos atravesar un campo, nos dimos cuenta por las huellas de que, aparentemente, casi nadie había pasado por allí antes que nosotros. Pero él era un peregrino español y confiamos en su instinto como alguien de la tierra. Así que decidimos seguirlo.
+
+Cuando se dio cuenta de que íbamos detrás de él, se volvió y nos dijo que aquel no era el camino oficial y que quizá podía estar equivocado. Sin embargo, según el GPS, acabaría llegando de nuevo al camino correcto. Nosotros, generosamente, hicimos caso omiso de esa pequeña palabra, «equivocado», y simplemente respondimos: «Bueno, vale». Y seguimos caminando detrás de él.
+
+>**que quizá podía estar equivocado:** Esa no fue exactamente la expresión que utilizó, sino más bien algo así como: que quizá no hubiera ningún pasadizo ni salida.
+
+> *Más tarde, al final del Camino Francés y también en los demás Caminos de Santiago, me desvié bastantes veces de las flechas amarillas. En esas ocasiones, simplemente seguía el GPS hasta la siguiente iglesia, en el siguiente pueblo, y allí volvía a encontrar las conocidas flechas amarillas.*
+
+#### But before that – where exactly?
+
+There were three or four of us pilgrims walking relatively close together. When we saw him crossing a field, we noticed from the footprints that, apparently, hardly anyone had taken that route before us. But he was a Spanish pilgrim, and we trusted his instinct as a local. So we decided to follow him.
+
+When he realized that we were following, he turned around and told us that this was not the official route and **that he might be mistaken.** According to the GPS, however, he would eventually find his way back to the right path. We generously ignored that little word, “mistaken,” and simply replied, “All right, then.” And we continued to follow him.
+
+>**that he might be wrong:** That wasn’t exactly the wording he used, but rather something along the lines of: that there might not be a passageway or an exit.
+
+
+> *Later, towards the end of the French Way, and also on all the other Camino routes, I found myself straying from the yellow arrows quite often. Whenever that happened, I simply trusted the GPS and followed it to the next church in the next village – and eventually found the familiar yellow arrows again.*
+
+---
+- **Pouco antes de Burgos**
+
+Já não me lembro do nome do Bar-pensão, mas lembro-me do ambiente que ali se vivia. Parámos lá para tomar um café e trocávamos  informações sobre albergues. Como ele  se sentia bem ali e tinha onde passar a noite, decidiu ficar. E como ainda era cedo, decidi continuar a minha caminhada. Como procurava um local tranquilo para evitar os peregrinos, que, enquanto dormem, fazem soar a sua própria sinfonia, ele recomendou-me a «Pousada del Duque». Foi assim que acabei por caminhar até Villalbilla. 
+
+---
+- **Kurz vor Burgos**
+
+Ich erinnere mich nicht mehr an den Namen des Bar-Gasthauses, aber ich erinnere mich an die Atmosphäre, die dort herrschte. Wir machten dort Halt, um einen Kaffee zu trinken, und tauschten häufig Informationen über Herbergen  aus. Da er sich dort wohlfühlte und eine Übernachtungsmöglichkeit hatte, beschloss er zu bleiben. Und da es noch früh war, beschloss ich, meine Wanderung fortzusetzen. Da ich nach einem ruhigen Ort suchte, um den Pilgern aus dem Weg zu gehen, die im Schlaf ihre ganz eigene Symphonie erklingen lassen, empfahl er mir die „Pousada del Duque“. So lief ich schließlich nach Villalbilla. 
+
+---
+- **Just before Burgos**
+
+I can’t remember the name of the Bar-guesthouse, but I do remember the atmosphere there. We stopped there for a coffee and often exchanged information about Albergues. As he felt at home there and had somewhere to stay, he decided to stay on. And as it was still early, I decided to carry on with my walk. As I was looking for a quiet spot to get away from the pilgrims, who create their very own symphony whilst they sleep, he recommended the ‘Pousada del Duque’ to me.  So I ended up walking on to Villalbilla.
+
+---
+- **Poco antes de llegar a Burgos**
+
+Ya no recuerdo el nombre de el Bar-pensión, pero sí recuerdo el ambiente que se respiraba allí. Paramos para tomar un café e intercambiamos información sobre albergues. Como se sentía a gusto allí y tenía un lugar donde pasar la noche, decidió quedarse. Y como aún era temprano, decidí continuar mi caminata. Como buscaba un lugar tranquilo para evitar a los peregrinos, que mientras duermen interpretan su propia sinfonía, me recomendó la «Pousada del Duque». Así que acabé caminando hasta Villalbilla.
 
 ![](media03/20120515-115550.webp)
 
@@ -149,6 +210,28 @@ Sein eigenes Spiegelbild  kann man  auch zu Hause vor dem Spiegel bewundern.
 
 ![](media03/DSCF3199.webp)
 
+- **Villalbilla**
+Quando perguntei por este local, utilizando várias variantes de pronúncia, acabei por desistir e escrevi o nome, e foi então que o senhor mais velho me compreendeu.
+
+O que está escrito como _Villalbilla_ transforma-se muitas vezes rapidamente em algo como: **«Bijabija»** (esta não é a pronúncia correta)
+
+---
+- **Villalbilla**
+Als ich nach diesem Ort fragte und dabei verschiedene Aussprachevarianten verwendete, gab ich schließlich auf und schrieb den Namen auf, woraufhin der ältere Herr mich verstand.
+
+Was als _Villalbilla_ geschrieben steht, verwandelt sich oft schnell in etwas wie: **„Bijabija“** (Das ist nicht die korrekte Aussprache)
+
+---
+- **Villalbilla**
+Cuando pregunté por este lugar y probé diferentes formas de pronunciarlo, al final me rendí y escribí el nombre, y entonces el señor mayor me entendió.
+
+Lo que se escribe como _Villalbilla_ a menudo se convierte rápidamente en algo así como: **«Bijabija»** (esa no es la pronunciación correcta)
+
+- **Villalbilla**
+When I asked about this place, trying out different ways of pronouncing it, I finally gave up and wrote the name down, whereupon the elderly gentleman understood me.
+
+What is written as _Villalbilla_ often quickly turns into something like: **“Bijabija”** (that is not the correct pronunciation)
+
 ---
 
 <details>
@@ -161,7 +244,7 @@ Sein eigenes Spiegelbild  kann man  auch zu Hause vor dem Spiegel bewundern.
 
 ---
 
-**↪** [Etapa-12](Etapa-12.md)
+**↪** [Etapa-12_Villalbilla-de-Burgos_Itero-de-la-Vega](Etapa-12_Villalbilla-de-Burgos_Itero-de-la-Vega.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 

@@ -53,19 +53,16 @@ Atapuerca, such tranquillity: ‘I’m staying here; I’m not taking another st
 ..., ... .
 
 ---
-
 Atapuerca, qué tranquilidad: «Me quedo aquí; no voy a dar ni un paso más», me dijo el otro peregrino unos años más tarde en Serdio. Eso mismo pensé yo también cuando vi el albergue, con una única diferencia: yo no tenía que preocuparme por si habría sitio para dormir.
 ..., ... .
 
 ---
-
 **Atapuerca, was für eine Ruhe:** „Ich bleibe hier; ich mache keinen Schritt mehr“ – das sagte mir der andere Pilger einige Jahre später in Serdio. Genau das dachte ich auch, als ich die Pilgerherberge sah, mit einem einzigen Unterschied: Ich musste mir keine Sorgen machen, ob es einen Schlafplatz geben würde.
 ..., ... .
 
 ---
 **Atapuerca, que tranquilidade:** «Vou ficar aqui; não dou mais nenhum passo» – foi o que me disse o outro peregrino alguns anos mais tarde, em Serdio. Foi exatamente isso que pensei quando vi o albergue de peregrinos, com uma única diferença: não precisava de me preocupar se haveria um lugar para dormir.
 ..., ... .
-
 
 
 ![](media03/20120514-201112.webp)
@@ -84,7 +81,7 @@ Atapuerca, qué tranquilidad: «Me quedo aquí; no voy a dar ni un paso más», 
 
 ---
 
-**↪** [Etapa-11](Etapa-11.md)
+**↪** [Etapa-11_Atapuerca_Villalbilla-de-Burgos](Etapa-11_Atapuerca_Villalbilla-de-Burgos.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 
