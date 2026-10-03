@@ -5,7 +5,7 @@
 
 ![](media04/20120518-101426.webp)
 
-![](media01/Albergue-de-Peregrinos-Jacques-de-Molay.webp)Albergue Jacques de Molay (Googlefoto von ) 
+![](media01/Albergue-de-Peregrinos-Jacques-de-Molay.webp)Albergue Jacques de Molay (Googlefoto von Davide Violato) 
 
 ---
 <details>
@@ -48,6 +48,7 @@ Oft wandern wir durch historische Orte oder stoßen auf historische Namen, ohne 
 **Alles, was ihr hier lest, stammt aus einem Paralleluniversum, denn auch ich existiere nicht.** 
 </details>
 </details>
+
 ---
 
 <details>
