@@ -72,7 +72,7 @@ Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 18 de Maio de 2012
 
 ---
-#### [Etapa-15](Etapa-15.md)
+#### [Etapa-15_Terradillos-de-los-Templarios_Reliegos](Etapa-15_Terradillos-de-los-Templarios_Reliegos.md)
 19 de Maio de 2012
 
 ---

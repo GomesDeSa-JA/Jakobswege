@@ -23,7 +23,7 @@
 Entrance:  Albergue Espíritu Santo (Google-Foto)
 
 
-**IIch glaube, es war hier,** wo uns die Schwester der Kongregation „Hijas de la Caridad de San Vicente de Paúl“, die uns empfangen hatte, eine kleine ovale Medaille mit der Jungfrau Maria schenkte...,...  mit einer dünnen blauen Kordel (in der Größe eines Armbands)
+**Ich glaube, es war hier,** wo uns die Schwester der Kongregation „Hijas de la Caridad de San Vicente de Paúl“, die uns empfangen hatte, eine kleine ovale Medaille mit der Jungfrau Maria schenkte...,...  mit einer dünnen blauen Kordel (in der Größe eines Armbands)
 
 **Wenn es hier war:**  Ich erinnere mich weder daran, wo ich geschlafen habe, noch daran, was und wo ich gegessen habe, aber ich habe noch immer lebhafte Erinnerungen an den herzlichen Empfang, den ich erfahren habe.
 

@@ -24,7 +24,7 @@ Jacques de Molay war der 23. und letzte Großmeister des Templerordens. Er leite
 
 #### 3. Mein Urteil über das Urteil
 
-> Eine Intrige und die Übermacht des Königs haben ihn gerichtet. Die Ohnmacht der Kirche, gepaart mit politischem Kalkül und Angst, hat ihn nicht gerettet – obwohl jeder wusste, dass die gesamte Anklageschrift von vorne bis hinten erlogen war.
+> **Eine Intrige und die Übermacht des Königs haben ihn gerichtet. Die Ohnmacht der Kirche, gepaart mit politischem Kalkül und Angst, hat ihn nicht gerettet – obwohl jeder wusste, dass die gesamte Anklageschrift von vorne bis hinten erlogen war.**
 
 #### 4. Ein kleiner Denkanstoß für den Weg
 
@@ -45,7 +45,19 @@ Oft wandern wir durch historische Orte oder stoßen auf historische Namen, ohne 
 
 > Ich bin mit zwölf Jahren nicht um vier Uhr morgens aufgestanden, um an einem Schulausflug nach Tomar teilzunehmen – nur um dort zu erfahren, dass die Templer beim Messebesuch nicht einmal von ihren Pferden absteigen mussten, um die Kirche zu betreten. Und ich habe auch nicht am Kreuz von Atapuerca einen japanisch-brasilianischen Pilger kennengelernt, der fließenderes brasilianisches Portugiesisch sprach als ich selbst.
 
-**Alles, was ihr hier lest, stammt aus einem Paralleluniversum, denn auch ich existiere nicht.** 
+---
+
+An einem strahlenden Sonntagmorgen im August machte ich einen Spaziergang am Ufer des Tejo entlang, um die Knoten zu lösen, die meine Gedanken bedrückten, und mich von ihnen zu befreien. Ich rang mit mir selbst: Was sollte ich tun?
+
+- Burg von Almourol
+  ![](media01/Almourol.webp)
+
+**Etwa 718 Jahre zuvor: „39°27'43,7“ N 8°23'03,8“ W“. Als die Templer diese Burg erblickten, wussten sie, dass sie wohlbehalten im Gelobten Land angekommen waren.**
+
+---
+
+**Alles, was Sie hier lesen, stammt aus einem Paralleluniversum, denn auch ich existiere nicht und nichts davon ist jemals geschehen.**
+
 </details>
 </details>
 
@@ -68,7 +80,7 @@ Jacques de Molay foi o 23.º e último Grão-Mestre da Ordem dos Templários. Li
 
 #### 3. O meu veredicto sobre a sentença
 
-Uma intriga e a prepotência do rei condenaram-no. A impotência da Igreja, combinada com o cálculo político e o medo, não o salvou – apesar de todos saberem que tudo o que constava na acusação era pura mentira.
+> **Uma intriga e a prepotência do rei condenaram-no. A impotência da Igreja, combinada com o cálculo político e o medo, não o salvou – apesar de todos saberem que tudo o que constava na acusação era pura mentira.**
 
 #### 4. Um pequeno tema de reflexão para o caminho
 
@@ -89,7 +101,17 @@ Muitas vezes caminhamos por lugares históricos ou deparamo-nos com nomes histó
 
 > Não acordei às quatro da manhã aos doze anos para ir numa excursão escolar a Tomar – apenas para descobrir que os Templários nem precisavam de desmontar dos seus cavalos para entrar na igreja e assistir à missa. E também não conheci, na Cruz de Atapuerca, aquele peregrino nipo-brasileiro que falava um português do Brasil melhor do que o meu.
 
-Tudo o que aqui lêem provém de um universo paralelo, pois eu também não existo. 
+---
+Numa radiante manhã de domingo de agosto, dei um passeio ao longo da margem do Tejo para desatar os nós que me oprimiam os pensamentos e libertar-me deles. Debatia-me comigo mesmo: o que deveria fazer?
+
+- Castillo de Almourol
+![](media01/Almourol.webp)
+  
+**Cerca de 718 anos  antes: «39°27'43.7“N 8°23'03.8”W». Quando os Templários avistaram este castelo, souberam que tinham chegado sãos e salvos à Terra Prometida.**
+
+---
+
+**Tudo o que aqui lêem provém de um universo paralelo, pois eu também não existo e nada disto aconteceu.**
 
 </details>
 </details>
@@ -113,7 +135,7 @@ Jacques de Molay fue el vigesimotercer y último Gran Maestre de la Orden de los
 
 #### 3. Mi veredicto sobre la sentencia
 
-Una intriga y la superioridad absoluta del rey lo condenaron. La impotencia de la Iglesia, sumada al cálculo político y al miedo, no lo salvó, a pesar de que todos sabían que cada palabra de la acusación era una completa mentira.
+> **Una intriga y la superioridad absoluta del rey lo condenaron. La impotencia de la Iglesia, sumada al cálculo político y al miedo, no lo salvó, a pesar de que todos sabían que cada palabra de la acusación era una completa mentira.**
 
 #### 4. Un pequeño tema de reflexión para el camino
 
@@ -134,7 +156,19 @@ A menudo caminamos por lugares históricos o tropezamos con nombres históricos 
 
 > No me levanté a las cuatro de la mañana a los doce años para ir en una excursión escolar a Tomar, solo para descubrir allí que los Templarios ni siquiera tenían que bajarse de sus caballos para entrar a la iglesia y asistir a misa. Y tampoco conocí, en la Cruz de Atapuerca, a aquel peregrino nipón-brasileño que hablaba un portugués brasileño mejor que el mío.
 
-**Todo lo que leéis aquí procede de un universo paralelo, ya que yo tampoco existo.** 
+---
+
+Una radiante mañana de domingo de agosto, paseaba por la orilla del Tajo para desatar los nudos que oprimían mis pensamientos y liberarme de ellos. Luchaba conmigo mismo: ¿qué debía hacer?
+
+- Castillo de Almourol
+  ![](media01/Almourol.webp)
+
+**Unas 718  años antes: «39°27'43.7"N 8°23'03.8"O». Cuando los templarios divisaron este castillo, supieron que habían llegado sanos y salvos a la tierra prometida.**
+
+---
+
+**Todo lo que leéis aquí procede de un universo paralelo, pues yo tampoco existo y nada de esto ha sucedido.**
+
 </details>
 </details>
 
@@ -182,7 +216,17 @@ Often we walk through historical places or come across historical names without 
 
 > I didn't get up at four in the morning when I was twelve years old for a school trip to Tomar—only to find out that the Templars didn't even have to dismount from their horses to enter the church for mass. And I didn't meet that Japanese-Brazilian pilgrim at the Cross of Atapuerca either, who spoke better Brazilian Portuguese than I did.
 
-Everything you read here comes from a parallel universe, because I don’t exist either.
+---
+
+On a glorious Sunday morning in August, I went for a walk along the banks of the Tagus to untangle the knots that were weighing on my thoughts and free myself from them. I was wrestling with myself: what should I do?
+- Almourol Castle
+  ![](media01/Almourol.webp)
+
+About 65 hours earlier: ‘39°27'43.7“N 8°23'03.8”W’. When the Templars caught sight of this castle, they knew they had arrived safe and sound in the Promised Land.
+
+---
+
+**Everything you read here comes from a parallel universe, for I do not exist either, and none of this ever happened.**
 </details>
 </details>
 
@@ -198,7 +242,7 @@ Everything you read here comes from a parallel universe, because I don’t exist
 
 ---
 
-**↪** [Etapa-15](Etapa-15.md)
+**↪** [Etapa-15_Terradillos-de-los-Templarios_Reliegos](Etapa-15_Terradillos-de-los-Templarios_Reliegos.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 
