@@ -76,11 +76,11 @@ Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 19 de Maio de 2012
 
 ---
-#### [Etapa-16](Etapa-16.md)
+#### [Etapa-16_Reliegos_Leon](Etapa-16_Reliegos_Leon.md)
 20 de Maio de 2012
 
 ---
-#### [Etapa-17](Etapa-17.md)
+#### [Etapa-17_Leon_Hospital-de-Orbigo](Etapa-17_Leon_Hospital-de-Orbigo.md)
 21 de Maio de 2012
 
 ---

@@ -146,7 +146,7 @@ Als er bemerkte, dass wir hinter ihm hergingen, drehte er sich um und sagte uns,
 
 > *Später, am Ende des Französischen Jakobswegs und auch auf allen anderen Jakobswegen, bin ich noch ziemlich oft von den gelben Pfeilen abgewichen. Dann habe ich einfach dem GPS bis zur nächsten Kirche im nächsten Ort vertraut – und dort schließlich wieder die vertrauten gelben Pfeile gefunden.*
 
-#### Mas antes disso – onde exatamente?
+#### 🇵🇹 Mas antes disso – onde exatamente?
 
 Éramos três ou quatro peregrinos que caminhávamos relativamente próximos uns dos outros. Quando o vimos atravessar um campo, percebemos pelas pegadas que, aparentemente, quase ninguém tinha seguido aquele caminho antes de nós. Mas ele era um peregrino espanhol, e confiámos no seu instinto de alguém da região. Por isso, decidimos segui-lo.
 

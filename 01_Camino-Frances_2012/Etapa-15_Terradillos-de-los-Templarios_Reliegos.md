@@ -42,9 +42,9 @@
 ---
 
 <details>
-<summary>🇩🇪 The Cena del Peregrino </summary>
+<summary>🇩🇪 La Cena del Peregrino </summary>
 
-####  The Cena del Peregrino
+####  La Cena del Peregrino
 
 Nachdem ich mehrere tausend Kilometer auf Pilgerwegen zurückgelegt hatte und man mich spontan gefragt hätte, was die zehn schönsten Momente der „Cena del Peregrino“ waren, hätte ich jene unvergessliche Nacht als einen der schönsten Momente beschrieben – ohne mich an den Namen der Herberge oder den Ort zu erinnern. Jetzt weiß ich es wieder, denn trotz der großen Müdigkeit hatte ich an jenem Abend nicht vergessen, meinen Pilgerausweis abstempeln zu lassen.
 
@@ -77,9 +77,9 @@ Zusätzlich bietet die Herberge auch ein eigenes **Bar-Restaurant mit einem Pilg
 ---
 
 <details>
-<summary>🇬🇧 The Cena del Peregrino </summary>
+<summary>🇬🇧 La Cena del Peregrino </summary>
 
-####  The Cena del Peregrino
+####  La Cena del Peregrino
 
 Having walked several thousand kilometers on pilgrimage routes, if someone had spontaneously asked me about the ten most beautiful moments of the "Cena del Peregrino," I would have described that unforgettable night as one of the finest – without even remembering the name of the hostel or the village. Now I know it, because despite my exhaustion that evening, I did not forget to have my pilgrim credential stamped.
 
@@ -181,6 +181,7 @@ Além disso, o albergue dispõe também de um **bar-restaurante com um menu para
 
 </details>
 </details>
+
 ---
 
 <details>
@@ -193,7 +194,7 @@ Além disso, o albergue dispõe também de um **bar-restaurante com um menu para
 
 ---
 
-**↪** [Etapa-16](Etapa-16.md)
+**↪** [Etapa-16_Reliegos_Leon](Etapa-16_Reliegos_Leon.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 
