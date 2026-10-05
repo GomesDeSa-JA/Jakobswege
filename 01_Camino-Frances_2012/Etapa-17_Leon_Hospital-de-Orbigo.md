@@ -71,10 +71,6 @@ Da ich zur Post musste, beschloss ich, diese etwas kürzere Etappe zu wählen.
 
 Als ich meine Ausrüstung für den Jakobsweg zusammenstellte, dachte ich sowohl an die Kälte in den Pyrenäen als auch an die Hitze der Meseta und den Regen in Galicien. Ich war relativ gut vorbereitet, was sich jedoch im Gewicht meines Rucksacks bemerkbar machte. Als ich dann etwa 2 kg Gepäck per Post von Nájera nach León schickte, spürte ich eine große Erleichterung. Dennoch behielt ich warme Kleidung und mein Biwak-Equipment zunächst bei. Ich rechnete immer noch mit der Möglichkeit, irgendwo auf dem Boden einer Scheune schlafen zu müssen, falls ich kein Bett finden sollte.
 
----
-
-</details>
-
 Bei meiner Ankunft in León hatte ich bereits ein besseres Gefühl für die Unterkünfte und das Wetter. Da die Vorhersage für Galicien stabil war und keine nennenswerten Überraschungen drohten, beschloss ich, das Paket aus Nájera direkt von der Post in León nach Santiago weiterzuleiten. Ich packte noch einmal etwa zwei Kilo dazu, sodass das Paket am Ende insgesamt rund 4 kg wog.
 
 Wenn man es genau nachrechnet, lag die Gesamtbelastung für meine Füße beim Start in Saint-Jean-Pied-de-Port bei etwa 97,5 kg (mein Körpergewicht von 82,5 kg plus 13 bis 15 kg Rucksackgewicht inklusive Proviant). Da ich im Laufe des Weges auch selbst gut 4 kg abgenommen hatte, reduzierte sich das Gesamtgewicht auf meine Füße am Ende um stolze 8 kg.
@@ -96,6 +92,7 @@ Als sie 2018 den Camino Francés meisterte und voller Stolz nach Hause zurückke
 
 Eine Pilgerreise ist eine kontinuierliche Dauerbelastung und absolut nicht zu vergleichen mit einem Wochenendausflug, bei dem man nur einen kleinen Rucksack für die Wasserflasche trägt.
 
+</details>
 </details>
 
 
