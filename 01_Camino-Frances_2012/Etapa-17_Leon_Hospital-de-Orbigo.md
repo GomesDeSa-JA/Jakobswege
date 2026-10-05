@@ -53,13 +53,12 @@ The physical fatigue threshold varies daily and is highly dependent on recovery 
 
 > - As I was the one who wrote the text and asked the AI to translate it into more correct language, I actually understood almost everything; otherwise, I would only have understood half of it in Portuguese and around 70 to 90 per cent in German. In English and Spanish, I didn’t have time, because I stopped frequently to think about the words
 
-
 </details>
 
 ---
 
- - **Etapa 21A: León → San Martín del Camino → Hospital-de-Orbigo |  24,6 + 7,2 km = 31, 8** 
-- **Etapa 21B: León - Villar de Mazarife → Hospital-de-Orbigo → |  21,1 +  9,8 = 30, 9 km)**
+ - **Etapa 21A: León → San Martín del Camino → Hospital-de-Orbigo | 24,6 + 7,2 km = 31, 8 km** 
+- **Etapa 21B: León - Villar de Mazarife → Hospital-de-Orbigo → | 21,1 +  9,8 = 30, 9 km**
 
 ---
 
@@ -72,17 +71,8 @@ Da ich zur Post musste, beschloss ich, diese etwas kürzere Etappe zu wählen.
 
 Als ich meine Ausrüstung für den Jakobsweg zusammenstellte, dachte ich sowohl an die Kälte in den Pyrenäen als auch an die Hitze der Meseta und den Regen in Galicien. Ich war relativ gut vorbereitet, was sich jedoch im Gewicht meines Rucksacks bemerkbar machte. Als ich dann etwa 2 kg Gepäck per Post von Nájera nach León schickte, spürte ich eine große Erleichterung. Dennoch behielt ich warme Kleidung und mein Biwak-Equipment zunächst bei. Ich rechnete immer noch mit der Möglichkeit, irgendwo auf dem Boden einer Scheune schlafen zu müssen, falls ich kein Bett finden sollte.
 
-
 ---
 
-<details>
-<summary>🇬🇧 Merü – I miss this brand</summary>
-
-Back then, in 2012, when I bought my first set of pilgrimage kit, most of it was from the ‘Merü’ brand.
-
-I bought the bivouac bag as a backup in case of an emergency. Combined with the sleeping bag, the sleeping bag liner and warm clothing, it was already possible to get through cold nights with it. 
-
-</details>
 </details>
 
 Bei meiner Ankunft in León hatte ich bereits ein besseres Gefühl für die Unterkünfte und das Wetter. Da die Vorhersage für Galicien stabil war und keine nennenswerten Überraschungen drohten, beschloss ich, das Paket aus Nájera direkt von der Post in León nach Santiago weiterzuleiten. Ich packte noch einmal etwa zwei Kilo dazu, sodass das Paket am Ende insgesamt rund 4 kg wog.
@@ -93,13 +83,11 @@ Ich war in Topform und fühlte mich federleicht. Als ich gegen 10:00 Uhr mit die
 
 Eine weitere Beobachtung: Je nach Tagesform – abhängig von Regeneration, Ernährung, Schlaf, Wetter und Gelände – setzt die Müdigkeit mal nach 20 km, mal erst nach 30 km ein. Klar ist: Mit jedem zusätzlichen Kilo Proviant im Gepäck erreicht man diesen Punkt etwa 3 bis 4 km früher. Zudem merke ich: Früher, als ich untrainiert startete, brauchte ich etwa anderthalb Wochen, um in Form zu kommen. Heute dauert dieser Prozess etwas länger.
 
----
-
 
 <details>
 <summary></summary>
 
-Erkenntnisse einer griechischen Pilgerin (Hausfrau), erzählt 2019 in der Albergue O Bonito in Rabaçal.
+> - **Erkenntnisse einer griechischen Pilgerin (Hausfrau), erzählt 2019 in der Albergue O Bonito in Rabaçal.**
 
 
 Ein paar Stunden Wandern oder zweimal die Woche eine Stunde Laufen ist zwar gut, aber man sollte nicht glauben, dass man dadurch besser vorbereitet ist als eine Hausfrau.
@@ -129,9 +117,7 @@ Estava em excelente forma e sentia-me incrivelmente leve. Quando saí de León p
 
 Outra observação: dependendo de como nos sentimos – o que varia com o tempo de recuperação, alimentação, sono, clima e terreno –, o cansaço surge nuns dias aos 20 km e noutros apenas aos 30 km. Uma coisa é certa: com um quilo extra de provisões na mochila, o cansaço aparece cerca de 3 a 4 km mais cedo. Além disso, noto que antigamente, quando não me preparava com antecedência, precisava de cerca de uma semana e meia para entrar em forma; hoje em dia, esse processo demora um pouco mais.
 
----
-
-Lições de uma peregrina grega (dona de casa), contadas em 2019 no Albergue O Bonito, em Rabaçal
+> **- Lições de uma peregrina grega (dona de casa), contadas em 2019 no Albergue O Bonito, em Rabaçal**
 
 Caminhar duas horas ou correr duas vezes por semana uma hora é bom, mas ninguém deve pensar que está mais bem preparado do que uma dona de casa.
 
@@ -160,12 +146,10 @@ Estaba en plena forma y me sentía muy ligero. Cuando salí de León sobre las 1
 
 Otra observación: según cómo nos sintamos —dependiendo del descanso, la alimentación, el sueño, el clima y el terreno—, el cansancio aparece unos días a los 20 km y otros a los 30 km. Lo que es seguro es que, con un kilo extra de provisiones en la mochila, el cansancio llega unos 3 o 4 km antes. También noto que antes, cuando no me preparaba con antelación, tardaba una semana y media en ponerme en forma; hoy en día, ese proceso me lleva un poco más de tiempo.
 
----
-
 <details>
 <summary></summary>
 
-Reflexiones de una peregrina griega (ama de casa), relatadas en 2019 en el Albergue O Bonito en Rabaçal
+> **- Reflexiones de una peregrina griega (ama de casa), relatadas en 2019 en el Albergue O Bonito en Rabaçal**
 
 Caminar dos horas o salir a correr dos veces por semana durante una hora está bien, pero nadie debería creer que por eso está mejor preparado que una ama de casa.
 
@@ -193,10 +177,10 @@ I was in peak shape and felt light as a feather. When I started walking from Le�
 
 Another observation: depending on how you feel—which is influenced by recovery time, diet, sleep, weather, and terrain—fatigue sets in after 20 km on some days, and only after 30 km on others. One thing is certain: with an extra kilo of provisions in your pack, fatigue arrives about 3 to 4 km earlier. I also notice that in the past, when I didn't prepare in advance, it took me about a week and a half to get into shape; nowadays, it takes a little longer.
 
----
 <details>
 <summary></summary>
-Insights from a Greek pilgrim (homemaker), shared in 2019 at the Albergue O Bonito in Rabaçal
+
+> - **Insights from a Greek pilgrim (homemaker), shared in 2019 at the Albergue O Bonito in Rabaçal**
 
 Going for a two-hour hike or running twice a week for an hour is good, but no one should think that makes them better prepared than a homemaker.
 
@@ -213,10 +197,10 @@ Bolsa de vivac  ⁘  Biwaksack  ⁘  Saco de Vivac   ⁘  Grey Bivouac
 <details>
 <summary>Biwak</summary>
 
-*- Der grauer Biwaksack mit einem blau-roten Schlafsack (Foto aus dem Internet) – das ist nicht mein Biwaksack.*
-*- O saco de bivouac cinzento com um saco-cama azul e vermelho (foto da Internet),  não é o meu saco de bivouac.*
-*- La bolsa de vivac gris con un saco de dormir azul y rojo (foto de Internet), no es mi bolsa de vivac.*
-*- The grey bivouac bag with a blue and red sleeping bag (photo from the internet) – that’s not my bivouac bag.*
+- Der grauer Biwaksack mit einem blau-roten Schlafsack (Foto aus dem Internet) – das ist nicht mein Biwaksack.
+- O saco de bivouac cinzento com um saco-cama azul e vermelho (foto da Internet),  não é o meu saco de bivouac.
+- La bolsa de vivac gris con un saco de dormir azul y rojo (foto de Internet), no es mi bolsa de vivac.
+- The grey bivouac bag with a blue and red sleeping bag (photo from the internet) – that’s not my bivouac bag.
 
 <details>
 <summary>🇵🇹 Merü – Sinto falta desta marca</summary>
