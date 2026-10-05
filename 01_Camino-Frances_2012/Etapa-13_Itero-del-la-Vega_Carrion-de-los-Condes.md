@@ -19,7 +19,7 @@
 ![](media04/20120517-073741.webp)
 
 
-![](Albergue-Espirito-Santo.webp)
+![](media01/Albergue-Espirito-Santo.webp)
 Entrance:  Albergue Espíritu Santo (Google-Foto)
 
 
