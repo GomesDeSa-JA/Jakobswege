@@ -47,7 +47,7 @@ was a French priest and the pioneer of modern organized charity. After a youth a
 
 ---
 
-![](Albergue-Colegio-Espiritu-Santo_Carrion-de-los-Condes.webp)
+![](media01/Albergue-Colegio-Espiritu-Santo_Carrion-de-los-Condes.webp)
 
 <details>
 <summary>🇩🇪 Die Erinnerung</summary>
@@ -66,10 +66,10 @@ Was Sie beschreiben – das Zusammensitzen im Zimmer, die Gespräche mit den zwe
 ### Ich habe die Bilder gefunden  (am 2026-10-06)
 [Albergue Espíritu Santo, Carrión de los Condes](https://www.alberguescaminosantiago.com/camino-frances/albergue-del-espiritu-santo-carrion-de-los-condes/)
 
-![](Albergue-Colegio-Espiritu-Santo_Carrion-de-los-Condes1.webp)
+![](media01/Albergue-Colegio-Espiritu-Santo_Carrion-de-los-Condes1.webp)
 *Als ich auf Gronze.com und in Google Maps nach den Bildern suchte, die ich im Gedächtnis hatte, konnte ich sie nicht finden. Ich war mir sicher, dass ich den australischen Pilger (katalanisch-azorischen Ursprungs) schon vor León gesehen oder getroffen hatte. Aber sehen und treffen sind zwei ganz unterschiedliche Dinge; man verwechselt sie leicht.*
 
-![](Albergue_Colegio-Espiritu-Santo_Carrion-de-los-Condes2.webp)
+![](media01/Albergue_Colegio-Espiritu-Santo_Carrion-de-los-Condes2.webp)
 
 <details>
 <summary>🇩🇪  Der Spiegel, der nicht vor mir herlief</summary>
@@ -101,7 +101,7 @@ Das weibliche Gegenstück (Äquivalent): Das direkte Pendant in den weiblichen S
 
 - **Sopran**
 
-**Das Extrem-Gegenteil:** Betrachtet man das System der klassischen Gesangsstimmen als Ganzes, ist das weibliche Gegenteil der **Sopran**. 
+**Das Extrem-Gegenteil:** Betrachtet man das System der klassischen Gesangsstimmen als GanzesOb all das hier geschah …, ist das weibliche Gegenteil der **Sopran**. 
 
 - **Bariton**
 
