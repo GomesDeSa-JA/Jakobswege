@@ -18,7 +18,7 @@
 
 ![](media04/20120517-073741.webp)
 
-Der Innenhof, die Treppe, das Zimmer und die Rezeption (ohne Fernseher) haben sich mir eingeprägt, aber an den Eingang kann ich mich überhaupt nicht erinnern. Obwohl es kein gewöhnlicher Eingang ist
+Der Innenhof, die Treppe, das Zimmer und die Rezeption (ohne Fernseher) haben sich mir eingeprägt, aber an den Eingang kann ich mich überhaupt nicht erinnern. Obwohl es kein gewöhnlicher Eingang ist.
 ![](media01/Albergue-Espirito-Santo.webp)
 Entrance:  Albergue Espíritu Santo (Google-Foto)
 
@@ -47,13 +47,15 @@ was a French priest and the pioneer of modern organized charity. After a youth a
 
 ---
 
+![](Albergue-Colegio-Espiritu-Santo_Carrion-de-los-Condes.webp)
+
 <details>
 <summary>🇩🇪 Die Erinnerung</summary>
 
 #### Ist das alles hier passiert?
 
 Ich erinnere mich noch sehr gut an die Betten, den Innenhof und die Begegnung sowie an die Gespräche mit zwei Pilgern im Zimmer.
-Ich glaube, es war auch hier, wo die Schwester der Kongregation „Töchter der Nächstenliebe des Heiligen Vinzenz von Paul“, die uns empfangen hatte, uns eine kleine ovale Medaille mit der Jungfrau Maria schenkte …, … mit einer dünnen blauen Kordel (in der Größe eines Armbands). Ich erinnere mich, dass ich mich hingesetzt habe und sie uns diese kleinen Andenken überreichte. Ob all das hier geschah … 
+Ich glaube, es war auch hier, wo die Schwester der Kongregation „Töchter der Nächstenliebe des Heiligen Vinzenz von Paul“, die uns empfangen hatte, uns eine kleine ovale Medaille mit der Jungfrau Maria schenkte …, … mit einer dünnen blauen Kordel (in der Größe eines Armbands). Ich erinnere mich, dass ich mich hingesetzt habe und sie uns diese kleinen Andenken überreichte.  
 
  Der Camino-Moment
 
@@ -64,10 +66,10 @@ Was Sie beschreiben – das Zusammensitzen im Zimmer, die Gespräche mit den zwe
 ### Ich habe die Bilder gefunden  (am 2026-10-06)
 [Albergue Espíritu Santo, Carrión de los Condes](https://www.alberguescaminosantiago.com/camino-frances/albergue-del-espiritu-santo-carrion-de-los-condes/)
 
-![](media01/Albergue_Colegio_Espiritu_Santo_Carrion_de_los_Condes_Palencia_Camino_Frances_03.jpg.webp)
+![](Albergue-Colegio-Espiritu-Santo_Carrion-de-los-Condes1.webp)
 *Als ich auf Gronze.com und in Google Maps nach den Bildern suchte, die ich im Gedächtnis hatte, konnte ich sie nicht finden. Ich war mir sicher, dass ich den australischen Pilger (katalanisch-azorischen Ursprungs) schon vor León gesehen oder getroffen hatte. Aber sehen und treffen sind zwei ganz unterschiedliche Dinge; man verwechselt sie leicht.*
 
-![](media01/Albergue_Colegio_Espiritu_Santo_Carrion_de_los_Condes_Palencia_Camino_Frances_07.jpg.webp)
+![](Albergue_Colegio-Espiritu-Santo_Carrion-de-los-Condes2.webp)
 
 <details>
 <summary>🇩🇪  Der Spiegel, der nicht vor mir herlief</summary>
@@ -252,9 +254,6 @@ O barítono, enquanto voz masculina grave a média, tende para a extremidade inf
 
 </details>
 </details>
-
----
-
 
 ---
 

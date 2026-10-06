@@ -270,24 +270,24 @@ Doch im selben Moment begriff ich das ganze Ausmaß der Härte, von der die beid
 
 **04:00** 🇩🇪  Die kalten Nächte auf der Meseta.
 
-– Deshalb musste ich mein Biwak zu dieser Uhrzeit (um 4:00 Uhr) am Busbahnhof von Tordesillas auspacken, was ich bis jetzt nur einmal im Jahr 2014 getan hatte und das ich 2012 gekauft hatte. – Nur um zu sehen, wo der Vertrag unterzeichnet worden war. Wenn ich heute daran denke, was ich alles durchmachen musste, um diesem historischen Moment so nahe zu sein, dann muss ich ehrlich sagen … Und wenn man an diesen historischen Vertrag denkt, muss man zugeben, dass D. Trump ein sympathischer Typ ist. Er will nur eine Insel, auf der die Nächte noch unerbittlicher sind.
+– Deshalb musste ich mein Biwak zu dieser Uhrzeit (um 4:00 Uhr) am Busbahnhof von Tordesillas auspacken, was ich bis jetzt nur einmal im Jahr 2014 getan hatte und das ich 2012 gekauft hatte. – Nur um zu sehen, wo der Vertrag unterzeichnet worden war. Wenn ich heute daran denke, was ich alles durchmachen musste, um diesem historischen **"Ort"** so nahe zu sein, dann muss ich ehrlich sagen … Und wenn man an diesen historischen Vertrag denkt, muss man zugeben, dass D. Trump ein sympathischer Typ ist. Er will nur eine Insel, auf der die Nächte noch unerbittlicher sind.
 
 ---
 
 **04:00** 🇵🇹 As noites frias na Meseta (no Planalto).
 
-– Foi por isso que tive de desembalar o meu biwak àquela hora (às 4h00) na estação rodoviária de Tordesillas, algo que até agora só fizera uma vez, em 2014, e que tinha comprado em 2012. – Só para ver onde o tratado tinha sido assinado. Quando hoje penso em tudo o que tive de passar para estar tão perto daquele momento histórico, a verdade é que… E quando se pensa nesse tratado histórico, é preciso reconhecer que o D. Trump é um tipo simpático. Ele só quer uma ilha onde as noites são ainda mais implacáveis.
+– Foi por isso que tive de desembalar o meu biwak àquela hora (às 4h00) na estação rodoviária de Tordesillas, algo que até agora só fizera uma vez, em 2014, e que tinha comprado em 2012. – Só para ver onde o tratado tinha sido assinado. Quando hoje penso em tudo o que tive de passar para estar tão perto daquele **"lugar"** histórico, a verdade é que… E quando se pensa nesse tratado histórico, é preciso reconhecer que o D. Trump é um tipo simpático. Ele só quer uma ilha onde as noites são ainda mais implacáveis.
 
 ---
 
 **04:00** 🇪🇸 Las frías noches en la Meseta.
 
-– Por eso tuve que desembalar mi biwak a esa hora (las 4:00) en la estación de autobuses de Tordesillas, algo que hasta ahora solo había hecho una vez en 2014 y que había comprado en 2012. – Solo para ver dónde se había firmado el tratado. Cuando hoy pienso en todo lo que tuve que pasar para estar tan cerca de ese momento histórico, la verdad es que… Y cuando uno piensa en ese tratado histórico, hay que reconocer que D. Trump es un tipo simpático. Solo quiere una isla en la que las noches sean aún más implacables.
+– Por eso tuve que desembalar mi biwak a esa hora (las 4:00) en la estación de autobuses de Tordesillas, algo que hasta ahora solo había hecho una vez en 2014 y que había comprado en 2012. – Solo para ver dónde se había firmado el tratado. Cuando hoy pienso en todo lo que tuve que pasar para estar tan cerca de ese **"lugar"** histórico, la verdad es que… Y cuando uno piensa en ese tratado histórico, hay que reconocer que D. Trump es un tipo simpático. Solo quiere una isla en la que las noches sean aún más implacables.
 
 ---
 **04:00** 🇬🇧 The cold nights on the Meseta.
 
-– That’s why I had to unpack my bivouac at that time (4.00 am) at the Tordesillas coach station – something I’d only done once before, back in 2014, and which I’d bought in 2012. – Just to see where the treaty had been signed. When I think today about everything I had to go through to be so close to that historic moment, the truth is that… And when you think about that historic treaty, you have to admit that Trump is a likeable bloke. He just wants an island where the nights are even more unforgiving.
+– That’s why I had to unpack my bivouac at that time (4.00 am) at the Tordesillas coach station – something I’d only done once before, back in 2014, and which I’d bought in 2012. – Just to see where the treaty had been signed. When I think today about everything I had to go through to be so close to that historic **"place"**, the truth is that… And when you think about that historic treaty, you have to admit that Trump is a likeable bloke. He just wants an island where the nights are even more unforgiving.
 
 </details>
 
