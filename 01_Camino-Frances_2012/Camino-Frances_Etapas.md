@@ -84,26 +84,26 @@ Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 21 de Maio de 2012
 
 ---
-#### [Etapa-18](Etapa-18.md)
+#### [Etapa-18_Hospital-de-Orbigo_Santa-Catalina-de-Somoza](Etapa-18_Hospital-de-Orbigo_Santa-Catalina-de-Somoza.md)
 22 de Maio de 2012
 
 ---
-#### [Etapa-19](Etapa-19.md)
+#### [Etapa-19_Santa-Catalina-de-Somoza_El-Acebo-de-San-Miguel](Etapa-19_Santa-Catalina-de-Somoza_El-Acebo-de-San-Miguel.md)
 23 de Maio de 2012
 
 ---
 
-#### [Etapa-20](Etapa-20.md)
+#### [Etapa-20_El-Acebo-de-San-Miguel_Cacabelos](Etapa-20_El-Acebo-de-San-Miguel_Cacabelos.md)
 24 de Maio de 2012
 
 ---
 
-#### [Etapa-21](Etapa-21.md)
+#### [Etapa-21_Cacabelos_Trabedelo](Etapa-21_Cacabelos_Trabedelo.md)
 25 de Maio de 2012
 
 ---
 
-#### [Etapa-22](Etapa-22.md)
+#### [Etapa-22_Trabedelo_Sarria](Etapa-22_Trabedelo_Sarria.md)
 26 de Maio de 2012
 
 ---

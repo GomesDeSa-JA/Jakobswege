@@ -127,9 +127,9 @@ Uma peregrinação é um esforço contínuo e não se compara a um passeio de fi
 ---
 
 <details>
-<summary>Me sentí más ligero </summary>
+<summary>🇪🇸  Me sentí más ligero </summary>
 
-#### 🇪🇸 Me decanté por la variante 21B. 
+#### Me decanté por la variante 21B. 
 
 Como tenía que ir a la oficina de correos, decidí elegir esta etapa un poco más corta.
 
@@ -207,20 +207,23 @@ Bolsa de vivac  ⁘  Biwaksack  ⁘  Saco de Vivac   ⁘  Grey Bivouac
 - Comprei o saco de bivouac para o caso de emergência. Combinado com o saco-cama, o lençol em forma de saco-cama (inlet) e roupa quente, já era possível passar noites frias com ele. 
 </details>
 
+---
+
 <details>
 <summary>🇩🇪 Merü – Ich vermisse diese Marke </summary>
 
-Damals, im Jahr 2012, als ich meine erste Pilgerausrüstung kaufte, stammte ein Großteil davon von der Marke „Merü“.
-Ich habe den Biwaksack für den Notfall gekauft. In Kombination mit dem Schlafsack, dem Schlafsack-Einsatz (Inlet) und warmer Kleidung konnte man damit bereits kalte Nächte überstehen. 
+- Damals, im Jahr 2012, als ich meine erste Pilgerausrüstung kaufte, stammte ein Großteil davon von der Marke „Merü“.
+- Ich habe den Biwaksack für den Notfall gekauft. In Kombination mit dem Schlafsack, dem Schlafsack-Einsatz (Inlet) und warmer Kleidung konnte man damit bereits kalte Nächte überstehen. 
 </details>
 
 ---
+
 <details>
 <summary>🇬🇧 Merü – I miss this brand </summary>
 
-Back then, in 2012, when I bought my first set of pilgrimage kit, most of it was from the ‘Merü’ brand.
+- Back then, in 2012, when I bought my first set of pilgrimage kit, most of it was from the ‘Merü’ brand.
 
-I bought the bivouac bag as a backup in case of an emergency. Combined with the sleeping bag, the sleeping bag liner and warm clothing, it was already possible to get through cold nights with it. 
+- I bought the bivouac bag as a backup in case of an emergency. Combined with the sleeping bag, the sleeping bag liner and warm clothing, it was already possible to get through cold nights with it. 
 
 </details>
 
@@ -229,11 +232,11 @@ I bought the bivouac bag as a backup in case of an emergency. Combined with the 
 <details>
 <summary>🇪🇸 Merü – Echo de menos esta marca</summary>
 
-Por aquel entonces, en 2012, cuando compré mi primer equipo de peregrinación, gran parte de él era de la marca «Merü».
+- Por aquel entonces, en 2012, cuando compré mi primer equipo de peregrinación, gran parte de él era de la marca «Merü».
 
-Compré el saco de vivac por si surgía alguna emergencia. Combinado con el saco de dormir, la sábana en forma de saco de dormir (inlet) y ropa de abrigo, ya era posible pasar las noches frías con él. 
+- Compré el saco de vivac por si surgía alguna emergencia. Combinado con el saco de dormir, la sábana en forma de saco de dormir (inlet) y ropa de abrigo, ya era posible pasar las noches frías con él. 
 
-- Lo que **echo de menos** = Aquilo de que **sinto falta** (Uma "Expressão"  interessante)
+> - Lo que **echo de menos** = Aquilo de que **sinto falta** (Uma "Expressão"  interessante)
 
 *Se não tivesse um tradutor,  interpretava como  **"o que fiz a menos"*** 
 *e agora teria que fazer mais, mas não me vale, porque a marca existe, mas  já não  oferece equipamento para caminhante.*
@@ -252,7 +255,7 @@ Compré el saco de vivac por si surgía alguna emergencia. Combinado con el saco
 
 ---
 
-**↪** [Etapa-18](Etapa-18.md)
+**↪** [Etapa-18_Hospital-de-Orbigo_Santa-Catalina-de-Somoza](Etapa-18_Hospital-de-Orbigo_Santa-Catalina-de-Somoza.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 

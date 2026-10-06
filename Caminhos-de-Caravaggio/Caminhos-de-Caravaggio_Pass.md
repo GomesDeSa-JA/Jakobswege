@@ -6,6 +6,7 @@
 
 ![](media/20230926_1005_Pass_Caminhos-de-Caravaggio2.webp)
 
+
 ![](media/20230926_1005_Pass_Caminhos-de-Caravaggio3.webp)
 
 [Mapa](https://caravaggio.org.br/caminhos-de-caravaggio/guia-do-peregrino)

@@ -1,6 +1,6 @@
 ## Camino Francés  2012  
 
-### Etapa-19: →  ( Km)
+### Etapa-19: Santa-Catalina-de-Somoza → El Acebo de San Miguel ( 27,7Km)
 23 de Mai 2012
 
 ![](media04/20120523-090324.webp)
@@ -8,14 +8,13 @@
 ![](media04/20120523-100230.webp)
 
 - É bonito ver como os jovens se unem e percorrem juntos o caminho.
-
 - Es ist schön zu sehen, wie junge Menschen zusammenfinden und gemeinsam den Weg zu gehen.
-
 - Es bonito ver cómo los jóvenes se unen y recorren juntos el camino.
-
 - It’s lovely to see young people coming together and walking this path together.
 
 ![](media04/20120523-100447.webp)
+
+- **Rabanal del camino**
 
 ![](media04/20120523-102436.webp)
 
@@ -32,6 +31,8 @@
 - 🇬🇧 I looked at my watch, checked the time on my mobile and thought: ‘There’s no need to be jealous of the Swiss.’ If we stick to this schedule, we’ll arrive at the next Albergue in good time.
 
 ![](media04/20120523-120221.webp)
+
+- **Foncebadón**
 
 ![](media04/20120523-120349.webp)
 
@@ -64,7 +65,7 @@
 
 ---
 
-**↪** [Etapa-20](Etapa-20.md)
+**↪** [Etapa-20_El-Acebo-de-San-Miguel_Cacabelos](Etapa-20_El-Acebo-de-San-Miguel_Cacabelos.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 

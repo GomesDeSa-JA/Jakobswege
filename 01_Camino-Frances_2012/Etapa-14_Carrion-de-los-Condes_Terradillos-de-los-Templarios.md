@@ -3,6 +3,8 @@
 ### Etapa-14: Carrión de los Condes → Terradillos de los Templarios   ( 26,3 Km)
 18 de Mai 2012
 
+Wenn man von Carrión de los Condes aufbricht, läuft man kilometerlang auf der alten römischen **_Vía Aquitana_**
+
 ![](media04/20120518-101426.webp)
 
 ![](media01/Albergue-de-Peregrinos-Jacques-de-Molay.webp)Albergue Jacques de Molay (Googlefoto von Davide Violato) 

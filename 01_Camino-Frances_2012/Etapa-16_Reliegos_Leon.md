@@ -9,7 +9,7 @@ Ciconia ciconia
 
 
 ![](media01/Mansanilla-de-las-Mulas-Tortuga-Tomasa_E-LEGROS.webp)
-Iglesia de Santa María 2021  Googlefoto von La Tartaruga Tomassa y Emmanuel Logros 
+Iglesia de Santa María 2021  Googlemapsfoto von "La Tartaruga Tomassa" y "Emmanuel Logros" 
 
 #### Ciconia ciconia 
 

@@ -1,6 +1,6 @@
 ## Camino Francés  2012  
 
-### Etapa-21: →  ( Km)
+### Etapa-21: Cacabelos → Trabedelo ( 17,4 Km)
 25 de Mai 2012
 
 ![](media05/20120525-074200-.webp)
@@ -50,11 +50,20 @@ La mayoría de las veces pensamos que somos el paisaje y que ocupamos todo el es
 
 Most of the time, we think we are the landscape and take up the whole frame in a photograph, but we are merely travellers for a fraction of a landscape’s lifetime
 
----
+---  
+
+**Bergweg über Pradela**
+
+> Ich habe noch ein paar Fotos von diesem Abschnitt der Strecke gemacht, kann sie aber nicht mehr finden; ich spüre den Anstieg, sehe die Kastanienbäume und erinnere mich, dass ich überlegt habe, ob ich in Pradela vorbeigehen sollte, um ein Bier zu trinken, aber der Aufstieg war anstrengend. Ich bin schließlich zu schnell gelaufen, um ein paar Kilometer zu gewinnen.  Gerade bei den Abwärtspassagen tritt man zu fest auf den Boden, und die Knöchel lassen uns das früher oder später büßen.
+
 
 ![](media05/20120525-091607.webp)
 
 ![](media05/Fr25Mai2012-093406.webp)
+
+Villafranca del Bierzo- Trabadelo  9,6 km + 1,5 km Umweg
+ 
+
 
 ---
 
@@ -68,7 +77,7 @@ Most of the time, we think we are the landscape and take up the whole frame in a
 
 ---
 
-**↪** [Etapa-22](Etapa-22.md)
+**↪** [Etapa-22_Trabedelo_Sarria](Etapa-22_Trabedelo_Sarria.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 

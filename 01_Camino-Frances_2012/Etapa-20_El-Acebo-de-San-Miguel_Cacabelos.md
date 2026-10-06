@@ -1,8 +1,7 @@
 ## Camino Francés  2012  
 
-### Etapa-20: →  ( Km)
+### Etapa-20: El Acebo de San Miguel → Cacabelos ( 31 Km)
 24 de Mai 2012
-
 
 ![](media04/20120524-075339.webp)
 
@@ -20,6 +19,12 @@
 
 ![](media04/20120524-125912.webp)
 
+- **Albergue de Peregrinos de Cacabelos**
+
+**↓** Googlemaps-Foto **↓** 
+![](media01/Cacabelos-Albergue-de-peregrinos.webp)
+**↓** Googlemaps-Foto **↓** 
+![](media01/Cacabelos-Albergue-de-Peregrinos-.webp)
 
 ---
 
@@ -33,7 +38,7 @@
 
 ---
 
-**↪** [Etapa-21](Etapa-21.md)
+**↪** [Etapa-21_Cacabelos_Trabedelo](Etapa-21_Cacabelos_Trabedelo.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 
