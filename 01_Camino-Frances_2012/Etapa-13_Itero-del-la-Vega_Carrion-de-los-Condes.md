@@ -64,10 +64,10 @@ Was Sie beschreiben – das Zusammensitzen im Zimmer, die Gespräche mit den zwe
 ### Ich habe die Bilder gefunden  (am 2026-10-06)
 [Albergue Espíritu Santo, Carrión de los Condes](https://www.alberguescaminosantiago.com/camino-frances/albergue-del-espiritu-santo-carrion-de-los-condes/)
 
-![](Albergue_Colegio_Espiritu_Santo_Carrion_de_los_Condes_Palencia_Camino_Frances_03.jpg.webp)
+![](media01/Albergue_Colegio_Espiritu_Santo_Carrion_de_los_Condes_Palencia_Camino_Frances_03.jpg.webp)
 *Als ich auf Gronze.com und in Google Maps nach den Bildern suchte, die ich im Gedächtnis hatte, konnte ich sie nicht finden. Ich war mir sicher, dass ich den australischen Pilger (katalanisch-azorischen Ursprungs) schon vor León gesehen oder getroffen hatte. Aber sehen und treffen sind zwei ganz unterschiedliche Dinge; man verwechselt sie leicht.*
 
-![](Albergue_Colegio_Espiritu_Santo_Carrion_de_los_Condes_Palencia_Camino_Frances_07.jpg.webp)
+![](media01/Albergue_Colegio_Espiritu_Santo_Carrion_de_los_Condes_Palencia_Camino_Frances_07.jpg.webp)
 
 <details>
 <summary>🇩🇪  Der Spiegel, der nicht vor mir herlief</summary>
