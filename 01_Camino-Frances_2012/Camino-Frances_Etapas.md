@@ -103,20 +103,20 @@ Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 
 ---
 
-#### [Etapa-22_Trabedelo_Sarria](Etapa-22_Trabedelo_Sarria.md)
+#### [Etapa-22_Trabadelo_Sarria](Etapa-22_Trabadelo_Sarria.md)
 26 de Maio de 2012
 
 ---
 
-#### [Etapa-23](Etapa-23.md)
+#### [Etapa-23_Sarria_Gonzar](Etapa-23_Sarria_Gonzar.md)
 27 de Maio de 2012
 
 ---
-#### [Etapa-24](Etapa-24.md)
+#### [Etapa-24_Gonzar_Melide](Etapa-24_Gonzar_Melide.md)
 28 de Maio de 2012
 
 ---
-#### [Etapa-25](Etapa-25.md)
+#### [Etapa-25_Melide](Etapa-25_Melide.md)
 29 de Maio de 2012
 
 ---

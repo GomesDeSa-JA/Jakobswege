@@ -3,14 +3,21 @@
 ### Etapa-14: Itero del la Vega  → Carrión de los Condes  ( 32,7 Km)
 17 de Mai 2012
 
-🇩🇪 Ich muss versuchen, die Geschichte über das frühere Leben voller harter Arbeit in den weiten Ebenen der Meseta zu rekonstruieren, die mir die älteren spanischen Pilgerinnen erzählt haben, die ich in Tosantos kennengelernt habe.
+- ***Was hätte uns wohl ein Pilger erzählt, der vor etwa sechzig, siebzig Jahren die Meseta durchquert hat?***  
 
-🇵🇹 Tenho de tentar reconstruir a história sobre a antiga vida de trabalho árduo nas vastas planícies da Meseta, contada pelas peregrinas espanholas mais velhas que conheci em Tosantos.
+🇩🇪 Die Geschichte über ihr früheres Leben, das von harter Arbeit auf den weiten Ebenen der Meseta geprägt war – die mir am Vorabend die älteren spanischen Pilgerinnen erzählt hatten, die ich einige Tage zuvor in Tosantos kennengelernt hatte –, schrieb ich am Ende der vorherigen Etappe ausschließlich auf Deutsch, mit tatkräftiger Unterstützung der KI.
 
-🇪🇸 Tengo que intentar reconstruir la historia de la antigua vida de duro trabajo en las vastas llanuras de la Meseta, tal y como me la contaron las peregrinas españolas de más edad que conocí en Tosantos.
+- ***O que nos teria contado um peregrino que atravessou a Meseta há uns sessenta, setenta anos?***  
 
-🇬🇧 I must try to piece together the story of the hard-working life of yesteryear on the vast plains of the Meseta, as told by the elderly Spanish pilgrims I met in Tosantos.
+🇵🇹 A história sobre as suas vidas anteriores, marcadas pelo trabalho árduo nas extensas planícies do Planalto — que me tinham contado na noite anterior as peregrinas espanholas mais idosas, que eu tinha conhecido alguns dias antes em Tosantos —, escrevi-a no final da etapa anterior exclusivamente em alemão, com a ajuda ativa da IA.
 
+- ***¿Qué nos habría contado un peregrino que atravesó la Meseta hace unos sesenta o setenta años?***
+
+🇪🇸 La historia sobre sus vidas anteriores, marcadas por el duro trabajo en las extensas llanuras de la Meseta —que me habían contado la noche anterior las peregrinas españolas de más edad, a quienes había conocido unos días antes en Tosantos—, la escribí al final de la etapa anterior exclusivamente en alemán, con la ayuda activa de la IA.
+
+- ***What might a pilgrim who crossed the Meseta some sixty or seventy years ago have told us?***  
+
+🇬🇧 The story of their past lives, marked by hard work on the vast plains of the Meseta — which the older Spanish pilgrims, whom I had met a few days earlier in Tosantos, had told me the night before — I wrote at the end of the previous stage exclusively in German, with the active help of AI.
 
 ![](media04/2012Do17Mai-062706-DSCF3264.webp)
 
@@ -25,7 +32,6 @@ Entrance:  Albergue Espíritu Santo (Google-Foto)
 ---
 <details>
 <summary>San Vicente de Paúl </summary>
-
 
 #### 🇩🇪 Der heilige Vinzenz von Paul (1581–1660) 
 

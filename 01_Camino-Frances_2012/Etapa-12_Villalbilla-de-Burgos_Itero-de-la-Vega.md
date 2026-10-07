@@ -39,7 +39,6 @@ When you walk the ‘French Way’ first thing in the morning, in the cool air o
 
 #### 🇩🇪 Albergue de Peregrinos:  Ruinas del Convento de San Antón
 
-
 > Wenn ich das nur gewusst hätte!
 > 
 > Es hat mir hier so gut gefallen – ich wäre gerne geblieben. Die Herberge hat alles, was man braucht. Aber leider war schon alles belegt; ich kam einfach zu spät an. Vielleicht hätte ich vorab reservieren müssen? Ich bin mir allerdings nicht einmal sicher, ob diese Herberge im gelben Pilgerführer steht oder ob man sie überhaupt über Booking.com buchen kann. 
@@ -47,7 +46,6 @@ When you walk the ‘French Way’ first thing in the morning, in the cool air o
 > Um hier ein Bett zu ergattern, muss man entweder vor allen anderen ankommen oder am frühen Morgen – noch vor dem ersten Schritt – eine Brieftaube mit einer Nachricht losschicken. Und dann muss man hoffen, dass sich die Taube nicht auf dem Weg zur Unterkunft verirrt.
 > 
 > Wenn, wenn, wenn… so viele Wenns! Es bringt nichts, sich darüber den Kopf zu zerbrechen. Und Hand aufs Herz: Wer trägt schon eine Brieftaube im Rucksack mit sich herum?
-
 #### 🇪🇸 Albergue de Peregrinos: Ruinas del Convento de San Antón
 
 > ¡Si lo hubiera sabido!
@@ -107,7 +105,6 @@ Hoje, as suas muralhas protegidas acolhem um **refúgio tradicional e simples pa
 Today, its protected walls shelter a **simple, traditional pilgrims’ refuge** – _without electricity and run by volunteer hospitaleros_. From May to October, this mystical place keeps alive a centuries-old tradition of hospitality.
 
 ---
-
 #### Die Bedeutung im „Siglo XV“ (15. Jahrhundert)
 
 Obwohl das Kloster bereits im **12. Jahrhundert** (1146 durch König Alfons VII.) gegründet wurde, erlebte es im **14. und 15. Jahrhundert** seine architektonische und medizinische Blütezeit
@@ -160,7 +157,6 @@ Heute ist die Gefahr für uns unsichtbar geworden, weil sie lückenlos überwach
 
 ---
 
-
 ### Convento San Anton History
 
 Ich hätte meine Tagesetappe gerne dort beendet, aber es war überall voll. Ich wusste, dass es früher ein Krankenhaus für Pilger gewesen war, aber als ich die Informationen las, wurde mir klar, dass es mehr als nur ein Krankenhaus für Pilger war. Ich möchte die historische Bedeutung dieses Ortes in meinem GitHub/Obsidian-Tagebuch auf Spanisch, Deutsch, Portugiesisch und Englisch festhalten.
@@ -176,7 +172,6 @@ Ich hätte meine Tagesetappe gerne dort beendet, aber es war überall voll. Ich 
 
 #### 🇪🇸 El Convento de San Antón (Castrojeriz) – Más que un simple hospital de peregrinos
 
-
 > El Convento de San Antón, situado a unos tres kilómetros antes de Castrojeriz en el Camino Francés, fue durante la Edad Media y especialmente en el siglo XV, mucho más que un simple refugio para caminantes cansados. Era el centro espiritual, médico y administrativo de la Orden de los Antonianos en la Península Ibérica, gozando de la protección directa de la corona.
 > 
 > - El centro médico contra el "Fuego de San Antón": El hospital fue un referente mundial en el tratamiento del _ergotismo_ (envenenamiento por cornezuelo de centeno). Los monjes curaban a los enfermos dándoles pan de trigo puro y cuidándolos con bálsamos de hierbas secretos.
@@ -186,7 +181,7 @@ Ich hätte meine Tagesetappe gerne dort beendet, aber es war überall voll. Ich 
 
 #### 🇬🇧 The Convento de San Antón (Castrojeriz) – More than just a Pilgrim Hospital
 
-> 
+
 > The Convento de San Antón, located about three kilometers before Castrojeriz on the Camino Francés, was during the Middle Ages, and particularly in the 15th century (Siglo XV), far more than a basic rest stop for weary travelers. It served as the spiritual, medical, and administrative headquarters of the Antonine Order on the Iberian Peninsula, enjoying direct royal patronage.
 > 
 > - The Medical Epicenter for "St. Anthony's Fire": The hospital was a world-renowned center for treating _ergotism_ (ergot poisoning). The monks cured patients by feeding them pure wheat bread (replacing infected rye) and applying secret herbal ointments.
@@ -218,16 +213,16 @@ Ich hätte meine Tagesetappe gerne dort beendet, aber es war überall voll. Ich 
 
 ![](media04/20120516-132821-DSCF3250.webp)
 
-🇩🇪 Wasser, eine Wasserquelle – was für eine wunderbare Sache! Du stillst deinen Durst, andere Pilger tun es dir gleich, und jemand sagt: „Ich gehe weiter, die Herbergen hier sind bestimmt überfüllt.“ Du schaust auf die Uhr, fühlst dich gut  und denkst: Noch eine kleine Anstrengung, dann schaffst du noch ein paar Kilometer. Du nimmst dein gelbes Buch zur Hand und siehst: „Itero de la Vega“, nur  10 km entfernt und mit Übernachtungsmöglichkeiten dort. Na dann, los geht’s!
+🇩🇪 **Wasser, eine Wasserquelle – was für eine wunderbare Sache!** Du stillst deinen Durst, andere Pilger tun es dir gleich, und jemand sagt: „Ich gehe weiter, die Herbergen hier sind bestimmt überfüllt.“ Du schaust auf die Uhr, fühlst dich gut  und denkst: Noch eine kleine Anstrengung, dann schaffst du noch ein paar Kilometer. Du nimmst dein gelbes Buch zur Hand und siehst: „Itero de la Vega“, nur  10 km entfernt und mit Übernachtungsmöglichkeiten dort. Na dann, los geht’s!
 
 ---
-🇵🇹 Água, uma fonte de água – que coisa maravilhosa! Sacias a tua sede, outros peregrinos fazem o mesmo, e alguém diz: «Vou continuar, as pousadas por aqui devem estar lotadas.» Olhas para o relógio, sentes-te bem e pensas: «Mais um pequeno esforço e consegues percorrer mais alguns quilómetros.» Pegas no teu livro amarelo e vês: «Itero de la Vega», a apenas 10 km de distância e com alojamento disponível lá. Então, vamos lá!
+🇵🇹 **Água, uma fonte de água – que coisa maravilhosa!** Sacias a tua sede, outros peregrinos fazem o mesmo, e alguém diz: «Vou continuar, as pousadas por aqui devem estar lotadas.» Olhas para o relógio, sentes-te bem e pensas: «Mais um pequeno esforço e consegues percorrer mais alguns quilómetros.» Pegas no teu livro amarelo e vês: «Itero de la Vega», a apenas 10 km de distância e com alojamento disponível lá. Então, vamos lá!
 
 ---
-🇪🇸 Agua, un manantial… ¡qué maravilla! Sacias tu sed, otros peregrinos hacen lo mismo que tú, y alguien dice: «Yo sigo adelante, seguro que los albergues de por aquí están a rebosar». Miras el reloj, te sientes bien  y piensas: «Un pequeño esfuerzo más y podrás recorrer unos kilómetros más». Coges tu libreta amarilla y ves: «Itero de la Vega», a solo  10 km de distancia y con alojamiento allí. ¡Pues nada, allá vamos!
+🇪🇸 **Agua, un manantial… ¡qué maravilla!** Sacias tu sed, otros peregrinos hacen lo mismo que tú, y alguien dice: «Yo sigo adelante, seguro que los albergues de por aquí están a rebosar». Miras el reloj, te sientes bien  y piensas: «Un pequeño esfuerzo más y podrás recorrer unos kilómetros más». Coges tu libreta amarilla y ves: «Itero de la Vega», a solo  10 km de distancia y con alojamiento allí. ¡Pues nada, allá vamos!
 
 ---
-🇬🇧 Water, a spring – what a marvellous thing! You quench your thirst, other pilgrims do the same, and someone says: ‘I’m carrying on; the hostels here are bound to be packed.’ You glance at your watch, feel good  and think: just a little more effort, and you’ll manage a few more kilometres. You pick up your yellow guidebook and see: ‘Itero de la Vega’, just  10 km away and with accommodation available there. Right then, let’s go!
+🇬🇧 **Water, a spring – what a marvellous thing!** You quench your thirst, other pilgrims do the same, and someone says: ‘I’m carrying on; the hostels here are bound to be packed.’ You glance at your watch, feel good  and think: just a little more effort, and you’ll manage a few more kilometres. You pick up your yellow guidebook and see: ‘Itero de la Vega’, just  10 km away and with accommodation available there. Right then, let’s go!
 
 ![](media04/20120516-132821-DSCF3251.webp)
 
@@ -255,7 +250,7 @@ Es gibt Nächte auf dem Camino, die sich nicht an die Regeln der Zeit halten. Si
 
 Kurz vor zweiundzwanzig Uhr hielt mich nichts mehr in dem großen, leeren Raum. Ich zog die Tür hinter mir zu und trat hinaus auf die Straße. Die Nacht in diesen kleinen, kastilischen Dörfern ist zauberhaft. Die Luft kühlt spürbar ab, die Sterne stehen unendlich klar über dem flachen Horizont der _Tierra de Campos_ und die Dunkelheit legt sich wie ein schützender Mantel über das geplagte Land.
 
-Und dann schenkte mir der Camino einen jener magischen Momente, die man nicht planen kann. Im fahlen Licht der Gassen traf ich zwei ältere spanische Pilgerinnen wieder. Unsere Wege hatten sich Tage zuvor schon einmal in _Tosantos_ gekreuzt – jenem spirituellen Meilenstein, an dem man abends in der in den Fels gehauenen Einsiedelei gemeinsam betet und singt und die Herzen sich füreinander öffnen. Die Wiedersehensfreude war groß, und aus einem flüchtigen Gruß in der Nacht wurde ein langes, tiefes Gespräch.
+Und dann schenkte mir der Camino einen jener magischen Momente, die man nicht planen kann. Im fahlen Licht der Gassen traf ich zwei ältere spanische Pilgerinnen wieder. Unsere Wege hatten sich Tage zuvor schon einmal in **_Tosantos_** gekreuzt – jenem spirituellen Meilenstein, an dem man abends in der in den Fels gehauenen Einsiedelei gemeinsam betet und singt und die Herzen sich füreinander öffnen. Die Wiedersehensfreude war groß, und aus einem flüchtigen Gruß in der Nacht wurde ein langes, tiefes Gespräch.
 
 Die beiden Frauen begannen zu erzählen. Sie sprachen von der Hochebene, auf der wir uns befanden, aber sie sprachen nicht als Touristinnen, sondern mit der Stimme der Erinnerung. Sie erzählten vom früheren Arbeitsleben auf der Meseta. Vom Hüten der Ziegen und Schafe. Von den endlosen Sommern, in denen die Ernte noch in mühsamer Handarbeit mit der Sense eingeholt wurde, und von der tiefen, fast schmerzhaften Verbundenheit der Menschen mit diesem kargen, unbarmherzigen Boden.
 
@@ -270,24 +265,24 @@ Doch im selben Moment begriff ich das ganze Ausmaß der Härte, von der die beid
 
 **04:00** 🇩🇪  Die kalten Nächte auf der Meseta.
 
-– Deshalb musste ich mein Biwak zu dieser Uhrzeit (um 4:00 Uhr) am Busbahnhof von Tordesillas auspacken, was ich bis jetzt nur einmal im Jahr 2014 getan hatte und das ich 2012 gekauft hatte. – Nur um zu sehen, wo der Vertrag unterzeichnet worden war. Wenn ich heute daran denke, was ich alles durchmachen musste, um diesem historischen **"Ort"** so nahe zu sein, dann muss ich ehrlich sagen … Und wenn man an diesen historischen Vertrag denkt, muss man zugeben, dass D. Trump ein sympathischer Typ ist. Er will nur eine Insel, auf der die Nächte noch unerbittlicher sind.
+– Deshalb musste ich mein Biwaksack zu dieser Uhrzeit (um 4:00 Uhr) am Busbahnhof von Tordesillas auspacken, was ich bis jetzt nur einmal im Jahr 2014 getan hatte und das ich 2012 gekauft hatte. – Nur um zu sehen, wo der Vertrag unterzeichnet worden war. Wenn ich heute daran denke, was ich alles durchmachen musste, um diesem historischen **"Ort"** so nahe zu sein, dann muss ich ehrlich sagen … Und wenn man an diesen historischen Vertrag denkt, muss man zugeben, dass D. Trump ein sympathischer Typ ist. Er will nur eine Insel, auf der die Nächte noch unerbittlicher sind.
 
 ---
 
 **04:00** 🇵🇹 As noites frias na Meseta (no Planalto).
 
-– Foi por isso que tive de desembalar o meu biwak àquela hora (às 4h00) na estação rodoviária de Tordesillas, algo que até agora só fizera uma vez, em 2014, e que tinha comprado em 2012. – Só para ver onde o tratado tinha sido assinado. Quando hoje penso em tudo o que tive de passar para estar tão perto daquele **"lugar"** histórico, a verdade é que… E quando se pensa nesse tratado histórico, é preciso reconhecer que o D. Trump é um tipo simpático. Ele só quer uma ilha onde as noites são ainda mais implacáveis.
+– Foi por isso que tive de desembalar o meu saco-biwak àquela hora (às 4h00) na estação rodoviária de Tordesillas, algo que até agora só fizera uma vez, em 2014, e que tinha comprado em 2012. – Só para ver onde o tratado tinha sido assinado. Quando hoje penso em tudo o que tive de passar para estar tão perto daquele **"lugar"** histórico, a verdade é que… E quando se pensa nesse tratado histórico, é preciso reconhecer que o D. Trump é um tipo simpático. Ele só quer uma ilha onde as noites são ainda mais implacáveis.
 
 ---
 
 **04:00** 🇪🇸 Las frías noches en la Meseta.
 
-– Por eso tuve que desembalar mi biwak a esa hora (las 4:00) en la estación de autobuses de Tordesillas, algo que hasta ahora solo había hecho una vez en 2014 y que había comprado en 2012. – Solo para ver dónde se había firmado el tratado. Cuando hoy pienso en todo lo que tuve que pasar para estar tan cerca de ese **"lugar"** histórico, la verdad es que… Y cuando uno piensa en ese tratado histórico, hay que reconocer que D. Trump es un tipo simpático. Solo quiere una isla en la que las noches sean aún más implacables.
+– Por eso tuve que desembalar mi saco-biwak a esa hora (las 4:00) en la estación de autobuses de Tordesillas, algo que hasta ahora solo había hecho una vez en 2014 y que había comprado en 2012. – Solo para ver dónde se había firmado el tratado. Cuando hoy pienso en todo lo que tuve que pasar para estar tan cerca de ese **"lugar"** histórico, la verdad es que… Y cuando uno piensa en ese tratado histórico, hay que reconocer que D. Trump es un tipo simpático. Solo quiere una isla en la que las noches sean aún más implacables.
 
 ---
 **04:00** 🇬🇧 The cold nights on the Meseta.
 
-– That’s why I had to unpack my bivouac at that time (4.00 am) at the Tordesillas coach station – something I’d only done once before, back in 2014, and which I’d bought in 2012. – Just to see where the treaty had been signed. When I think today about everything I had to go through to be so close to that historic **"place"**, the truth is that… And when you think about that historic treaty, you have to admit that Trump is a likeable bloke. He just wants an island where the nights are even more unforgiving.
+– That’s why I had to unpack my bivouac-bag at that time (4.00 am) at the Tordesillas coach station – something I’d only done once before, back in 2014, and which I’d bought in 2012. – Just to see where the treaty had been signed. When I think today about everything I had to go through to be so close to that historic **"place"**, the truth is that… And when you think about that historic treaty, you have to admit that Trump is a likeable bloke. He just wants an island where the nights are even more unforgiving.
 
 </details>
 

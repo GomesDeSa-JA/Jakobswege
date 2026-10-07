@@ -190,6 +190,7 @@ Of course, I do not know whether pilgrims would truly appreciate such a historic
 A historic house on a historic square, where pilgrims could rest, have some water and perhaps meet and talk with other walkers – for me, that would make Linha Imperial an almost perfect stopping point on a pilgrimage route.
 
 Perhaps it is simply a nice idea. But sometimes, that is exactly how the best ideas for a pilgrimage route begin.
+
 </details>
 
 ---

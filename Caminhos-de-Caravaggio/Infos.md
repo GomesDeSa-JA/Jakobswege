@@ -1,4 +1,8 @@
 
+
+**Nokia N95 8GB im Überblick ; 99,0 mm x 53,0 mm x 21,0 mm · 129,0 g · Vorgestellt am, _29.08.2007_**
+
+
 **Hintergrundinformationen in die Etappen einordnen**
 ### Sicredi
 

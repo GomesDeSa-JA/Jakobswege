@@ -64,7 +64,6 @@ Wie das Foto zeigt, das ich um 16:47 Uhr aufnahm, waren  Menschen dort unterwegs
 
 >Das sind keine Ammenmärchen, sondern echte Erlebnisse. Und wo wir gerade von Geschichten sprechen: Ich muss auch noch die Geschichten über Pferde aufschreiben, über die wir beim Abendessen gesprochen haben – genauer gesagt über die Alternativroute, die der Pfarrer hoch zu Ross zurückgelegt hat.
 
-
 ---
 <details>
 <summary>🇩🇪 Die Ära der Kabel … bis zu dem Tag, an dem der Weihnachtsmann nicht kam  </summary>

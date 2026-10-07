@@ -96,7 +96,7 @@ Most of the time, we think we are the landscape and take up the whole frame in a
 
 ---
 
-**↪** [Etapa-22_Trabedelo_Sarria](Etapa-22_Trabedelo_Sarria.md)
+**↪** [Etapa-22_Trabadelo_Sarria](Etapa-22_Trabadelo_Sarria.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 
