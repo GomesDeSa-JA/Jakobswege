@@ -242,7 +242,7 @@ Bolsa de vivac  ⁘  Biwaksack  ⁘  Saco de Vivac   ⁘  Grey Bivouac
 *e agora teria que fazer mais, mas não me vale, porque a marca existe, mas  já não  oferece equipamento para caminhante.*
 
 </details>
-
+</details>
 ---
 
 <details>
