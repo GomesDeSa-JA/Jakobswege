@@ -11,8 +11,8 @@
 
 - The shadows that accompany us
 
-![](Lavacolla_San-Paio_Ermita-Santa-Lucia.webp)
-San Paio,  Capilla de Santa Lucía**↑**  **↑**  **↑**   
+![](media01/Lavacolla_San-Paio_Ermita-Santa-Lucia.webp)
+San Paio,  Capilla de Santa Lucía**↑**  **↑**  **↑**   Google-Maps-Foto
 
 Santiago de Compostela **↓** **↓** **↓** 
 
