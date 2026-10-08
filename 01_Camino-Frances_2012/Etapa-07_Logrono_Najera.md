@@ -299,18 +299,13 @@ Perhaps that was the real lesson of the day.
 
 </details>
 
-
 ![](media01/GoogleFotos-von-Camilo-GF.webp)
-
 
 ---
 
 <details>
 <summary>  </summary>
-🇬🇧
-🇪🇸
-🇵🇹
-🇩🇪
+🇬🇧 🇪🇸 🇵🇹 🇩🇪
 </details>
 
 ---

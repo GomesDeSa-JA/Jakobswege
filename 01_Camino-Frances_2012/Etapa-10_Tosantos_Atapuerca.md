@@ -7,25 +7,25 @@
 
 ![](media03/20120514-075616.webp)
 
-- 🇪🇸 Despedida de Tosantos y una última mirada a la «Ermita de la Virgen de la Peña»
+- 🇪🇸 Despedida de Tosantos y una última mirada a la **«Ermita de la Virgen de la Peña»**
 
 Estuve allí y es un lugar bonito y tranquilo, ideal para meditar. Por una fracción de segundo, incluso pensé en lo bien que estaría que Luis también tuviera un alojamiento para peregrinos en las rocas junto a la «Ermita de la Virgen de la Peña». Pero está bien así, las cosas son como deben ser; de lo contrario, se habría perdido esta maravillosa paz meditativa
 
 ---
 
-- 🇵🇹 Despedida de Tosantos e um último olhar para a «Ermita de la Virgen de la Peña»
+- 🇵🇹 Despedida de Tosantos e um último olhar para a **«Ermita de la Virgen de la Peña»**
 
 Estive lá e é um local bonito e tranquilo, ideal para meditar. Por uma fração de segundo, ainda pensei como seria bom se o Luis também tivesse uma dependência do alojamento para peregrinos nas rochas ao lado da «Ermita de la Virgen de la Peña». Mas está bem assim, as coisas são como devem ser; caso contrário, esta paz maravilhosa e meditativa teria-se perdido.
 
 ---
 
-- 🇩🇪 Abschied von Tosantos und ein letzter Blick auf die „Ermita de la Virgen de la Peña“
+- 🇩🇪 Abschied von Tosantos und ein letzter Blick auf die **„Ermita de la Virgen de la Peña“**
 
 Ich war dort, und es ist ein schöner, ruhiger Ort, ideal zum Meditieren. Für den Bruchteil eines Augenblicks dachte ich noch, wie schön es wäre, wenn Luis auch eine Nebenstelle der Pilgerherberge in den Felsen neben der „Ermita de la Virgen de la Peña“ hätte. Aber es ist gut so, die Dinge sind, wie sie sein sollen; sonst wäre diese wunderbare, meditative Ruhe verloren gegangen.
 
 ---
 
-- 🇬🇧 Farewell to Tosantos and a final glance at the ‘Ermita de la Virgen de la Peña’
+- 🇬🇧 Farewell to Tosantos and a final glance at the **‘Ermita de la Virgen de la Peña’**
 
 I’ve been there and it’s a beautiful, peaceful spot, ideal for meditation. For a split second, I even thought how lovely it would be if Luis also had a room in the pilgrims’ hostel set amongst the rocks next to the ‘Ermita de la Virgen de la Peña’. But it’s fine as it is; things are as they should be; otherwise, this wonderful, meditative peace would have been lost.
 

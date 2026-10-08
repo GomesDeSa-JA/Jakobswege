@@ -24,9 +24,8 @@ Foto von: **↓** viveirodasarvores.com **↓**
 
 🇪🇸  Vi esta planta por primera vez en Portomarín en 2012; en 2018, me preguntaron por ella en el Camino del Norte, en Arenillas; y en 2023, mientras recorría los «Caminhos do Caravaggio» (Linha Imperial), descubrí de qué se trataba.
 
-[Etappe-09_Pubeña_Islares-Playa-Arenillas](04_Camino-del-Norte_2018-X/Etappe-09_Pubeña_Islares-Playa-Arenillas.md)
-
-[Etappe-06_Linha-Brasil_Nova-Petropolis](Caminhos-de-Caravaggio/Etappe-06_Linha-Brasil_Nova-Petropolis.md)
+- *04_Camino-del-Norte_2018-X/Etappe-09_Pubeña_Islares-Playa-Arenillas*
+- *Caminhos-de-Caravaggio/Etappe-06_Linha-Brasil_Nova-Petropolis*
 
 🇩🇪 Ich weiß, dass ich mich damals gefragt habe, ob ich meinen Job kündigen oder mir eine neue Wohnung suchen sollte. Denn abgesehen von der Pflanze – dem Calistemo – und der Tatsache, dass die Kirche vom Flussufer auf einen Hügel verlegt werden musste, und dass dies alles ist, was mir von Portomarim in Erinnerung geblieben ist, kann ich mich an nichts anderes mehr erinnern.
 
@@ -35,7 +34,6 @@ Foto von: **↓** viveirodasarvores.com **↓**
 🇪🇸 Sé que, en aquel  tiempo , me pregunté si debía dejar mi trabajo o buscar un nuevo piso. Y es que, aparte de la planta —el calistemo— y del hecho de que tuvieran que trasladar la iglesia desde la orilla del río a una colina, y de que eso sea todo lo que me queda de Portomarim en la memoria, ya no recuerdo nada más.
 
 🇬🇧 I know that, at the time, I wondered whether I should quit my job or look for a new flat. Well, apart from the plant – the callistemon – and the fact that they had to move the church from the riverbank to a hill, and that this is all that remains of Portomarim in my memory, I can’t remember anything else.
-
 
 
 ---

@@ -84,6 +84,7 @@ Para a maioria dos peregrinos modernos, Finisterra (_Fisterra_) é apenas um bel
     
 Finisterra guarda o verdadeiro Quilómetro 0,0 do Caminho: não é uma paragem logística, mas sim o limiar sagrado onde o peregrino morre para o passado e regressa a casa renovado.
 
+###
 ---
 
 <summary>  </summary>

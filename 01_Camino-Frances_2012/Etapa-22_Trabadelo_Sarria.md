@@ -1,12 +1,12 @@
 ## Camino Francés  2012  
 
-### Etapa-23: Trabadelo🚌 → (Pedrafita do Cebreiro🚌)→   Sarria (56,6 Km)
+### Etapa-23: Trabadelo🚌 → (Pedrafita do Cebreiro🚌)→   Sarria (66,8 Km)
 26 de Mai 2012
 
-Trabadelo - O Cebreiro 18,2 km  ⁘  O Cebreiro - Triacastela 20,6 km  ⁘  Triacastela - Sarria (por San Xil) 17,8 km  **🚌 →   56,6 Km**
+Trabadelo - O Cebreiro 18,2 km  ⁘  O Cebreiro - Triacastela 20,6 km  ⁘  Triacastela - Sarria (por San Xil) 17,8 km  **🚌 →  - 56,6 Km**
 
 ---
-Trabadelo - O Cebreiro 18,2 km  ⁘  O Cebreiro - Triacastela 20,6 km   ⁘  Triacastela - Sarria (über Samos)   24,7 km **🚌 →   63,5 km**
+Trabadelo - O Cebreiro 18,2 km  ⁘  O Cebreiro - Triacastela 20,6 km   ⁘  Triacastela - Sarria (über Samos)   24,7 km **🚌 →   - 63,5 km**
 
 ---
 
@@ -95,6 +95,125 @@ Die Pflichten waren nicht nur wirtschaftlicher Natur, sondern betrafen die gesam
 - Wohn- und Berufspflicht (Schollenpflicht): Es war verboten, das Land des Herrn zu verlassen oder ein Handwerk in der Stadt zu erlernen, außer der Herr stimmte ausdrücklich zu.
 - Gerichtsbarkeit: Der Grundherr war gleichzeitig der Richter. Bei Vergehen oder Streitigkeiten untereinander mussten die Leibeigenen vor das herrschaftliche Gericht treten, wo der Herr Strafen und Bußgelder verhängen konnte.
 
+---
+
+
+
+<details>
+<summary>🇩🇪 Pilgerreisen im Mittelalter</summary>
+
+### Pilgerreisen im Mittelalter
+
+ #### Das Phänomen der Stellvertreter- oder Erlösungs-Pilgerreisen
+
+Das Phänomen der Stellvertreter- oder Erlösungs-Pilgerreisen (oft als _vicarious pilgrimage_ oder _proxy pilgrimage_ bezeichnet) ist historisch extrem gut dokumentiert. 
+
+**Allerdings zeigt der Blick in mittelalterliche Quellen, dass die historische Realität meist etwas differenzierter und oft profaner ablief, als es die romantischen Legenden (wie die über die „Acht Maravedís“) erzählen.** 
+
+#### Die historische Realität der Stellvertreter-Pilgerreisen
+
+Historische Testamente, Gerichtsakten und Stadtrechtsbücher (z. B. aus dem 14. und 15. Jahrhundert) belegen Tausende solcher Reisen. Sie lassen sich vor allem in drei Kategorien unterteilen: 
+
+#### 1. Postume Seelenheil-Pilgerreisen (Die testamentarische Pflicht)
+
+Die am häufigsten dokumentierte Form findet sich in Mittelalterlichen Testamenten. Wohlhabende Bürger, Adlige und Feudalherren verfügten vor ihrem Tod eine Summe Geldes, um nach ihrem Ableben jemanden für sie auf Pilgerreise zu schicken. Das Ziel war, im Fegefeuer die Sündenstrafen abzuarbeiten. 
+
+- Wer reiste? In den wenigsten schriftlichen Berichten wurden dafür tatsächliche Leibeigene (die für die Feldarbeit unentbehrlich waren) über Monate weggeschickt. Stattdessen entwickelte sich ein regelrechter Berufsstand der Lohnpilger. Mittellose, aber freie Menschen, Vagabunden oder professionelle Läufer ließen sich dafür bezahlen, die gefährliche Reise im Namen des Verstorbenen anzutreten. , 4]
+
+#### 2. Straf- und Sühnepilgerreisen (Justiz im Feudalismus)
+
+Oft schickten Feudalherren oder kirchliche Gerichte Personen nicht aus Frömmigkeit, sondern als Rechtsstrafe auf Pilgerschaft. Wer ein schweres Verbrechen begangen hatte, wurde rechtlich dazu verurteilt, barfuß und in Ketten nach Rom, Jerusalem oder Santiago de Compostela zu ziehen. In manchen Fällen, wenn ein Adliger einen Mord begangen hatte, konnte er (je nach Region) einen seiner Untertanen als Sühne-Stellvertreter schicken, um die Blutschuld abzuarbeiten. 
+
+#### 3. Die vertragliche Realität: Das Geld-Problem
+
+**Die Erzählung der Herberge in Sarria trifft einen historisch absolut korrekten Kern:** Das Geld war das größte Problem bei Pilgerreisen.  
+Einen einfachen Menschen mit einer riesigen Menge Bargeld (wie Gold- oder Silbermünzen) auf die Straße zu schicken, war im Mittelalter lebensgefährlich. Banditen lauerten gezielt Pilgern auf. Zudem war die Versuchung zur Flucht riesig.
+
+- Daher nutzte man historisch belegt Klöster, Hospize und das frühe Bankensystem der Tempelritter. Der Auftraggeber zahlte eine Summe an ein Kloster an der Heimatadresse, und der Pilger erhielt ein Dokument (einen _Pilgerbrief_ oder Beglaubigungsschreiben). Entlang der großen Routen (wie dem Camino Francés) zahlten assoziierte Klöster oder Bruderschaften dem Stellvertreter dann etappenweise kleine Summen – genau wie die besagten _acht Maravedís_ –, um sein Überleben und die Weiterreise zu sichern. 
+
+#### Fazit
+
+Es gibt zwar kaum namentliche Tagebücher von _Leibeigenen_, die im Auftrag schrieben (da diese meist Analphabeten waren). Aber die Verwaltungsakten, Finanzbücher von Klöstern und Testamente des Mittelalters belegen lückenlos, dass der Adel und das reiche Bürgertum das Pilgern im großen Stil „outsourcten“ und die Routen nach Santiago voll von bezahlten Stellvertretern waren. 
+
+---
+### Der Lohnpilger und der  Strafpilger
+
+  Wenn ein bezahlter Lohnpilger (oder ein wegen eines Verbrechens verurteilter Strafpilger) im Mittelalter den Weg abkürzte, schummelte oder die Reise ganz abbrach, galt dies rechtlich als schwerer Betrug und Vertragsbruch. Da Pilgerreisen im mittelalterlichen Rechtsverständnis eine zutiefst religiöse und juristische Pflicht darstellten, reagierten Auftraggeber, Städte und Gerichte mit drakonischen Strafen.
+
+Die Konsequenzen hingen davon ab, ob es sich um einen angeheuerten Berufspilger oder einen verurteilten Straftäter handelte:
+
+#### 1. Finanzielle und vertragliche Strafen (für Lohnpilger)
+
+Professionelle Lohnpilger schlossen vor der Abreise oft notarielle Verträge mit den Auftraggebern oder deren Nachlassverwaltern ab. Flog der Betrug auf, drohten:
+
+- Kompletter Vermögensverlust: Der Pilger musste den erhaltenen Vorschuss vollständig zurückzahlen. Da die meisten Lohnpilger jedoch arm waren, wurden stattdessen oft ihre Familienmitglieder haftbar gemacht oder ihr spärlicher Besitz (wie Kleidung oder Werkzeug) beschlagnahmt.
+- Gefängnis wegen Schulden: Konnte der Lohnpilger das Geld nicht zurückzahlen, landete er im städtischen Schuldenturm oder Kerker, bis die Schuld beglichen war. 
+- Kein „Seelenheil“ für den Betrüger: Aus theologischer Sicht galt der Betrug an einer Toten-Pilgerschaft als Todsünde, die den Übeltäter direkt in die Hölle befördern sollte.
+
+#### 2. Körper- und Ehrenstrafen (Gerichtsurteile)
+
+Wenn der Betrug vor ein weltliches oder geistliches Gericht gebracht wurde, griffen die typischen Strafmechanismen des Mittelalters:
+
+- Der Pranger (Öffentliche Schande): Um den Betrüger gesellschaftlich zu vernichten, wurde er auf dem Marktplatz an den Pranger gestellt. Oft hängte man ihm eine gefälschte Pilgermuschel oder eine Tafel um den Hals, auf der seine Tat geschrieben stand, damit die Bevölkerung ihn mit faulem Gemüse bewerfen und verspotten konnte. 
+- Brandmarkung oder Verstümmelung: Bei wiederholtem oder besonders schwerem Betrug (etwa wenn gefälschte Pilgerzeichen aus Santiago verkauft wurden, um die Reise vorzutäuschen) drohten Leibesstrafen. Dem Täter konnte ein Brandzeichen auf die Stirn gedrückt oder im Extremfall die Hand abgehauen werden, da Betrug rechtlich ähnlich wie Diebstahl gewertet wurde. 5]
+
+#### 3. Konsequenzen für Strafpilger (Verurteilte Kriminelle)
+
+Wurde ein Mörder oder Dieb vom Gericht dazu verurteilt, als Ersatz für die Todesstrafe nach Santiago oder Rom zu pilgern, und er kürzte den Weg ab, waren die Folgen absolut fatal: 
+
+- Wiederaufnahme der ursprünglichen Strafe: Der Schutzstatus des Pilgers (der rechtliche Immunität garantierte) erlosch sofort. Der Täter wurde für vogelfrei erklärt.
+- Vollstreckung der Todesstrafe: Wurde der flüchtige Strafpilger gefasst, bedeutete das in der Regel den Gang zum Galgen, das Rädern oder die Enthauptung – also die Strafe, der er durch die Pilgerschaft eigentlich entkommen wollte. 
+
+#### Wie flog der Schwindel auf?
+
+Die Auftraggeber sicherten sich ab. Ein Pilger musste am Zielort (z. B. in der Kathedrale von Santiago de Compostela) eine offizielle, versiegelte Urkunde – die sogenannte Compostela – erwerben, die von den dortigen Klerikern ausgestellt wurde. Wer ohne diese Urkunde oder mit einem offensichtlich gefälschten Siegel nach Hause kam, hatte keine Chance, seinen Lohn einzufordern oder seiner Strafe zu entgehen. Zudem kontrollierten sich Pilger auf den Routen in ihren Gemeinschaften gegenseitig. 
+
+Möchten Sie wissen, wie kriminelle Banden im Mittelalter Pilgerurkunden und Reliquien fälschten, um die Daheimgebliebenen zu betrügen, oder interessiert Sie, wie die Reformation durch Martin Luther diesem System der Lohnpilgerei ein Ende setzte? 
+
+  Der Handel mit gefälschten Pilgerurkunden, Pilgerzeichen und Reliquien war im Mittelalter ein florierendes, hochgradig organisiertes kriminelles Geschäft. Da die Nachfrage nach spirituellem Schutz und dem Nachweis erbrachter Bußen riesig war, entwickelten kriminelle Banden – und oft auch korrupte Kleriker – bemerkenswerte Methoden des Betrugs. 
+
+Hier ist eine Übersicht darüber, wie diese Fälschungen funktionierten und wo die Betrüger anzutreffen waren:
+
+### Wie wurde gefälscht?
+
+#### 1. Die Fälschung von Pilgerurkunden (Compostelas u. a.)
+
+Die offizielle Bestätigung einer Pilgerreise war für Lohn- und Strafpilger bares Geld oder die Rettung vor dem Galgen wert. Um diese Urkunden zu fälschen, gingen Banden wie folgt vor:
+
+- Gekaufte Schreibstuben und korrupte Kleriker: Da der Großteil der Bevölkerung Analphabeten waren, wurden Urkunden in illegalen Werkstätten (oft betrieben von ehemaligen Klosterschülern, unehrenhaften Notaren oder Wanderpredigern) auf echtem Pergament nachgeahmt. 5]
+- Siegelfälschung: Das wichtigste Echtheitsmerkmal war das Wachssiegel der Zielkirche. Betrüger schnitzten Nachbildungen der Originalsiegel aus Holz oder Blei. Eine beliebte Methode war auch das _„Siegel-Transplanting“_: Das echte Wachssiegel wurde vorsichtig von einer wertlosen, echten Urkunde gelöst und mit heißem Messer auf das gefälschte Dokument übertragen. 6]
+
+#### 2. Massenproduktion von Pilgerzeichen
+
+Pilgerzeichen (kleine Plaketten aus einer Blei-Zinn-Legierung wie die Jakobsmuschel für Santiago) galten als sichtbarer Beweis und magischer Schutzschmuck. 
+
+- Raubkopien im Gussverfahren: Kriminelle Banden kauften ein echtes Pilgerzeichen, drückten es in weichen Ton oder Schiefer, um eine Gussform zu erhalten, und gossen heimlich tausende billige Kopien. Diese wurden weit abseits der eigentlichen Heiligtümer an leichtgläubige Daheimgebliebene oder faule Pilger verkauft. 
+
+#### 3. Die Reliquien-Industrie (Knochen, Splitter und Haare)
+
+Reliquien waren die wertvollsten Objekte des Mittelalters. Der Betrug hierbei erreichte absurde Ausmaße: , 1
+
+- Tierknochen und Friedhofsüberreste: Da niemand das Aussehen von Heiligenknochen überprüfen konnte, wurden gewöhnliche Knochen von Pestfriedhöfen exhumiert oder gar Schweine-, Schaf- und Hundeknochen gereinigt, in Wein gekocht (um sie alt wirken zu lassen) und in prachtvolle, aber falsche Tücher gehüllt. , 11]
+- Wunder-Vervielfältigung: Beliebte Reliquien wie Splitter des „Wahren Kreuzes Christi“, die Milch der Jungfrau Maria oder Dornen der Dornenkrone wurden massenhaft imitiert. Holzsplitter wurden aus gewöhnlichem Olivenholz geschnitzt; als „heilige Milch“ wurde oft kalkhaltiges Wasser oder Ziegenmilch verkauft. ]
+
+---
+
+### Wo waren diese Banden anzutreffen?
+
+Die Betrüger operierten strategisch überall dort, wo Reiseströme aufeinandertrafen oder die Sehnsucht nach dem Heiligen groß war: 
+
+- An den großen Knotenpunkten der Pilgerwege: Vor allem an Pässen (wie den Pyrenäen auf dem Camino), wichtigen Flussüberquerungen oder in **Herbergsstädten (wie Sarria)**  lauerten Banden. Sie sprachen gezielt erschöpfte Pilger an und boten ihnen gefälschte Urkunden und Abzeichen zum Kauf an, damit diese sich den beschwerlichen Restweg sparen und umkehren konnten.
+- Auf großen Jahrmärkten und Kirchenfesten: Große Handelsmessen (z. B. in Frankfurt, Champagnemärkte in Frankreich) zogen sogenannte Vaganten und Reliquienhändler (oft als _„Pardoners“_ oder _„Quaestoren“_ bezeichnet) an. Diese traten oft als falsche Mönche auf, bauten provisorische Altäre auf und verkauften gefälschte Ablassbriefe und Reliquien direkt an die Stadtbevölkerung.
+- In Hafenstädten: Venedig, Genua oder Marseille waren Hotspots. Hier kamen Schiffe aus dem Heiligen Land (Jerusalem) oder Konstantinopel an. Kriminelle Banden fälschten Ladepapiere und verkauften angeblich „importierte“ Reliquien aus dem Orient an wohlhabende europäische Adlige, die bereit waren, immense Summen für das eigene Seelenheil zu zahlen.
+- In kriminellen Milieus der Großstädte: In den Elendsvierteln und gesetzlosen Zonen mittelalterlicher Metropolen (wie den _Cour des Miracles_ in Paris oder den Hafenvierteln von London) gab es organisierte Fälscherwerkstätten, in denen Diebe, abtrünnige Kleriker und Metallgießer Hand in Hand arbeiteten. 
+
+Das System flog meist erst auf, wenn ein Betrüger gierig wurde – beispielsweise wenn ein Händler in derselben Stadt den „fünften linken Arm“ desselben Heiligen verkaufen wollte.
+
+</details>
+
+---
+#### Der **Maravedí**
+
 Der **Maravedí** (oft fälschlicherweise „Marebedis“ geschrieben) existierte als offizielle spanische Währungseinheit  bis zur Mitte des 19. Jahrhunderts
 
 Die wichtigsten Meilensteine seines Endes waren:
@@ -102,6 +221,7 @@ Die wichtigsten Meilensteine seines Endes waren:
 - **Die letzten Münzprägungen:** Als physische Kupfermünze wurde der Maravedí in Spanien letztmals in den Jahren **1854 bis 1855** geprägt.
 
 - **Die offizielle Abschaffung:** Im Zuge der Umstellung auf das Dezimalsystem wurde der Maravedí schließlich im Jahr **1858** als offizielle Währung und Rechnungseinheit endgültig verdrängt und abgeschafft. Ersetzt wurde das alte System schrittweise durch den _Real_ und später im Jahr 1869 durch die _Peseta_.
+
 
 </details>
 </details>

@@ -381,7 +381,7 @@ Depois disso, voltei a focar-me no meu descanso e fiquei feliz por ver que o mes
 > **Das Echo hallt durch die Räume.**  
 
 > Ich bin ihr davor und danach noch einmal begegnet, und sie hat mir sogar ihren Namen genannt, aber ich habe ihn schließlich wieder vergessen.  
-> Genau wie Petrus hat sie es geleugnet; sie wollte nur ein wenig Ruhe, um neue Kraft zu tanken, damit sie es bis ans Ende der Welt schaffen konnte.  
+> Genau wie Petrus hat sie es geleugnet; sie wollte nur ein wenig Ruhe, um neue Kraft zu tanken, und sich um ihre Sachen kümmern,   damit sie es bis ans Ende der Welt schaffen konnte.  
 > In Petrus’ Fall wäre der Preis viel höher gewesen; hätte er es nicht geleugnet, hätte er vielleicht nicht den ersten Stein gelegt.
 
 ---
@@ -391,7 +391,7 @@ Depois disso, voltei a focar-me no meu descanso e fiquei feliz por ver que o mes
 > **El eco resuena por las habitaciones.**  
 
 > Coincidí con ella antes y después, e incluso me dijo su nombre, pero al final lo olvidé.  
-> Al igual que Pedro, ella lo negó; solo quería un poco de paz para recuperar fuerzas y poder llegar hasta el fin del mundo.  
+> Al igual que Pedro, ella lo negó; solo quería un poco de paz,  ocuparse de sus cosas y recuperar fuerzas para  poder llegar hasta el fin del mundo.  
 > En el caso de Pedro, el precio habría sido mucho más alto; si no lo hubiera negado, tal vez no habría puesto la primera piedra.
 
 ---
@@ -401,7 +401,7 @@ Depois disso, voltei a focar-me no meu descanso e fiquei feliz por ver que o mes
 > **The echo resounds through the rooms**.  
 
 > I met her once before and once after, and she even told me her name, but in the end, I forgot it again.  
-> Just like Peter, she denied it; she only wanted a little peace to recharge her batteries so that she could make it to the end of the world.  
+> Just like Peter, she denied it; she only wanted look after their own thing,  a little peace to recharge her batteries so that she could make it to the end of the world.  
 > In Peter's case, the price would have been much higher; had he not denied it, perhaps he would not have laid the first stone.
 
 ---
@@ -411,7 +411,7 @@ Depois disso, voltei a focar-me no meu descanso e fiquei feliz por ver que o mes
 > **O eco ressoa pelas salas.**  
 
 > Cruzei-me com ela antes e depois, e ela até me disse o seu nome, mas acabei por esquecê-lo.  
-> Tal como Pedro, ela negou-o; apenas queria um pouco de paz para recuperar forças e conseguir chegar ao fim do mundo.  
+> Tal como Pedro, ela negou-o; queria , apenas cuidar das suas coisas e um pouco de paz para recuperar forças e conseguir chegar ao fim do mundo.  
 > No caso de Pedro, o preço teria sido muito mais alto; se não o tivesse negado, talvez não tivesse lançado (teria posto) a primeira pedra.
 
 ---

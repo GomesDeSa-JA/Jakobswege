@@ -22,11 +22,11 @@ In Spanien gibt es zwei Storch-Arten, die dort als Brutvögel vorkommen
 
 ---
 
-Si hay algo que se haya quedado enterrado en mi memoria, sea lo que sea lo que haya pasado en esta etapa, lo escribiré más adelante. Si no hubiera tenido Google Maps, ni siquiera habría sabido que empecé a caminar sobre las siete de la mañana.
+🇪🇸 Si hay algo que se haya quedado enterrado en mi memoria, sea lo que sea lo que haya pasado en esta etapa, lo escribiré más adelante. Si no hubiera tenido Google Maps, ni siquiera habría sabido que empecé a caminar sobre las siete de la mañana.
 
-Falls mir irgendetwas im Gedächtnis haften geblieben ist – was auch immer auf dieser Etappe passiert sein mag –, werde ich es später aufschreiben. Hätte ich Google Maps nicht gehabt, hätte ich nicht einmal gewusst, dass ich gegen sieben Uhr morgens losgelaufen bin.
+🇩🇪 Falls mir irgendetwas im Gedächtnis haften geblieben ist – was auch immer auf dieser Etappe passiert sein mag –, werde ich es später aufschreiben. Hätte ich Google Maps nicht gehabt, hätte ich nicht einmal gewusst, dass ich gegen sieben Uhr morgens losgelaufen bin.
 
-If there’s anything that’s remained buried in my memory – whatever may have happened during this stage – I’ll write about it later. If it hadn’t been for Google Maps, I wouldn’t even have known that I’d set off at around seven in the morning.
+🇬🇧 If there’s anything that’s remained buried in my memory – whatever may have happened during this stage – I’ll write about it later. If it hadn’t been for Google Maps, I wouldn’t even have known that I’d set off at around seven in the morning.
 
 ---
 

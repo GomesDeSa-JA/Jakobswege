@@ -107,7 +107,7 @@
 
  >Im Jahr 2019 war ich dann zum ersten Mal in Barcelos, als ich von Ávila nach Santiago de Compostela und von dort weiter nach Fátima gelaufen bin.  Der berühmte Keramikhahn in den portugiesischen –*Nationalfarben Rot und Grün*– ist überall im Stadtbild präsent und wenn ich den Barcelos Hahn sehe, ist diese Geschichte immer in Hinterkopf.  
 
->Nach diesen Reisen frage ich mich, ob es wohl nur in diesen beiden Städten so war, dass der Hahn vor dem Richter floh, weil jemandem Unrecht widerfahren war.
+**Nach diesen Reisen frage ich mich, ob es wohl nur in diesen beiden Städten so war, dass der Hahn vor dem Richter floh, weil jemandem Unrecht widerfahren war.**
 
 >Soweit ich weiß, konnten wir Pilger unseren Weg fortsetzen, ohne einen Richter stören zu müssen, während er sein Hähnchen genoss.   
 
@@ -145,7 +145,7 @@
 
 > En 2019 estuve por primera vez en Barcelos, durante mi peregrinación desde Ávila a Santiago y luego de Santiago a Fátima. El famoso gallo de cerámica con sus colores rojo y verde de Portugal está omnipresente en toda la ciudad y cada vez que veo el gallo de Barcelos, me viene a la mente esta historia.
 
-> Tras estos viajes, me pregunto si será que solo en estas dos ciudades el gallo se escapó del juez porque alguien sufrió una injusticia.
+**Tras estos viajes, me pregunto si será que solo en estas dos ciudades el gallo se escapó del juez porque alguien sufrió una injusticia.**
 
 > Por lo que sé, nosotros, los peregrinos, pudimos continuar nuestro camino sin tener que molestar a un juez mientras este saboreaba su pollo.  
 
@@ -176,7 +176,7 @@
  
 > I visited Barcelos for the first time in 2019, when I walked from Ávila to Santiago and then from Santiago onward to Fátima. The ceramic rooster with its Portuguese red and green colors is highly visible all over the city.  Every time I see the Barcelos rooster, this story springs to mind.
 
->After these journeys, I wonder whether it is only in these two cities that the cockerel fled from the judge because someone had suffered an injustice.
+**After these journeys, I wonder whether it is only in these two cities that the cockerel fled from the judge because someone had suffered an injustice.**
 
 >As far as I know, we pilgrims were able to continue on our way without having to disturb a judge whilst he was enjoying his chicken.   
 
@@ -209,7 +209,7 @@
 > Em 2019 estive pela primeira vez em Barcelos, quando caminhei de Ávila até Santiago e, depois, de Santiago para Fátima. O famoso galo de cerâmica com as cores verde e vermelha de Portugal está omnipresente por toda a cidade. 
 > Sempre que vejo o galo de Barcelos, lembro-me desta história.
 
-> Depois destas viagens, pergunto-me se será que só nestas duas cidades é que o galo fugiu do juiz porque alguém sofreu uma injustiça.
+**Depois destas viagens, pergunto-me se será que só nestas duas cidades é que o galo fugiu do juiz porque alguém sofreu uma injustiça.**
 
 > Tanto quanto sei, nós, peregrinos, pudemos continuar o nosso caminho sem ter de incomodar um juiz enquanto ele saboreava o seu frango.     
 
