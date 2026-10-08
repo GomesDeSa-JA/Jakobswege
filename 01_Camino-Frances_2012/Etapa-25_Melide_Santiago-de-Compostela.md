@@ -12,9 +12,9 @@
 - The shadows that accompany us
 
 ![](media01/Lavacolla_San-Paio_Ermita-Santa-Lucia.webp)
-San Paio,  Capilla de Santa Lucía**↑**  **↑**  **↑**   Google-Maps-Foto
+**↑**  San Paio,  Capilla de Santa Lucía **↑**   Google-Maps-Foto
 
-Santiago de Compostela **↓** **↓** **↓** 
+**↓**  Santiago de Compostela  **↓** 
 
 <details>
 <summary>🇩🇪 Einmal Stempel</summary>
@@ -92,6 +92,8 @@ Esta etapa fue una de las tres más largas de todos mis caminos de peregrinació
 
 </details>
 
+---
+
 <details>
 <summary>🇬🇧 A Stamp</summary>
 
@@ -116,8 +118,11 @@ This stage was one of the three longest stages of all my pilgrimages so far. Whe
 
 </details>
 
+---
+
+I’ve given ChatGPT some literary freedom
 <details>
-<summary>Ich habe ChatGPT literarische Freiheit gegeben</summary>
+<summary>Ich habe ChatGPT ein wenig literarische Freiheit gewährt</summary>
 
 ### San Paio, die Kapelle Santa Lúcia und ein Stempel
 
