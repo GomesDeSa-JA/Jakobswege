@@ -24,8 +24,8 @@ Foto von: **↓** viveirodasarvores.com **↓**
 
 🇪🇸  Vi esta planta por primera vez en Portomarín en 2012; en 2018, me preguntaron por ella en el Camino del Norte, en Arenillas; y en 2023, mientras recorría los «Caminhos do Caravaggio» (Linha Imperial), descubrí de qué se trataba.
 
-- *04_Camino-del-Norte_2018-X/Etappe-09_Pubeña_Islares-Playa-Arenillas*
-- *Caminhos-de-Caravaggio/Etappe-06_Linha-Brasil_Nova-Petropolis*
+- ***04_Camino-del-Norte_2018-X/Etappe-09_Pubeña_Islares-Playa-Arenillas***
+- ***Caminhos-de-Caravaggio/Etappe-06_Linha-Brasil_Nova-Petropolis***
 
 🇩🇪 Ich weiß, dass ich mich damals gefragt habe, ob ich meinen Job kündigen oder mir eine neue Wohnung suchen sollte. Denn abgesehen von der Pflanze – dem Calistemo – und der Tatsache, dass die Kirche vom Flussufer auf einen Hügel verlegt werden musste, und dass dies alles ist, was mir von Portomarim in Erinnerung geblieben ist, kann ich mich an nichts anderes mehr erinnern.
 

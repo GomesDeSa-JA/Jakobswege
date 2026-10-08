@@ -116,7 +116,7 @@ Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 28 de Maio de 2012
 
 ---
-#### [Etapa-25_Melide](Etapa-25_Melide.md)
+#### [Etapa-25_Melide_Santiago-de-Compostela](Etapa-25_Melide_Santiago-de-Compostela.md)
 29 de Maio de 2012
 
 ---

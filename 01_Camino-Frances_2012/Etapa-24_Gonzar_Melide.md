@@ -29,7 +29,7 @@
 
 ---
 
-**↪** [Etapa-25_Melide](Etapa-25_Melide.md)
+**↪** [Etapa-25_Melide_Santiago-de-Compostela](Etapa-25_Melide_Santiago-de-Compostela.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 
