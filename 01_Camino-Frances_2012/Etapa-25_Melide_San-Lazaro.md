@@ -10,11 +10,9 @@
  ..., ... .
 
 - Las sombras que nos acompañan
-
  ..., ... .
 
 - The shadows that accompany us
-
  ..., ... .
 
 ![](media01/Lavacolla_San-Paio_Ermita-Santa-Lucia.webp)

@@ -3,6 +3,11 @@
 ### Etapa-34: →  ( Km)
 06 de Juni 2012
 
+- Um último olhar para o fim do mundo
+- Ein letzter Blick auf das Ende der Welt
+- A final glance at the end of the world
+- Una última mirada al fin del mundo
+
 ![](media05/20120606-094834.webp)
 
 ---
@@ -84,14 +89,34 @@ Para a maioria dos peregrinos modernos, Finisterra (_Fisterra_) é apenas um bel
     
 Finisterra guarda o verdadeiro Quilómetro 0,0 do Caminho: não é uma paragem logística, mas sim o limiar sagrado onde o peregrino morre para o passado e regressa a casa renovado.
 
-###
+
+### Die Rückkehr  ⁘  El regreso  ⁘   O regresso  ⁘  The Return
+
+Na antiga estação rodoviária
+
+..., ... .
+
+En la antigua estación de autobuses
+
+..., ... .
+
+
+Am ehemaligen Busbahnhof
+
+..., ... .
+
+The Return
+At the old coach station
+
+### Fim de um Caminho e  inicio de outro ?
+
 ---
 
+<details>
 <summary>  </summary>
-🇬🇧
-🇪🇸
-🇵🇹
-🇩🇪
+
+🇬🇧 🇪🇸 🇵🇹 🇩🇪
+
 </details>
 
 ---
@@ -100,4 +125,7 @@ Finisterra guarda o verdadeiro Quilómetro 0,0 do Caminho: não é uma paragem l
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 
- ...→
+...→ 🇪🇸 Buscar un nuevo piso o un trabajo nuevo en algún sitio: esa es la cuestión.
+...→ 🇩🇪 Neue Wohnung oder neuen Job irgendwo suchen – das ist hier die Frage.
+...→ 🇬🇧 Looking for a new flat or a new job somewhere – that is the question here.
+...→ 🇵🇹 Procurar um novo apartamento ou um novo emprego algures – eis a questão

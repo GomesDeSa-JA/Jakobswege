@@ -1,18 +1,19 @@
 ## Camino Francés  2012  
 
-### Etapa-32: →  ( Km)
+### Etapa-32:  Fisterra → Finisterra  ( 3,3 + 3,3 Km)
 05 de Juni 2012
-
-![](media05/20120605-104821.webp)  
 
 <details>
 <summary>🇬🇧 Finesterre </summary>
 
-**04.06.2012**
+![](media05/20120605-104821.webp) 
 
+- **04.06.2012**
 ### Cape Finisterre (Fisterra) – Encounters at the end of the journey
 
 I arrived in Finisterre, tired from this final stage and with the feeling that I had now truly reached the end – though I didn’t really want to face up to it.
+
+#### The Arrival
 
 No sooner had I arrived than someone asked me if I needed somewhere to stay – a room all to myself.
 
@@ -26,7 +27,7 @@ It was no big deal, and yet it was exactly what I needed at that moment: a place
 
 **05.06.2012**
 
-![](media05/20120605-104831.webp)
+ ![](media05/20120605-104831.webp)
 
 #### The English pilgrim
 
@@ -75,9 +76,12 @@ I told her that it was a decision her son had made for himself. If he had not do
 
 **04.06.2012**
 
+
 ### Kap Finisterre (Fisterra) – Begegnungen am Ende der Reise
 
 Ich kam in Finisterre an, müde von dieser letzten Etappe und mit dem Gefühl, nun wirklich am Ende angekommen zu sein – auch, wenn ich mich dem nicht wirklich stellen wollte.
+
+#### Die Ankunft
 
 Kaum war ich angekommen, fragte mich schon jemand, ob ich eine Unterkunft bräuchte – ein Zimmer ganz für mich allein.
 
@@ -131,7 +135,6 @@ Ich sagte ihr, dass es eine Entscheidung sei, die ihr Sohn selbst getroffen habe
 </details>
 </details>
 
-
 ---
 
 <details>
@@ -142,6 +145,8 @@ Ich sagte ihr, dass es eine Entscheidung sei, die ihr Sohn selbst getroffen habe
 ### Cabo Finisterre (Fisterra) – Encuentros al final del camino
 
 Llegué a Finisterre, cansado  nesta última etapa y con la sensación de que, por fin, había llegado al final, aunque no quería aceptarlo del todo.
+
+#### La llegada
 
 Nada más llegar, alguien me preguntó si necesitaba alojamiento: una habitación solo para mí.
 
@@ -205,6 +210,8 @@ Le dije que era una decisión que su hijo había tomado por sí mismo. Si no lo 
 ### Cabo Finisterre (Fisterra) – Encontros no fim do caminho
 
 Cheguei a Finisterre, cansado desta última etapa e com a sensação de que tinha realmente chegado ao fim, algo que, no entanto, não queria aceitar de todo.
+
+#### A Chegada
 
 Mal cheguei, alguém perguntou-me se precisava de alojamento – um quarto só para mim.
 
@@ -289,7 +296,7 @@ Eu disse-lhe que aquela tinha sido uma decisão tomada pelo próprio filho. Se n
 
 ---
 
-**↪** [Etapa-34](Etapa-34.md)
+**↪** [Etapa-34_Die-Ruckkehr](Etapa-34_Die-Ruckkehr.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 

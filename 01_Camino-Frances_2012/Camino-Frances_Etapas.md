@@ -124,38 +124,38 @@ Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 30 de Maio de 2012
 
 ---
-#### [Etapa-27](Etapa-27.md)
+#### [Etapa-27_Seminario-Menor_Catedral-de-Santiago-de-Compostela](Etapa-27_Seminario-Menor_Catedral-de-Santiago-de-Compostela.md)
 31 de Maio de 2012
 
 ---
-#### [Etapa-28](Etapa-28.md)
+#### [Etapa-28_Seminario-Menor_Catedral-de-Santiago-de-Compostela](Etapa-28_Seminario-Menor_Catedral-de-Santiago-de-Compostela.md)
 01 de junho de 2012
 
 ---
 
-#### [Etapa-29](Etapa-29.md)
+#### [Etapa-29_Santiago-de-Compostela_Negreira](Etapa-29_Santiago-de-Compostela_Negreira.md)
 02 de junho de 2012
 
 ---
-#### [Etapa-30](Etapa-30.md)
+#### [Etapa-29_Santiago-de-Compostela_Negreira](Etapa-29_Santiago-de-Compostela_Negreira.md)
 03 de junho de 2012
 
 ---
-#### [Etapa-31](Etapa-31.md)
+#### [Etapa-30_Negreira_Oliveiroa](Etapa-30_Negreira_Oliveiroa.md)
 04 de junho de 2012
 
 
 ---
-#### [Etapa-32](Etapa-32.md)
+#### [Etapa-31_Oliveiroa_Fisterra](Etapa-31_Oliveiroa_Fisterra.md)
 05 de junho de 2012
 
 ---
 
-#### [Etapa-33](Etapa-33.md)
+#### [Etapa-32_Fisterra_Finisterra](Etapa-32_Fisterra_Finisterra.md)
 06 de junho de 2012
 
 ---
-#### [Etapa-34](Etapa-34.md)
+#### [Etapa-34_Die-Ruckkehr](Etapa-34_Die-Ruckkehr.md)
 06 de junho de 2012
 
 ---

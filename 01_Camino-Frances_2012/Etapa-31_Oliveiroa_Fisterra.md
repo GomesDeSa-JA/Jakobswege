@@ -1,8 +1,7 @@
 ## Camino Francés  2012  
 
-### Etapa-32: →  ( Km)
+### Etapa-32: Oliveiroa → Fisterra ( 32 Km)
 04 de Juni 2012
-
 
 
 ![](media05/20120604-073135.webp)
@@ -177,7 +176,7 @@ To anyone who hasn't seen my other photo of the coastal village by the bay, this
 
 ---
 
-**↪[Etapa-33](Etapa-33.md)**
+**↪[Etapa-32_Fisterra_Finisterra](Etapa-32_Fisterra_Finisterra.md)**
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 

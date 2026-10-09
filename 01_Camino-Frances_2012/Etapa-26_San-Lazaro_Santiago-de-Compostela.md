@@ -43,24 +43,42 @@ La noche anterior, me **–registré–** en el Hotel San Lázaro para pasar la 
 
 The evening before, I **–checked–** in at Hotel San Lázaro to spend the night at the Albergue Santo Santiago. When I asked where I could do my laundry, they told me that if I handed it in that evening, I would get it back the next day. For just 7 euros, I received all my hiking clothes washed, dried, and beautifully ironed. I was both pleasantly surprised and worried—someone had treated my laundry with such care and love that I wondered how I was going to pack it back into my backpack without wrinkling it. The day before, I had let my feet carry all my worries; today, I promised them rest and transferred that responsibility to my hands.
 
-
 </details>
 
+
+---
+
+#### En la Oficina del Peregrino
+
+![](media01/Los-Amigos-del-Camino-de-Santiago.webp)
+
+- **🇪🇸 He entendido la pregunta y he respondido correctamente, pero no sabía qué significaba.** 
+ 
+- - Ya puedo adelantar algunas cosas: la historia empieza en Nájera y, cuando alguien me dio un dato de paso, una o dos etapas antes de León, cambié de idea. ..., ... .
+
+- **🇩🇪 Ich habe die Frage verstanden und richtig beantwortet, wusste aber nicht, was sie bedeutete.**  ..., ... .
+
+- - Ich kann schon mal ein paar Dinge verraten: Die Geschichte beginnt in Nájera, und als mir jemand einen Hinweis gab, ein oder zwei Etappen vor León, habe ich meine Pläne geändert.  ..., ... .
+
+- **🇵🇹 Compreendi a pergunta e respondi corretamente, mas não sabia o que ela significava.** 
+
+- - Já posso adiantar algumas coisas: a a história começa em Nájera e, quando alguém me deu uma informação de passagem, uma ou duas etapas antes de León, mudei de ideias. ..., ... .
+
+- **🇬🇧 I understood the question and answered it correctly, but I didn’t know what it meant.** 
+
+- - I can already reveal a few things: the story begins in Nájera, and when someone gave me a tip-off – one or two stages before León – I changed my plans.  ..., ... .
 
 
 ---
 
 <details>
 <summary>  </summary>
-🇬🇧
-🇪🇸
-🇵🇹
-🇩🇪
+🇬🇧 🇪🇸 🇵🇹 🇩🇪
 </details>
 
 ---
 
-**↪** [Etapa-27](Etapa-27.md)
+**↪** [Etapa-27_Seminario-Menor_Catedral-de-Santiago-de-Compostela](Etapa-27_Seminario-Menor_Catedral-de-Santiago-de-Compostela.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 

@@ -56,14 +56,22 @@
 > 🇩🇪  Ich erinnere mich noch sehr gut an diese Herberge und die Tische, aber was um alles in der Welt habe ich an jenem Tag im Jahr 2012 eigentlich gegessen?
 >Ich werde versuchen, diese alles entscheidenden Fragen zu beantworten, sobald ich die Gelegenheit dazu habe. Morgen auf jeden Fall nicht – ich habe Wichtigeres zu tun; ich muss einkaufen gehen.
 
+*Ich war schon einkaufen und habe den Kassenbon. In letzter Zeit versuche ich, die Kassenbons aufzubewahren, denn sie sagen uns genauso viel oder sogar mehr als ein Foto, und deshalb bedaure ich es sehr, dass ich sie nicht aufbewahrt habe. Sie würden viele der verlorenen Fotos ersetzen.* 
+
 > 🇵🇹 Ainda me lembro muito bem desse albergue e das mesas, mas o que raio é que eu comi naquele dia de 2012?
 > Vou tentar responder a estas questões tão importantes assim que tiver oportunidade. Mas definitivamente não será amanhã – tenho coisas importantes para fazer; preciso de ir às compras.
+
+*Já fui às compras e tenho o recibo. Ultimamente, tenho tentado guardar os recibos, porque dizem-nos tanto ou até mais do que uma fotografia, e é por isso que lamento imenso não os ter guardado. Eles substituiriam muitas das fotografias perdidas.*  
 
 > 🇪🇸 Todavía recuerdo muy bien ese albergue y aquellas mesas, pero ¿qué demonios comí realmente aquel día de 2012?
 > Intentaré responder a estas preguntas tan importantes en cuanto tenga ocasión. Aunque desde luego no será mañana: tengo cosas importantes que hacer; tengo que ir de compras.
 
+Ya he ido de compras y tengo el ticket. Últimamente he intentado guardar los tickets, porque nos dicen tanto o incluso más que una foto, y por eso lamento muchísimo no haberlos guardado. Sustituirían a muchas de las fotos que he perdido. 
+
 > 🇬🇧 I still remember that hostel and the tables very well, but what on earth did I actually eat on that day in 2012?
 >I’ll try to answer these all-important questions as soon as I get the chance. Definitely not tomorrow, though – I’ve got important things to do; I need to go shopping.
+
+I’ve already been shopping and I’ve got the receipt. Lately, I’ve been trying to keep my receipts, because they tell us as much – or even more – than a photograph, which is why I’m really sorry I didn’t keep them. They would have made up for many of the lost photographs. 
 
 ---
 
