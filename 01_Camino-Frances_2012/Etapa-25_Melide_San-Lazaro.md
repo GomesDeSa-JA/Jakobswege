@@ -1,15 +1,21 @@
 ## Camino Francés 2012  
 
-### Etapa-25: Melide → Santiago de Compostela ( 50,6 Km)
+### Etapa-25: Melide → San Lázaro ( 50,6 Km)
 29 de Mai 2012
 
 - As sombras que nos acompanham
+ ..., ... .
 
 - Die Schatten, die uns begleiten
+ ..., ... .
 
 - Las sombras que nos acompañan
 
+ ..., ... .
+
 - The shadows that accompany us
+
+ ..., ... .
 
 ![](media01/Lavacolla_San-Paio_Ermita-Santa-Lucia.webp)
 **↑**  San Paio,  Capilla de Santa Lucía **↑**   Google-Maps-Foto
@@ -187,7 +193,7 @@ Manchmal ist es eben nicht die Länge eines Weges, die man am Ende in Erinnerung
 
 #### Danach keinen mehr
 
->*Diese Etappe, Melide  →  Santiago, war keineswegs die anspruchsvollste von allen, aber die Etappe:**„Puebla de Sanabria → () Lubián, 28,1 km) →  A Gudiña (23,7 km)**, war noch schwieriger; immer wenn ich mitten im Nirgendwo ein Haus sah, dachte ich, ich wäre schon fast am Ziel. Obwohl meine Füße am meisten litten, tat mir alles weh. 
+>*Diese Etappe, Melide  →  Santiago, war keineswegs die anspruchsvollste von allen, aber die Etappe:**„Puebla de Sanabria → (Lubián, 28,1 km) →  A Gudiña (23,7 km)**, war noch schwieriger; immer wenn ich mitten im Nirgendwo ein Haus sah, dachte ich, ich wäre schon fast am Ziel. Obwohl meine Füße am meisten litten, tat mir alles weh. 
 >
 >Ich kam gegen 21:xx Uhr an und stand vor einer verschlossenen Tür, aber wie José Luis Antón mir in Tosantos gesagt hatte, würde mir jemand die Tür öffnen*
 
@@ -443,7 +449,7 @@ Gepaart mit der grandiosen Stimme von **Friedrich W. Bauschulte** (und **Klaus H
 
 ---
 
-**↪** [Etapa-26](Etapa-26.md)
+**↪** [Etapa-26_San-Lazaro_Santiago-de-Compostela](Etapa-26_San-Lazaro_Santiago-de-Compostela.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 
