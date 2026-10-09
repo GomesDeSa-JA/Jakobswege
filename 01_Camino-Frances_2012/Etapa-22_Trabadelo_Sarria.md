@@ -43,7 +43,8 @@ In 2014, as one should, I walked the whole route (spending a night in Cebreiro�
 <details>
 <summary>🇩🇪 Albergue Dos Oito Marabedís</summary>
 
-- Herberge dauerhaft geschlossen
+⚠️ Herberge dauerhaft geschlossen
+
 ### Albergue Dos Oito Marabedís
 
 In den Jahren 2012 und 2014 habe ich in der „Albergue dos Oito Maravedís“ übernachtet. Diese Herberge gehörte zu den ersten in Sarria. Ihr Name geht auf eine mittelalterliche Tradition zurück: Wenn Adlige und Feudalherren gelobten, nach Santiago zu pilgern, traten sie die Reise oft nicht selbst an. Stattdessen schickten sie ihre **Leibeigenen als Stellvertreter**. Da die Herren ihren Bediensteten nicht die gesamte Summe für die Reise auf einmal anvertrauen wollten – aus Angst, die Leibeigenen könnten ausgeraubt werden oder mit einer so beträchtlichen Summe fliehen –, hinterlegten sie das Geld bei ausgewählten Klöstern und Institutionen entlang des Weges. Nach dem Erreichen bestimmter Etappen erhielten die Pilger dort jeweils **"8 Maravedís"** für ihren weiteren Weg.
@@ -231,7 +232,8 @@ Die wichtigsten Meilensteine seines Endes waren:
 <details>
 <summary>🇪🇸 Albergue Dos Oito Marabedís</summary>
 
-- Albergue cerrado permanentemente
+⚠️ Albergue cerrado permanentemente
+
 ### Albergue Dos Oito Marabedís
 
 En los años 2012 y 2014, me alojé en el «Albergue dos Oito Maravedís», uno de los primeros albergues de Sarria. Su nombre proviene de una tradición de la Europa medieval: cuando los nobles y los señores feudales prometían realizar una peregrinación a Santiago, a menudo no hacían el viaje a pie. En su lugar, enviaban a sus **siervos como representantes**. Como los señores no querían entregar todo el dinero del viaje de una sola vez —por miedo a que los siervos fueran robados o pudieran huir con una suma tan considerable—, depositaban los fondos en determinados monasterios e instituciones de confianza a lo largo del recorrido. Así, al completar ciertas etapas del viaje, los peregrinos recibían **"8 maravedís"** para continuar el camino.
@@ -291,7 +293,8 @@ Las obligaciones no eran solo de carácter económico, sino que afectaban a todo
 <details>
 <summary>🇬🇧 Albergue Dos Oito Marabedís</summary>
 
-- Hostel permanently closed
+⚠️ Hostel permanently closed
+
 ### Albergue Dos Oito Marabedís
 
 In 2012 and 2014, I stayed at the ‘Albergue dos Oito Maravedís’, one of the first hostels in Sarria. Its name derives from a tradition in medieval Europe: when nobles and feudal lords promised to make a pilgrimage to Santiago, they often did not make the journey on foot. Instead, they would send their **servants as their representatives**. As the lords did not wish to hand over the entire sum for the journey in one go — for fear that the servants might be robbed or might run away with such a considerable sum — they deposited the funds in certain trusted monasteries and institutions along the route. Thus, upon completing certain stages of the journey, the pilgrims would receive  **"8 maravedís"** to continue on their way.
@@ -352,7 +355,8 @@ These obligations were not merely of an economic nature, but affected every aspe
 <details>
 <summary>🇵🇹 Albergue Dos Oito Marabedís</summary>
 
-- Albergue encerrado definitivamente
+⚠️ Albergue encerrado definitivamente
+
 ### Albergue Dos Oito Marabedís
 
 Nos anos de 2012 e 2014, fiquei hospedado no "Albergue dos Oito Maravedís", um dos primeiros albergues de Sarria. O seu nome deriva de uma tradição da Europa medieval: quando os nobres e senhores feudais prometiam fazer uma peregrinação a Santiago, muitas vezes não faziam a peregrinação. Em vez disso, enviavam os seus **servos como representantes**. Como os senhores não queriam entregar todo o dinheiro da viagem de uma só vez — por medo de que os servos fossem roubados ou pudessem fugir com uma quantia tão considerável —, depositavam os fundos em determinados mosteiros e instituições de confiança ao longo do percurso. Assim, ao completarem certas etapas da viagem, os peregrinos recebiam **"8 maravedís"** para continuar o caminho.

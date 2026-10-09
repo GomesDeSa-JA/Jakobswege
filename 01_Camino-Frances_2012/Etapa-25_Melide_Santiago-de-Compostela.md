@@ -120,11 +120,10 @@ This stage was one of the three longest stages of all my pilgrimages so far. Whe
 
 ---
 
-I’ve given ChatGPT some literary freedom
 <details>
 <summary>Ich habe ChatGPT ein wenig literarische Freiheit gewährt</summary>
 
-### San Paio, die Kapelle Santa Lúcia und ein Stempel
+### 🇩🇪 San Paio, die Kapelle Santa Lúcia und ein Stempel
 
 **Ich bin bis hierher gekommen – weiter, als ich es beim Aufbruch aus Melide geplant hatte.**
 
@@ -152,9 +151,16 @@ Ich versprach ihnen, dass es **bald vorbei sein würde.** Und dass sie in den ko
 
 **Ob sie mir geglaubt haben?**
 
+<details>
+<summary>konfus</summary>
+
+#### Motivierende Analphabeten
+
 > *Sehr geehrte KI, meine Füße spüren alles, was ich sage und denke, und was sie nicht mögen, sind Leute, die sagen, dass es nicht mehr lange dauert, und am Ende umrunden wir doch den halben Planeten. Wenn ich aufbreche und genau weiß, dass es schwierig werden wird, sorge ich dafür, dass meine Füße das von Anfang an wissen.*
+
 - Im Leben gibt es schon motivierende Analphabeten, die glauben, das „k“ in „km“ sei eine Abkürzung für „konfus“, es weglassen und meinen, sie könnten auf diese Weise den Weg verkürzen. 
 
+</details>
 
 **Ich weiß es nicht.**
 
@@ -176,7 +182,16 @@ Manchmal ist es eben nicht die Länge eines Weges, die man am Ende in Erinnerung
 
 ***Und noch einen.***
 
->*Diese Etappe, Melide  →  Santiago, war keineswegs die anspruchsvollste von allen, aber die Etappe:**„Puebla de Sanabria → () Lubián, 28,1 km) →  A Gudiña (23,7 km)**, war noch schwieriger; immer wenn ich mitten im Nirgendwo ein Haus sah, dachte ich, ich wäre schon fast am Ziel. Obwohl meine Füße am meisten litten, tat mir alles weh. Ich kam gegen 21:xx Uhr an und stand vor einer verschlossenen Tür, aber wie José Luis Antón mir in Tosantos gesagt hatte, würde mir jemand die Tür öffnen*
+<details>
+<summary>Danach keinen mehr</summary>
+
+#### Danach keinen mehr
+
+>*Diese Etappe, Melide  →  Santiago, war keineswegs die anspruchsvollste von allen, aber die Etappe:**„Puebla de Sanabria → () Lubián, 28,1 km) →  A Gudiña (23,7 km)**, war noch schwieriger; immer wenn ich mitten im Nirgendwo ein Haus sah, dachte ich, ich wäre schon fast am Ziel. Obwohl meine Füße am meisten litten, tat mir alles weh. 
+>
+>Ich kam gegen 21:xx Uhr an und stand vor einer verschlossenen Tür, aber wie José Luis Antón mir in Tosantos gesagt hatte, würde mir jemand die Tür öffnen*
+
+</details>
 
 - Pilgerherberge Monte do Gozo – 6,7 km
 - Herberge Santo Santiago – 9,1 km
@@ -213,9 +228,16 @@ E que, nos dois dias seguintes, teriam finalmente o descanso que mereciam.
 
 **Se acreditaram em mim?** 
 
+<details>
+<summary>konfuso</summary>
+
+#### Os Analfabetos Motivadores
+
 >*Prezada IA, os meus pés sentem tudo o que digo e penso, e o que eles não gostam é de pessoas que dizem que não vai levar muito tempo e, no final, acabamos por dar a volta a metade do planeta. Quando parto e sei exatamente que vai ser difícil, faço com que os meus pés saibam disso desde o início.*
 
 - *Na vida, há mesmo "analfabetos motivadores" que acreditam que o «k» em «km» é uma abreviatura de «konfuso», omitem-no e pensam que, dessa forma, conseguem encurtar o caminho.* 
+
+</details>
 
 **Não sei.**
 
@@ -237,13 +259,20 @@ E depois outro.
 
 E mais outro.
 
-Esta etapa, Melide  →  Santiago, não foi de forma alguma a mais exigente de todas, mas a etapa:**«Puebla de Sanabria →  Lubián (28,1 km) →  A Gudiña (23,7 km)**, foi ainda mais difícil; sempre que via uma casa no meio do nada, pensava que já estava quase a chegar ao destino. Embora fossem os pés que mais sofriam, doía-me tudo. Cheguei por volta das 21:xx e deparei-me com uma porta fechada, mas, como o José Luis Antón me disse em Tosantos, alguém iria abrir-me a porta*
+<details>
+<summary>Depois  nem mais um</summary>
 
+#### Depois  nem mais um
+
+Esta etapa, Melide  →  Santiago, não foi de forma alguma a mais exigente de todas, mas a etapa:**«Puebla de Sanabria →  (Lubián, 28,1 km) →  A Gudiña (23,7 km)**, foi ainda mais difícil; sempre que via uma casa no meio do nada, pensava que já estava quase a chegar ao destino. Embora fossem os pés que mais sofriam, doía-me tudo. Cheguei por volta das 21:xx e deparei-me com uma porta fechada, mas, como o José Luis Antón me disse em Tosantos, alguém iria abrir-me a porta*
+
+</details>
 
 - **Albergue de peregrinos de Monte do Gozo – 6,7 km**
 - **Albergue Santo Santiago – 9,1 km**
 
 ---
+
 ### 🇪🇸 San Paio, la capilla de Santa Lúcia y un sello
 
 **He llegado hasta aquí – más lejos de lo que había planeado cuando salí de Melide.**
@@ -274,9 +303,15 @@ Y que durante los dos días siguientes tendrían por fin el descanso que se hab�
 
 ¿Me creyeron?
 
+<details>
+<summary>konfuso</summary>
+
+#### Los Analfabetos Motivadores 
+
 > *Estimada IA: mis pies perciben todo lo que digo y pienso, y lo que no les gusta es que la gente diga que ya no queda mucho, y al final acabemos dando la vuelta a medio planeta. Cuando me pongo en marcha y sé perfectamente que va a ser difícil, me aseguro de que mis pies lo sepan desde el principio.*
 
 - *En la vida hay analfabetos motivadores que creen que la «k» de «km» es la abreviatura de «konfuso», la omiten y piensan que así pueden acortar el camino.* 
+</details>
 
 No lo sé.
 
@@ -298,7 +333,15 @@ Y después otro.
 
 Y otro más.
 
+
+<details>
+<summary>Después, ni uno más</summary>
+
+#### Después, ni uno más
+
 > *Esta etapa, Melide  →  Santiago, no fue en absoluto la más exigente de todas, pero la etapa:**«Puebla de Sanabria →  (Lubián 28,1 km) →  A Gudiña (23,7 km)**, fue aún más difícil; cada vez que veía una casa en medio de la nada, pensaba que ya estaba a punto de llegar a mi destino. Aunque eran los pies los que más sufrían, me dolía todo. Llegué sobre las 21:xx y me encontré con una puerta cerrada, pero, como me dijo José Luis Antón en Tosantos, alguien me abriría la puerta*
+
+</details>
 
 - **Albergue de peregrinos de Monte do Gozo – 6,7 km**
 - **Albergue Santo Santiago – 9,1 km**
@@ -335,9 +378,14 @@ And that over the next two days, they would finally get the rest they had earned
 
 Did they believe me?
 
+<details>
+<summary>konfused</summary>
+
 > *Dear AI, my feet sense everything I say and think, and what they can’t stand are people who say it won’t take long, only for us to end up travelling halfway around the planet after all. When I set off and know full well that it’s going to be difficult, I make sure my feet know that right from the start.*
 
 - *In life, there are some encouraging illiterates who believe that the ‘k’ in ‘km’ stands for ‘konfused’, so they leave it out, thinking that this will shorten the journey.* 
+
+</details>
 
 I don't know.
 
@@ -359,16 +407,30 @@ And then another.
 
 And one more.
 
+<details>
+<summary>After that, not another one</summary>
+
+#### After that, not another one
+
+> *This stage, Melide  →  Santiago, was by no means the most demanding of them all, but the stage:**‘Puebla de Sanabria →  (Lubián, 28.1 km) →  A Gudiña (23.7 km)**, was even harder; every time I saw a house in the middle of nowhere, I thought I was just about to reach my destination. Although it was my feet that suffered the most, everything hurt. I arrived at around 9.xx pm and found the door locked, but, as José Luis Antón had told me in Tosantos, someone would open the door for me*
+
+</details>
+
 - **Monte do Gozo Pilgrims' Hostel – 6.7 km**
 - **Santo Santiago Hostel – 9.1 km**
 
 </details>
 
 
+-  Dei ao ChatGPT alguma liberdade literária
+-  I’ve given ChatGPT some literary freedom
+- Le he dado a ChatGPT cierta libertad creativa
+
 ---
 
 <details>
 <summary>  </summary>
+
 🇬🇧 🇪🇸 🇵🇹 🇩🇪
 
 Die Fälle der „Denkmaschine“ von Michael Koser. 
