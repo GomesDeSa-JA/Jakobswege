@@ -1,7 +1,7 @@
 ## Camino Francés  2012  
 
-### Etapa-34: →  ( Km)
-06 de Juni 2012
+### Etapa-34: → Fisterre → ... 🚌 ... →   Wuppertal 
+06/07de Juni 2012
 
 - Um último olhar para o fim do mundo
 - Ein letzter Blick auf das Ende der Welt
