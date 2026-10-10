@@ -1,3 +1,6 @@
+
+#### Die Handystrahlung und die Panik um die Risiken
+
 Das ist eine völlig richtige Beobachtung! Das Jahr **2012** (und die Zeit kurz davor) war tatsächlich der absolute **Höhepunkt der medialen Aufmerksamkeit und der öffentlichen Beunruhigung** beim Thema Handystrahlung.
 
 Dass die Sorge damals so extrem präsent war, hatte vor allem **drei konkrete Gründe**:
@@ -25,7 +28,7 @@ Heute – über 10 Jahre später – hat sich die Situation stark beruhigt. Das 
 - **Modernere Technik:** Die Mobilfunknetze und Handys wurden technisch viel besser. Ein modernes Android-Smartphone von heute strahlt beim Telefonieren oft nur noch mit einem Bruchteil der Leistung, die ein Gerät von 2012 benötigte.
 Hier ist die chronologische Übersicht unseres heutigen Gesprächs. Wir haben eine spannende Zeitreise von den Anfängen der Mobilfunkforschung bis zu den filmreifen Erlebnissen mit Ihren eigenen Geräten gemacht:
 
-## ⏱️ Chronik unseres heutigen Gesprächs
+### ⏱️ Chronik unseres heutigen Gesprächs
 
 - Die Anfänge der Forschung (Frühe 1990er):
     
@@ -42,20 +45,18 @@ Hier ist die chronologische Übersicht unseres heutigen Gesprächs. Wir haben ei
     
 - Die Wuppertaler Odyssee & Das Warten auf den "Weihnachtsmann":
     
-    - Die Begegnung mit dem Kollegen Daniel Bamberg und seinem Nokia N95 in Wuppertal-Elberfeld.
+    - Die Begegnung mit dem Kollegen Daniel Bamberg und seinem Nokia N95 .
     - Ihr entschlossener Ausstieg bei der Telekom, die Zeit in den Internetcafés im Bahnhofstunnel (Elberfeld/Barmen) und die Metapher mit dem verschlossenen Kohleofen, durch den das versprochene Handy vom Chef Ihres Bruders Sie nie erreichte.
     
 - Das Samsung Galaxy Note 1 (2012–2020):
     
     - Ihr Kauf im Saturn Elberfeld für den Jakobsweg 2012, weil das Display perfekt für Google Maps war.
     - Die geniale Ära der Wechselakkus, die das Handy 8 Jahre am Leben hielt.
-    - Das wehmütige Ende durch einen Kondenswasserschaden (feucht-kalte Luft) im Winter 2020 in den Schweizer Bergen – und der bittere Verlust der Jakobsweg-Fotos, weil die Micro-SD-Karte verschlüsselt war.
+    - Das wehmütige Ende durch einen Kondenswasserschaden (feucht-kalte Luft) im Winter 2020 in den Schweizer Bergen – und der bittere Verlust der Jakobsweg-und Berg-Fotos, weil die Micro-SD-Karte verschlüsselt war.
     
 - Das Samsung Galaxy A52s 5G & Der Kriminalroman in Portugal:
     
-    - Ihr Wechsel zum modernen, wasserdichten Nachfolger.
+    - Ihr Wechsel zum modernen Nachfolger.
     - Die filmreife Rettungsaktion in Portugal (Viana do Castelo / Âncora Praia), bei der Sie den Dieb mitten in der Nacht durch gezielte Alarme mürbe machten, sodass er das Handy in einer Nebenstraße wegwarf.
     - Die wunderbare Rettungskette durch eine alte Dame, einen aufmerksamen Möbelhändler (der Ihre SMS las) und die Post. Leider verloren Sie auch hier wichtige Fotos, weil die SD-Karte diesmal unverschlüsselt entwendet wurde.
     
-
-Möchten Sie, dass ich Ihnen aus dieser Übersicht einen zusammenhängenden, schön formulierten Text für Ihre persönliche Handy-Chronik erstelle, oder möchten Sie noch das Jahr des Portugal-Abenteuers in der Liste ergänzen?

@@ -74,7 +74,6 @@ Foi assim que fui parar a esta belíssima viela, moldada pela mão humana e deco
 <details>
 <summary>🇪🇸 La Cangosta </summary>
 
-
 #### El callejón que pasé por alto
 
 Caminaba, caminaba y caminaba a lo largo del hermoso paseo marítimo donde se encuentran todos las personas, sin preocuparme demasiado por las flechas amarillas. De repente, una señora me preguntó: "¿A dónde va?". Yo respondí: "Al fin del mundo, a Finisterre". Ella me advirtió que ese era el camino equivocado. Muy amable, me acompañó un tramo y me guió de vuelta a la ruta correcta.
@@ -101,11 +100,7 @@ And that is exactly how I ended up in this beautiful, man-made and nature-adorne
 <details>
 <summary> Quelha , Viela , Congosta (ou Cangosta) </summary>
 
-Nach einer weiteren, sehr technischen Erläuterung dieses Moments habe ich der KI freie Hand gelassen, ihn zu beschreiben
-
->*Das macht die Geschichte umso greifbarer! Die Erinnerungen an den Jakobsweg – vor allem an die Menschen, die einen im richtigen Moment geleitet haben – bleiben oft ein Leben lang glasklar.***
-
->*Hier ist die überarbeitete und erweiterte Version der Erzählung für Ihr Fotobuch. Sie bindet Ihre genauen visuellen Erinnerungen (die zierliche, entschlossene Dame, das Verlassen der Promenade über die Stufen) sowie die ökologische Beschreibung der Mauern wunderschön mit ein.*
+Nach einer weiteren, technischen Erläuterung dieses Moments habe ich der KI freie Hand gelassen, ihn zu beschreiben
 
 #### 🇩🇪 Die übersehene Gasse
 
@@ -117,7 +112,7 @@ Für Fremde, die das dazugehörige Foto der Meeresbucht mit dem Küstendorf nich
 
 ---
 
-Após um esclarecimento adicional e altamente técnico sobre este momento, concedi à IA liberdade criativa para o descrever
+Após um esclarecimento adicional e  técnico sobre este momento, concedi à IA liberdade criativa para o descrever
 
 #### 🇵🇹 A viela que me passou despercebida
 
@@ -129,7 +124,7 @@ Para quem não conhece a outra foto que tirei da baía com a vila costeira, esta
 
 ---
 
-Tras una aclaración adicional y muy técnica sobre este momento, le di a la IA libertad creativa para describirlo
+Tras una aclaración adicional y técnica sobre este momento, le di a la IA libertad creativa para describirlo
 
 #### 🇪🇸 El callejón que pasé por alto
 
@@ -141,7 +136,7 @@ Para quien no conozca la foto panorámica de la bahía y el pueblo costero, esta
 
 ---
 
-Following an additional and highly technical clarification of this moment, I gave the AI creative licence to describe it
+Following an additional and technical clarification of this moment, I gave the AI creative licence to describe it
 #### 🇬🇧 The overlooked lane
 
 It happened back in 2012, but whenever I look at the photo of this lane, the scene comes right back to life. I walked, walked, and walked along the beautiful beach promenade where all the pilgrims meet. I was daydreaming, believing that all I had to do was follow the promenade to reach the end of the world in Finisterre, completely ignoring the yellow arrows.
@@ -151,18 +146,6 @@ Suddenly, an elderly lady—petite but incredibly determined—approached me: "W
 To anyone who hasn't seen my other photo of the coastal village by the bay, this just looks like an ordinary alley. But for me, I know it is just 100 to 200 meters from the sea. The lane is flanked on both sides by property retaining walls about 2.5 meters high. Covered in lush greenery, these walls are a thriving micro-ecosystem—an ideal habitat for reptiles, birds, and insects. A true Congosta (or _Cangosta_), as they say here in Galicia. (Linguistic fun fact: further south, in Viseu, Portugal, the word _Cangosta_ is unknown; if you describe this narrow path between walls to the locals there, they call it a Quelha).
 
 </details>
-
-
-
-**A viela**
-
-1. Termos Regionais e Tradicionais
-
-- **Congosta (ou Cangosta):** É um termo muito comum no norte de Portugal e na Galiza. Define exatamente um caminho público ou viela muito estreita, frequentemente apertada entre muros altos de pedra (geralmente granito) ou entre um muro e uma encosta/terreno elevado. 
-
-- **Quelha:** Outro termo tradicional do norte de Portugal para designar uma ruela ou viela muito estreita e ladeada por muros ou fachadas altas de pedra.
-
-**Trincheira / Via em Trincheira:** Se a viela passa por um corredor escavado onde os dois lados são muito altos (mesmo que um seja o próprio corte do terreno e o outro seja o muro estrutural), os urbanistas chamam essa configuração de "via em trincheira".
 
 ---
 

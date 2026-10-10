@@ -11,7 +11,7 @@
 - **04.06.2012**
 ### Cape Finisterre (Fisterra) – Encounters at the end of the journey
 
-I arrived in Finisterre, tired from this final stage and with the feeling that I had now truly reached the end – though I didn’t really want to face up to it.
+I arrived in Fisterre, tired from this final stage and with the feeling that I had now truly reached the end – though I didn’t really want to face up to it.
 
 #### The Arrival
 
@@ -65,21 +65,22 @@ I told her that it was a decision her son had made for himself. If he had not do
 
 <details>
 <summary>   </summary>
+
 *Another topic we discussed was mobile phone radiation and the associated health risks. As I’ve bought my first mobile phone and have looked into the matter quite thoroughly to understand when risks might arise, I was able to express my views on the subject.*
+
 </details>
 </details>
 
 ---
 
 <details>
-<summary> 🇩🇪 Finisterre </summary>
+<summary> 🇩🇪 Fisterre </summary>
 
 **04.06.2012**
 
-
 ### Kap Finisterre (Fisterra) – Begegnungen am Ende der Reise
 
-Ich kam in Finisterre an, müde von dieser letzten Etappe und mit dem Gefühl, nun wirklich am Ende angekommen zu sein – auch, wenn ich mich dem nicht wirklich stellen wollte.
+Ich kam in Fisterre an, müde von dieser letzten Etappe und mit dem Gefühl, nun wirklich am Ende angekommen zu sein – auch, wenn ich mich dem nicht wirklich stellen wollte.
 
 #### Die Ankunft
 
@@ -131,20 +132,24 @@ Ich sagte ihr, dass es eine Entscheidung sei, die ihr Sohn selbst getroffen habe
 
 <details>
 <summary>   </summary>
-*Ein weiteres Thema, über das wir auc gesprochen haben, war die Strahlung von Mobiltelefonen und die damit verbundenen Gesundheitsrisiken. Da ich mir mein erstes Handy gekauft habe und mich relativ gut damit auseinandergesetzt habe, wann Gefahren bestehen können, konnte ich meine Meinung dazu äußern.*
+
+*Ein weiteres Thema, über das wir auch gesprochen haben, war die Strahlung von Mobiltelefonen und die damit verbundenen Gesundheitsrisiken. Da ich mir mein erstes Handy gekauft habe und mich relativ gut damit auseinandergesetzt habe, wann Gefahren bestehen können, konnte ich meine Meinung dazu äußern.*
+
+[Die-Mobilfunkstrahlung-und-die-Panik-um-die-Risiken](Die-Mobilfunkstrahlung-und-die-Panik-um-die-Risiken.md)
+
 </details>
 </details>
 
 ---
 
 <details>
-<summary>🇪🇸 Finisterre </summary>
+<summary>🇪🇸 Fisterre </summary>
 
 **05.06.2012**
 
 ### Cabo Finisterre (Fisterra) – Encuentros al final del camino
 
-Llegué a Finisterre, cansado  nesta última etapa y con la sensación de que, por fin, había llegado al final, aunque no quería aceptarlo del todo.
+Llegué a Fisterre, cansado  nesta última etapa y con la sensación de que, por fin, había llegado al final, aunque no quería aceptarlo del todo.
 
 #### La llegada
 
@@ -203,13 +208,13 @@ Le dije que era una decisión que su hijo había tomado por sí mismo. Si no lo 
 ---
 
 <details>
-<summary> 🇵🇹 Finisterre </summary>
+<summary> 🇵🇹 Fisterre </summary>
 
 **04.06.2012**
 
 ### Cabo Finisterre (Fisterra) – Encontros no fim do caminho
 
-Cheguei a Finisterre, cansado desta última etapa e com a sensação de que tinha realmente chegado ao fim, algo que, no entanto, não queria aceitar de todo.
+Cheguei a Fisterre, cansado desta última etapa e com a sensação de que tinha realmente chegado ao fim, algo que, no entanto, não queria aceitar de todo.
 
 #### A Chegada
 
@@ -296,7 +301,7 @@ Eu disse-lhe que aquela tinha sido uma decisão tomada pelo próprio filho. Se n
 
 ---
 
-**↪** [Etapa-34_Die-Ruckkehr](Etapa-34_Die-Ruckkehr.md)
+**↪** [Etapa-34_O-Fim](Etapa-34_O-Fim.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
 
