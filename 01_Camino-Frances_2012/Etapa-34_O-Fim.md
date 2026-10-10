@@ -105,10 +105,12 @@ Finisterra guarda o verdadeiro Quilómetro 0,0 do Caminho: não é uma paragem l
 
 ---
 
+### Das Wesen des Erscheinungsbildes
+
 <details>
 <summary>🇩🇪 Eloquenz vs. Kompetenz</summary>
 
-### Eine Beobachtung am ehemaligen Busbahnhof
+#### Eine Beobachtung am ehemaligen Busbahnhof
 
 _Ein Moment, der eine Welt im Wandel einfängt – erlebt auf dem Rückweg vom Camino Francés._
 
@@ -149,7 +151,7 @@ So entsteht ein folgenschwerer Irrtum: Menschen halten ihn für inkompetent oder
 ---
 
 <details>
-<summary>🇵🇹Eloquência vs. Competência</summary>
+<summary>🇵🇹 Eloquência vs. Competência</summary>
 
 #### Uma observação na antiga estação rodoviária
 
@@ -188,9 +190,8 @@ Assim nasce um equívoco com consequências importantes: as pessoas consideram-n
 
 **A eloquência influencia a perceção da competência, mas não é prova dela.**
 
----
-
 </details>
+
 ---
 
 <details>
