@@ -91,12 +91,10 @@ En ese momento tan agradable, le pregunté en mi rudimentario inglés cómo se h
 
 - **Ich hatte die Frage zwar verstanden und richtig beantwortet, wusste aber nicht, was sie tatsächlich bedeutete.**
 
-*Wo nahm das alles eigentlich seinen Anfang? 
-
 <details>
 <summary>Wo nahm das alles eigentlich seinen Anfang? </summary>
 
-In Nájera, in León oder vielleicht schon bei der ersten Planung der Pilgerreise?*
+- **In Nájera, in León oder vielleicht schon bei der ersten Planung der Pilgerreise?***
 
 Tatsächlich beginnt alles mit der Ungewissheit vor dem Start: Welches Wetter erwartet uns? Aus diesem Grund packen wir alles ein, was wir für notwendig halten. Besonders im Jahr 2012 nahmen viele Pilger – mich eingeschlossen – Kleidung für Wetterbedingungen mit, die glücklicherweise gar nicht eintraten. Nach den ersten Etappen wird einem jedoch schnell klar: Wenn man nicht ein paar Kilo loswird, schmilzt man unter der Hitze der Meseta und dem Gewicht des Rucksacks regelrecht dahin. Deshalb schickte ich bereits in Nájera einige Kilo per Post voraus. Eigentlich wollte ich das Paket direkt nach Santiago senden. Da die Post dort Sendungen laut Auskunft aber nur drei Wochen aufbewahrt und ich mehr Zeit brauchte, entschied ich mich für die zentral gelegene Postfiliale in León.
 
@@ -127,10 +125,10 @@ In diesem geselligen Moment fragte ich ihn in meinem rudimentären Englisch, wie
 
 - **Compreendi a pergunta e respondi corretamente, mas não sabia o que ela significava.** 
 
-Onde terá começado tudo isto? Em Nájera, em León ou talvez logo no planeamento da peregrinação?
-
 <details>
 <summary>Onde terá começado tudo isto? </summary>
+
+ - **Em Nájera, em León ou talvez logo no planeamento da peregrinação?**
 
 Na verdade, tudo começa na fase de planeamento e com a incerteza sobre o tempo que nos espera, razão pela qual levamos tudo o que consideramos necessário. Especialmente no ano de 2012, muitos peregrinos, incluindo eu, levaram agasalhos e roupas para condições meteorológicas com as quais, felizmente, nunca nos deparámos. Após algumas etapas, percebe-se que, se não nos livrarmos de alguns quilos, derretemos literalmente sob o calor da Meseta e o peso da mochila. Por isso, em Nájera, enviei alguns quilos por correio. Inicialmente, queria enviar o pacote diretamente para Santiago, mas como os correios de lá só guardavam as encomendas por três semanas, segundo as informações da época, optei pela estação de correios de León, que era central.
 
@@ -162,10 +160,11 @@ Nesse momento de convívio, perguntei-lhe no meu inglês rudimentar como se tinh
 ### 🇬🇧 Understood, but not grasped
 
 - ** I understood the question and answered it correctly, but I didn’t know what it meant.** 
+
 <details>
 <summary>Where did it all actually begin?</summary>
 
-Where did it all actually begin? In Nájera, in León, or perhaps as early as the planning stages of the pilgrimage?
+-  **In Nájera, in León, or perhaps as early as the planning stages of the pilgrimage?**
 
 In truth, it all begins during the planning phase with the uncertainty of what weather awaits us, which is why we pack everything we think might be necessary. Especially back in 2012, many pilgrims—myself included—brought clothing for weather conditions that, fortunately, we never encountered. After a few stages, you quickly realize: if you don’t shed a few pounds, you will literally melt under the heat of the Meseta and the weight of your backpack. That is why I mailed a few kilos ahead while in Nájera. Originally, I wanted to send the package directly to Santiago, but according to the postal information available, they only held packages for three weeks. Since I needed more time, I chose the centrally located post office in León instead.
 
