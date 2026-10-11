@@ -14,7 +14,7 @@ Warum empfehle ich ausgerechnet das Seminario Menor?
 
 Ehrlich gesagt, ich habe keine Ahnung. Ich weiß nur, dass meine Füße mich jedes Mal dorthin tragen, wenn ich in Santiago bin und keine andere Unterkunft gebucht habe. Meistens war es so – und ich glaube, daran wird sich auch in Zukunft nichts ändern.
 
-Eine kleine Anmerkung am Rande: Ich habe tatsächlich schon einmal darüber nachgedacht, ein Wollknäuel mitzunehmen. Je nachdem, wo ich untergebracht war, hatte ich nämlich gelegentlich Schwierigkeiten, in diesem Labyrinth aus unzähligen Gängen den Ausgang wiederzufinden.
+**Eine kleine Anmerkung am Rande:** Ich habe tatsächlich schon einmal darüber nachgedacht, ein Wollknäuel mitzunehmen. Je nachdem, wo ich untergebracht war, hatte ich nämlich gelegentlich Schwierigkeiten, in diesem Labyrinth aus unzähligen Gängen den Ausgang wiederzufinden.
 
 **Warum ein Wollknäuel?**
 
@@ -39,7 +39,7 @@ Mas por que razão recomendo precisamente o Seminario Menor?
 
 Sinceramente, não faço a menor ideia. Só sei que, sempre que estou em Santiago e não tenho outra hospedagem reservada, os meus pés acabam por me levar até lá. Na maioria das vezes, tem sido assim — e acredito que continuará a ser no futuro.
 
-Gostaria de fazer uma pequena observação: já pensei, de facto, em levar um novelo de lã comigo. Dependendo do lugar onde ficava alojado, por vezes tinha alguma dificuldade em encontrar a saída naquele labirinto de corredores sem fim.
+**Gostaria de fazer uma pequena observação:** já pensei, de facto, em levar um novelo de lã comigo. Dependendo do lugar onde ficava alojado, por vezes tinha alguma dificuldade em encontrar a saída naquele labirinto de corredores sem fim.
 
 **Mas por que razão levar um novelo de lã?**
 
@@ -64,7 +64,7 @@ Cuando alguien me pregunta dónde alojarse en Santiago, mi respuesta espontánea
 
 Sinceramente, no tengo ni idea. Solo sé que, cada vez que estoy en Santiago y no tengo otro alojamiento reservado, mis pies terminan llevándome hasta allí. Casi siempre ha sido así, y creo que seguirá siendo así en el futuro.
 
-Quisiera hacer una pequeña observación: de hecho, ya había pensado en llevar conmigo un ovillo de lana. Dependiendo del lugar donde me alojara, a veces me resultaba difícil encontrar la salida en aquel laberinto de innumerables pasillos.
+**Quisiera hacer una pequeña observación:** de hecho, ya había pensado en llevar conmigo un ovillo de lana. Dependiendo del lugar donde me alojara, a veces me resultaba difícil encontrar la salida en aquel laberinto de innumerables pasillos.
 
 - **Pero ¿por qué llevar un ovillo de lana?**
 
@@ -89,7 +89,7 @@ Whenever someone asks me where to stay in Santiago, my spontaneous answer is: �
 
 Honestly, I have no idea. All I know is that whenever I’m in Santiago and haven’t booked accommodation anywhere else, my feet somehow lead me there. That’s how it has worked most of the time, and I have a feeling it will continue to do so in the future.
 
-There’s one little detail I should mention: I’ve actually thought about taking a ball of wool with me. Depending on where I was staying, I occasionally found it rather difficult to find my way out of that maze of endless corridors.
+**There’s one little detail I should mention:** I’ve actually thought about taking a ball of wool with me. Depending on where I was staying, I occasionally found it rather difficult to find my way out of that maze of endless corridors.
 
 - **But why a ball of wool?**
 
@@ -98,8 +98,6 @@ I could think of only one solution, one that had already proved its worth in anc
 **As for the ball of wool,** you’d better forget that idea and rely instead on modern signs and directions, such as “Salida” or “Exit.”
 
 My concern is that if all of us pilgrims started wandering through the corridors with balls of wool, we’d probably end up tangled up in one another’s threads, like a gigantic spider’s web.
-
-Kleine stilistische Anmerkung: Der Schluss funktioniert besonders gut, weil er die antike Sage mit einer alltäglichen Erfahrung in einer verwinkelten Pilgerunterkunft verbindet. Der Humor bleibt selbstironisch und freundlich. Die vier Fassungen sind sinngemäß aufeinander abgestimmt, damit der Charakter des Originals in allen Sprachen erhalten bleibt.
 
 </details>
 

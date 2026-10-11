@@ -34,7 +34,7 @@
 **..., ... .**
 
 
-![](In-einer-Ecke-wie-dieser.webp)
+![](media01/In-einer-Ecke-wie-dieser.webp)
 **Café Tertulia**
 - 🇵🇹 Podia jurar que foi  neste bar que convidei um «hospitalero» americano para tomar uma cerveja e que o alojamento ficava mesmo ali perto.
 -  🇬🇧 I could swear that I treated an American “hospitalero” to a beer in this very bar and that the lodging was right nearby.
