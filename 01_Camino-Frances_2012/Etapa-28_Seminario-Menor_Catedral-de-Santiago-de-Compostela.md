@@ -1,6 +1,6 @@
 ## Camino Francés  2012  
 
-### Etapa-28: Seminario-Menor ←→ Catedral de Santiago de Compostela  ( ca. ←→ 2,6 Km)
+### Etapa-28: Seminario-Menor ←→ Catedral de Santiago de Compostela  ( ca. 2,6 Km)
 01 de Junho 2012
 
 ### 🇩🇪 Seminario Menor
@@ -27,7 +27,6 @@ Meine Befürchtung ist nämlich, dass wir Pilger uns, wenn alle mit einem Wollkn
 </details>
 
 ---
-
 ### 🇵🇹  Seminario Menor
 
 Quando alguém me pergunta onde ficar em Santiago, a minha resposta espontânea é: «No Seminario Menor».
@@ -52,7 +51,6 @@ O meu receio é que, se todos nós, peregrinos, começássemos a percorrer os co
 </details>
 
 ---
-
 ### 🇪🇸  Seminario Menor
 
 Cuando alguien me pregunta dónde alojarse en Santiago, mi respuesta espontánea es: «En el Seminario Menor».
@@ -77,7 +75,6 @@ Mi temor es que, si todos los peregrinos empezáramos a recorrer los pasillos co
 </details>
 
 ---
-
 ### 🇬🇧 Seminario Menor
 
 Whenever someone asks me where to stay in Santiago, my spontaneous answer is: “At the Seminario Menor.”
@@ -100,6 +97,8 @@ I could think of only one solution, one that had already proved its worth in anc
 My concern is that if all of us pilgrims started wandering through the corridors with balls of wool, we’d probably end up tangled up in one another’s threads, like a gigantic spider’s web.
 
 </details>
+
+![](media01/Seminario-Menor-von-%20Norbert-Thies.webp)
 
 ---
 

@@ -3,6 +3,8 @@
 ### Etapa-30: Santiago de Compostela → Negreira ( 20,6 Km)
 02 de Juni 2012
 
+### Man spürt das Ende 
+
 <details>
 <summary>🇩🇪 Auf dem Weg nach Finisterre</summary>
 
@@ -49,7 +51,6 @@ Später bereute ich diese Entscheidung. Der Verzicht war zwar notwendig gewesen,
 Hinter dieser Entscheidung standen wirtschaftliche Zwänge, Lizenzfragen und eine immer schnellere technologische Entwicklung, die dazu führte, dass bestehende Technologien zunehmend rascher veralteten. Die aufgegebene Urlaubswoche war für mich ein notwendiges Übel, um bestimmte Erkenntnisse zu gewinnen. Umso frustrierender war es, dass sie nicht zu dem Ergebnis führte, das ich mir erhofft hatte.
 
 Die Enttäuschung wog umso schwerer, weil ich wusste, dass ich dadurch auch auf eine ruhige, entschleunigte Pilgerreise verzichten musste.
-
 
 <details>
 <summary>Die wirtschaftlichen und technologischen Hintergründe der Entscheidung von 2012</summary>
@@ -155,6 +156,7 @@ Vielleicht liegt gerade darin eine der schwierigsten Erkenntnisse des Lebens: **
 </details>
 
 ---
+### Sente-se o fim
 
 <details>
 <summary>🇵🇹 A caminho de Finisterra</summary>
@@ -202,7 +204,6 @@ Mais tarde, arrependi-me. Embora a renúncia tivesse sido necessária, acabou po
 Por detrás dessa decisão estavam constrangimentos económicos, questões relacionadas com licenças e uma evolução tecnológica cada vez mais rápida, que acelerava a obsolescência das tecnologias existentes. Para mim, abdicar daquela semana foi um mal necessário para chegar a determinadas conclusões. Ainda assim, foi particularmente frustrante perceber que esse sacrifício não tinha conduzido ao resultado que desejava.
 
 A desilusão foi ainda maior porque sabia que teria de abdicar de uma peregrinação tranquila, vivida a um ritmo mais lento.
-
 
 <details>
 <summary>Os antecedentes económicos e tecnológicos da decisão de 2012</summary>
@@ -310,6 +311,7 @@ Talvez resida aí uma das lições mais difíceis da existência: **a sabedoria 
 </details>
 
 ---
+### Se siente el final
 
 <details>
 <summary>🇪🇸 De camino a Finisterre </summary>
@@ -470,6 +472,7 @@ Quizá ahí resida una de las lecciones más difíciles de la existencia: **la s
 </details>
 
 ---
+### You can sense the end
 
 <details>
 <summary>🇬🇧 On the Way to Finisterre</summary>
@@ -517,7 +520,6 @@ I regretted the decision later. Although the sacrifice had been necessary, looki
 The decision was driven by economic pressures, licensing issues and an increasingly rapid pace of technological development, which was accelerating the obsolescence of existing technologies. Giving up that week was a necessary evil that helped me reach certain conclusions. What made it even more frustrating was that the sacrifice did not lead to the outcome I had hoped for.
 
 The disappointment was all the greater because I knew I would also have to give up the prospect of a leisurely, unhurried pilgrimage.
-
 
 <details>
 <summary>The Economic and Technological Background to the 2012 Decision</summary>
@@ -631,27 +633,23 @@ Perhaps this is one of life's most difficult lessons: **wisdom does not protect 
 </details>
 
 ---
-
-<details>
-<summary></summary>
-
-</details>
+### Negreira
 
 ![](media05/20120602-180432.webp)
 
-Als wir ankamen, fand gerade ein Volksfest statt – eine Überraschung und ein Kontrast zu unseren Wandertagen. Wir ließen uns einfach treiben und genossen die Atmosphäre bei einem leckeren Snack und einem Bierchen. 
+🇩🇪 Als wir ankamen, fand gerade ein Volksfest statt – eine Überraschung und ein Kontrast zu unseren Wandertagen. Wir ließen uns einfach treiben und genossen die Atmosphäre bei einem leckeren Snack und einem Bierchen. 
 
 ---
 
-Quando chegámos, estava a decorrer um festival folclórico – uma surpresa e um contraste em relação aos nossos dias de caminhada. Deixámo-nos levar,  aproveitámos simplesmente o ambiente, acompanhados por um petisco delicioso e uma cervejinha.
+🇵🇹 Quando chegámos, estava a decorrer um festival folclórico – uma surpresa e um contraste em relação aos nossos dias de caminhada. Deixámo-nos levar,  aproveitámos simplesmente o ambiente, acompanhados por um petisco delicioso e uma cervejinha.
 
 ---
 
-Cuando llegamos, se estaba celebrando un festival folclórico, toda una sorpresa y un contraste con respecto a nuestros días de caminata. Nos dejamos llevar y simplemente disfrutamos del ambiente, acompañados de un delicioso aperitivo y una cervezita.
+🇪🇸 Cuando llegamos, se estaba celebrando un festival folclórico, toda una sorpresa y un contraste con respecto a nuestros días de caminata. Nos dejamos llevar y simplemente disfrutamos del ambiente, acompañados de un delicioso aperitivo y una cervezita.
 
 ---
 
-When we arrived, a folk festival was taking place – a surprise and a stark contrast to our days of walking. We went with the flow, simply soaking up the atmosphere, accompanied by a delicious snack and a beer.
+🇬🇧 When we arrived, a folk festival was taking place – a surprise and a stark contrast to our days of walking. We went with the flow, simply soaking up the atmosphere, accompanied by a delicious snack and a beer.
 
 ---
 
