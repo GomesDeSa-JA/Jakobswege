@@ -6,13 +6,13 @@
 <details>
 <summary>🇩🇪 Auf dem Weg nach Finisterre</summary>
 
-_Gespräche über den Jakobsweg und Gedanken zu anderen Themen mit Rafael, einem pensionierten Angehörigen der Guardia Civil._
+- _Gespräche über den Jakobsweg und Gedanken zu anderen Themen mit Rafael, einem pensionierten Angehörigen der Guardia Civil._
 
 #### Eine zufällige Begegnung
 
 Es war eine von Hunderten zufälligen Begegnungen, die ich auf meinen Wegen erlebt habe.
 
-Rafael gehörte nicht zu den „Schatten“, denen wir unterwegs immer wieder begegneten. Ich weiß auch nicht mehr, wo er seine Reise begonnen hatte, obwohl ich ziemlich sicher bin, dass er es mir erzählt hatte.
+Rafael gehörte nicht zu den **„Schatten“**, denen wir unterwegs immer wieder begegneten. Ich weiß auch nicht mehr, wo er seine Reise begonnen hatte, obwohl ich ziemlich sicher bin, dass er es mir erzählt hatte.
 
 Auf dieser Etappe begannen wir, über den Camino nachzudenken: über die unglaubliche Unterstützung, die wir von den Hospitaleros und den Menschen entlang des Weges erfahren hatten, aber auch über die Pilger, die für uns weit mehr waren als bloße Schatten, denen wir aus Gewohnheit ein „Buen Camino“ zuriefen. Wir sprachen darüber, was Menschen dazu bewegt, sich auf diese Reise zu begeben.
 
@@ -32,7 +32,7 @@ Ich erinnere mich, dass ich Rafael damals erzählte, auch selbst vor einer Entsc
 
 Ein wesentlicher Grund für meine Pilgerreise war mir zu jener Zeit noch nicht vollständig bewusst: Ich brauchte Raum und Zeit, um Abstand von allem zu gewinnen, was mein Leben mehr als zwanzig Jahre lang geprägt hatte.
 
-Nachdem ich 2011 meinen bis dahin längsten Urlaub in meiner Heimat verbracht hatte, wurde mir klar, dass ich nicht einfach so weitermachen konnte wie bisher.
+Nachdem ich 2011 meinen die letzten-langen Ferien in meiner Heimat verbracht hatte, wurde mir klar, dass ich nicht einfach so weitermachen konnte wie bisher.
 
 Als ich im Fernsehen eine Sendung über den Jakobsweg sah, sagte ich mir: „Genau das habe ich gesucht. Genau das muss ich tun.“
 
@@ -49,6 +49,7 @@ Später bereute ich diese Entscheidung. Der Verzicht war zwar notwendig gewesen,
 Hinter dieser Entscheidung standen wirtschaftliche Zwänge, Lizenzfragen und eine immer schnellere technologische Entwicklung, die dazu führte, dass bestehende Technologien zunehmend rascher veralteten. Die aufgegebene Urlaubswoche war für mich ein notwendiges Übel, um bestimmte Erkenntnisse zu gewinnen. Umso frustrierender war es, dass sie nicht zu dem Ergebnis führte, das ich mir erhofft hatte.
 
 Die Enttäuschung wog umso schwerer, weil ich wusste, dass ich dadurch auch auf eine ruhige, entschleunigte Pilgerreise verzichten musste.
+
 
 <details>
 <summary>Die wirtschaftlichen und technologischen Hintergründe der Entscheidung von 2012</summary>
@@ -105,6 +106,8 @@ Die Kombination aus hohen System- und Anpassungskosten, fehlendem Zugang zu gesc
 
 Es ging nicht einfach darum, ein veraltetes Testsystem durch ein neues zu ersetzen. Gesucht wurde eine langfristig tragfähige Lösung für die Prüfung sicherheitsrelevanter elektronischer Baugruppen – unter technischen, wirtschaftlichen und regulatorischen Bedingungen, die sich nicht ohne Weiteres miteinander vereinbaren ließen.
 
+---
+
 #### Die eigentliche Enttäuschung
 
 Meine größte Enttäuschung bestand nicht allein darin, dass das neue Testboard-System letztlich nicht angeschafft wurde. Viel schwerer wog für mich, dass mir niemand erklärte, warum man sich gegen den Kauf entschieden hatte. Ich war mit einer konkreten Aufgabe nach Süddeutschland gereist, hatte mich mit einer komplexen technischen Fragestellung auseinandergesetzt und versucht, eine Lösung für ein Problem zu finden, das für unser Unternehmen von Bedeutung war. Doch anschließend ließ man mich mit meinen offenen Fragen allein.
@@ -117,11 +120,13 @@ All die Zusammenhänge, die ich heute beschreiben kann, habe ich erst in den dar
 
 Rückblickend war daher nicht allein die gescheiterte Anschaffung enttäuschend. Es war vor allem das Ausbleiben einer Erklärung. Eine Entscheidung kann nachvollziehbar sein, auch wenn man sie persönlich nicht teilt. Doch ohne eine Erklärung bleibt nur die Unsicherheit darüber, ob die eigene Arbeit überhaupt verstanden, berücksichtigt oder ernst genommen wurde.
 
-Man kann eine technische Lösung verwerfen. Was man jedoch nicht unterschätzen sollte, ist die Bedeutung einer ehrlichen Erklärung gegenüber dem Menschen, der beauftragt wurde, diese Lösung zu finden.
+Man kann eine technische Lösung verwerfen. Was man jedoch nicht unterschätzen sollte, ist die Bedeutung einer ehrlichen Erklärung gegenüber dem Menschen, der beauftragt wurde, einen Beitrag zur Lösung zu leisten.
+
+**Das Fazit war ernüchternd: Eine technisch denkbare Lösung war noch lange keine wirtschaftlich, organisatorisch und normativ umsetzbare Lösung.**
 
 </details>
 
-**Das Fazit war ernüchternd: Eine technisch denkbare Lösung war noch lange keine wirtschaftlich, organisatorisch und normativ umsetzbare Lösung.**
+----
 
 #### Die Reaktionen der anderen
 
@@ -154,13 +159,13 @@ Vielleicht liegt gerade darin eine der schwierigsten Erkenntnisse des Lebens: **
 <details>
 <summary>🇵🇹 A caminho de Finisterra</summary>
 
-_Conversas sobre o Caminho de Santiago e reflexões sobre outros temas com Rafael, um antigo membro da Guardia Civil, já reformado._
+- _Conversas sobre o Caminho de Santiago e reflexões sobre outros temas com Rafael, um antigo membro da Guardia Civil, já reformado._
 
 #### Um encontro casual
 
 Foi um dos muitos encontros fortuitos que vivi ao longo dos meus caminhos.
 
-Rafael não fazia parte das «sombras» com que nos cruzávamos repetidamente ao longo do percurso. Também já não me lembro de onde tinha começado a sua viagem, embora esteja quase certo de que me contou.
+Rafael não fazia parte das **«sombras»** com que nos cruzávamos repetidamente ao longo do percurso. Também já não me lembro de onde tinha começado a sua viagem, embora esteja quase certo de que me contou.
 
 Durante esta etapa, começámos a refletir sobre o Caminho: sobre a extraordinária ajuda que tínhamos recebido dos hospitaleros e das pessoas que encontrávamos pelo caminho, mas também sobre os peregrinos que, para nós, eram muito mais do que simples sombras a quem desejávamos um «Buen Camino» por hábito. Falámos sobre as razões que levam as pessoas a partir nesta viagem.
 
@@ -180,7 +185,7 @@ Lembro-me de lhe ter contado que também eu estava perante uma decisão e que n�
 
 Naquela altura, ainda não tinha plena consciência de uma das razões fundamentais da minha peregrinação: precisava de espaço e de tempo para me distanciar de tudo aquilo que tinha marcado a minha vida durante mais de vinte anos.
 
-Depois de ter passado, em 2011, as férias mais longas que até então tinha passado na minha terra natal, percebi que não podia continuar a viver da mesma maneira.
+Depois de ter passado, em 2011, as últimas férias longas na minha terra natal, percebi que não podia continuar a viver da mesma maneira.
 
 Quando vi na televisão um programa sobre o Caminho de Santiago, disse a mim próprio: «Era precisamente isto que procurava. É exatamente isto que tenho de fazer.»
 
@@ -254,6 +259,8 @@ A combinação dos elevados custos do sistema e das adaptações, da falta de ac
 
 Não se tratava simplesmente de substituir um sistema de teste obsoleto por outro mais moderno. Era necessário encontrar uma solução sustentável a longo prazo para testar componentes eletrónicos críticos para a segurança, respeitando simultaneamente condições técnicas, económicas e regulamentares difíceis de conciliar.
 
+---
+
 ## A verdadeira desilusão
 
 A minha maior desilusão não foi apenas o facto de o novo sistema de teste de placas eletrónicas não ter sido adquirido. O que mais me custou foi ninguém me ter explicado por que razão se tinha decidido não avançar com a compra.
@@ -268,7 +275,7 @@ Todos os fatores que hoje consigo descrever só os fui descobrindo ao longo dos 
 
 Olhando para trás, percebo que a desilusão não resultou apenas do fracasso da aquisição. Resultou, sobretudo, da ausência de uma explicação. Uma decisão pode ser compreensível, mesmo quando não concordamos com ela. Mas, sem uma explicação, fica a dúvida sobre se o nosso trabalho foi sequer compreendido, considerado ou levado a sério.
 
-**É possível rejeitar uma solução técnica. O que não se deve subestimar é a importância de dar uma explicação honesta à pessoa a quem foi confiada a tarefa de encontrar essa solução.**
+**É possível rejeitar uma solução técnica. O que não se deve subestimar é a importância de dar uma explicação honesta à pessoa a quem foi confiada a de contribuir para a resolução do problema.**
 
 **A conclusão era desanimadora: uma solução tecnicamente concebível não era necessariamente uma solução viável do ponto de vista económico, organizacional e normativo.**
 
@@ -307,13 +314,13 @@ Talvez resida aí uma das lições mais difíceis da existência: **a sabedoria 
 <details>
 <summary>🇪🇸 De camino a Finisterre </summary>
 
-_Conversaciones sobre el Camino de Santiago y reflexiones sobre otros temas con Rafael, un antiguo miembro de la Guardia Civil, ya jubilado._
+- _Conversaciones sobre el Camino de Santiago y reflexiones sobre otros temas con Rafael, un antiguo miembro de la Guardia Civil, ya jubilado._
 
 #### Un encuentro casual
 
 Fue uno de los cientos de encuentros fortuitos que he vivido a lo largo de mis caminos.
 
-Rafael no pertenecía a las «sombras» con las que nos cruzábamos repetidamente durante el recorrido. Tampoco recuerdo dónde había comenzado su viaje, aunque estoy bastante seguro de que me lo contó.
+Rafael no pertenecía a las **«sombras»** con las que nos cruzábamos repetidamente durante el recorrido. Tampoco recuerdo dónde había comenzado su viaje, aunque estoy bastante seguro de que me lo contó.
 
 Durante esta etapa empezamos a reflexionar sobre el Camino: sobre la extraordinaria ayuda que habíamos recibido de los hospitaleros y de las personas que encontrábamos a lo largo de la ruta, pero también sobre los peregrinos que, para nosotros, eran mucho más que simples sombras a las que deseábamos un «Buen Camino» por costumbre. Hablamos de las razones que llevan a las personas a emprender este viaje.
 
@@ -325,7 +332,7 @@ Cuando llegó el momento, el otro peregrino lo llamó por teléfono. Le explicó
 
 Más tarde, Rafael me contó que aquel hombre estaba atravesando una crisis matrimonial y que había emprendido el Camino de Santiago para tomar distancia, reflexionar y volver a encontrarse consigo mismo.
 
-Rafael se alegró de que su compañero hubiera tomado aquella decisión. Así fue como él y yo terminamos recorriendo juntos toda la etapa y, por recomendación suya, pasamos la noche en el mismo albergue.
+Rafael se alegró de que su compañero hubiera tomado aquella decisión. Así fue como él y yo terminamos recorriendo juntos toda la etapa y, por recomendación suya, pasamos la noche en el mismo albergue.mais
 
 #### Mi propia búsqueda de distancia
 
@@ -333,7 +340,7 @@ Recuerdo haberle contado a Rafael que yo también me encontraba ante una decisi�
 
 En aquel momento todavía no era plenamente consciente de una de las razones fundamentales de mi peregrinación: necesitaba espacio y tiempo para tomar distancia de todo aquello que había marcado mi vida durante más de veinte años.
 
-Después de pasar en 2011 las vacaciones más largas que hasta entonces había disfrutado en mi tierra natal, comprendí que no podía seguir viviendo como hasta ese momento.
+Después de pasar en 2011 las últimas vacaciones largas en mi tierra natal, comprendí que no podía seguir viviendo como hasta ese momento.
 
 Cuando vi en televisión un programa sobre el Camino de Santiago, me dije: «Esto es exactamente lo que estaba buscando. Esto es precisamente lo que tengo que hacer».
 
@@ -407,6 +414,7 @@ La combinación de los elevados costes del sistema y de sus adaptaciones, la fal
 
 El reto no consistía simplemente en sustituir un sistema de pruebas obsoleto por otro más moderno. Se trataba de encontrar una solución sostenible a largo plazo para comprobar componentes electrónicos críticos para la seguridad, cumpliendo al mismo tiempo unos requisitos técnicos, económicos y normativos difíciles de conciliar.
 
+---
 
 ## La verdadera decepción
 
@@ -422,7 +430,7 @@ Todos los factores que hoy puedo describir los fui descubriendo a lo largo de lo
 
 Mirándolo en retrospectiva, mi decepción no se debió únicamente al fracaso de la compra. Se debió, sobre todo, a la ausencia de una explicación. Una decisión puede ser comprensible aunque uno no esté de acuerdo con ella. Pero, sin una explicación, queda la incertidumbre de no saber si el propio trabajo fue siquiera comprendido, tenido en cuenta o tomado en serio.
 
-**Se puede descartar una solución técnica. Lo que no debería subestimarse es la importancia de ofrecer una explicación honesta a la persona a la que se le ha encomendado encontrar esa solución.**
+**Se puede descartar una solución técnica. Lo que no debería subestimarse es la importancia de ofrecer una explicación honesta a la persona a la que se le ha encargado contribuir a la solución.**
 
 Por eso, considero que este apartado debería situarse inmediatamente después de los seis puntos técnicos y económicos y antes de la conclusión final.
 
@@ -435,6 +443,7 @@ Y ahí reside la diferencia fundamental: **ocho años después conseguí reconst
 </details>
 
 ---
+
 #### Las reacciones de los demás
 
 Cuando planifiqué mi siguiente peregrinación, en 2013, decidí añadir dos semanas de vacaciones sin sueldo.
@@ -465,13 +474,13 @@ Quizá ahí resida una de las lecciones más difíciles de la existencia: **la s
 <details>
 <summary>🇬🇧 On the Way to Finisterre</summary>
 
-_Conversations about the Camino de Santiago and reflections on other subjects with Rafael, a retired member of Spain’s Guardia Civil._
+- _Conversations about the Camino de Santiago and reflections on other subjects with Rafael, a retired member of Spain’s Guardia Civil._
 
 #### A Chance Encounter
 
 It was one of hundreds of chance encounters I have experienced along the paths I have travelled.
 
-Rafael was not one of the “shadows” we repeatedly passed along the way. I can no longer remember where he had begun his journey, although I am fairly certain he told me.
+Rafael was not one of the **“shadows”** we repeatedly passed along the way. I can no longer remember where he had begun his journey, although I am fairly certain he told me.
 
 During this stage, we began reflecting on the Camino: on the extraordinary support we had received from hospitaleros and the people we met along the way, but also on the fellow pilgrims who meant far more to us than mere shadows to whom we automatically wished a “Buen Camino”. We talked about the reasons that lead people to embark on this journey.
 
@@ -491,7 +500,7 @@ I remember telling Rafael that I, too, was facing a decision and did not know ex
 
 At the time, I was not yet fully aware of one of the fundamental reasons behind my pilgrimage: I needed space and time to step back from everything that had shaped my life for more than twenty years.
 
-After spending my longest holiday in my homeland in 2011, I realised that I could not carry on living as I had been.
+After spending my  last long holidays  in my homeland in 2011, I realised that I could not carry on living as I had been.
 
 When I saw a television programme about the Camino de Santiago, I said to myself, “This is exactly what I have been looking for. This is exactly what I need to do.”
 
@@ -565,6 +574,8 @@ The combination of high system and adaptation costs, the lack of access to prote
 
 The challenge was not simply to replace an obsolete testing system with a newer one. It was to find a sustainable, long-term solution for testing safety-critical electronic components while meeting technical, economic and regulatory requirements that were difficult to reconcile.
 
+---
+
 #### The Real Disappointment
 
 My greatest disappointment was not simply that the new circuit-board test system was never purchased. What affected me most was that nobody explained why the decision had been made not to buy it.
@@ -579,7 +590,7 @@ I only discovered all the factors I can describe today over the eight years that
 
 Looking back, the disappointment was not caused solely by the failed purchase. Above all, it was caused by the absence of an explanation. A decision can be understandable even when we disagree with it. But without an explanation, we are left wondering whether our work was ever understood, taken into consideration or treated seriously in the first place.
 
-**A technical solution can be rejected. What should never be underestimated, however, is the importance of giving an honest explanation to the person who was entrusted with finding that solution.**
+**A technical solution can be rejected. What should never be underestimated, however, is the importance of giving an honest explanation to the person who has been tasked with helping to find a solution.
 
 For this reason, I believe this passage belongs immediately after the six technical and economic points and before the final conclusion.
 
