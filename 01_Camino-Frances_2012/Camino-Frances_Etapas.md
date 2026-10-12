@@ -137,22 +137,16 @@ Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 02 de junho de 2012
 
 ---
-#### [Etapa-29_Santiago-de-Compostela_Negreira](Etapa-29_Santiago-de-Compostela_Negreira.md)
+#### [Etapa-30_Negreira_Oliveiroa](Etapa-30_Negreira_Oliveiroa.md)
 03 de junho de 2012
 
 ---
-#### [Etapa-30_Negreira_Oliveiroa](Etapa-30_Negreira_Oliveiroa.md)
+#### [Etapa-31_Oliveiroa_Fisterra](Etapa-31_Oliveiroa_Fisterra.md)
 04 de junho de 2012
 
-
 ---
-#### [Etapa-31_Oliveiroa_Fisterra](Etapa-31_Oliveiroa_Fisterra.md)
-05 de junho de 2012
-
----
-
 #### [Etapa-32_Fisterra_Finisterra](Etapa-32_Fisterra_Finisterra.md)
-06 de junho de 2012
+05 de junho de 2012
 
 ---
 #### [Etapa-34_O-Fim](Etapa-34_O-Fim.md)
