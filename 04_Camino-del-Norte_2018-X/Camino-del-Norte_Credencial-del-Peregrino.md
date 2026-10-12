@@ -29,7 +29,7 @@ Tenho que analisar as fotos para saber onde pernoitei
 
 ---
  
-↪ [Readme](Readme.md)
+↪ [Readme](Jakobswege/04_Camino-del-Norte_2018-X/Readme.md)
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  

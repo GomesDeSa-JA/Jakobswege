@@ -20,7 +20,6 @@ Finisterre (galicisch: _Fisterra_) ist für die meisten Pilger heute nur das Zie
 <details>
 <summary>📜</summary>
 
-
 - Das Ende der bekannten Welt (_Finis Terrae_): Vor der Entdeckung Amerikas markierte dieses Kap die absolute Grenze des antiken Europas. Dahinter lag nur das _Mare Tenebrosum_ – das dunkle, unheimliche Meer der Nichtexistenz.
 - Der heidnische Sonnenkult (_Ara Solis_): Lange vor dem Christentum pilgerten Kelten und Römer hierher. Sie verehrten das Kap als heiligen Ort, an dem die Sonne – und damit der Sonnengott – jeden Abend im Atlantik starb, um am nächsten Morgen im Osten wiedergeboren zu werden.
 - Die Verchristlichung des Weges: Die Kirche nutzte diese tiefe Symbolik. Laut Legende zerstörte der Apostel Jakobus persönlich den heidnischen Altar _Ara Solis_. Im mittelalterlichen Pilgerführer _Codex Calixtinus_ (12. Jahrhundert) wurde der Weg an die Küste fest im christlichen Glauben verankert.
@@ -124,7 +123,7 @@ Während er die Rucksäcke im Gepäckraum verstaute, ging ich auf ihn zu und sag
 
 Er antwortete: „Aber wir verstehen uns doch! Ich verstehe ja auch ein bisschen Englisch. Aber ich kann nicht alle Varianten verstehen, und manche ausländischen Akzente sind einfach zu schwer zu verstehen. Außerdem habe ich nicht die Zeit, allen gleichzeitig Auskunft zu geben.“
 
-Dann fügte er etwas Bemerkenswertes hinzu: Etwas zu verstehen sei eine Sache, es aber in einer Sprache zu erklären, die nicht zu den Kernkompetenzen seines Berufs gehöre, sei etwas völlig anderes. Wer es trotzdem versuche und sich dabei falsch ausdrücke, werde schnell für einen Idioten gehalten.
+Dann fügte er etwas Bemerkenswertes hinzu: Etwas zu verstehen sei eine Sache, es aber in einer Sprache zu erklären, die nicht zu den Kernkompetenzen seines Berufs gehöre, sei etwas völlig anderes. Wer es trotzdem versuche und sich dabei falsch ausdrücke, werde schnell **für einen Idioten gehalten.**
 
 #### Eloquenz ist nicht Kompetenz
 
@@ -167,7 +166,7 @@ Enquanto arrumava as mochilas no compartimento de bagagem, aproximei-me dele e d
 
 Ele respondeu: «Mas nós entendemo-nos! Eu também compreendo um pouco de inglês. O problema é que não consigo perceber todas as variantes, e alguns sotaques estrangeiros são simplesmente demasiado difíceis de entender. Além disso, não tenho tempo para dar informações a todos ao mesmo tempo.»
 
-Depois acrescentou algo digno de reflexão: compreender uma língua é uma coisa; explicar algo numa língua que não faz parte das competências essenciais da sua profissão é outra completamente diferente. E quem tenta fazê-lo, mas se exprime mal, corre o risco de ser rapidamente considerado um idiota.
+Depois acrescentou algo digno de reflexão: compreender uma língua é uma coisa; explicar algo numa língua que não faz parte das competências essenciais da sua profissão é outra completamente diferente. E quem tenta fazê-lo, mas se exprime mal, corre o risco de ser **rapidamente considerado um idiota.**
 
 #### A eloquência não é competência
 
@@ -211,7 +210,7 @@ While he was loading the backpacks into the luggage compartment, I approached hi
 
 He replied, “But we understand each other, don't we? I understand a little English myself. The problem is that I can't make sense of every variation, and some foreign accents are simply too difficult to understand. Besides, I don't have time to give everyone information at the same time.”
 
-Then he added something worth thinking about: understanding a language is one thing; explaining something in a language that is not one of the core skills required for his job is quite another. When someone tries and expresses themselves poorly, they can quickly be taken for an idiot.
+Then he added something worth thinking about: understanding a language is one thing; explaining something in a language that is not one of the core skills required for his job is quite another. When someone tries and expresses themselves poorly, they can **quickly be taken for an idiot.**
 
 ### Eloquence Is Not Competence
 
@@ -255,7 +254,7 @@ Mientras colocaba las mochilas en el maletero, me acerqué a él y le dije: «Pe
 
 Él respondió: «¡Pero si nos entendemos! Yo también entiendo un poco de inglés. El problema es que no puedo comprender todas las variantes, y algunos acentos extranjeros son sencillamente demasiado difíciles de entender. Además, no tengo tiempo para informar a todo el mundo al mismo tiempo».
 
-Después añadió algo digno de reflexión: entender una lengua es una cosa; explicar algo en una lengua que no forma parte de las competencias fundamentales de su trabajo es algo completamente distinto. Y quien lo intenta, pero se expresa mal, corre el riesgo de que los demás lo tomen rápidamente por un idiota.
+Después añadió algo digno de reflexión: entender una lengua es una cosa; explicar algo en una lengua que no forma parte de las competencias fundamentales de su trabajo es algo completamente distinto. Y quien lo intenta, pero se expresa mal, corre el riesgo de que los demás **lo tomen rápidamente por un idiota.**
 
 ### La elocuencia no es competencia
 

@@ -115,7 +115,7 @@ DD de MMMM de 20xx
 </details>
 ---
 
-**↪** [Readme](Readme.md)
+**↪** [Readme](Jakobswege/04_Camino-del-Norte_2018-X/Readme.md)
 
 **↪** [Camino-del-Norte_Credencial-del-Peregrino](Camino-del-Norte_Credencial-del-Peregrino.md)
 
