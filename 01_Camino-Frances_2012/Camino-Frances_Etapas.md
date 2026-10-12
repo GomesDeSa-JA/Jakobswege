@@ -163,21 +163,19 @@ Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 #### 
 DD de MMMM de 20xx
 
-
 ---
 <details>
 <summary>  </summary>
-🇵🇹
-🇩🇪
-🇬🇧
-🇪🇸
+🇵🇹 🇩🇪 🇬🇧 🇪🇸
+
 </details>
+
 ---
 
 **↪** [Historical-inventory-of-accommodation](Historical-inventory-of-accommodation.md)
 
 **↪** [Camino-Frances_Credencial-del-Peregrino](Camino-Frances_Credencial-del-Peregrino.md)
 
-🔁 
+**←** 🔁 [Readme](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Readme.md)
 
  ...→

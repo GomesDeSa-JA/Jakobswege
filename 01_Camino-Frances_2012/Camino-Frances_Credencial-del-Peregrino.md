@@ -6,7 +6,6 @@
 
 ![](media01/Carnet-de-Pelerin-de-Saint-Jacques2.webp)
 
-
 ![](media01/Carnet-de-Pelerin-de-Saint-Jacques3.webp)
 
 ![](media01/Carnet-de-Pelerin-de-Saint-Jacques4.webp)
@@ -28,7 +27,7 @@
 
 ---
  
-↪ [Readme]
+**←** 🔁 [Readme](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Readme.md)
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
  
