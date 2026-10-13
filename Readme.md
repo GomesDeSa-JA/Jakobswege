@@ -1,4 +1,4 @@
-### ![](media01/20261013121750.png) Leia-me
+### ![](20261013121750.png) Leia-me
 
 **🇵🇹 Readme / «Leia-me!»:** Este título é um convite à leitura da nossa perspetiva, do nosso ponto de vista e das nossas conclusões sobre as razões ou o sentido de uma iniciativa, de um projeto ou, neste caso, de uma peregrinação.
 
@@ -17,11 +17,11 @@ Mas a verdadeira essência de uma peregrinação sempre esteve ligada ao voto qu
 Aqueles que, apesar de tudo, se lançam nesta aventura e conseguem levá-la até ao fim experimentam uma sensação de felicidade extraordinária, impossível de descrever. E, precisamente no caso dos peregrinos de Santiago, que empreendem a sua viagem seja qual for a razão, não vejo a peregrinação como um caminho de sofrimento, mas como um caminho de consolo e libertação, independentemente do número de bolhas que lhes apareçam nos pés, das condições meteorológicas a que estejam expostos ou das etapas exigentes que tenham de superar.
 
 #### **É precisamente isso que é o Caminho de Santiago.**
-![](media01/20261013130934.png)
+![](20261013130934.png)
 
 ---
 
-### ![](media01/20261013121750.png) Lies mich!
+### ![](20261013121750.png) Lies mich!
 
 **🇩🇪 „Lies mich!:** Dieser Titel ist eine Einladung, unsere Sichtweise, unseren Standpunkt und unsere Schlussfolgerungen zu den Beweggründen oder zum Sinn einer Initiative, eines Projekts oder eben einer Pilgerreise kennenzulernen.
 
@@ -40,11 +40,11 @@ Doch das wahre Wesen einer Pilgerreise war schon immer eng mit dem Gelübde verb
 Diejenigen, die sich trotz aller Hindernisse auf den Weg machen und ihn erfolgreich zu Ende gehen, erleben ein unglaubliches Glücksgefühl, das sich kaum in Worte fassen lässt. Gerade bei den Pilgern nach Santiago, die ihre Reise aus welchen Gründen auch immer antreten, sehe ich die Pilgerreise nicht als einen Weg des Leidens, sondern als einen Weg des Trostes und der Befreiung – unabhängig davon, wie viele Blasen sie an den Füßen bekommen, welchen Wetterbedingungen sie ausgesetzt sind oder welche anstrengenden Etappen sie bewältigen müssen.
 
 #### **Genau das ist der Jakobsweg.**
-![](media01/20261013130934.png)
+![](20261013130934.png)
 
 ---
 
-### ![](media01/20261013121750.png) Léeme!
+### ![](20261013121750.png) Léeme!
 
 ** 🇪🇸 «Léeme!»:** Este título es una invitación a conocer nuestra perspectiva, nuestro punto de vista y nuestras conclusiones sobre las razones o el sentido de una iniciativa, de un proyecto o, en este caso, de una peregrinación.
 
@@ -63,11 +63,11 @@ Pero la verdadera esencia de una peregrinación siempre ha estado vinculada al v
 Quienes, a pesar de todo, se deciden a emprender el viaje y consiguen completarlo experimentan una sensación de felicidad extraordinaria, imposible de describir. Y, precisamente en el caso de los peregrinos que se dirigen a Santiago, sea cual sea el motivo de su viaje, no concibo la peregrinación como un camino de sufrimiento, sino como un camino de consuelo y liberación, independientemente del número de ampollas que les salgan en los pies, de las condiciones meteorológicas a las que estén expuestos o de las etapas exigentes que tengan que superar.
 
  #### **Eso es precisamente el Camino de Santiago.**  
-![](media01/20261013130934.png)
+![](20261013130934.png)
 
 ---
 
-### ![](media01/20261013121750.png) Read me!
+### ![](20261013121750.png) Read me!
 
 **🇬🇧 “Read me!”:** This title is an invitation to discover our perspective, our point of view, and our conclusions regarding the reasons behind or the meaning of an initiative, a project, or, in this case, a pilgrimage.
 
@@ -85,7 +85,7 @@ Yet the true essence of a pilgrimage has always been closely connected to the vo
 
 Those who set out despite all these obstacles and manage to complete their journey experience an incredible feeling of happiness that is impossible to describe. And when it comes to pilgrims travelling to Santiago, whatever their reasons may be, I do not see the pilgrimage as a path of suffering, but rather as a path of comfort and liberation — regardless of how many blisters they develop on their feet, what weather conditions they encounter, or how many demanding stages they have to overcome.
 #### **That is precisely what the Camino de Santiago is all about.**
-![](media01/20261013130934.png)
+![](20261013130934.png)
 
 ---
 
