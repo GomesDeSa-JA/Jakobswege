@@ -154,10 +154,6 @@ Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 
 ---
 
-#### 
-DD de MMMM de 20xx
-
----
 <details>
 <summary>  </summary>
 🇵🇹 🇩🇪 🇬🇧 🇪🇸
