@@ -15,7 +15,7 @@ Já pernoitei aqui três vezes.
 
 Duas vezes na pousada de peregrinos de Ribadiso de Baixo e, desta vez, na pousada «Los Caminantes».
 
-Na penúltima vez (em 2015) que pernoitei no albergue de peregrinos de Ribadiso de Baixo, este estava lotado, e lembro-me de que chegou uma senhora inglesa que também queria fazer uma reserva para o filho, que tinha ficado para trás devido a problemas nos pés (bolhas). 
+Na penúltima vez (em 2014) que pernoitei no albergue de peregrinos de Ribadiso de Baixo, este estava lotado, e lembro-me de que chegou uma senhora inglesa que também queria fazer uma reserva para o filho, que tinha ficado para trás devido a problemas nos pés (bolhas). 
 
 Lá aplicam-se as seguintes regras: quem chega recebe uma cama, desde que haja camas disponíveis. Não é possível fazer reservas antecipadas. 
 
@@ -41,7 +41,7 @@ Ich habe hier bereits dreimal übernachtet.
 
 Zweimal in der Pilgerherberge von Ribadiso de Baixo und dieses Mal in der Herberge «Los Caminantes».  
 
-Als ich das vorletzte Mal (im Jahr 2015) in der Pilgerherberge von Ribadiso de Baixo übernachtet habe, war diese ausgebucht, und ich erinnere mich, dass eine Engländerin ankam, die ebenfalls eine Reservation für ihren Sohn vornehmen wollte, der wegen Fussproblemen (Blasen) zurückgeblieben war. Dort gelten folgende Regeln: Wer ankommt, bekommt ein Bett, sofern Betten verfügbar sind. Vorabreservationen sind nicht möglich. 
+Als ich das vorletzte Mal (im Jahr 2014) in der Pilgerherberge von Ribadiso de Baixo übernachtet habe, war diese ausgebucht, und ich erinnere mich, dass eine Engländerin ankam, die ebenfalls eine Reservation für ihren Sohn vornehmen wollte, der wegen Fussproblemen (Blasen) zurückgeblieben war. Dort gelten folgende Regeln: Wer ankommt, bekommt ein Bett, sofern Betten verfügbar sind. Vorabreservationen sind nicht möglich. 
 
 Die Dame wartete auf ihren Sohn, ohne zu wissen, ob bei seiner Ankunft noch ein Platz für beide frei sein würde.
 
@@ -65,7 +65,7 @@ I’ve stayed here three times already.
 
 Twice at the pilgrims’ hostel in Ribadiso de Baixo and this time at the ‘Los Caminantes’ hostel.
 
-The second-last time I stayed at the pilgrims’ hostel in Ribadiso de Baixo (in 2015), it was fully booked, and I remember an Englishwoman arriving who also wanted to make a booking for her son, who had been left behind due to foot problems (blisters). The following rules apply there: anyone who turns up is given a bed, provided beds are available. Advance bookings are not possible.
+The second-last time I stayed at the pilgrims’ hostel in Ribadiso de Baixo (in 2014), it was fully booked, and I remember an Englishwoman arriving who also wanted to make a booking for her son, who had been left behind due to foot problems (blisters). The following rules apply there: anyone who turns up is given a bed, provided beds are available. Advance bookings are not possible.
 
 The lady was waiting for her son, without knowing whether there would still be a place for both of them when he arrived.
 
@@ -89,7 +89,7 @@ Ya me he alojado aquí tres veces.
 
 Dos veces en el albergue de Ribadiso de Baixo y esta vez en el albergue «Los Caminantes».
 
-La penúltima vez que me alojé (en 2015) en el albergue de Ribadiso de Baixo, estaba completo, y recuerdo que llegó una señora inglesa que también quería hacer una reserva para su hijo, que se había quedado atrás por problemas en los pies (ampollas). Allí se aplican las siguientes normas: quien llega, consigue una cama, siempre que haya camas disponibles. No es posible hacer reservas por adelantado.
+La penúltima vez que me alojé (en 2014) en el albergue de Ribadiso de Baixo, estaba completo, y recuerdo que llegó una señora inglesa que también quería hacer una reserva para su hijo, que se había quedado atrás por problemas en los pies (ampollas). Allí se aplican las siguientes normas: quien llega, consigue una cama, siempre que haya camas disponibles. No es posible hacer reservas por adelantado.
 
 La señora esperaba a su hijo sin saber si, a su llegada, aún quedaría sitio para los dos.
 

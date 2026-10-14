@@ -4,18 +4,16 @@
 ## Camino Francés 2012
 ![](media01/Chemin-Saint-Jacques.webp)
 
-### As Etapas:   →  
+### As Etapas:  Bayonne 🚆 Saint Jean Pied de Port →  
 **04 de Maio  –  06 de Junho 2012**
 
 ---
 #### [Etapa-00_Bayonne_Saint-Jean-Pied-de-Port](Etapa-00_Bayonne_Saint-Jean-Pied-de-Port.md)
 04 de Maio de 2012
 
-
 ---
 #### [Etapa-01_Saint-Jean-Pied-de-Port_Roncesvalles](Etapa-01_Saint-Jean-Pied-de-Port_Roncesvalles.md)
 05 de Maio de 2012
-
 
 ---
 #### [Etapa-02_Roncesvalles_Larrasoana](Etapa-02_Roncesvalles_Larrasoana.md)
@@ -24,8 +22,6 @@
 ---
 #### [Etapa-03_Larrasoana_Pamplona](Etapa-03_Larrasoana_Pamplona.md)
 07 de Maio de 2012
-
-Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 
 ---
 #### [Etapa-04_Pamplona_Puente-la-Reina](Etapa-04_Pamplona_Puente-la-Reina.md)

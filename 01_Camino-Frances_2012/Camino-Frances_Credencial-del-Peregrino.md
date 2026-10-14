@@ -31,7 +31,7 @@
 
  🔁 [Camino-Frances_Etapas](Camino-Frances_Etapas.md)
  
- ![](2026101312175.png)
+ ![](Jakobus-Kreuz2.png)
  ...→
  
  
