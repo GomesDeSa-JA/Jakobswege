@@ -1,6 +1,6 @@
 ## Camino Mozárabe 2014 
 
-### Die Reise : Wuppertal 🚆Düsseldor  ✈️  Malaga 🚌 Almeria ( Km)
+### Die Reise : Wuppertal 🚆Düsseldor  ✈️  Malaga 🚌 Almeria (ca. 2500 Km)
 26 Abril 2014
 
 ---
@@ -8,19 +8,21 @@
 
 Desde o início dos anos 90 que ouvia repetidamente: "Estás sozinho, és livre e podias voar para qualquer lado. Tu podes pagar isso!". Os conhecidos costumavam acrescentar: "Eu não posso pagar isso com a família inteira, por isso, nas férias, só viajamos de carro." Eu respondia sempre: Eu também não tenho dinheiro para um Mercedes ou um BMW – caso contrário, mal me restaria dinheiro para respirar. E, no entanto, os meus conhecidos com os seus carros de luxo pareciam dar-se lindamente.
 
-Contudo, importa dizer que isto só era possível porque as suas esposas faziam grandes sacrifícios. Cuidavam da casa e dos filhos e, mesmo assim, trabalhavam fora. Algumas recebiam ainda apoio dos pais, e o Estado ajudava um pouco com abonos de família e benefícios fiscais. Em contrapartida, os maridos estavam sempre disponíveis como motoristas para os filhos e as esposas. Reservavam a manhã de sábado para polir o carro e pô-lo a brilhar, para poderem levar a família a passear aos sábados à tarde, à missa aos domingos ou de férias. No entanto, só soube de muitos pormenores porque alguns familiares ligavam para o trabalho a pedir ao "motorista pessoal" para passar na padaria porque o pão tinha acabado, ou dizendo: "Podes vir buscar-me? O comboio acabou de passar e deixou-me aqui ao frio." Para mim, isso parecia uma vida de Mercedes e BMW bastante stressante.
+**Contudo**, importa dizer que isto só era possível porque as suas esposas faziam grandes sacrifícios. Cuidavam da casa e dos filhos e, mesmo assim, trabalhavam fora. Algumas recebiam ainda apoio dos pais, e o Estado ajudava um pouco com abonos de família e benefícios fiscais. Em contrapartida, os maridos estavam sempre disponíveis como motoristas para os filhos e as esposas. Reservavam a manhã de sábado para polir o carro e pô-lo a brilhar, para poderem levar a família a passear aos sábados à tarde, à missa aos domingos ou de férias. No entanto, só soube de muitos pormenores porque alguns familiares ligavam para o trabalho a pedir ao "motorista pessoal" para passar na padaria porque o pão tinha acabado, ou dizendo: "Podes vir buscar-me? O comboio acabou de passar e deixou-me aqui ao frio." Para mim, isso parecia uma vida de Mercedes e BMW bastante stressante.
 
-Uma pequena nota de rodapé: alguns colegas com família que tinham o mesmo trabalho dependiam da assistência social. Acabavam por fazer o seu serviço social de motorista familiar num Fiat Panda.
+**Uma pequena nota de rodapé:** alguns colegas com família que tinham o mesmo trabalho dependiam da assistência social. Acabavam por fazer o seu serviço social de motorista familiar num Fiat Panda.
 
 Até esse dia, tinha feito 95% das minhas viagens de autocarro e comboio. No dia a dia, fazia quase tudo a pé. Tenho de admitir, com alguma ironia, que com o desgaste das solas dos meus sapatos poluía o meio ambiente quase tanto como os meus colegas com os pneus dos seus carros.
 
-A preparação da minha viagem
+#### A preparação da minha viagem
 
 Cerca de dois ou três meses antes desta longa peregrinação, informei-me sobre as várias formas de chegar a Almería. Descobri que voar para Málaga e depois apanhar um autocarro para Almería era mais barato do que fazer a viagem toda de autocarro a partir de Düsseldorf – e significativamente mais barato do que o comboio.
 
-Mas como se voa, afinal?
+#### Mas como se voa, afinal?
 
 Tudo o que eu sabia sobre voar vinha do meu tempo de escola primária na minha aldeia. Naquela altura, os carros de bois eram o meio de transporte por excelência para levar os poucos turistas que se perdiam por lá de um lugar para o outro. Lembrava-me especialmente da história daquele antigo grego – que, segundo diziam, era muito jovem – que construiu umas asas. Ao tentar conquistar o céu, aproximou-se demasiado do sol, caiu e partiu os ossos todos. Não eram propriamente memórias motivadoras para enfrentar o meu primeiro voo.
+
+#### O desafio
 
 Pode parecer ridículo hoje em dia, mas enfrentava um desafio enorme. Só tinha estado num terminal de aeroporto duas vezes – no final de maio e início de junho de 1998, no Porto –, nada mais. Como costuma acontecer, os colegas ajudavam mais com conselhos do que com ações. Mas, baseando-me na minha experiência atual, os conselhos foram bastante úteis: "Encomenda simplesmente pela internet!"
 
@@ -44,9 +46,9 @@ Graças a esse cartão, a partir daí pude reservar os meus voos online sem prob
 
 Seit Anfang der 90er-Jahre hörte ich immer wieder: „Du bist allein und frei und könntest überall hinfliegen. Du kannst dir das doch leisten!“ Bekannte ergänzten dann meist noch: „Ich kann mir das mit der ganzen Familie nicht leisten, deshalb fahren wir im Urlaub nur mit dem Auto.“ Ich erwiderte daraufhin immer: Ich kann mir auch keinen Mercedes oder BMW leisten – sonst bliebe mir am Ende kaum mehr als Luft zum Atmen. Und dennoch schien es meinen Bekannten mit ihren Luxusautos blendend zu gehen.
 
-Dazu muss man allerdings sagen: Das war oft nur möglich, weil ihre Frauen große Opfer brachten. Sie kümmerten sich um den Haushalt und die Kinder und gingen trotzdem arbeiten. Einige erhielten zudem Unterstützung von den Eltern, und der Staat half ein wenig mit Kindergeld und Steuervergünstigungen. Im Gegenzug standen die Ehemänner den Kindern und Ehefrauen jederzeit als Chauffeure zur Verfügung. Der Samstagvormittag war dafür reserviert, das Auto auf Hochglanz zu polieren, um die Familie samstagnachmittags zu Ausflügen, sonntags zur Messe oder eben in den Urlaub zu fahren. Viele Details erfuhr ich jedoch nur, weil Familienmitglieder während der Arbeitszeit anriefen und den persönlichen Chauffeur baten: „Kannst du beim Bäcker vorbeifahren, das Brot ist alle?“ oder „Kannst du mich abholen? Der Zug ist gerade an mir vorbeigefahren und hat mich hier in der Kälte stehen lassen.“ Das klang für mich nach einem ziemlich stressigen Mercedes-BMW-Leben.
+**Dazu muss man allerdings sagen:** Das war oft nur möglich, weil ihre Frauen große Opfer brachten. Sie kümmerten sich um den Haushalt und die Kinder und gingen trotzdem arbeiten. Einige erhielten zudem Unterstützung von den Eltern, und der Staat half ein wenig mit Kindergeld und Steuervergünstigungen. Im Gegenzug standen die Ehemänner den Kindern und Ehefrauen jederzeit als Chauffeure zur Verfügung. Der Samstagvormittag war dafür reserviert, das Auto auf Hochglanz zu polieren, um die Familie samstagnachmittags zu Ausflügen, sonntags zur Messe oder eben in den Urlaub zu fahren. Viele Details erfuhr ich jedoch nur, weil Familienmitglieder während der Arbeitszeit anriefen und den persönlichen Chauffeur baten: „Kannst du beim Bäcker vorbeifahren, das Brot ist alle?“ oder „Kannst du mich abholen? Der Zug ist gerade an mir vorbeigefahren und hat mich hier in der Kälte stehen lassen.“ Das klang für mich nach einem ziemlich stressigen Mercedes-BMW-Leben.
 
-Eine kleine Randnotiz: Einige Kollegen mit Familie, die denselben Job hatten, waren sogar auf Sozialhilfe angewiesen. Sie leisteten ihren familiären Fahrdienst dann eben als Sozialdienst mit einem Fiat Panda.
+**Eine kleine Randnotiz:** Einige Kollegen mit Familie, die denselben Job hatten, waren sogar auf Sozialhilfe angewiesen. Sie leisteten ihren familiären Fahrdienst dann eben als Sozialdienst mit einem Fiat Panda.
 
 Bis zu diesem Tag hatte ich 95 % meiner Reisen mit Bus und Bahn zurückgelegt. Im Alltag erledigte ich fast alles zu Fuß. Ich muss leider mit etwas Ironie zugeben, dass ich die Umwelt mit dem Abrieb meiner Schuhsohlen fast genauso stark belastete wie meine Kollegen mit den Reifen ihrer Autos.
 
@@ -57,99 +59,6 @@ Etwa zwei oder drei Monate vor dieser langen Pilgerreise informierte ich mich ü
 #### Aber wie fliegt man eigentlich?
 
 Alles, was ich über das Fliegen wusste, stammte aus meiner Grundschulzeit in meinem Dorf. Damals waren von Ochsen gezogene Karren noch das Hauptverkehrsmittel, um die wenigen Touristen, die sich dorthin verirrten, von einem Ort zum anderen zu bringen. Besonders im Gedächtnis geblieben war mir die Geschichte von dem alten Griechen – der, wie man sagt, noch sehr jung war –, der sich Flügel wachsen ließ. Beim Versuch, den Himmel zu erobern, kam er der Sonne zu nahe, stürzte ab und brach sich alle Knochen. Das waren nicht gerade motivierende Erinnerungen, um meinen ersten Flug in Angriff zu nehmen.
-
-Es mag heute lächerlich klingen, aber ich stand vor einer enormen Herausforderung. Ich war zuvor erst zweimal in einer Flughafenhalle gewesen – Ende Mai und Anfang Juni 1998 in Porto –, mehr nicht. Wie so oft standen mir die Kollegen eher mit guten Ratschlägen als mit Taten zur Seite. Aus heutiger Sicht waren ihre Tipps aber durchaus nützlich: „Bestell doch einfach über das Internet!“
-
-Da ich mich Ende 2011 technisch ein wenig auf den neuesten Stand gebracht hatte, um der Zivilisation ein Stück näherzukommen, besaß ich tatsächlich einen Internetanschluss. Als es dann so weit war, verlangte das System jedoch eine Kreditkarte. Ich fragte mich: Wer hat so etwas und wozu braucht man das? Ist das auch so ein Internet-Ding? Da mir alles über den Kopf wuchs und ich ohnehin den Weg zum Düsseldorfer Flughafen auskundschaften musste, beschloss ich, direkt vor Ort nachzufragen. Die mussten es ja ganz bestimmt wissen.
-
-Plötzlich stand ich einer sehr freundlichen Mitarbeiterin der Fluggesellschaft gegenüber, die mehrere Sprachen sprach. Sie erklärte mir alles geduldig auf Portugiesisch und buchte den Flug für mich. Nachdem ich zu meiner Bank gegangen war und die Überweisung getätigt hatte, erhielt ich per Post das erste Flugticket meines Lebens.
-
-Am frühen Morgen des Samstags, den 26. April 2014, stand mir einer der aufregendsten Tage meines Lebens bevor. Ich wollte endlich wissen, wie es sich anfühlt, über den Wolken zu fliegen. Gleichzeitig war es der Beginn einer Pilgerreise auf einem der längsten und anspruchsvollsten Jakobswege Spaniens.
-
-#### Die Enttäuschung
-
-Als ich schließlich das Flugzeug betrat und mich hinsetzte, machte sich Enttäuschung breit. Alles wirkte seltsam vertraut. Diese Atmosphäre kannte ich bereits aus den irdischen Verkehrsmitteln. Schlimmer noch: Ich saß in einer der vorderen Reihen auf einem Platz ohne Fenster. Obwohl ich mich über den Wolken befand, konnte ich den Himmel nicht sehen. Im Bus wäre mir so etwas nicht passiert.
-
-Nach dieser Erfahrung besorgte ich mir eine Kreditkarte. Das dazugehörige Kreditinstitut wechselte im Laufe der Zeit so oft den Besitzer oder zog von einem Land ins andere, dass ich schließlich Kontonummern in Ländern besaß, in denen ich noch nie zuvor gewesen war. Aber es hat wunderbar funktioniert: Die Abhebung des Geldes wurde mir auf dem Handy angezeigt, noch bevor die Fluggesellschaft mir die eigentliche Flugbuchung bestätigt hatte.
-
-Dank dieser Karte konnte ich fortan meine Flüge problemlos online buchen und meinen Sitzplatz selbst wählen. Seitdem habe ich so viele Fotos über den Wolken gemacht, dass ich damit den gesamten Himmel tapezieren könnte.
-
----
-#### 🇪🇸 Mi primer vuelo: ¿cómo funciona esto?
-
-Desde principios de los noventa escuchaba una y otra vez: "Estás solo, eres libre y podrías volar a cualquier parte. ¡Tú te lo puedes permitir!". Mis conocidos solían añadir: "Yo no me lo puedo permitir con toda la familia, por eso en vacaciones solo viajamos en coche". Yo les respondía siempre: Tampoco yo puedo permitirme un Mercedes o un BMW, ya que de lo contrario apenas me quedaría dinero para respirar. Y sin embargo, a mis conocidos con sus coches de lujo parecía irles de maravilla.
-
-Hay que decir, no obstante, que esto solo era posible porque sus esposas hacían grandes sacrificios. Se encargaban de la casa y de los niños y, aun así, trabajaban fuera. Algunas recibían además apoyo de sus padres, y el Estado ayudaba un poco con subsidios familiares y ventajas fiscales. A cambio, los maridos estaban siempre disponibles como chóferes para sus hijos y esposas. Reservaban la mañana del sábado para abrillantar el coche y poder llevar a la familia de excursión los sábados por la tarde, a misa los domingos o de vacaciones. Sin embargo, me enteraba de muchos detalles porque algunos llamaban al trabajo pidiendo al "chófer personal" que pasara por la panadería porque se había acabado el pan, o diciendo: "¿Puedes recogerme? El tren acaba de pasar de largo y me ha dejado aquí tirado en el frío". Para mí, eso sonaba a una vida de Mercedes y BMW bastante estresante.
-
-Una pequeña nota al margen: algunos compañeros con familia que tenían el mismo trabajo dependían de la asistencia social. Ellos tenían que hacer su servicio social de chófer familiar en un Fiat Panda.
-
-Hasta ese día, había realizado el 95% de mis viajes en autobús y tren. En el día a día, hacía casi todo a pie. Debo admitir, con cierta ironía, que con el desgaste de las suelas de mis zapatos contaminaba el medio ambiente casi tanto como mis colegas con los neumáticos de sus coches.
-
-#### La preparación de mi viaje
-
-Unos dos o tres meses antes de esta larga peregrinación, me informé sobre las diferentes opciones para llegar a Almería. Descubrí que volar a Málaga y luego tomar un autobús a Almería era más barato que hacer el viaje en autobús desde Düsseldorf, y notablemente más barato que ir en tren.
-
-#### Pero, ¿cómo se vuela realmente?
-
-Todo lo que sabía sobre volar procedía de mis tiempos de escuela primaria en mi pueblo. Por aquel entonces, los carros tirados por bueyes eran el medio de transporte por excelencia para llevar a los pocos turistas que se perdían por allí de un lugar a otro. Recordaba especialmente la historia de aquel antiguo griego —que, según decían, era muy joven— que construyó unas alas. Al intentar conquistar el cielo, se acercó demasiado al sol, se cayó y se rompió todos los huesos. No eran precisamente recuerdos motivadores para afrontar mi primer vuelo.
-
-Puede sonar ridículo hoy en día, pero me enfrentaba a un desafío enorme. Solo había estado en la terminal de un aeropuerto dos veces —a finales de mayo y principios de junio de 1998 en Oporto—, nada más. Como suele ocurrir, los compañeros ayudaban más con consejos que con acciones. Desde mi experiencia actual, sus consejos fueron bastante útiles: "¡Pídelo simplemente por internet!".
-
-Como a finales de 2011 me había modernizado un poco para acercarme a la civilización, ya tenía internet en casa. Sin embargo, cuando llegó el momento de pagar, el sistema me pidió una tarjeta de crédito. Me pregunté: ¿quién tiene algo así y para qué se necesita? ¿Es otra de esas cosas de internet? Como todo me superaba y además tenía que estudiar la ruta hacia el aeropuerto de Düsseldorf, decidí ir directamente allí a preguntar. Ellos seguro que sabían cómo funcionaba todo.
-
-De repente, me encontré ante una empleada de la aerolínea muy amable que hablaba varios idiomas. Me lo explicó todo perfectamente en portugués y me reservó el vuelo. Fui a mi banco, hice la transferencia y poco después recibí por correo el primer billete de avión de mi vida.
-
-La mañana del sábado 26 de abril de 2014 amaneció como uno de los días más emocionantes de mi vida. Quería saber qué se sentía al volar por encima de las nubes y, al mismo tiempo, estaba a punto de comenzar una peregrinación en uno de los Caminos de Santiago más largos y exigentes de España.
-
-#### La decepción
-
-Cuando por fin subí al avión y me senté, me invadió la decepción. Todo me resultaba extrañamente familiar; ya conocía ese ambiente por los medios de transporte terrestres. Peor aún: me tocó un asiento en las filas delanteras sin ventana. Aunque estaba por encima de las nubes, no podía ver el cielo. En el autobús no me habría pasado esto.
-
-Tras esta experiencia, conseguí una tarjeta de crédito. La entidad financiera cambió tanto de dueño y de país a lo largo del tiempo que acabé teniendo números de cuenta en países en los que nunca había estado. Pero funcionó de maravilla: la notificación de la retirada del dinero me llegaba al móvil más rápido de lo que la aerolínea tardaba en confirmarme la reserva del vuelo.
-
-Gracias a esa tarjeta, a partir de entonces pude reservar mis vuelos online sin problemas y elegir mi asiento. Desde entonces, he hecho tantas fotos por encima de las nubes que podría empapelar el cielo entero con ellas.
-
----
-
-
-#### 🇬🇧 My first flight – how does it actually work?
-
-Since the early 90s, I kept hearing the same thing: "You are single, free, and could fly anywhere. You can easily afford it!" Acquaintances would then usually add: "I can't afford that with a whole family, which is why we only travel by car on holiday." I always replied: I can't afford a Mercedes or a BMW either – otherwise, I’d barely have enough money left to breathe. And yet, my acquaintances with their luxury cars seemed to be doing wonderfully.
-
-However, it must be said that this was often only possible because their wives made great sacrifices. They took care of the household and the children, and still went to work. Some also received support from their parents, and the state helped a little with child benefits and tax breaks. In return, the husbands were always available as chauffeurs for their children and wives. Saturday morning was reserved for polishing the car to a high gloss, so they could take the family on outings on Saturday afternoons, to Mass on Sundays, or away on holiday. Yet, I only found out about many details because family members would call work, asking the "personal chauffeur" to stop by the bakery because they ran out of bread, or saying, "Can you pick me up? The train just passed me by and left me standing here in the cold." To me, that sounded like a rather stressful Mercedes-BMW life.
-
-A small side note: some colleagues with families who had the same job depended on social welfare. They had to perform their family chauffeur duties as a form of social service in a Fiat Panda.
-
-Until that day, I had travelled 95% of the time by bus and train. In everyday life, I did almost everything on foot. Ironically, I must admit that the wear and tear of my shoe soles probably polluted the environment almost as much as my colleagues' car tyres.
-
-#### The preparation for my journey
-
-About two or three months before this long pilgrimage, I looked into the various options for getting to Almería. I found out that flying to Málaga and then taking a bus to Almería was cheaper than taking a bus all the way from Düsseldorf – and significantly cheaper than the train.
-
-#### But how do you actually fly?
-
-Everything I knew about flying came from my primary school days in my village. Back then, ox carts were still the main mode of transport for taking the few tourists who got lost there from one place to another. I particularly remembered the story of the ancient Greek guy – who, they said, was still very young – who grew himself wings. In trying to conquer the sky, he flew too close to the sun, crashed, and broke every bone in his body. Those were not exactly motivating memories to tackle my first flight.
-
-It may sound ridiculous today, but I was facing a huge challenge. I had only been inside an airport terminal twice before – at the end of May and beginning of June 1998 in Porto – nothing more. As is so often the case, colleagues were quicker to offer advice than actual help. Looking back, however, their tips were quite useful: "Just order it online!"
-
-Since I had modernised myself a bit at the end of 2011 to get closer to civilisation, I actually had an internet connection. However, when the time came to pay, the system required a credit card. I asked myself: who has such a thing, and why do you need it? Is that another one of those internet things? Since it was all getting too much for me, and I had to study the route to Düsseldorf Airport anyway, I decided to go straight there and ask. They were bound to know how it all worked.
-
-Suddenly, I found myself face-to-face with a very friendly airline employee who spoke several languages. She explained everything perfectly to me in Portuguese and booked the flight for me. After I went to my bank and made the transfer, I received the first plane ticket of my life in the post.
-
-Early in the morning on Saturday, 26 April 2014, I was facing one of the most exciting days of my life. I finally wanted to know what it felt like to fly above the clouds. At the same time, I was about to begin a pilgrimage on one of the longest and most demanding St. James' Ways in Spain.
-
-#### The disappointment
-
-When I finally boarded the plane and sat down, disappointment washed over me. Everything felt strangely familiar; I already knew this atmosphere from terrestrial public transport. Worse still, I was sitting in one of the front rows in a seat without a window. Even though I was above the clouds, I couldn't see the sky. That wouldn't have happened to me on a bus.
-
-After this experience, I got myself a credit card. Over time, the financial institution changed owners or moved from country to country so much that I ended up with account numbers in countries I had never been to before. But it worked wonderfully: the notification of the money withdrawal reached my phone faster than the airline could confirm my flight booking.
-
-Thanks to that card, I could easily book my flights online from then on and choose my own seat. Since then, I have taken so many photos above the clouds that I could wallpaper the entire sky with them.
-
-
-
-
----
 
 <details>
 <summary>Wie hieß dieser alte Grieche noch mal? Es gab einfach zu viele…</summary>
@@ -176,7 +85,114 @@ Die Geschichte ist ein klassisches Beispiel für **Hybris** (göttlicher beziehu
 
 </details>
 
+#### Die Herausforderung
+
+Es mag heute lächerlich klingen, aber ich stand vor einer enormen Herausforderung. Ich war zuvor erst zweimal in einer Flughafenhalle gewesen – Ende Mai und Anfang Juni 1998 in Porto –, mehr nicht. Wie so oft standen mir die Kollegen eher mit guten Ratschlägen als mit Taten zur Seite. Aus heutiger Sicht waren ihre Tipps aber durchaus nützlich: „Bestell doch einfach über das Internet!“
+
+Da ich mich Ende 2011 technisch ein wenig auf den neuesten Stand gebracht hatte, um der Zivilisation ein Stück näherzukommen, besaß ich tatsächlich einen Internetanschluss. Als es dann so weit war, verlangte das System jedoch eine Kreditkarte. Ich fragte mich: Wer hat so etwas und wozu braucht man das? Ist das auch so ein Internet-Ding? Da mir alles über den Kopf wuchs und ich ohnehin den Weg zum Düsseldorfer Flughafen auskundschaften musste, beschloss ich, direkt vor Ort nachzufragen. Die mussten es ja ganz bestimmt wissen.
+
+Plötzlich stand ich einer sehr freundlichen Mitarbeiterin der Fluggesellschaft gegenüber, die mehrere Sprachen sprach. Sie erklärte mir alles geduldig auf Portugiesisch und buchte den Flug für mich. Nachdem ich zu meiner Bank gegangen war und die Überweisung getätigt hatte, erhielt ich per Post das erste Flugticket meines Lebens.
+
+Am frühen Morgen des Samstags, den 26. April 2014, stand mir einer der aufregendsten Tage meines Lebens bevor. Ich wollte endlich wissen, wie es sich anfühlt, über den Wolken zu fliegen. Gleichzeitig war es der Beginn einer Pilgerreise auf einem der längsten und anspruchsvollsten Jakobswege Spaniens.
+
+#### Die Enttäuschung
+
+Als ich schließlich das Flugzeug betrat und mich hinsetzte, machte sich Enttäuschung breit. Alles wirkte seltsam vertraut. Diese Atmosphäre kannte ich bereits aus den irdischen Verkehrsmitteln. Schlimmer noch: Ich saß in einer der vorderen Reihen auf einem Platz ohne Fenster. Obwohl ich mich über den Wolken befand, konnte ich den Himmel nicht sehen. Im Bus wäre mir so etwas nicht passiert.
+
+Nach dieser Erfahrung besorgte ich mir eine Kreditkarte. Das dazugehörige Kreditinstitut wechselte im Laufe der Zeit so oft den Besitzer oder zog von einem Land ins andere, dass ich schließlich Kontonummern in Ländern besaß, in denen ich noch nie zuvor gewesen war. Aber es hat wunderbar funktioniert: Die Abhebung des Geldes wurde mir auf dem Handy angezeigt, noch bevor die Fluggesellschaft mir die eigentliche Flugbuchung bestätigt hatte.
+
+Dank dieser Karte konnte ich fortan meine Flüge problemlos online buchen und meinen Sitzplatz selbst wählen. Seitdem habe ich so viele Fotos über den Wolken gemacht, dass ich damit den gesamten Himmel tapezieren könnte.
+
 ---
+#### 🇪🇸 Mi primer vuelo: ¿cómo funciona esto?
+
+Desde principios de los noventa escuchaba una y otra vez: "Estás solo, eres libre y podrías volar a cualquier parte. ¡Tú te lo puedes permitir!". Mis conocidos solían añadir: "Yo no me lo puedo permitir con toda la familia, por eso en vacaciones solo viajamos en coche". Yo les respondía siempre: Tampoco yo puedo permitirme un Mercedes o un BMW, ya que de lo contrario apenas me quedaría dinero para respirar. Y sin embargo, a mis conocidos con sus coches de lujo parecía irles de maravilla.
+
+**Hay que decir,** no obstante, que esto solo era posible porque sus esposas hacían grandes sacrificios. Se encargaban de la casa y de los niños y, aun así, trabajaban fuera. Algunas recibían además apoyo de sus padres, y el Estado ayudaba un poco con subsidios familiares y ventajas fiscales. A cambio, los maridos estaban siempre disponibles como chóferes para sus hijos y esposas. Reservaban la mañana del sábado para abrillantar el coche y poder llevar a la familia de excursión los sábados por la tarde, a misa los domingos o de vacaciones. Sin embargo, me enteraba de muchos detalles porque algunos llamaban al trabajo pidiendo al "chófer personal" que pasara por la panadería porque se había acabado el pan, o diciendo: "¿Puedes recogerme? El tren acaba de pasar de largo y me ha dejado aquí tirado en el frío". Para mí, eso sonaba a una vida de Mercedes y BMW bastante estresante.
+
+**Una pequeña nota al margen:** algunos compañeros con familia que tenían el mismo trabajo dependían de la asistencia social. Ellos tenían que hacer su servicio social de chófer familiar en un Fiat Panda.
+
+Hasta ese día, había realizado el 95% de mis viajes en autobús y tren. En el día a día, hacía casi todo a pie. Debo admitir, con cierta ironía, que con el desgaste de las suelas de mis zapatos contaminaba el medio ambiente casi tanto como mis colegas con los neumáticos de sus coches.
+
+#### La preparación de mi viaje
+
+Unos dos o tres meses antes de esta larga peregrinación, me informé sobre las diferentes opciones para llegar a Almería. Descubrí que volar a Málaga y luego tomar un autobús a Almería era más barato que hacer el viaje en autobús desde Düsseldorf, y notablemente más barato que ir en tren.
+
+#### Pero, ¿cómo se vuela realmente?
+
+Todo lo que sabía sobre volar procedía de mis tiempos de escuela primaria en mi pueblo. Por aquel entonces, los carros tirados por bueyes eran el medio de transporte por excelencia para llevar a los pocos turistas que se perdían por allí de un lugar a otro. Recordaba especialmente la historia de aquel antiguo griego —que, según decían, era muy joven— que construyó unas alas. Al intentar conquistar el cielo, se acercó demasiado al sol, se cayó y se rompió todos los huesos. No eran precisamente recuerdos motivadores para afrontar mi primer vuelo.
+
+#### Un desafío 
+
+Puede sonar ridículo hoy en día, pero me enfrentaba a un desafío enorme. Solo había estado en la terminal de un aeropuerto dos veces —a finales de mayo y principios de junio de 1998 en Oporto—, nada más. Como suele ocurrir, los compañeros ayudaban más con consejos que con acciones. Desde mi experiencia actual, sus consejos fueron bastante útiles: "¡Pídelo simplemente por internet!".
+
+Como a finales de 2011 me había modernizado un poco para acercarme a la civilización, ya tenía internet en casa. Sin embargo, cuando llegó el momento de pagar, el sistema me pidió una tarjeta de crédito. Me pregunté: ¿quién tiene algo así y para qué se necesita? ¿Es otra de esas cosas de internet? Como todo me superaba y además tenía que estudiar la ruta hacia el aeropuerto de Düsseldorf, decidí ir directamente allí a preguntar. Ellos seguro que sabían cómo funcionaba todo.
+
+De repente, me encontré ante una empleada de la aerolínea muy amable que hablaba varios idiomas. Me lo explicó todo perfectamente en portugués y me reservó el vuelo. Fui a mi banco, hice la transferencia y poco después recibí por correo el primer billete de avión de mi vida.
+
+La mañana del sábado 26 de abril de 2014 amaneció como uno de los días más emocionantes de mi vida. Quería saber qué se sentía al volar por encima de las nubes y, al mismo tiempo, estaba a punto de comenzar una peregrinación en uno de los Caminos de Santiago más largos y exigentes de España.
+
+#### La decepción
+
+Cuando por fin subí al avión y me senté, me invadió la decepción. Todo me resultaba extrañamente familiar; ya conocía ese ambiente por los medios de transporte terrestres. Peor aún: me tocó un asiento en las filas delanteras sin ventana. Aunque estaba por encima de las nubes, no podía ver el cielo. En el autobús no me habría pasado esto.
+
+Tras esta experiencia, conseguí una tarjeta de crédito. La entidad financiera cambió tanto de dueño y de país a lo largo del tiempo que acabé teniendo números de cuenta en países en los que nunca había estado. Pero funcionó de maravilla: la notificación de la retirada del dinero me llegaba al móvil más rápido de lo que la aerolínea tardaba en confirmarme la reserva del vuelo.
+
+Gracias a esa tarjeta, a partir de entonces pude reservar mis vuelos online sin problemas y elegir mi asiento. Desde entonces, he hecho tantas fotos por encima de las nubes que podría empapelar el cielo entero con ellas.
+
+---
+
+#### 🇬🇧 My first flight – how does it actually work?
+
+Since the early 90s, I kept hearing the same thing: "You are single, free, and could fly anywhere. You can easily afford it!" Acquaintances would then usually add: "I can't afford that with a whole family, which is why we only travel by car on holiday." I always replied: I can't afford a Mercedes or a BMW either – otherwise, I’d barely have enough money left to breathe. And yet, my acquaintances with their luxury cars seemed to be doing wonderfully.
+
+**However**, it must be said that this was often only possible because their wives made great sacrifices. They took care of the household and the children, and still went to work. Some also received support from their parents, and the state helped a little with child benefits and tax breaks. In return, the husbands were always available as chauffeurs for their children and wives. Saturday morning was reserved for polishing the car to a high gloss, so they could take the family on outings on Saturday afternoons, to Mass on Sundays, or away on holiday. Yet, I only found out about many details because family members would call work, asking the "personal chauffeur" to stop by the bakery because they ran out of bread, or saying, "Can you pick me up? The train just passed me by and left me standing here in the cold." To me, that sounded like a rather stressful Mercedes-BMW life.
+
+**A small side note:** some colleagues with families who had the same job depended on social welfare. They had to perform their family chauffeur duties as a form of social service in a Fiat Panda.
+
+Until that day, I had travelled 95% of the time by bus and train. In everyday life, I did almost everything on foot. Ironically, I must admit that the wear and tear of my shoe soles probably polluted the environment almost as much as my colleagues' car tyres.
+
+#### The preparation for my journey
+
+About two or three months before this long pilgrimage, I looked into the various options for getting to Almería. I found out that flying to Málaga and then taking a bus to Almería was cheaper than taking a bus all the way from Düsseldorf – and significantly cheaper than the train.
+
+#### But how do you actually fly?
+
+Everything I knew about flying came from my primary school days in my village. Back then, ox carts were still the main mode of transport for taking the few tourists who got lost there from one place to another. I particularly remembered the story of the ancient Greek guy – who, they said, was still very young – who grew himself wings. In trying to conquer the sky, he flew too close to the sun, crashed, and broke every bone in his body. Those were not exactly motivating memories to tackle my first flight.
+
+#### The challenge
+
+It may sound ridiculous today, but I was facing a huge challenge. I had only been inside an airport terminal twice before – at the end of May and beginning of June 1998 in Porto – nothing more. As is so often the case, colleagues were quicker to offer advice than actual help. Looking back, however, their tips were quite useful: "Just order it online!"
+
+Since I had modernised myself a bit at the end of 2011 to get closer to civilisation, I actually had an internet connection. However, when the time came to pay, the system required a credit card. I asked myself: who has such a thing, and why do you need it? Is that another one of those internet things? Since it was all getting too much for me, and I had to study the route to Düsseldorf Airport anyway, I decided to go straight there and ask. They were bound to know how it all worked.
+
+Suddenly, I found myself face-to-face with a very friendly airline employee who spoke several languages. She explained everything perfectly to me in Portuguese and booked the flight for me. After I went to my bank and made the transfer, I received the first plane ticket of my life in the post.
+
+Early in the morning on Saturday, 26 April 2014, I was facing one of the most exciting days of my life. I finally wanted to know what it felt like to fly above the clouds. At the same time, I was about to begin a pilgrimage on one of the longest and most demanding St. James' Ways in Spain.
+
+#### The disappointment
+
+When I finally boarded the plane and sat down, disappointment washed over me. Everything felt strangely familiar; I already knew this atmosphere from terrestrial public transport. Worse still, I was sitting in one of the front rows in a seat without a window. Even though I was above the clouds, I couldn't see the sky. That wouldn't have happened to me on a bus.
+
+After this experience, I got myself a credit card. Over time, the financial institution changed owners or moved from country to country so much that I ended up with account numbers in countries I had never been to before. But it worked wonderfully: the notification of the money withdrawal reached my phone faster than the airline could confirm my flight booking.
+
+Thanks to that card, I could easily book my flights online from then on and choose my own seat. Since then, I have taken so many photos above the clouds that I could wallpaper the entire sky with them.
+
+#### Mein gelbes Pilgerbuch
+
+ Wanderführer Spanien: Mozarabischer Jakobsweg – Fernwanderweg
+![](20140415-120406-Das-gelbe-Buch.webp)
+ISBN: 978-3-86686-567-9
+
+![](20140426-170635-.webp)
+
+![](20140426-170540.webp)
+
+![](20140426-201417-.webp)
+---
+
+![](20140426-162444.webp)
+
 
 <details>
 <summary>  </summary>

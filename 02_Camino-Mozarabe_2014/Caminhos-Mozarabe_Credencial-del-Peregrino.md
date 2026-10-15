@@ -3,20 +3,19 @@
 
 ### Credencial-del-Peregrino
 
-![](Camino-Mozarabe1.webp)
+![](media01/Camino-Mozarabe1.webp)
 
-![](Camino-Mozarabe2.webp)
+![](media01/Camino-Mozarabe2.webp)
 
-![](Camino-Mozarabe3.webp)
+![](media01/Camino-Mozarabe3.webp)
 
-![](Camino-Mozarabe4.webp)
+![](media01/Camino-Mozarabe4.webp)
 
-![](Camino-Mozarabe5.webp)
+![](media01/Camino-Mozarabe5.webp)
 
-![](Camino-Mozarabe6.webp)
+![](media01/Camino-Mozarabe6.webp)
 
-
-![](Almeria-Pinos-Puente.webp)
+![](media01/Almeria-Pinos-Puente.webp)
 
 
 ***Wie hoch ist der Anteil der Pilger, die die Via de La Plata, den Caminho do Levante und den Caminho Mozárabe beschreiten und sich für den Caminho Sanabrés entscheiden?***
@@ -33,13 +32,10 @@ Warum ist der Anteil für den Sanabrés so hoch?
 
 **Vermeidung des "Kulturschocks":** Pilger auf den Südrouten schätzen die extreme Einsamkeit und Stille. Wer in Astorga auf den _Camino Francés_ trifft, läuft dort plötzlich mitten in den massiven Hauptstrom der Pilger hinein. Der Sanabrés bewahrt diese ursprüngliche Ruhe bis kurz vor Santiago
 
-
 **Landschaftliche Schönheit:** Die Strecke durch die Berge von Sanabria und die galicische Provinz Ourense gilt als einer der landschaftlich reizvollsten Abschnitte des gesamten spanischen Jakobswegnetzes.
 
 <details>
 <summary></summary>
-
-
 
 **Vermeidung des "Kulturschocks":** 
 
@@ -84,8 +80,6 @@ Um das Jahr 2010 herum (auch befeuert durch das Heilige Jahr 2010 und Filme wie 
 Mapa: Almeria  →  ...  →  Mérida  →  ... →  Zamora  →  Puebla de Sanábria   →  Ourense  → Santiago de Compostela  
 
 ![](Almeria-Merida-Astorga-Santiago-de-Compostela.webp)
-
-
 
 ---
 <details>

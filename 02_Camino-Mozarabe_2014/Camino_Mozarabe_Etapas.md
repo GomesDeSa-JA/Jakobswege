@@ -4,7 +4,7 @@
 ###  Wuppertal  → Franfurt  →  Malaga  → Almeria
 26 de Abril 2014
 
-### ![](Jakobus-Kreuz1c.png) Almeria → Mérida (ca. 615 bis 630 Km)
+### ![](media01/Jakobus-Kreuz1c.png) Almeria → Mérida (ca. 615 bis 630 Km)
 **Start:**  27 de Abril  **Ende:**  17 de Maio 2014**
 
 🇬🇧  Planning a stage-by-stage journey along the **Camino Mozárabe from Almería to Mérida** is a challenging but spectacular adventure, both in terms of scenery and culture. The route stretches for **approximately 615 to 630 kilometres** and takes you right across Andalusia and Extremadura.
@@ -64,6 +64,7 @@ Hinter Córdoba wird es einsam und wild. Du durchquerst die Eichenwälder der Si
 - **Etappe 25:** Medellín – San Pedro de Mérida (ca. 29 km) – _Wanderung durch Agrarland und kleine Kanäle._
 - **Etappe 26:** San Pedro de Mérida – **Mérida** (ca. 16 km) – _Das Ziel ist erreicht! Einlauf über die beeindruckende römische Brücke_
 </details>
+
 **Infrastruktur:** Der Weg ist deutlich einsamer als der _Camino Francés_. Es gibt Abschnitte von über 20 Kilometern ohne eine einzige Bar, Wasserquelle oder Einkaufsmöglichkeit. Eine gute Planung der Tagesverpflegung ist Pflicht.
 
 **Unterkünfte:** In den meisten Etappenorten gibt es einfache kommunale Herbergen (_Albergues municipales_), oft organisiert über die Gemeindeverwaltung (Ayuntamiento) oder die lokalen Jakobus-Freunde
@@ -72,11 +73,11 @@ Hinter Córdoba wird es einsam und wild. Du durchquerst die Eichenwälder der Si
 ---
 ### Start
 
-#### [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
+#### [Etappe-00_Alemanha_Espanha](Etappe-00_Alemanha_Espanha.md)
 26 de Abril 2014
 
 ---
-#### [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
+#### [Etappe-01_Almeria_Albodoloduy](Etappe-01_Almeria_Albodoloduy.md)
 27 de Abril 2014
 
 ---
@@ -167,7 +168,7 @@ Hinter Córdoba wird es einsam und wild. Du durchquerst die Eichenwälder der Si
 ---
 ##  Vía de la Plata  2014
 
-### ![](Jakobus-Kreuz1c.png) Mérida → Astorga (ca. 515 bis 520 Km)
+### ![](media01/Jakobus-Kreuz1c.png) Mérida → Astorga (ca. 515 bis 520 Km)
 18 Maio - xx Juni 2014 
 
 🇵🇹 A histórica estrada romana da _Vía de la Plata_ tem uma distância total a percorrer a pé até Astorga de **cerca de 515 a 520 quilómetros**
@@ -399,7 +400,7 @@ Dennoch bleibt der Weg einsam. Es gibt immer noch Etappen, auf denen du 15 bis 2
 ---
 ##  Camino Francés 2014
 
-### ![](Jakobus-Kreuz1c.png)  Astorga → Santiago de Compostela (255 bis 270 Km)
+### ![](media01/Jakobus-Kreuz1c.png)  Astorga → Santiago de Compostela (255 bis 270 Km)
 xx - xx Juni 2014 
 
 🇬🇧 The walking route from Astorga to Santiago de Compostela via the classic _Camino Francés_ is **approximately 255 to 270 kilometres**.
