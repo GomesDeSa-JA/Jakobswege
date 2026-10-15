@@ -8,6 +8,9 @@
 
 Desde o início dos anos 90 que ouvia repetidamente: "Estás sozinho, és livre e podias voar para qualquer lado. Tu podes pagar isso!". Os conhecidos costumavam acrescentar: "Eu não posso pagar isso com a família inteira, por isso, nas férias, só viajamos de carro." Eu respondia sempre: Eu também não tenho dinheiro para um Mercedes ou um BMW – caso contrário, mal me restaria dinheiro para respirar. E, no entanto, os meus conhecidos com os seus carros de luxo pareciam dar-se lindamente.
 
+<details>
+<summary>Contudo</summary>
+
 **Contudo**, importa dizer que isto só era possível porque as suas esposas faziam grandes sacrifícios. Cuidavam da casa e dos filhos e, mesmo assim, trabalhavam fora. Algumas recebiam ainda apoio dos pais, e o Estado ajudava um pouco com abonos de família e benefícios fiscais. Em contrapartida, os maridos estavam sempre disponíveis como motoristas para os filhos e as esposas. Reservavam a manhã de sábado para polir o carro e pô-lo a brilhar, para poderem levar a família a passear aos sábados à tarde, à missa aos domingos ou de férias. No entanto, só soube de muitos pormenores porque alguns familiares ligavam para o trabalho a pedir ao "motorista pessoal" para passar na padaria porque o pão tinha acabado, ou dizendo: "Podes vir buscar-me? O comboio acabou de passar e deixou-me aqui ao frio." Para mim, isso parecia uma vida de Mercedes e BMW bastante stressante.
 
 **Uma pequena nota de rodapé:** alguns colegas com família que tinham o mesmo trabalho dependiam da assistência social. Acabavam por fazer o seu serviço social de motorista familiar num Fiat Panda.
@@ -40,11 +43,15 @@ Depois desta experiência, consegui um cartão de crédito. A instituição fina
 
 Graças a esse cartão, a partir daí pude reservar os meus voos online sem problemas e escolher o meu lugar. Desde então, tirei tantas fotografias acima das nuvens que poderia empapelar o céu inteiro com elas.
 
+</details>
 ---
 
 #### 🇩🇪 Mein erster Flug – wie geht das eigentlich?
 
 Seit Anfang der 90er-Jahre hörte ich immer wieder: „Du bist allein und frei und könntest überall hinfliegen. Du kannst dir das doch leisten!“ Bekannte ergänzten dann meist noch: „Ich kann mir das mit der ganzen Familie nicht leisten, deshalb fahren wir im Urlaub nur mit dem Auto.“ Ich erwiderte daraufhin immer: Ich kann mir auch keinen Mercedes oder BMW leisten – sonst bliebe mir am Ende kaum mehr als Luft zum Atmen. Und dennoch schien es meinen Bekannten mit ihren Luxusautos blendend zu gehen.
+
+<details>
+<summary>Dazu muss man allerdings sagen</summary>
 
 **Dazu muss man allerdings sagen:** Das war oft nur möglich, weil ihre Frauen große Opfer brachten. Sie kümmerten sich um den Haushalt und die Kinder und gingen trotzdem arbeiten. Einige erhielten zudem Unterstützung von den Eltern, und der Staat half ein wenig mit Kindergeld und Steuervergünstigungen. Im Gegenzug standen die Ehemänner den Kindern und Ehefrauen jederzeit als Chauffeure zur Verfügung. Der Samstagvormittag war dafür reserviert, das Auto auf Hochglanz zu polieren, um die Familie samstagnachmittags zu Ausflügen, sonntags zur Messe oder eben in den Urlaub zu fahren. Viele Details erfuhr ich jedoch nur, weil Familienmitglieder während der Arbeitszeit anriefen und den persönlichen Chauffeur baten: „Kannst du beim Bäcker vorbeifahren, das Brot ist alle?“ oder „Kannst du mich abholen? Der Zug ist gerade an mir vorbeigefahren und hat mich hier in der Kälte stehen lassen.“ Das klang für mich nach einem ziemlich stressigen Mercedes-BMW-Leben.
 
@@ -103,10 +110,16 @@ Nach dieser Erfahrung besorgte ich mir eine Kreditkarte. Das dazugehörige Kredi
 
 Dank dieser Karte konnte ich fortan meine Flüge problemlos online buchen und meinen Sitzplatz selbst wählen. Seitdem habe ich so viele Fotos über den Wolken gemacht, dass ich damit den gesamten Himmel tapezieren könnte.
 
+</details>
+
 ---
+
 #### 🇪🇸 Mi primer vuelo: ¿cómo funciona esto?
 
 Desde principios de los noventa escuchaba una y otra vez: "Estás solo, eres libre y podrías volar a cualquier parte. ¡Tú te lo puedes permitir!". Mis conocidos solían añadir: "Yo no me lo puedo permitir con toda la familia, por eso en vacaciones solo viajamos en coche". Yo les respondía siempre: Tampoco yo puedo permitirme un Mercedes o un BMW, ya que de lo contrario apenas me quedaría dinero para respirar. Y sin embargo, a mis conocidos con sus coches de lujo parecía irles de maravilla.
+
+<details>
+<summary>Hay que decir</summary>
 
 **Hay que decir,** no obstante, que esto solo era posible porque sus esposas hacían grandes sacrificios. Se encargaban de la casa y de los niños y, aun así, trabajaban fuera. Algunas recibían además apoyo de sus padres, y el Estado ayudaba un poco con subsidios familiares y ventajas fiscales. A cambio, los maridos estaban siempre disponibles como chóferes para sus hijos y esposas. Reservaban la mañana del sábado para abrillantar el coche y poder llevar a la familia de excursión los sábados por la tarde, a misa los domingos o de vacaciones. Sin embargo, me enteraba de muchos detalles porque algunos llamaban al trabajo pidiendo al "chófer personal" que pasara por la panadería porque se había acabado el pan, o diciendo: "¿Puedes recogerme? El tren acaba de pasar de largo y me ha dejado aquí tirado en el frío". Para mí, eso sonaba a una vida de Mercedes y BMW bastante estresante.
 
@@ -139,12 +152,16 @@ Cuando por fin subí al avión y me senté, me invadió la decepción. Todo me r
 Tras esta experiencia, conseguí una tarjeta de crédito. La entidad financiera cambió tanto de dueño y de país a lo largo del tiempo que acabé teniendo números de cuenta en países en los que nunca había estado. Pero funcionó de maravilla: la notificación de la retirada del dinero me llegaba al móvil más rápido de lo que la aerolínea tardaba en confirmarme la reserva del vuelo.
 
 Gracias a esa tarjeta, a partir de entonces pude reservar mis vuelos online sin problemas y elegir mi asiento. Desde entonces, he hecho tantas fotos por encima de las nubes que podría empapelar el cielo entero con ellas.
+</details>
 
 ---
 
 #### 🇬🇧 My first flight – how does it actually work?
 
 Since the early 90s, I kept hearing the same thing: "You are single, free, and could fly anywhere. You can easily afford it!" Acquaintances would then usually add: "I can't afford that with a whole family, which is why we only travel by car on holiday." I always replied: I can't afford a Mercedes or a BMW either – otherwise, I’d barely have enough money left to breathe. And yet, my acquaintances with their luxury cars seemed to be doing wonderfully.
+
+<details>
+<summary>However</summary>
 
 **However**, it must be said that this was often only possible because their wives made great sacrifices. They took care of the household and the children, and still went to work. Some also received support from their parents, and the state helped a little with child benefits and tax breaks. In return, the husbands were always available as chauffeurs for their children and wives. Saturday morning was reserved for polishing the car to a high gloss, so they could take the family on outings on Saturday afternoons, to Mass on Sundays, or away on holiday. Yet, I only found out about many details because family members would call work, asking the "personal chauffeur" to stop by the bakery because they ran out of bread, or saying, "Can you pick me up? The train just passed me by and left me standing here in the cold." To me, that sounded like a rather stressful Mercedes-BMW life.
 
@@ -177,21 +194,23 @@ When I finally boarded the plane and sat down, disappointment washed over me. Ev
 After this experience, I got myself a credit card. Over time, the financial institution changed owners or moved from country to country so much that I ended up with account numbers in countries I had never been to before. But it worked wonderfully: the notification of the money withdrawal reached my phone faster than the airline could confirm my flight booking.
 
 Thanks to that card, I could easily book my flights online from then on and choose my own seat. Since then, I have taken so many photos above the clouds that I could wallpaper the entire sky with them.
+</details>
 
 #### Mein gelbes Pilgerbuch
 
  Wanderführer Spanien: Mozarabischer Jakobsweg – Fernwanderweg
-![](20140415-120406-Das-gelbe-Buch.webp)
+![](media02/20140415-120406-Das-gelbe-Buch.webp)
 ISBN: 978-3-86686-567-9
 
-![](20140426-170635-.webp)
+![](media02/20140426-170635-.webp)
 
-![](20140426-170540.webp)
+![](media02/20140426-170540.webp)
 
-![](20140426-201417-.webp)
+![](media02/20140426-201417-.webp)
+
 ---
 
-![](20140426-162444.webp)
+![](media02/20140426-162444.webp)
 
 
 <details>
@@ -203,8 +222,8 @@ ISBN: 978-3-86686-567-9
 
 ---
 
-↪ 
+↪ [Etappe-01_Almeria_Albodoloduy](Etappe-01_Almeria_Albodoloduy.md)
 
- 🔁 
+ 🔁 [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
  
  ...→

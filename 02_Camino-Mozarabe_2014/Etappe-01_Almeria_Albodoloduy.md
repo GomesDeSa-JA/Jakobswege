@@ -3,7 +3,7 @@
 ### Etappe-01 : Almeria  →  Albodoloduy (37,7Km)
 27 Abril 2014
 ####  Almería despierta!
-![](media01/PilgerstabmitMuchel.png)... 🥾 
+![](media01/PilgerstabmitMuchel.png)🥾 
 
 ![](media02/20140427-064230-DerAufbruch.webp)
 >🇪🇸 El momento mágico en el silencio del amanecer: – Una aventura… en mi camino.
@@ -277,6 +277,6 @@ Pareceram-me 50 km, mas a emoção permitiu-me desfrutar ainda deste último mom
 
 ↪ 
 
- 🔁 
+ 🔁 [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
  
  ...→

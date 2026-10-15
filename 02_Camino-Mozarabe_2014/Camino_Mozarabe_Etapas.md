@@ -63,12 +63,12 @@ Hinter Córdoba wird es einsam und wild. Du durchquerst die Eichenwälder der Si
 - **Etappe 24:** Don Benito – Medellín (ca. 16 km) – _Historischer Ort mit römischem Theater und Burg._
 - **Etappe 25:** Medellín – San Pedro de Mérida (ca. 29 km) – _Wanderung durch Agrarland und kleine Kanäle._
 - **Etappe 26:** San Pedro de Mérida – **Mérida** (ca. 16 km) – _Das Ziel ist erreicht! Einlauf über die beeindruckende römische Brücke_
-</details>
 
 **Infrastruktur:** Der Weg ist deutlich einsamer als der _Camino Francés_. Es gibt Abschnitte von über 20 Kilometern ohne eine einzige Bar, Wasserquelle oder Einkaufsmöglichkeit. Eine gute Planung der Tagesverpflegung ist Pflicht.
 
 **Unterkünfte:** In den meisten Etappenorten gibt es einfache kommunale Herbergen (_Albergues municipales_), oft organisiert über die Gemeindeverwaltung (Ayuntamiento) oder die lokalen Jakobus-Freunde
 
+</details>
 
 ---
 ### Start
@@ -475,7 +475,9 @@ Da der Weg ab Astorga durch die Berge führt (unter anderem vorbei am berühmten
 
 ---
 
-↪ 
+↪ [Caminhos-Mozarabe_Credencial-del-Peregrino](Caminhos-Mozarabe_Credencial-del-Peregrino.md)
+
+↪ [Readme](Jakobswege/02_Camino-Mozarabe_2014/Readme.md)
 
  🔁 
 
