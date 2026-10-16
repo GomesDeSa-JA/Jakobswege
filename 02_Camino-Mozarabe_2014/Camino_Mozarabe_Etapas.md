@@ -80,7 +80,7 @@ Hinter Córdoba wird es einsam und wild. Du durchquerst die Eichenwälder der Si
 27 de Abril 2014
 
 ---
-#### 
+#### [Etappe-03_Finana_Hueneja](Etappe-03_Finana_Hueneja.md)
 28 de Abril 2014
 
 ---
