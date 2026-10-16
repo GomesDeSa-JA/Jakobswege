@@ -23,7 +23,7 @@ Sorry for the trouble
 
 
 ![](media02/20140428-084745-.webp)
-Kaum zu erkennen  ↑ Hardly recognizable ↑
+Kaum zu erkennen  ↑ Hardly recognizable ↑ Difícil de reconhecer ↑
 
  ![](media02/20140428-084827.webp)
 
