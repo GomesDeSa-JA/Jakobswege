@@ -222,7 +222,7 @@ ISBN: 978-3-86686-567-9
 
 ---
 
-↪ [Etappe-01_Almeria_Albodoloduy](Etappe-01_Almeria_Albodoloduy.md)
+↪ [Etappe-01_Almeria_Alboloduy](Etappe-01_Almeria_Alboloduy.md)
 
  🔁 [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
  

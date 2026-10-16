@@ -1,6 +1,6 @@
 ## ![](Jakobus-Kreuz1b.png) Camino Mozárabe 2014 
 
-🇪🇸  Cuando decidí no hacer la etapa de Trabadelo a Sarria, ya tenía claro que mi siguiente etapa sería la Vía de la Plata (desde Sevilla), pero al final me decanté por el Camino Mozárabe.
+🇪🇸  Cuando 2012 decidí no hacer la etapa de Trabadelo a Sarria, ya tenía claro que mi siguiente etapa sería la Vía de la Plata (desde Sevilla), pero al final me decanté por el Camino Mozárabe.
 
 ..., ... El final de 2012 y el año 2013 fueron muy, muy estresantes:
 La búsqueda de piso, la mudanza, amueblarlo, los pedidos, dejar limpio el piso antiguo…, ….
@@ -11,7 +11,7 @@ Como se dice en Alemania: una mudanza cuesta cinco años de ahorros y cinco año
 
 ---
 
-🇩🇪 Als ich beschloss, die Etappe Trabadelo – Sarria nicht zu gehen, hatte ich bereits entschieden, dass meine nächste Etappe die Via de la Plata (von Sevilla) sein würde, entschied mich dann aber doch für den Mozarabischen Weg.
+🇩🇪 Als ich 2012 beschloss, die Etappe Trabadelo – Sarria nicht zu gehen, hatte ich bereits entschieden, dass meine nächste Etappe die Via de la Plata (von Sevilla) sein würde, entschied mich dann aber doch für den Mozarabischen Weg.
 
 ..., ... Das Ende des Jahres 2012 und das Jahr 2013 waren sehr, sehr stressig:
 Die Wohnungssuche, der Umzug, die Einrichtung, die Bestellungen, die alte Wohnung sauber hinterlassen …, … .
@@ -21,7 +21,7 @@ Wie man in Deutschland sagt: Ein Umzug kostet fünf Jahre Ersparnisse und fünf 
  
 ---
 
-🇵🇹 Quando decidi não fazer a etapa de Trabadelo a Sarria, já tinha a certeza de que a minha próxima etapa seria a Via da Prata (a partir de Sevilha), mas acabei por optar pelo Caminho Mozárabe.
+🇵🇹 Quando 2012 decidi não fazer a etapa de Trabadelo a Sarria, já tinha a certeza de que a minha próxima etapa seria a Via da Prata (a partir de Sevilha), mas acabei por optar pelo Caminho Mozárabe.
 
 ..., ... O final de 2012 e o ano de 2013 foram muito, muito stressantes: a procura de um apartamento, a mudança, mobiliá-lo, as encomendas, deixar o antigo apartamento limpo…, …. Foi uma verdadeira proeza logística, mas, mesmo assim, dediquei-lhe o meu tempo livre durante o Natal de 2012, bem como todos os feriados, fins de semana e todo o meu tempo livre do ano de 2013. …, … .
 
@@ -30,7 +30,7 @@ Como se diz na Alemanha: uma mudança custa cinco anos de poupanças e cinco ano
 
 ---
 
-🇬🇧  When I decided not to walk the Trabadelo–Sarria stage, I’d already decided that my next stage would be the Via de la Plata (from Sevilla), but then I opted for the Mozarabic Way after all.
+🇬🇧  When I 2012 decided not to walk the Trabadelo–Sarria stage, I’d already decided that my next stage would be the Via de la Plata (from Sevilla), but then I opted for the Mozarabic Way after all.
 
 ..., ... The end of 2012 and the year 2013 were very, very stressful:
 Looking for a flat, moving house, furnishing it, ordering things, leaving the old flat clean …, … .

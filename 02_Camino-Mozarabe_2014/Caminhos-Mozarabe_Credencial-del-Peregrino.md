@@ -90,8 +90,8 @@ Mapa: Almeria  →  ...  →  Mérida  →  ... →  Zamora  →  Puebla de San�
 
 ---
 
- 🔁 
- 
 ↪ 
 
+ 🔁 [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
+ 
  ...→

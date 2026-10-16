@@ -57,13 +57,13 @@ Heute frage ich mich, ob es nicht vielleicht dieses Elixier war, das es mir erm�
 ---
 ![](media02/20140427-090237.webp)
 
-🇩🇪 Es ist toll, sich ungehindert fortbewegen zu können; ich hatte mir das anders vorgestellt. 
+🇩🇪 Es ist toll, sich ungehindert fortbewegen zu können; aber ich hatte mir das anders vorgestellt. 
 
-🇪🇸 Es estupendo poder circular sin obstáculos; me lo había imaginado de otra manera. 
+🇪🇸 Es estupendo poder circular sin obstáculos; pero me lo había imaginado de otra manera. 
 
-🇵🇹 É fantástico poder circular sem obstáculos; tinha-me imaginado uma coisa diferente. 
+🇵🇹 É fantástico poder circular sem obstáculos; mas tinha-me imaginado uma coisa diferente. 
 
-🇬🇧  It’s brilliant to be able to get about without any obstacles; I’d imagined it would be different. 
+🇬🇧  It’s brilliant to be able to get about without any obstacles; but I’d imagined it would be different. 
 
 ---
 ![](media02/20140427-121825.webp)
@@ -91,7 +91,7 @@ Heute frage ich mich, ob es nicht vielleicht dieses Elixier war, das es mir erm�
 <details>
 <summary>⚠️ "Gota Fría"</summary>
 
-#### **O perigo mortal: cheias repentinas (_Flash Floods_)**
+#### 🇵🇹**O perigo mortal: cheias repentinas (_Flash Floods_)**
 
 > **«Gota Fría»**:  A razão pela qual o menciono aqui é que, quando o vi na televisão em 2019, não queria acreditar nem pensar nisso e, no entanto, vi-me lá. ..., ... .
 
@@ -111,7 +111,7 @@ Novembro: continuam a ser possíveis chuvas intensas e inundações.
 
 ---
 
-#### Die tödliche Gefahr: Sturzfluten (_Flash Floods_)
+#### 🇩🇪 Die tödliche Gefahr: Sturzfluten (_Flash Floods_)
 
 > **„Gota Fría“**: Der Grund, warum ich das hier erwähne, ist, dass ich, als ich es 2019 im Fernsehen sah, es nicht glauben und nicht darüber nachdenken wollte, und dennoch sah ich mich dort …, … .
 
@@ -131,7 +131,7 @@ Oktober: Ebenfalls hohes Risiko, statistisch treten an der spanischen Mittelmeer
 
 ---
 
-#### El peligro mortal: las crecidas repentinas (_Flash Floods_)
+#### 🇪🇸 El peligro mortal: las crecidas repentinas (_Flash Floods_)
 
 > **«Gota Fría»**:  La razón por la que lo menciono aquí es que, cuando lo vi en la televisión en 2019, no quería creerlo ni pensar en ello y, sin embargo, me vi allí..., ... .
 
@@ -151,7 +151,7 @@ Noviembre: siguen siendo posibles las lluvias torrenciales y las inundaciones.
 
 ---
 
-#### The deadly danger: flash floods
+#### 🇬🇧 The deadly danger: flash floods
 
 > **‘Gota Fría’**:  The reason I’m mentioning it here is that, when I saw it on the telly in 2019, I didn’t want to believe it or even think about it, and yet there I was..., ... .
 
@@ -275,7 +275,7 @@ Pareceram-me 50 km, mas a emoção permitiu-me desfrutar ainda deste último mom
 
 ---
 
-↪ 
+↪ [Etappe-02_Alboloduy_Finana](Etappe-02_Alboloduy_Finana.md)
 
  🔁 [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
  

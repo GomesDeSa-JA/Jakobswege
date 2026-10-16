@@ -1,6 +1,5 @@
 ## Camino Mozárabe  → Vía de la Plata  → Camino Francés 2014
 
-## Die Reise
 ###  Wuppertal  → Franfurt  →  Malaga  → Almeria
 26 de Abril 2014
 
@@ -77,7 +76,7 @@ Hinter Córdoba wird es einsam und wild. Du durchquerst die Eichenwälder der Si
 26 de Abril 2014
 
 ---
-#### [Etappe-01_Almeria_Albodoloduy](Etappe-01_Almeria_Albodoloduy.md)
+#### [Etappe-01_Almeria_Alboloduy](Etappe-01_Almeria_Alboloduy.md)
 27 de Abril 2014
 
 ---
@@ -477,7 +476,7 @@ Da der Weg ab Astorga durch die Berge führt (unter anderem vorbei am berühmten
 
 ↪ [Caminhos-Mozarabe_Credencial-del-Peregrino](Caminhos-Mozarabe_Credencial-del-Peregrino.md)
 
-↪ [Readme](Jakobswege/02_Camino-Mozarabe_2014/Readme.md)
+↪ [Readme](Readme.md)
 
  🔁 
 
