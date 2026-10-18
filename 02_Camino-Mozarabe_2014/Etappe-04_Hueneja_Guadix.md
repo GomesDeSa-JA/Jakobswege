@@ -1,6 +1,7 @@
 ## Camino Mozárabe 2014 
 
 ### Etappe-0 : Huéneja → Guadix  (41,2 Km)
+30 de Abril 2014
 
 ![](media02/20140430-065848.webp)
 
@@ -122,8 +123,6 @@
  ![](media02/20140430-185251.webp)
 
  ![](media02/20140430-185336.webp)
-
-
 
 ---
 

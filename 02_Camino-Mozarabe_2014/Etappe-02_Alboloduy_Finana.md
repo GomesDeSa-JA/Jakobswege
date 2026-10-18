@@ -1,8 +1,7 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-0 : Alboloduy  →  Fiñana (36,1 Km)
-
-20140428-06h1230 Ist noch dunkel 
+### Etappe-02 : Alboloduy  →  Fiñana (36,1 Km)
+28 Abril 2014 
 
 
 ![](media02/20140428-081123.webp)

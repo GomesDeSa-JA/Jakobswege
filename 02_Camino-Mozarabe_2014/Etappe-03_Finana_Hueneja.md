@@ -1,7 +1,7 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-0 : Fiñana  →  Huéneja ( 12 Km)
-
+### Etappe-03 : Fiñana  →  Huéneja ( 12 Km)
+29 de Abril 2014
 
 ![](media02/20140429-074539.webp)
 
@@ -61,7 +61,7 @@
 
 ![](media02/20140429-133937.webp)
 
-![](Huenega.webp)
+![](media02/Huenega.webp)
 Google Maps-Foto
  
 ![](media02/Huéneja-Foto-von-Henrique-Gomez.webp.webp)
