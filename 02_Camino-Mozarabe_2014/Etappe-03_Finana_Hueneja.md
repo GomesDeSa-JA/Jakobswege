@@ -19,25 +19,25 @@
 
 🇩🇪 Ich ging kurz zur Post und verlor dabei die gelben Pfeile aus den Augen; dann ging ich einfach weiter und stieß auf die Route von Los Molinos. Als ich davon las, träumte ich von der Symphonie des fließenden Wassers und konnte es kaum erwarten, diese Route zu entdecken; und da ich wusste, dass „alle Wege nach Santiago de Compostela führen“, machte ich diese Route zu meiner persönlichen Alternativroute.
 
-„Alle Wege führen nach Santiago de Compostela.“ Ich werde mich in Fuenterroble de Salvatierra an diesen Satz erinnern, wenn es um ein Gespräch über Perspektiven und Überzeugungen geht.
+**„Alle Wege führen nach Santiago de Compostela.“** Ich werde mich in Fuenterroble de Salvatierra an diesen Satz erinnern, wenn es um ein Gespräch über Perspektiven und Überzeugungen geht.
 
 ---
  #### Rota dos Moinhos 
 🇵🇹 Fui aos Correios e perdi as setas amarelas; depois, simplesmente comecei a caminhar e deparei-me com o caminho de Los Molinos. Quando li sobre ele, sonhei com a sinfonia da água a correr e estava ansioso por descobrir esse caminho; e, sabendo que «Todos os caminhos levam a Santiago de Compostela», transformei este caminho na minha rota alternativa pessoal.
 
-«Todos os caminhos levam a Santiago de Compostela». Vou recordar esta frase em Fuenterroble de Salvatierra, durante uma conversa sobre perspetivas e convicções.
+**«Todos os caminhos levam a Santiago de Compostela»**. Vou recordar esta frase em Fuenterroble de Salvatierra, durante uma conversa sobre perspetivas e convicções.
 
 ---
 #### Ruta de Los Molinos
 🇪🇸 Fui  a Correos y me perdí las flechas amarillas; después, simplemente empecé a caminar y me topé con el camino de Los Molinos. Cuando lo leí, soñé con la sinfonía del agua que corre y estaba deseando descubrir ese camino; y, sabiendo que «Todos los caminos llevan a Santiago de Compostela», convertí este camino en mi ruta alternativa personal.
 
-«Todos los caminos llevan a Santiago de Compostela». Recordaré esta frase en Fuenterroble de Salvatierra para una conversación sobre perspectivas y convicciones.
+**«Todos los caminos llevan a Santiago de Compostela»**. Recordaré esta frase en Fuenterroble de Salvatierra para una conversación sobre perspectivas y convicciones.
 
 ---
 #### Route of the Watermills
 🇬🇧 I went to the post office and lost sight of the yellow arrows; then I simply started walking and came across the Los Molinos route. When I read about it, I dreamt of the symphony of flowing water and could hardly wait to discover this route; and, knowing that ‘All roads lead to Santiago de Compostela’, I made this route my own personal alternative route.
 
-‘All paths lead to Santiago de Compostela.’ I’ll bear this phrase in mind in Fuenterroble de Salvatierra for a conversation about perspectives and convictions.
+**‘All paths lead to Santiago de Compostela.’** I’ll bear this phrase in mind in Fuenterroble de Salvatierra for a conversation about perspectives and convictions.
 
 ![](media02/20140429-101009.webp)
 
@@ -61,6 +61,9 @@
 
 ![](media02/20140429-133937.webp)
 
+![](Huenega.webp)
+Google Maps-Foto
+ 
 ![](media02/Huéneja-Foto-von-Henrique-Gomez.webp.webp)
 **Huéneja:** Google Maps-Foto von Henrique Gomez (Juni 2023)
 - Hätte ich damals dieses Wetter gehabt, hätte ich die Sendung nicht nach Santiago de Compostela geschickt.
@@ -82,7 +85,7 @@ Tanto en el Camino Mozárabe como en el Camino de Levante, hubo etapas en las qu
 
 #### La distancia entre los albergues
 
-A diferencia del Camino Francés, aquí los alojamientos están separados, por término medio, por unos 20 kilómetros. Si hubiera estado en el Camino Francés, habría seguido caminando unos kilómetros más, porque allí los albergues están más próximos entre sí y las distancias entre ellos son menores.
+A diferencia del Camino Francés, aquí los alojamientos están separados, por término medio, por unos 20 kilómetros. Si hubiera estado en el Camino Francés, habría seguido caminando unos kilómetros más, porque allí la red de albergues es más densa y las distancias entre ellos son menores.
 
 #### Llamar con antelación
 
@@ -121,7 +124,7 @@ Tanto no Caminho Moçárabe como no Caminho de Levante, houve etapas em que cheg
 
 #### A distância entre os albergues
 
-Ao contrário do Caminho Francês, aqui os alojamentos ficam, em média, a cerca de 20 quilómetros uns dos outros. Se estivesse no Caminho Francês, teria caminhado mais alguns quilómetros, pois aí os albergues ficam mais próximos e as distâncias entre eles são menores.
+Ao contrário do Caminho Francês, aqui os alojamentos ficam, em média, a cerca de 20 quilómetros uns dos outros. Se estivesse no Caminho Francês, teria caminhado mais alguns quilómetros, pois aí a rede de albergues é mais densa e as distâncias entre eles são menores.
 
 #### Telefonar com antecedência
 
@@ -161,7 +164,7 @@ Sowohl auf dem Camino Mozárabe als auch auf dem Camino de Levante gab es Etappe
 
 #### Die Abstände zwischen den Herbergen
 
-Anders als auf dem Camino Francés liegen die Unterkünfte hier durchschnittlich etwa 20 Kilometer auseinander. Wäre ich auf dem Camino Francés unterwegs gewesen, hätte ich noch ein paar Kilometer drangehängt, denn dort liegen die Herbergen näher beieinander und die Etappen zwischen ihnen sind kürzer.
+Anders als auf dem Camino Francés liegen die Unterkünfte hier durchschnittlich etwa 20 Kilometer auseinander. Wäre ich auf dem Camino Francés unterwegs gewesen, hätte ich noch ein paar Kilometer drangehängt, denn dort ist das Netz an Herbergen dichter und die Entfernungen zwischen ihnen sind geringer.
 
 #### Lieber vorher anrufen
 
@@ -203,7 +206,7 @@ Both on the Camino Mozárabe and on the Camino de Levante, there were stages whe
 
 #### The distance between hostels
 
-Unlike the Camino Francés, accommodation along these routes is, on average, about 20 kilometres apart. Had I been walking the Camino Francés, I would have carried on for a few more kilometres, because the hostels there are closer together and the distances between them are shorter.
+Unlike the Camino Francés, accommodation along these routes is, on average, about 20 kilometres apart. Had I been walking the Camino Francés, I would have carried on for a few more kilometres, because the network of hostels is denser there and the distances between them are shorter.
 
 #### Call ahead
 

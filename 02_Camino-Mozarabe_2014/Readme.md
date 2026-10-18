@@ -7,7 +7,7 @@ La búsqueda de piso, la mudanza, amueblarlo, los pedidos, dejar limpio el piso 
 Fue toda una proeza logística, pero aun así dediqué a ello mi tiempo libre durante las Navidades de 2012, así como todos los días festivos, fines de semana y todo mi tiempo libre del año 2013.
 …, … .
 
-Como se dice en Alemania: una mudanza cuesta cinco años de ahorros y cinco años de vida, lo que supone un balance doblemente negativo; y el Camino de Santiago nos regala cinco años de vida y muchos menos ahorros, lo que sin duda es un balance muy positivo.
+**Como se dice en Alemania:** una mudanza cuesta cinco años de ahorros y cinco años de vida, lo que supone un balance doblemente negativo; y **el Camino de Santiago** nos regala cinco años de vida y muchos menos ahorros, lo que sin duda **es un balance muy positivo**.
 
 ---
 
@@ -17,7 +17,7 @@ Como se dice en Alemania: una mudanza cuesta cinco años de ahorros y cinco año
 Die Wohnungssuche, der Umzug, die Einrichtung, die Bestellungen, die alte Wohnung sauber hinterlassen …, … .
 Es war eine logistische Meisterleistung, aber trotzdem habe ich meine freie Zeit über Weihnachten 2012 sowie alle Feiertage, Wochenenden und meine gesamte Freizeit im Jahr 2013 dafür geopfert.…, … .
 
-Wie man in Deutschland sagt: Ein Umzug kostet fünf Jahre Ersparnisse und fünf Jahre Leben, was eine doppelt negative Bilanz ist; und ein Jakobsweg schenkt uns fünf Jahre Leben und viel weniger Ersparnisse, was zweifellos eine sehr positive Bilanz ist.
+**Wie man in Deutschland sagt:** Ein Umzug kostet fünf Jahre Ersparnisse und fünf Jahre Leben, was eine doppelt negative Bilanz ist; und ein **Jakobsweg** schenkt uns fünf Jahre Leben und viel weniger Ersparnisse, was zweifellos eine **sehr positive Bilanz** ist.
  
 ---
 
@@ -25,7 +25,7 @@ Wie man in Deutschland sagt: Ein Umzug kostet fünf Jahre Ersparnisse und fünf 
 
 ..., ... O final de 2012 e o ano de 2013 foram muito, muito stressantes: a procura de um apartamento, a mudança, mobiliá-lo, as encomendas, deixar o antigo apartamento limpo…, …. Foi uma verdadeira proeza logística, mas, mesmo assim, dediquei-lhe o meu tempo livre durante o Natal de 2012, bem como todos os feriados, fins de semana e todo o meu tempo livre do ano de 2013. …, … .
 
-Como se diz na Alemanha: uma mudança custa cinco anos de poupanças e cinco anos de vida, o que representa um balanço duplamente negativo; e o Caminho de Santiago oferece-nos cinco anos de vida e muito menos poupanças, o que é, sem dúvida, um balanço muito positivo.
+**Como se diz na Alemanha:** uma mudança custa cinco anos de poupanças e cinco anos de vida, o que representa um balanço duplamente negativo; e o **Caminho de Santiago** oferece-nos cinco anos de vida e muito menos poupanças, o que é, sem dúvida, **um balanço muito positivo**.
 …, … .
 
 ---
@@ -36,7 +36,9 @@ Como se diz na Alemanha: uma mudança custa cinco anos de poupanças e cinco ano
 Looking for a flat, moving house, furnishing it, ordering things, leaving the old flat clean …, … .
 It was a logistical feat, but even so, I sacrificed my free time over Christmas 2012 as well as all public holidays, weekends and my entire spare time in 2013 to get it done. …, … .
 
-As they say in Germany: a house move costs five years’ savings and five years of your life, which is a double loss; whereas the Way of St James gives us five years of life and far fewer savings, which is undoubtedly a very positive outcome.
+**As they say in Germany:** a house move costs five years’ savings and five years of your life, which is a double loss; whereas **the Way of St James** gives us five years of life and far fewer savings, which is undoubtedly a **very positive outcome**. …, … .
+
+---
 
 ..., ... .
 

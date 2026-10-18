@@ -478,8 +478,8 @@ Da der Weg ab Astorga durch die Berge führt (unter anderem vorbei am berühmten
 
 ↪ [Readme](Readme.md)
 
- 🔁 
-
 **←** 🔁 [Readme](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Readme.md)
+
+**←** 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
  ...→

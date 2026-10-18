@@ -78,6 +78,24 @@ Heute frage ich mich, ob es nicht vielleicht dieses Elixier war, das es mir erm�
 
 ![](media02/20140427-122206.webp)
 
+
+- **Der Traum** 
+
+Ich träumte von sanftem, klarem Wasser, das dahinfloss, aber nicht von einer **„Gota fria“.**
+
+- **O Sonho** 
+
+Sonhei com águas calmas e límpidas a correr, mas não com uma **«Gota fria»**.
+
+- **El sueño** 
+
+Soñé con unas aguas tranquilas y cristalinas que fluían, pero no con una **«Gota fria».**
+
+- **The Dream** 
+
+I dreamed of gentle, clear water flowing by, but not of a **“Gota fria.**”
+
+
 ![](media02/20140427-132217.webp)
 
 ![](media02/20140427-135414.webp)
@@ -85,6 +103,8 @@ Heute frage ich mich, ob es nicht vielleicht dieses Elixier war, das es mir erm�
 ![](media02/20140427-140921.webp)
 
 ### Rio Andrax sem uma "⚠️ Gota Fría" 
+
+[Der Traum](Der-Traum.md)
 
 ![](media02/20140427-150139.webp)
 

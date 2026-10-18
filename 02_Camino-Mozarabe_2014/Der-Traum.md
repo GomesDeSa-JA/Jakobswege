@@ -1,10 +1,5 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-0 :   →   ( Km)
-
-
-
-
 🇩🇪 **Der Traum, der zu Staub wurde**
 
 Andalusien ist die trockenste und heißeste Region Spaniens. Als ich mir vor der Reise auf Google Maps die Route der ersten Etappen ansah, malte ich mir in Gedanken **ein wunderschönes Bild** aus: Ich träumte davon, wie ich in der drückenden Nachmittagshitze,  ein erfrischendes Bad im Fluss nehmen würde.
@@ -55,8 +50,8 @@ This dried-up river is the lifeblood of a landscape that has lost its vital nerv
 
 ---
 
-↪ 
+↪ [Etappe-00_Alemanha_Espanha](Etappe-00_Alemanha_Espanha.md)
 
- 🔁 
+ 🔁 [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
  
  ...→
