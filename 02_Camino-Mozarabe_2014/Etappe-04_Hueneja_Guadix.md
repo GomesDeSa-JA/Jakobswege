@@ -27,9 +27,9 @@
 
 ---
 
- ![](media02/20140430-070758.webp)
+![](media02/20140430-070758.webp)
 
- ![](media02/20140430-072315.webp)
+![](media02/20140430-072315.webp)
 
  ![](media02/20140430-074814.webp)
 
@@ -49,21 +49,40 @@
 
  ![](media02/20140430-092019.webp)
 
- ![](media02/20140430-092325.webp)
+- 🇬🇧 If the bakery is closed, it’s because the baker is currently delivering bread to the villages; as soon as you spot him along the way, don’t hesitate to stop him and enjoy some fresh bread rolls – that’s exactly what I did.
 
+- 🇵🇹 Se a padaria estiver fechada, é porque o padeiro está neste momento a distribuir o pão pelas aldeias; assim que o virem pelo caminho, não hesitem em pará-lo e comprem pãezinhos frescos – foi exatamente isso que eu fiz.
+
+- 🇩🇪 Wenn die Bäckerei geschlossen ist, liegt das daran, dass der Bäcker gerade dabei ist, das Brot in den Dörfern zu verteilen; sobald ihr ihn auf dem Weg seht, zögert nicht, ihn anzuhalten und euch frische Brötchen zu gönnen – genau das habe ich nämlich getan.
+
+- 🇪🇸 Si la panadería está cerrada, es porque el panadero está en este momento repartiendo el pan por los pueblos; en cuanto lo veáis por el camino, no dudéis en pararlo y saboread unos panecillos recién hechos: eso es precisamente lo que hice yo.
+
+
+![](media02/20140430-092325.webp)
+↑ Alojamento rural Bellavista ↑
+
+- 🇵🇹 Muito obrigado ao Senhor pelas setas amarelas; estou muito grato por cada belo desvio fora do asfalto.
+- 🇩🇪 Viele herzlichen Dank an den Herrn für die gelben Pfeile; ich bin sehr dankbar für jeden schönen Umweg abseits der asphaltierten Straße.
+- 🇪🇸 Muchísimas gracias, Señor, por las flechas amarillas; estoy muy agradecido por cada uno de esos bonitos desvíos fuera de la calle asfaltada.
+- 🇬🇧 Thank you so very much, Lord, for the yellow arrows; I am so grateful for each and every one of those lovely detours off the tarmac road.
  ![](media02/20140430-094916.webp)
 
  ![](media02/20140430-095648.webp)
 
- ![](media02/20140430-100230.webp)
+![](media02/20140430-100230.webp)
 
- ![](media02/20140430-100342Alto-de-la-Regua.webp)
+![](media02/20140430-100342Alto-de-la-Regua.webp)
 
  ![](media02/20140430-101046.webp)
 
  ![](media02/20140430-103025.webp)
 
  ![](media02/20140430-105017.webp)
+
+- 🇵🇹 Com esta vista, poderia pensar-se em abrir aqui, no castelo, uma Albergue.
+- 🇩🇪 Bei dieser Aussicht könnte man darüber nachdenken, hier im Schloss eine Herberge zu eröffnen.
+- 🇪🇸 Con estas vistas, se podría pensar en abrir aquí, en el castillo, un albergue.
+- 🇬🇧 Given this view, one might consider opening a pilgrims’ hostel here at the castle.
 
  ![](media02/20140430-113437.webp)
 
@@ -76,12 +95,13 @@
  ![](media02/20140430-125949.webp)
 
  ![](media02/20140430-133232.webp)
-
+ 
  ![](media02/20140430-133611.webp)
 
  ![](media02/20140430-134425.webp)
 
  ![](media02/20140430-134654.webp)
+ 
  ![](media02/20140430-141931.webp)
 
  ![](media02/20140430-144537.webp)
@@ -115,27 +135,33 @@
  ![](media02/20140430-171756.webp)
 
  ![](media02/20140430-180152.webp)
-
  ![](media02/20140430-184040.webp)
+
+- 🇩🇪 Eine Mutter mit ihrem Nachwuchs. Sie ist nicht verärgert, sondern verlangt lediglich einen angemessenen und respektvollen Abstand zu ihrem Nachwuchs. Und genau das habe ich getan, ohne mich zu beeilen und ganz in Ruhe.
+- 🇪🇸 Una madre con su cría. No está enfadada, sino que simplemente pide que se mantenga una distancia adecuada y respetuosa con respecto a su cría. Y eso es precisamente lo que hice, sin prisas y con toda tranquilidad.
+-  🇬🇧 A mother with her offspring. She isn’t annoyed; she’s simply asking people to keep a reasonable and respectful distance from her offspring. And that’s exactly what I did, without rushing and in a completely calm manner.
+- 🇵🇹 Uma mãe com a sua cria. Ela não está zangada, mas pede simplesmente que se mantenha uma distância adequada e respeitosa em relação à sua cria. E foi precisamente isso que fiz, sem pressa e com toda a calma.
+
+
 
  ![](media02/20140430-184800.webp)
 
  ![](media02/20140430-185251.webp)
 
- ![](media02/20140430-185336.webp)
+![](media02/20140430-185336.webp)
 
 ---
 
 <details>
 <summary>  </summary>
 
- ![](media02/20261013121750.png) 🇬🇧 🇪🇸 🇵🇹 🇩🇪 🥾
+ ![](media01/20261013121750.png) 🇬🇧 🇪🇸 🇵🇹 🇩🇪 🥾
 
 </details>
 
 ---
 
-↪ 
+↪ [Etappe-04_Hueneja_Guadix](Etappe-04_Hueneja_Guadix.md)
 
  🔁  [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
  
