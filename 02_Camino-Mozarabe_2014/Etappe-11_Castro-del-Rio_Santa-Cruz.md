@@ -3,23 +3,23 @@
 ### Etappe-11 : Castro del Rio → Santa-Cruz  ( 23 Km)
 07 de Maio 2014
 
-![](20140507-072354.webp)
+![](media03/20140507-072354.webp)
 
-![](20140507-072405.webp)
+![](media03/20140507-072405.webp)
 
-![](20140507-072424.webp)
+![](media03/20140507-072424.webp)
 
-![](20140507-073646.webp)
+![](media03/20140507-073646.webp)
 
-![](20140507-080335.webp)
+![](media03/20140507-080335.webp)
 
-![](20140507-080511--.webp)
+![](media03/20140507-080511--.webp)
 
-![](20140507-080529.webp)
+![](media03/20140507-080529.webp)
 
-![](20140507-080534.webp)
+![](media03/20140507-080534.webp)
 
-![](20140507-092715.webp)
+![](media03/20140507-092715.webp)
 
 - Reinhard hatte ein Solarpanel mit Akku dabei, aber ich glaube, dass ihm das aufgrund des Gewichts und des Platzbedarfs mehr Nachteile als Vorteile gebracht hat.
 
@@ -30,18 +30,18 @@
 - Reinhard se había llevado un panel solar con una batería, pero creo que, debido al peso y al espacio que ocupaba, eso le supuso más inconvenientes que ventajas.
 
 
-![](20140507-093622.webp)
+![](media03/20140507-093622.webp)
 
-![](20140507-094038-.webp)
+![](media03/20140507-094038-.webp)
 
-![](20140507-094047-.webp)
+![](media03/20140507-094047-.webp)
 
 ---
 
 <details>
 <summary>  </summary>
 
-![](20261013121750.png) 🇬🇧 🇪🇸 🇵🇹 🇩🇪 🥾
+![](media01/20261013121750.png) 🇬🇧 🇪🇸 🇵🇹 🇩🇪 🥾
 
 </details>
 
