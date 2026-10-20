@@ -3,7 +3,7 @@
 ### Etappe-13: Córdoba → Los Patios de  Córdoba ( ca. 2,x Km)
 09 de Maio 2014
 
-![](media04/20140509-155101.webp)
+
 
 ![](media04/20140509-103901.webp)
 
@@ -46,15 +46,15 @@ The morning and evening walk took us right past the historic **Torre de la Calah
 
 ![](media04/20140509-111125.webp)
 
-
 ![](media04/20140509-111250.webp)
 
 ![](media04/20140509-154634.webp)
 
-
 ![](media04/20140509-154604.webp)
 
-![](20140509-215051-%20.webp)
+![](media04/20140509-155101.webp)
+
+![](20140509-215051a.webp)
 
 Die "Fiestas de los Patios de Córdoba " existieren als offizieller Wettbewerb seit dem Jahr **1921**. 
 
@@ -63,12 +63,12 @@ In diesem Jahr organisierte der damalige Bürgermeister Francisco Fernández de 
 **Die wichtigsten Meilensteine der Geschichte:**
 
 - **Erste Öffnungen:** Bereits **1918** öffneten einige Bewohner der Stadt erstmals ihre Innenhöfe für Besucher.
-- 
+
 - **Unterbrechungen:** Nach dem Start 1921 fand das Fest zunächst unregelmäßig statt und wurde später durch den Spanischen Bürgerkrieg komplett unterbrochen. Ab **1944** wurde die Tradition fest wiederbelebt.
 
 
 - **UNESCO-Weltkulturerbe:** Am **6. Dezember 2012** wurden die Patios von Córdoba von der UNESCO zum immateriellen Weltkulturerbe der Menschhei erklärt. 
--
+
 
 - **Düfte und Farben:** Die Wände waren dicht behängt mit den typischen blauen oder roten Töpfen voller Geranien, Nelken und üppiger Bougainvillea. Ein  intensive Duft von Jasmin (_Jazmín_) und Orangenblüten (_Azahar_) in den engen Gassen der _Judería_ oder San Basilio liegt in der Luft.
  

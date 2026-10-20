@@ -32,13 +32,13 @@
 ![](media04/20140512-185541.webp)
 
 
- - 🇬🇧 Hostel (next to) at the ‘Local Police’ (?). I still need to check if it was here, but the room didn’t have Swedish blinds. **We were given a very friendly and warm welcome.**
+ - 🇬🇧 Hostel (next to) at the ‘Local Police’ (?). I still need to check if it was here.  **We were given a very friendly and warm welcome.**
  
--  🇩🇪 Herberge (neben der) in der „Policia Lokal“ (?). Ich muss noch nachsehen, ob es hier war, aber die Unterkunft hatte keine schwedischen Gardinen. **Wir wurden sehr freundlich und herzlich empfangen.**
+-  🇩🇪 Herberge (neben der) in der „Policia Lokal“ (?). Ich muss noch nachsehen, ob es hier war. **Wir wurden sehr freundlich und herzlich empfangen.**
 
-- 🇵🇹 Albergue (ao lado da) na “Policia Lokal” (?). Ainda tenho de verificar se era aqui, mas o alojamento não tinha cortinas suecas.  **Fomos recebidos de forma muito simpática e cordial.**
+- 🇵🇹 Albergue (ao lado da) na “Policia Lokal” (?). Ainda tenho de verificar se era aqui.  **Fomos recebidos de forma muito simpática e cordial.**
 
-- 🇪🇸 Albergue (junto a) en la «Policía Local» (?). Todavía tengo que comprobar si era aquí, pero el alojamiento no tenía cortinas suecas. **Nos recibieron de forma muy amable y cordial.**
+- 🇪🇸 Albergue (junto a) en la «Policía Local» (?). Todavía tengo que comprobar si era aquí.  **Nos recibieron de forma muy amable y cordial.**
 ---
 
 <details>
