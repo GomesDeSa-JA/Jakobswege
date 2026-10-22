@@ -145,24 +145,24 @@ Hinter Córdoba wird es einsam und wild. Du durchquerst die Eichenwälder der Si
 13 de Maio 2014
 
 ---
-#### 
+#### [Etappe-18_Monterrubio-de-la-Serena_Ruhetag](Etappe-18_Monterrubio-de-la-Serena_Ruhetag.md)
 14 de Maio 2014
 
 ---
-#### 
+#### [Etappe-19_Monterrubio-de-la-Serena_Campanario](Etappe-19_Monterrubio-de-la-Serena_Campanario.md)
 15 de Maio 2014
 
 ---
-#### 
+#### [Etappe-20_Campanario_Don-Benito](Etappe-20_Campanario_Don-Benito.md)
 16 de Maio 2014
 
 ---
-#### 
+#### [Etappe-21_Don Benito_San-Pedro-de-Merida](Etappe-21_Don%20Benito_San-Pedro-de-Merida.md)
 17 de Maio 2014
 
 ---
-#### 
-1x de Maio 2014
+#### [Etappe-22_San-Pedro-de-Merida_Merida](Etappe-22_San-Pedro-de-Merida_Merida.md)
+18 de Maio 2014
 
 ---
 ##  Vía de la Plata  2014
@@ -315,23 +315,19 @@ Dennoch bleibt der Weg einsam. Es gibt immer noch Etappen, auf denen du 15 bis 2
 </details>
 
 ---
-#### 
-18 de Maio 2014
-
----
-#### 
+#### [Etappe-23](Etappe-23.md)
 19 de Maio 2014
 
 ---
-#### 
+#### [Etappe-24](Etappe-24.md)
 20 de Maio 2014
 
 ---
-#### 
+#### [Etappe-25](Etappe-25.md)
 21 de Maio 2014
 
 ---
-#### 
+#### [Etappe-26](Etappe-26.md)
 22 de Maio 2014
 
 

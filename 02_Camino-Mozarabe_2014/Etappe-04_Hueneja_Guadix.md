@@ -135,6 +135,7 @@
  ![](media02/20140430-171756.webp)
 
  ![](media02/20140430-180152.webp)
+ 
  ![](media02/20140430-184040.webp)
 
 - 🇩🇪 Eine Mutter mit ihrem Nachwuchs. Sie ist nicht verärgert, sondern verlangt lediglich einen angemessenen und respektvollen Abstand zu ihrem Nachwuchs. Und genau das habe ich getan, ohne mich zu beeilen und ganz in Ruhe.

@@ -1,18 +1,17 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-18:  →  ( Km)
-14 de Maio 2014
+### Etappe-24:  →  ( Km)
+22 de Maio 2014
 
 
 
 
- 
 ---
 
 <details>
 <summary>  </summary>
 
-![](media01/20261013121750.png) 🇬🇧 🇪🇸 🇵🇹 🇩🇪 🥾
+![](20261013121750.png) 🇬🇧 🇪🇸 🇵🇹 🇩🇪 🥾
 
 </details>
 

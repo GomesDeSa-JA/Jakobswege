@@ -3,6 +3,7 @@
 ### Etappe-156: Alcaracejos → Hinojosa del Duque (media04/21,6 Km)
 12 de Maio 2014
 
+
 ![](media04/20140512-084453.webp)
 
 ![](media04/20140512-090203.webp)

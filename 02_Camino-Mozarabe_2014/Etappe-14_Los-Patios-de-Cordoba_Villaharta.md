@@ -31,16 +31,17 @@
 
 ![](media04/20140510-113619.webp)
 
-- 🇩🇪 Achte auf die Radfahrer, die vorbei fahren – sie fahren schneller, als es die Polizei erlaubt.
-- 🇪🇸 Presta atención a los ciclistas que pasan por ahí: van más rápido de lo que permite la policía.
-- 🇬🇧  Keep an eye out for cyclists passing by – they’re cycling faster than the police allow.
-- 🇵🇹 Preste atenção aos ciclistas que passam – andam mais depressa do que a polícia permite.
-
-![](media04/20140510-113640.webp)
 - 🇩🇪 Es gibt tatsächlich keinen schöneren Ort, um eine kleine Pause einzulegen.
 - 🇵🇹 Não há, de facto, nenhum sítio mais bonito para fazer uma pequena pausa.
 -  🇪🇸 De hecho, no hay ningún sitio más bonito para hacer una pequeña parada.
 - 🇬🇧 There really is no more beautiful place to stop for a short break.
+
+![](media04/20140510-113640.webp)
+
+- 🇩🇪 Achte auf die Radfahrer, die vorbei fahren – sie fahren schneller, als es die Polizei erlaubt.
+- 🇪🇸 Presta atención a los ciclistas que pasan por ahí: van más rápido de lo que permite la policía.
+- 🇬🇧  Keep an eye out for cyclists passing by – they’re cycling faster than the police allow.
+- 🇵🇹 Preste atenção aos ciclistas que passam – andam mais depressa do que a polícia permite.
 
 ![](media04/20140510-114704.webp)
 

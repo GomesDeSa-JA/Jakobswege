@@ -4,65 +4,65 @@
 01 de Maio 2014
 
 
-![](20140501-070102.webp)
+![](media03/20140501-070102.webp)
 
-![](20140501-073134.webp)
+![](media03/20140501-073134.webp)
 
-![](20140501-073237.webp)
+![](media03/20140501-073237.webp)
 
-![](20140501-073932.webp)
+![](media03/20140501-073932.webp)
 
-![](20140501-073949.webp)
+![](media03/20140501-073949.webp)
 
-![](20140501-074440.webp)
+![](media03/20140501-074440.webp)
 
-![](20140501-074451.webp)
+![](media03/20140501-074451.webp)
 
-![](20140501-074541.webp)
+![](media03/20140501-074541.webp)
 
-![](20140501-074715.webp)
+![](media03/20140501-074715.webp)
 
-![](20140501-075413.webp)
+![](media03/20140501-075413.webp)
 
-![](20140501-075933.webp)
+![](media03/20140501-075933.webp)
 
-![](20140501-075940.webp)
+![](media03/20140501-075940.webp)
 
-![](20140501-080019.webp)
+![](media03/20140501-080019.webp)
 
-![](20140501-081912.webp)
+![](media03/20140501-081912.webp)
 
-![](20140501-082841.webp)
+![](media03/20140501-082841.webp)
 
-![](20140501-083532.webp)
+![](media03/20140501-083532.webp)
 
-![](20140501-083724.webp)
+![](media03/20140501-083724.webp)
 
-![](20140501-093131.webp)
+![](media03/20140501-093131.webp)
 
-![](20140501-094530.webp)
+![](media03/20140501-094530.webp)
 
-![](20140501-101945.webp)
+![](media03/20140501-101945.webp)
 
-![](20140501-101951.webp)
+![](media03/20140501-101951.webp)
 
-![](20140501-103456.webp)
+![](media03/20140501-103456.webp)
 
-![](20140501-104500.webp)
+![](media03/20140501-104500.webp)
 
-![](20140501-104505.webp)
+![](media03/20140501-104505.webp)
 
-![](20140501-104711.webp)
+![](media03/20140501-104711.webp)
 
-![](20140501-104809.webp)
+![](media03/20140501-104809.webp)
 
-![](20140501-111608.webp)
+![](media03/20140501-111608.webp)
 
-![](20140501-111622.webp)
+![](media03/20140501-111622.webp)
 
-![](20140501-111626.webp)
+![](media03/20140501-111626.webp)
 
-![](20140501-111632.webp)
+![](media03/20140501-111632.webp)
 
 #### Das Castillo de La Peza: Wächter des maurischen Caminos
 
@@ -75,17 +75,15 @@ Die Burgruine von La Peza  (auf dem Hügel _San Antón_) hat eine tief verwurzel
 
 
 - **Das Ende der Burg:** Im Jahr 1489 wurde die Burg im Zuge der _Reconquesta_ von den Katholischen Königen erobert. Bis zum Jahr 1571 war die Anlage noch gut erhalten. Im 17. Jahrhundert wurde sie endgültig aufgegeben und verfiel zur heutigen Ruine
-
-
 ---
 
-![](20140501-113447.webp)
+![](media03/20140501-113447.webp)
 
-![](20140501-115220.webp)
+![](media03/20140501-115220.webp)
 
-![](20140501-131516.webp)
+![](media03/20140501-131516.webp)
 
-![](20140501-141307.webp)
+![](media03/20140501-141307.webp)
 
 
 <details>
@@ -93,7 +91,7 @@ Die Burgruine von La Peza  (auf dem Hügel _San Antón_) hat eine tief verwurzel
 
 #### 🇩🇪  **Etappendaten & Routenwahl**
 
-- **Distanz laut Gronze.com:** **49,3 km** (27,1 km + 22,2 km), inklusive des offiziellen Umwegs am Puerto de Los Blancares (rechts abbiegen über den „Collado de Puerto Blanco“).
+- **Distanz laut Gronze.com:** **49,3 km** (media03/27,1 km + 22,2 km), inklusive des offiziellen Umwegs am Puerto de Los Blancares (rechts abbiegen über den „Collado de Puerto Blanco“).
 - **Tatsächliche Route:** Geradeaus weitergegangen und nicht rechts abgebogen. Nach so vielen Kilometern wäre jeder Schritt über Steine für die Füße unerträglich gewesen.
 
 **Zeitplan & Ankunft**
@@ -120,7 +118,7 @@ Die Burgruine von La Peza  (auf dem Hügel _San Antón_) hat eine tief verwurzel
 
 #### 🇵🇹 **Dados da Etapa & Escolha da Rota**
 
-- **Distância segundo Gronze.com:** **49,3 km** (27,1 km + 22,2 km), incluindo o desvio oficial no Puerto de Los Blancares (virar à direita pelo "Collado de Puerto Blanco").
+- **Distância segundo Gronze.com:** **49,3 km** (media03/27,1 km + 22,2 km), incluindo o desvio oficial no Puerto de Los Blancares (virar à direita pelo "Collado de Puerto Blanco").
 - **Rota real:** Segui em frente e não virei à direita. Depois de tantos quilómetros percorridos, cada passo sobre uma pedra teria sido insuportável para os pés.
 
 **Horários & Chegada**
@@ -147,7 +145,7 @@ Die Burgruine von La Peza  (auf dem Hügel _San Antón_) hat eine tief verwurzel
 
 #### 🇪🇸 **Datos de la Etapa y Elección de Ruta**
 
-- **Distancia según Gronze.com:** **49,3 km** (27,1 km + 22,2 km), incluyendo el desvío oficial en el Puerto de Los Blancares (girar a la derecha por el "Collado de Puerto Blanco").
+- **Distancia según Gronze.com:** **49,3 km** (media03/27,1 km + 22,2 km), incluyendo el desvío oficial en el Puerto de Los Blancares (girar a la derecha por el "Collado de Puerto Blanco").
 - **Ruta real:** Seguí recto y no giré a la derecha. Después de tantos kilómetros acumulados, cada paso sobre una piedra habría sido insoportable para mis pies.
 
 **Horarios y Llegada**
@@ -174,7 +172,7 @@ Die Burgruine von La Peza  (auf dem Hügel _San Antón_) hat eine tief verwurzel
 
 #### 🇬🇧 **Stage Data & Route Choice**
 
-- **Distance according to Gronze.com:** **49,3 km** (27.1 km + 22.2 km), including the official detour at Puerto de Los Blancares (turning right via "Collado de Puerto Blanco").
+- **Distance according to Gronze.com:** **49,3 km** (media03/27.1 km + 22.2 km), including the official detour at Puerto de Los Blancares (turning right via "Collado de Puerto Blanco").
 - **Actual route:** Walked straight ahead and did not turn right. After so many kilometers, every single step over a stone would have been unbearable for my feet.
 
 **Timeline & Arrival**
@@ -215,25 +213,25 @@ Se virar à direita no Puerto de los Blancares (quilómetro 12,3 a partir de La 
 
 If you take a sharp right at Puerto de los Blancares (12.3 kilometres from La Peza), the official route follows a wide arc over the **Collado de Puerto Blanco** and the abandoned stone quarry _Cantera de la Única_
 
-![](20140501-141427.webp)
+![](media03/20140501-141427.webp)
 
-![](20140501-143303.webp)
+![](media03/20140501-143303.webp)
 
-![](20140501-143837.webp)
+![](media03/20140501-143837.webp)
 
-![](20140501-154936.webp)
+![](media03/20140501-154936.webp)
 
 
-![](20140501-154950.webp)
+![](media03/20140501-154950.webp)
 7,5 Km bis Quéntar (15:49) etwa 2 Std für die Strecke
 
-![](20140501-161715.webp)
+![](media03/20140501-161715.webp)
 
-![](20140501-161734.webp)
+![](media03/20140501-161734.webp)
 
-![](20140501-164834.webp)
+![](media03/20140501-164834.webp)
 
- ![](20140501-165005.webp)
+ ![](media03/20140501-165005.webp)
 
 Gegen 06h00 aufgebrochen 
 

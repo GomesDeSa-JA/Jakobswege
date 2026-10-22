@@ -3,7 +3,7 @@
 ### Etappe-06 : Quéntar  →  Pinos Puente ( ca. 34 Km )
 02 de Maio 2014
 
-![](Granada-GR3201.webp)
+![](media03/Granada-GR3201.webp)
 Google maps Foto
 
 - **_Ist der Fotoordner verschwunden? Waren die Bilder auf dem alten Laptop oder Netbook?_**
@@ -25,7 +25,7 @@ Je näher ich Granada kam, desto dichter wurde der Berufsverkehr. Auf dem Abschn
 
 Als ich mitten im dichten Berufsverkehr die ersten Häuser von Granada erblickte, bog ich nach rechts in Richtung Alhambra ab. Die Straße führte bergauf, und etwa auf halber Strecke lag ein Aussichtspunkt, der mich an den Mirador Peña de las Mulas vor La Peza erinnerte.
 
-![](Granada-Google-Fotos.webp)
+![](media03/Granada-Google-Fotos.webp)
 Granada-Google Maps-Foto
 
 Ich machte einige Fotos von dort und spazierte anschließend durch die Außenanlagen der Alhambra. Auch hier hielt ich die Umgebung mit meiner Kamera fest. Besonders beeindruckte mich ein kleiner Regenbogen, der sich über dem Nebel der Bewässerungsanlagen gebildet hatte.
@@ -67,7 +67,7 @@ Parti de manhã cedo, ainda de noite, levando uma lanterna. Não segui o caminho
 
 Quando avistei as primeiras casas de Granada, em plena hora de ponta, virei à direita, na direção da Alhambra. A estrada subia e, a meio do percurso, encontrei um miradouro semelhante ao Mirador Peña de las Mulas, antes de La Peza.
 
-![](Granada-Google-Fotos.webp)
+![](media03/Granada-Google-Fotos.webp)
 Granada-Google Maps-Foto
 
 Tirei algumas fotografias desse local e depois passeiei pelas áreas exteriores da Alhambra. Também fotografei os arredores e consegui captar um pequeno arco-íris que se formara sobre a névoa dos sistemas de rega.
@@ -109,7 +109,7 @@ A medida que me acercaba a Granada, el tráfico de la hora punta se volvía cada
 
 Cuando divisé las primeras casas de Granada, en plena hora punta, giré a la derecha en dirección a la Alhambra. La carretera ascendía y, aproximadamente a mitad de camino, encontré un mirador que me recordó al Mirador Peña de las Mulas, antes de llegar a La Peza.
 
-![](Granada-Google-Fotos.webp)
+![](media03/Granada-Google-Fotos.webp)
 Granada-Google Maps-Foto
 
 Hice algunas fotografías desde allí y después paseé por los espacios exteriores de la Alhambra. También fotografié los alrededores y conseguí captar un pequeño arcoíris que se había formado sobre la niebla de los sistemas de riego.
@@ -151,7 +151,7 @@ That is true — and yet it is also an absolute lie.
 
 Just as I caught sight of the first houses of Granada in the middle of rush hour, I turned right towards the Alhambra. The road climbed uphill, and about halfway along, I came across a viewpoint that reminded me of the Mirador Peña de las Mulas, before La Peza.
 
-![](Granada-Google-Fotos.webp)
+![](media03/Granada-Google-Fotos.webp)
 Granada-Google Maps-Foto
 
 I took a few photographs from there and then walked around the Alhambra’s exterior grounds. I photographed the surroundings as well and managed to capture a small rainbow that had formed above the mist from the irrigation systems.
@@ -177,7 +177,7 @@ Sometimes a photograph can capture a reality that barely existed at that very mo
 <details>
 <summary>  </summary>
 
-![](20261013121750.png) 🇬🇧 🇪🇸 🇵🇹 🇩🇪 🥾
+![](media01/20261013121750.png) 🇬🇧 🇪🇸 🇵🇹 🇩🇪 🥾
 
 </details>
 

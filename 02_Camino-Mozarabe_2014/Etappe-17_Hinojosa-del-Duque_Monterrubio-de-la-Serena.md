@@ -70,7 +70,7 @@
 
 ---
 
-↪ [Etappe-18_Monterrubio-de-la-Serena_](Etappe-18_Monterrubio-de-la-Serena_.md)
+↪ [Etappe-18_Monterrubio-de-la-Serena_Ruhetag](Etappe-18_Monterrubio-de-la-Serena_Ruhetag.md)
 
  🔁  [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
  
