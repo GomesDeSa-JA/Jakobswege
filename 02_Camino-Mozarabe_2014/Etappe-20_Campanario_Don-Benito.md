@@ -11,6 +11,7 @@
 
 ![](media05/20140516-074912-DSCF4637.webp)
 - Mit Teleobjektiv
+
 ![](media05/20140516-080125-DSCF4641a.webp)
 
 ![](media05/20140516-080542-DSCF4643.webp)
@@ -25,7 +26,7 @@
 ![](media05/20140516-104412-DSCF4661.webp)
 
 
-![](20140516-104551-DSCF4665-.webp)
+![](media05/20140516-104551-DSCF4665-.webp)
 
 ![](media05/20140516-104428-DSCF4662.webp)
 
@@ -42,14 +43,11 @@
 ![](media05/20140516-125431.webp)
 
 
-
-
-
 ![](media05/20140516-141500-DSCF4685.webp)
 
 La Haba **Tudo muda**
 
-![](20140516Fr16Mai124350.png)
+![](20140516Fr16Mai124350.webp)
 
 ![](media05/20140516-145304-DSCF4686-.webp)
 

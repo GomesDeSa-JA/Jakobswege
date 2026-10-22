@@ -47,7 +47,7 @@ Ein ruhiges Dorf, in dem man das Funkeln der Sterne betrachten und hören kann.
 
 ---
 
-↪ 
+↪ [Etappe-19_Monterrubio-de-la-Serena_Campanario](Etappe-19_Monterrubio-de-la-Serena_Campanario.md)
 
  🔁  [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
  

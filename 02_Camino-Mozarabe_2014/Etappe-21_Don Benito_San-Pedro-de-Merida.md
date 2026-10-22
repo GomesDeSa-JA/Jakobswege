@@ -299,6 +299,7 @@ Today, Cortés is viewed in a very ambivalent light:
 Cortés later returned to Spain and died in 1547, impoverished and embittered, near Seville. His remains, however, were returned to Mexico City, where they still rest in a church to this day.
 
 ----
+
 <details>
 <summary>🇬🇧 Would I have gone with him back then?</summary>
 
@@ -374,6 +375,7 @@ Der Finanzfachmann aus dem Norden erklärte mir, dass ein Schirm vor der Sonnene
 > **Eine wirklich plausible, sachliche und vernünftige Erklärung.**
 
 ---
+
 #### 🇵🇹 A caminho de San Pedro de Mérida, na ponte sobre o Guadiana
 
 **Afinal, de onde é que ele vinha?**
@@ -387,6 +389,8 @@ Isto porque, pouco antes, perto de Baena, já me tinha cruzado com uma peregrina
 O especialista financeiro do norte explicou-me então que o guarda-sol protege dos raios solares. Respondi-lhe que também representa peso adicional e que não é propriamente prático de transportar. Ele contrapôs que, com o calor, suamos mais e, por isso, precisamos de beber mais água. Consequentemente, temos de transportar mais água, o que significa ainda mais peso.
 
 > **Uma explicação verdadeiramente plausível, objetiva e sensata.**
+
+---
 
 #### 🇪🇸 De camino a San Pedro de Mérida, en el puente sobre el Guadiana
 
@@ -403,6 +407,7 @@ El experto en finanzas del norte me explicó que la sombrilla protege de los ray
 > **Una explicación realmente plausible, objetiva y sensata.**
 
 ---
+
 #### 🇬🇧 On the Way to San Pedro de Mérida, on the Bridge over the Guadiana
 
 **Where was he actually from?**
@@ -477,6 +482,7 @@ Depois, tirei as botas e as calças de caminhada, peguei no meu bastão de giest
 Atualmente, já é possível atravessar o impetuoso rio Búrdalo através de uma ponte pedonal, inaugurada em abril de 2026.
 
 ---
+
 #### 🇪🇸 Todos los caminos rurales llevan a San Pedro de Mérida
 
 Así lo hacían ya los romanos.  Pero fueron aún más lejos.
@@ -573,7 +579,7 @@ Formulierung: Denn auf dem Camino geht es nicht nur darum, Kilometer zurückzule
 Ich begann, meine Gehgeschwindigkeit zu berechnen, weil ich wissen wollte, ob mir noch genügend Zeit blieb, um einen bestimmten Punkt innerhalb eines vorgegebenen Zeitraums zu erreichen. Schließlich darf man nicht vergessen, dass ich persönlich ab einer Strecke von etwa 20 Kilometern oft keine vier Kilometer pro Stunde mehr schaffe. Ab 30 Kilometern bin ich schon froh, wenn ich noch einen Durchschnitt von drei Kilometern pro Stunde erreiche.
 
 
-Kurz vor dem Stausee von Alcántara gelang es mir schließlich, eine ganze Etappe lang mit Dirks Tempo mitzuhalten.
+> **Kurz vor dem Stausee von Alcántara gelang es mir schließlich, eine ganze Etappe lang mit Dirks Tempo mitzuhalten.**
 
 Aber das ist eine andere Geschichte.
 
@@ -616,7 +622,7 @@ Afinal, no Caminho, não se trata apenas de percorrer quilómetros. Por vezes, q
 
 Comecei a calcular a minha velocidade porque era importante saber se ainda tinha tempo suficiente para chegar a determinado ponto dentro de um prazo específico. Afinal, não nos podemos esquecer de que, no meu caso, a partir dos 20 quilómetros, muitas vezes já não consigo manter um ritmo de quatro quilómetros por hora. E, a partir dos 30 quilómetros, já fico satisfeito se conseguir uma média de três quilómetros por hora.
 
-Pouco antes da albufeira de Alcántara, consegui finalmente acompanhar o ritmo de Dirk durante uma etapa inteira.
+> **Pouco antes da albufeira de Alcántara, consegui finalmente acompanhar o ritmo de Dirk durante uma etapa inteira.**
 
 Mas essa é outra história.
 
@@ -660,7 +666,7 @@ Porque en el Camino no se trata solo de recorrer kilómetros. A veces también q
 
 Empecé a calcular mi velocidad porque era importante saber si todavía disponía de tiempo suficiente para llegar a un punto determinado dentro de un plazo concreto. No hay que olvidar que, en mi caso, a partir de los 20 kilómetros, muchas veces ya no consigo mantener un ritmo de cuatro kilómetros por hora. Y, a partir de los 30 kilómetros, ya me doy por satisfecho si consigo una media de tres kilómetros por hora.
 
-Poco antes del embalse de Alcántara, finalmente conseguí mantener el ritmo de Dirk durante una etapa entera.
+> **Poco antes del embalse de Alcántara, finalmente conseguí mantener el ritmo de Dirk durante una etapa entera.**
 
 Pero esa es otra historia.
 
@@ -703,7 +709,7 @@ Because the Camino is not just about covering kilometres. Sometimes you also wan
 
 I started calculating my walking speed because it was important to know whether I still had enough time to reach a particular point within a given time frame. After all, in my case, once I have covered around 20 kilometres, I often can no longer maintain a pace of four kilometres per hour. And after 30 kilometres, I am already happy if I can manage an average of three kilometres per hour.
 
-Shortly before reaching the Alcántara Reservoir, I finally managed to keep up with Dirk’s pace for an entire stage.
+> **Shortly before reaching the Alcántara Reservoir, I finally managed to keep up with Dirk’s pace for an entire stage.**
 
 But that is another story.
 
