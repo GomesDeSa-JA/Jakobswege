@@ -9,8 +9,9 @@
 
 ![](media06/20140521_090218DSCF4803.webp)
 
-
 **Dia das Nuvens**
+
+**El día de las nubes**
 
 ![](media06/20140521_092038-DSCF4804.webp)
 

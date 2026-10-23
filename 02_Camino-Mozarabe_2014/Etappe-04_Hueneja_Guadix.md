@@ -65,6 +65,7 @@
 - 🇩🇪 Viele herzlichen Dank an den Herrn für die gelben Pfeile; ich bin sehr dankbar für jeden schönen Umweg abseits der asphaltierten Straße.
 - 🇪🇸 Muchísimas gracias, Señor, por las flechas amarillas; estoy muy agradecido por cada uno de esos bonitos desvíos fuera de la calle asfaltada.
 - 🇬🇧 Thank you so very much, Lord, for the yellow arrows; I am so grateful for each and every one of those lovely detours off the tarmac road.
+
  ![](media02/20140430-094916.webp)
 
  ![](media02/20140430-095648.webp)
