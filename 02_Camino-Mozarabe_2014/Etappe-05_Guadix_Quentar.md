@@ -64,7 +64,7 @@
 
 ![](media03/20140501-111632.webp)
 
-#### Das Castillo de La Peza: Wächter des maurischen Caminos
+#### Info: Das Castillo de La Peza: Wächter des maurischen Caminos
 
 >  *Ich bin nicht dort gewesen.*
 
@@ -72,7 +72,6 @@ Die Burgruine von La Peza  (auf dem Hügel _San Antón_) hat eine tief verwurzel
 - **Römischer Ursprung:** Bevor die Mauren kamen, bauten die Römer an exakt dieser Stelle das Militärlager **„Castrum Romano“**. Es diente als Raststation an der antiken Handelsstraße.
 
 - **Maurische Festung (9. bis 11. Jahrhundert):** Die Mauren bauten die Anlage zu einer massiven Festung aus. Während der Nasriden-Dynastie im Königreich Granada war das Castillo von **immenser Bedeutung**: Es kontrollierte und bewachte den gesamten Verkehr und den Passübergang zwischen Guadix und Granada. Pilger und Händler waren gezwungen, diesen geschützten Korridor zu nutzen.
-
 
 - **Das Ende der Burg:** Im Jahr 1489 wurde die Burg im Zuge der _Reconquesta_ von den Katholischen Königen erobert. Bis zum Jahr 1571 war die Anlage noch gut erhalten. Im 17. Jahrhundert wurde sie endgültig aufgegeben und verfiel zur heutigen Ruine
 ---

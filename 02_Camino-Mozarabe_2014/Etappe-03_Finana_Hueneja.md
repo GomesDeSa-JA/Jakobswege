@@ -242,7 +242,7 @@ I do not know whether they hated mathematics and therefore politely declined, de
 
 ---
 
-↪ 
+↪ [Etappe-04_Hueneja_Guadix](Etappe-04_Hueneja_Guadix.md)
 
  🔁  [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
  

@@ -25,7 +25,6 @@
 
 ![](media05/20140516-104412-DSCF4661.webp)
 
-
 ![](media05/20140516-104551-DSCF4665-.webp)
 
 ![](media05/20140516-104428-DSCF4662.webp)
@@ -45,17 +44,18 @@
 
 ![](media05/20140516-141500-DSCF4685.webp)
 
-La Haba **Tudo muda**
+La Haba: **Tudo muda**
 
-![](20140516Fr16Mai124350.webp)
-
-![](media05/20140516-145304-DSCF4686-.webp)
+![](media05/20140516Fr16Mai124350.webp)
 
 - Don Benito
 
 ![](media05/20140516-150802.webp)
 
-![](20140516-150725-.webp)
+
+![](media05/20140516-145304-DSCF4686-.webp)
+
+![](media05/20140516-150725-.webp)
 
 ---
 

@@ -41,13 +41,13 @@ Heiliger Isidor der Bauer (der Schutzheilige von Madrid).
 ![](media05/20140515-110953-DSCF4587.webp)
 - Castuera
 
+↓ Google Maps-Foto ↓
 ![](media05/Castuera-Calle-Santa-Ana.webp)
 
 ![](media05/20140515-111102-DSCF4597.webp)
 
 <details>
 <summary>Festas de San Isidro em Castuera  </summary>
-
 
 #### Festas de San Isidro em Castuera
 
@@ -78,8 +78,7 @@ Principais Atividades
 
 - 🇬🇧 After a proper beer – not like the ones in San Pedro de Mérida (0.25 l) – and taking a few photos, my feet didn’t really feel like walking any further, but I managed to persuade them to carry on to the hostel, albeit reluctantly.
 
-
-![](Campanario_Albergue-de-Peregrinos_La-Station.webp)
+![](media05/Campanario_Albergue-de-Peregrinos_La-Station.webp)
 ↑Google Maps-Foto↑
 
 🇩🇪  Als ich hereinkam, saß Dirk aus Remscheid – den ich hier zum ersten Mal sah – bereits hier und bereitete die Informationen über den Jakobsweg für seinen YouTube-Kanal „Bluefish oder so ähnlich“ vor; den genauen Namen habe ich irgendwo in einer meiner Notizdateien.

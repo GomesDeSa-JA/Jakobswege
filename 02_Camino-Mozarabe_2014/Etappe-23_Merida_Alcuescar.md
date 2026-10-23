@@ -1,6 +1,6 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-23: Mérida →Alcuéscar  ( Km)
+### Etappe-23: Mérida →Alcuéscar  (35,9 Km)
 19 de Maio 2014
 
 
@@ -51,7 +51,7 @@
 
 ---
 
-↪ [Etappe-24](Etappe-24.md)
+↪ [Etappe-24_Alcuescar_Caceres](Etappe-24_Alcuescar_Caceres.md)
 
  🔁  [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
  

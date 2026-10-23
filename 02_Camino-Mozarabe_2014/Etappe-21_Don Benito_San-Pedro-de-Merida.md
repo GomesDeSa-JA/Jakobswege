@@ -532,14 +532,13 @@ Then I took off my boots and hiking trousers, grabbed my broom heather walking s
 
 It is now possible to cross the fast-flowing Río Búrdalo via a footbridge that was inaugurated in April 2026.
 
-![](media05/Rio-Burdalo-Guadiana.webp)
-
 ![](media05/20140517-140242.webp)
 
-![](media05/20140517-140359.webp)
+![](media05/Rio-Burdalo-Guadiana.webp)
 
 ![](media05/Rio-Burdalo-Guadiana-San-Pedro-de-Merida.webp)
 
+![](media05/20140517-140359.webp)
 #### 🇩🇪 Tagesziel erreicht – und zum Abschluss ein richtiges Bier!
 
 Das dachte ich zumindest. Doch ich hatte mich getäuscht. Es gab nur **Botellín** oder **Quinto** – oder hieß es vielleicht **Mini**?

@@ -3,8 +3,7 @@
 ### Etappe-10 : Baena  →  Castro del Rio ( 20, 4 Km)
 06 de Maio 2014
 
-#### Capital do Reino das Oliveiras e do Azeite
-
+#### Capital do Reino das Oliveiras e do Azeite de qualidade
 
 ![](media03/20140506-075720.webp)
 
@@ -31,7 +30,6 @@
 ![](media03/20140506-122830.webp)
 
 ![](media03/20140506-122846-.webp)
-
 
 ---
 

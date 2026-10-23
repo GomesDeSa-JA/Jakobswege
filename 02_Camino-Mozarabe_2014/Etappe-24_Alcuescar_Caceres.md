@@ -1,9 +1,7 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-24:  →  ( Km)
+### Etappe-24: Alcuéscar  →  Cáceres ( 37,4 Km)
 20 de Maio 2014
-
-
 
 ![](media06/20140520_070558.webp)
 
@@ -17,10 +15,10 @@
 
 ![](media06/20140520-093633-DSCF4785-.webp)
 
-Um desvio pelo supermercado
-Fruta e água..., ... 
-
 ![](media06/20140520_101614.webp)
+
+Um desvio pelo supermercado ?
+Fruta e água..., ... 
 
 ![](media06/20140520_101628.webp)
 
@@ -50,11 +48,6 @@ Fruta e água..., ...
 
 ![](media06/20140520_164224-.webp)
 
-<details>
-<summary></summary>
-![](media06/20140520_183904.webp)
-</details>
-
 ---
 
 <details>
@@ -62,11 +55,17 @@ Fruta e água..., ...
 
 ![](media01/20261013121750.png) 🇬🇧 🇪🇸 🇵🇹 🇩🇪 🥾
 
+
+<details>
+<summary></summary>
+![](media06/20140520_183904.webp)
+</details>
+
 </details>
 
 ---
 
-↪ [Etappe-25](Etappe-25.md)
+↪ [Etappe-25_Caceres_Embalse-de-Alcantara](Etappe-25_Caceres_Embalse-de-Alcantara.md)
 
  🔁  [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
  

@@ -100,6 +100,8 @@ I dreamed of gentle, clear water flowing by, but not of a **“Gota fria.**”
 
 ![](media02/20140427-135414.webp)
 
+![](media02/20140427-140225.webp)
+
 ![](media02/20140427-140921.webp)
 
 ### Rio Andrax sem uma "⚠️ Gota Fría" 

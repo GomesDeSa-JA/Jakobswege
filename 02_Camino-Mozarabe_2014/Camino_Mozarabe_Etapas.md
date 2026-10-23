@@ -315,19 +315,19 @@ Dennoch bleibt der Weg einsam. Es gibt immer noch Etappen, auf denen du 15 bis 2
 </details>
 
 ---
-#### [Etappe-23](Etappe-23.md)
+#### [Etappe-23_Merida_Alcuescar](Etappe-23_Merida_Alcuescar.md)
 19 de Maio 2014
 
 ---
-#### [Etappe-24](Etappe-24.md)
+#### [Etappe-24_Alcuescar_Caceres](Etappe-24_Alcuescar_Caceres.md)
 20 de Maio 2014
 
 ---
-#### [Etappe-25](Etappe-25.md)
+#### [Etappe-25_Caceres_Embalse-de-Alcantara](Etappe-25_Caceres_Embalse-de-Alcantara.md)
 21 de Maio 2014
 
 ---
-#### [Etappe-26](Etappe-26.md)
+#### [Etappe-26_Embalse-de-Alcantara_San-Gil](Etappe-26_Embalse-de-Alcantara_San-Gil.md)
 22 de Maio 2014
 
 

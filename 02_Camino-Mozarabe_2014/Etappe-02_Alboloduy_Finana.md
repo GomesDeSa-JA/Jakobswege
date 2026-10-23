@@ -41,11 +41,14 @@ I wasn’t expecting quite so much liquid gold. Where on earth does all this eli
 
 
 ![](media02/20140428-090640.webp)
+
 - 🇬🇧 It’s a bit steep going up.
 I was glad I’d set off on this stage first thing in the morning rather than in the afternoon, when I’d already have been completely exhausted.
 
 - 🇩🇪 Der Weg nach oben ist ein bisschen steil.
 Ich war froh, diese Etappe schon früh am Morgen in Angriff genommen zu haben und nicht erst am Nachmittag, wenn ich bereits völlig erschöpft gewesen wäre.
+
+![](media02/20140428-091047.webp)
 
 - 🇪🇸 El camino hacia arriba es un poco empinado.
 Me alegré de haber empezado esta etapa a primera hora de la mañana y no por la tarde, cuando ya estaría completamente agotado.
@@ -54,7 +57,6 @@ Me alegré de haber empezado esta etapa a primera hora de la mañana y no por la
 Fiquei contente por ter iniciado esta etapa logo de manhã cedo e não à tarde, quando já estaria completamente exausto.
 
 ![](media02/20140428-093935.webp)
-
 ↑ Ein Blick zurück ↑ Alboloduy ist nicht mehr zu sehen. 
 
 ![](media02/20140428-092049.webp)
@@ -144,6 +146,7 @@ Um local fresco para descansar.
 - 🇬🇧 Up until now it had been a gentle ride, but now come the toughest kilometres of the day.
 
 ![](media02/20140428-194533.webp)
+
 ### Ein großes Dankeschön an Fiñana
 
 #### 🇩🇪 Herzlichen Dank an alle!  
@@ -264,8 +267,8 @@ To be honest, I don't know if I would have made it to the Casa Rural at all if t
 
 ---
 
-↪ 
+↪ [Etappe-03_Finana_Hueneja](Etappe-03_Finana_Hueneja.md)
 
- 🔁 
+ 🔁 [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
  
  ...→

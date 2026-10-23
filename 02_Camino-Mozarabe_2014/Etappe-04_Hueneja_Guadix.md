@@ -59,7 +59,7 @@
 
 
 ![](media02/20140430-092325.webp)
-↑ Alojamento rural Bellavista ↑
+↑ 50-70 m ↑  Alojamento rural Bellavista
 
 - 🇵🇹 Muito obrigado ao Senhor pelas setas amarelas; estou muito grato por cada belo desvio fora do asfalto.
 - 🇩🇪 Viele herzlichen Dank an den Herrn für die gelben Pfeile; ich bin sehr dankbar für jeden schönen Umweg abseits der asphaltierten Straße.
@@ -73,11 +73,11 @@
 
 ![](media02/20140430-100342Alto-de-la-Regua.webp)
 
- ![](media02/20140430-101046.webp)
+![](media02/20140430-101046.webp)
 
  ![](media02/20140430-103025.webp)
 
- ![](media02/20140430-105017.webp)
+![](media02/20140430-105017.webp)
 
 - 🇵🇹 Com esta vista, poderia pensar-se em abrir aqui, no castelo, uma Albergue.
 - 🇩🇪 Bei dieser Aussicht könnte man darüber nachdenken, hier im Schloss eine Herberge zu eröffnen.
@@ -90,10 +90,10 @@
 
  ![](media02/20140430-113802.webp)
 
- ![](media02/20140430-124144.webp)
+![](media02/20140430-124144.webp)
 
- ![](media02/20140430-125949.webp)
-
+![](media02/20140430-125949.webp)
+↑ Em 2014 ofereceram-me  alojamento na casa da avó ↑  
  ![](media02/20140430-133232.webp)
  
  ![](media02/20140430-133611.webp)
@@ -134,20 +134,17 @@
 
  ![](media02/20140430-171756.webp)
 
- ![](media02/20140430-180152.webp)
+![](media02/20140430-180152.webp)
  
- ![](media02/20140430-184040.webp)
+![](media02/20140430-184040.webp)
 
 - 🇩🇪 Eine Mutter mit ihrem Nachwuchs. Sie ist nicht verärgert, sondern verlangt lediglich einen angemessenen und respektvollen Abstand zu ihrem Nachwuchs. Und genau das habe ich getan, ohne mich zu beeilen und ganz in Ruhe.
 - 🇪🇸 Una madre con su cría. No está enfadada, sino que simplemente pide que se mantenga una distancia adecuada y respetuosa con respecto a su cría. Y eso es precisamente lo que hice, sin prisas y con toda tranquilidad.
 -  🇬🇧 A mother with her offspring. She isn’t annoyed; she’s simply asking people to keep a reasonable and respectful distance from her offspring. And that’s exactly what I did, without rushing and in a completely calm manner.
 - 🇵🇹 Uma mãe com a sua cria. Ela não está zangada, mas pede simplesmente que se mantenha uma distância adequada e respeitosa em relação à sua cria. E foi precisamente isso que fiz, sem pressa e com toda a calma.
-
-
-
  ![](media02/20140430-184800.webp)
 
- ![](media02/20140430-185251.webp)
+![](media02/20140430-185251.webp)
 
 ![](media02/20140430-185336.webp)
 
@@ -162,7 +159,7 @@
 
 ---
 
-↪ [Etappe-04_Hueneja_Guadix](Etappe-04_Hueneja_Guadix.md)
+↪ [Etappe-05_Guadix_Quentar](Etappe-05_Guadix_Quentar.md)
 
  🔁  [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
  
