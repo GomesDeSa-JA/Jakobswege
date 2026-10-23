@@ -3,50 +3,50 @@
 ### Etappe-24: Alcuéscar  →  Cáceres ( 37,4 Km)
 20 de Maio 2014
 
-![](media06/20140520_070558.webp)
+![](Media06/20140520_070558.webp)
 
-![](media06/20140520_070607.webp)
+![](Media06/20140520_070607.webp)
 
-![](media06/20140520-081522-DSCF4784-.webp)
+![](Media06/20140520-081522-DSCF4784-.webp)
 
-![](media06/20140520-091117.webp)
+![](Media06/20140520-091117.webp)
 
-![](media06/20140520_092637.webp)
+![](Media06/20140520_092637.webp)
 
-![](media06/20140520-093633-DSCF4785-.webp)
+![](Media06/20140520-093633-DSCF4785-.webp)
 
-![](media06/20140520_101614.webp)
+![](Media06/20140520_101614.webp)
 
 Um desvio pelo supermercado ?
 Fruta e água..., ... 
 
-![](media06/20140520_101628.webp)
+![](Media06/20140520_101628.webp)
 
-![](media06/20140520_120409.webp)
+![](Media06/20140520_120409.webp)
 
-![](media06/20140520_120421.webp)
+![](Media06/20140520_120421.webp)
 
-![](media06/20140520_120436-.webp)
+![](Media06/20140520_120436-.webp)
 
-![](media06/20140520_121300.webp)
+![](Media06/20140520_121300.webp)
 
-![](media06/20140520-123619-DSCF4788.webp)
+![](Media06/20140520-123619-DSCF4788.webp)
 
-![](media06/20140520_145437.webp)
+![](Media06/20140520_145437.webp)
 
-![](media06/20140520-150221-DSCF4792.webp)
+![](Media06/20140520-150221-DSCF4792.webp)
 
-![](media06/20140520_162858.webp)
+![](Media06/20140520_162858.webp)
 
-![](media06/20140520_162953.webp)
+![](Media06/20140520_162953.webp)
 
-![](media06/20140520_163203.webp)
+![](Media06/20140520_163203.webp)
 
-![](media06/20140520-163659-DSCF4796.webp)
+![](Media06/20140520-163659-DSCF4796.webp)
 
-![](media06/20140520_164238.webp)
+![](Media06/20140520_164238.webp)
 
-![](media06/20140520_164224-.webp)
+![](Media06/20140520_164224-.webp)
 
 ---
 
@@ -58,7 +58,7 @@ Fruta e água..., ...
 
 <details>
 <summary></summary>
-![](media06/20140520_183904.webp)
+![](media06/Media06/20140520_183904.webp)
 </details>
 
 </details>
