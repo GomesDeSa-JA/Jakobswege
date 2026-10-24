@@ -1,7 +1,7 @@
 ## Camino Mozárabe 2014 
 
 ### Etappe-10 : Baena  →  Castro del Rio ( 20, 4 Km)
-06 de Maio 2014
+06 de Maio 2014 👣
 
 #### Capital do Reino das Oliveiras e do Azeite de qualidade
 

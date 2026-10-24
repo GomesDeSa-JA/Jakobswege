@@ -157,7 +157,7 @@ Hinter Córdoba wird es einsam und wild. Du durchquerst die Eichenwälder der Si
 16 de Maio 2014
 
 ---
-#### [Etappe-21_Don Benito_San-Pedro-de-Merida](Etappe-21_Don%20Benito_San-Pedro-de-Merida.md)
+#### [Etappe-21_Don-Benito_San-Pedro-de-Merida](Etappe-21_Don-Benito_San-Pedro-de-Merida.md)
 17 de Maio 2014
 
 ---
@@ -332,7 +332,7 @@ Dennoch bleibt der Weg einsam. Es gibt immer noch Etappen, auf denen du 15 bis 2
 
 
 ---
-#### 
+####
 23 de Maio 2014
 
 

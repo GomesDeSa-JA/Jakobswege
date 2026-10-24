@@ -1,7 +1,7 @@
 ## Camino Mozárabe 2014 
 
 ### Etappe-156: Alcaracejos → Hinojosa del Duque (media04/21,6 Km)
-12 de Maio 2014
+12 de Maio 2014 👣
 
 
 ![](media04/20140512-084453.webp)
@@ -22,11 +22,16 @@
 
 ![](media04/20140512-162051.webp)
 
-![](media04/20140512-162813.webp)
-
 ![](media04/20140512-162905.webp)
 
+<details>
+<summary></summary>
+
+![](media04/20140512-162813.webp)
+
 ![](media04/20140512-163005.webp)
+
+</details>
 
 ![](media04/20140512-163015.webp)
    

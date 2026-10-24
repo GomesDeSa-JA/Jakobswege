@@ -1,11 +1,9 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-18:  →  ( Km)
-14 de Maio 2014
+### Etappe-18: Monterrubio-de-la-Serena →  ( ca. 200-500 m)
+14 de Maio 2014 👣
 
-**Dia/Día de descanso**
-
-**Day off/Rest day**
+**Dia/Día de descanso**  ⁘  **Day off/Rest day**  
 
 - **A haven of peace**
 

@@ -1,7 +1,7 @@
 ## Camino Mozárabe 2014 
 
 ### Etappe-24: Alcuéscar  →  Cáceres ( 37,4 Km)
-20 de Maio 2014
+20 de Maio 2014 👣
 
 ![](Media06/20140520_070558.webp)
 

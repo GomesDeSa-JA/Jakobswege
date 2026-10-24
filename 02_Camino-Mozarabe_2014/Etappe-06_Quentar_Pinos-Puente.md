@@ -1,7 +1,7 @@
 ## Camino Mozárabe 2014 
 
 ### Etappe-06 : Quéntar  →  Pinos Puente ( ca. 34 Km )
-02 de Maio 2014
+02 de Maio 2014 👣
 
 ![](media03/Granada-GR3201.webp)
 Google maps Foto

@@ -1,7 +1,7 @@
 ## Camino Mozárabe 2014 
 
 ### Etappe-21: Don Benito → San Pedro de Mérida ( 28,8 "35,4" Km)
-17 de Maio 2014
+17 de Maio 2014 👣
 
 ![](media05/20140517-083412.webp)
 
@@ -375,7 +375,6 @@ Der Finanzfachmann aus dem Norden erklärte mir, dass ein Schirm vor der Sonnene
 > **Eine wirklich plausible, sachliche und vernünftige Erklärung.**
 
 ---
-
 #### 🇵🇹 A caminho de San Pedro de Mérida, na ponte sobre o Guadiana
 
 **Afinal, de onde é que ele vinha?**
@@ -391,7 +390,6 @@ O especialista financeiro do norte explicou-me então que o guarda-sol protege d
 > **Uma explicação verdadeiramente plausível, objetiva e sensata.**
 
 ---
-
 #### 🇪🇸 De camino a San Pedro de Mérida, en el puente sobre el Guadiana
 
 ¿De dónde era, en realidad?
@@ -407,7 +405,6 @@ El experto en finanzas del norte me explicó que la sombrilla protege de los ray
 > **Una explicación realmente plausible, objetiva y sensata.**
 
 ---
-
 #### 🇬🇧 On the Way to San Pedro de Mérida, on the Bridge over the Guadiana
 
 **Where was he actually from?**
@@ -482,7 +479,6 @@ Depois, tirei as botas e as calças de caminhada, peguei no meu bastão de giest
 Atualmente, já é possível atravessar o impetuoso rio Búrdalo através de uma ponte pedonal, inaugurada em abril de 2026.
 
 ---
-
 #### 🇪🇸 Todos los caminos rurales llevan a San Pedro de Mérida
 
 Así lo hacían ya los romanos.  Pero fueron aún más lejos.
@@ -543,6 +539,9 @@ It is now possible to cross the fast-flowing Río Búrdalo via a footbridge that
 
 Das dachte ich zumindest. Doch ich hatte mich getäuscht. Es gab nur **Botellín** oder **Quinto** – oder hieß es vielleicht **Mini**?
 
+<details>
+<summary></summary>
+
 Wer sich diese Bezeichnungen ausgedacht hat und welchen Sinn sie bei dieser Hitze und auf solch langen Etappen haben sollen, ist mir bis heute ein Rätsel.
 
 Wie man so schön sagt, muss man dankbar sein für das, was der Weg einem bietet. Also bestellte ich mir eines dieser „Mini-Maße“.
@@ -582,10 +581,15 @@ Ich begann, meine Gehgeschwindigkeit zu berechnen, weil ich wissen wollte, ob mi
 
 Aber das ist eine andere Geschichte.
 
+</details>
+
 ---
 #### 🇵🇹 Objetivo do dia cumprido – e, para terminar, uma cerveja a sério!
 
 Pelo menos, era o que eu pensava. Mas estava enganado. Só havia **botellín** ou **quinto** — ou seria **mini**?
+
+<details>
+<summary></summary>
 
 Até hoje não sei quem inventou estas designações nem para que servem, sobretudo com aquele calor e em etapas tão longas.
 
@@ -625,11 +629,16 @@ Comecei a calcular a minha velocidade porque era importante saber se ainda tinha
 
 Mas essa é outra história.
 
+</details>
+
 ---
 
 #### 🇪🇸 ¡Objetivo del día cumplido y, para terminar, una cerveza de verdad!
 
 Eso pensaba yo, al menos. Pero estaba equivocado. Solo había **botellín** o **quinto**… ¿o quizá lo llamaban **mini**?
+
+<details>
+<summary></summary>
 
 Hasta hoy no sé quién inventó estos nombres ni qué sentido tienen, sobre todo con aquel calor y en etapas tan largas.
 
@@ -669,10 +678,15 @@ Empecé a calcular mi velocidad porque era importante saber si todavía disponí
 
 Pero esa es otra historia.
 
+</details>
+
 ---
 #### 🇬🇧 Daily target reached – and a proper beer to finish the day!
 
 At least, that was what I thought. But I was mistaken. They only had **botellín** or **quinto** – or was it called **mini**?
+
+<details>
+<summary></summary>
 
 I still have no idea who came up with these names or what purpose they serve, especially in that heat and on such long stages.
 
@@ -711,6 +725,8 @@ I started calculating my walking speed because it was important to know whether 
 > **Shortly before reaching the Alcántara Reservoir, I finally managed to keep up with Dirk’s pace for an entire stage.**
 
 But that is another story.
+
+</details>
 
 ---
 

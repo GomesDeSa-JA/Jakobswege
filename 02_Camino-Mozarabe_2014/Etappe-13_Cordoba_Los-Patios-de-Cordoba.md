@@ -1,7 +1,7 @@
 ## Camino Mozárabe 2014 
 
 ### Etappe-13: Córdoba → Los Patios de  Córdoba ( ca. 2,x Km)
-09 de Maio 2014
+09 de Maio 2014 👣
 
 
 ![](media04/20140509-103901.webp)

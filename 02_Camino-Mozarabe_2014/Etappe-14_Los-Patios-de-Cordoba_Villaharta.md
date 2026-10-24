@@ -1,21 +1,30 @@
 ## Camino Mozárabe 2014 
 
 ### Etappe-14: Los Patios de Córdoba  →  Villaharta (38.3 Km)
-10 de Maio 2014
+10 de Maio 2014 👣v
 
 ![](media04/20140510-071245.webp)
+
+<details>
+<summary></summary>
 
 ![](media04/20140510-071257-.webp)
 
 ![](media04/20140510-072758.webp)
 
+</details>
+
 ![](media04/20140510-073021.webp)
 
 ![](media04/20140510-073325.webp)
 
+<details>
+<summary></summary>
+
 ![](media04/20140510-085300.webp)
 
 ![](media04/20140510-085256.webp)
+</details>
 
 ![](media04/20140510-085657.webp)
 
@@ -23,11 +32,17 @@
 
 ![](media04/20140510-105039.webp)
 
+<details>
+<summary></summary>
+
+
 ![](media04/20140510-105046.webp)
 
 ![](media04/20140510-110214.webp)
 
 ![](media04/20140510-111603.webp)
+
+</details>
 
 ![](media04/20140510-113619.webp)
 
@@ -43,9 +58,11 @@
 - 🇬🇧  Keep an eye out for cyclists passing by – they’re cycling faster than the police allow.
 - 🇵🇹 Preste atenção aos ciclistas que passam – andam mais depressa do que a polícia permite.
 
+<details>
+<summary></summary>
 ![](media04/20140510-114704.webp)
-
 ![](media04/20140510-152715.webp)
+</details>
 
 ![](media04/20140510-152723.webp)
 

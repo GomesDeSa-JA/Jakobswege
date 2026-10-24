@@ -1,11 +1,13 @@
 ## Camino Mozárabe 2014 
 
 ### Etappe-18: Monterrubio de la Serena → Campanario (38,8Km)
-15 de Maio 2014
+15 de Maio 2014 👣
 
 
+<details>
+<summary>🇩🇪 San Isidoro</summary>
 
-San Isidoro (Heiliger Isidor) 
+#### San Isidoro (Heiliger Isidor) 
 
 Heiliger Isidor von Sevilla (der große Gelehrte und Kirchenlehrer) sowie
 
@@ -21,6 +23,8 @@ Heiliger Isidor der Bauer (der Schutzheilige von Madrid).
 
 • Wer er war: Ein spanischer Tagelöhner und Landwirt, der ein schlichtes, tief religiöses Leben in der Nähe von Madrid führte.
 • Bedeutung: Um ihn ranken sich zahlreiche Legenden (zum Beispiel Engel, die für ihn das Feld pflügten, während er betete). Er ist der Schutzheilige von Madrid sowie der Bauern und Feldbesteller und wurde 1622 heiliggesprochen.
+
+</details>
 
 ![](media05/20140515-074357-DSCF4555.webp)
 
@@ -43,6 +47,7 @@ Heiliger Isidor der Bauer (der Schutzheilige von Madrid).
 
 ↓ Google Maps-Foto ↓
 ![](media05/Castuera-Calle-Santa-Ana.webp)
+**Calle Santa Ana**
 
 ![](media05/20140515-111102-DSCF4597.webp)
 
@@ -77,6 +82,8 @@ Principais Atividades
 - 🇪🇸 Después de una cerveza de verdad, no como las de San Pedro de Mérida (0,25 l), y de hacer unas cuantas fotos, a mis pies ya no les apetecía seguir caminando, pero conseguí convencerlos para que siguieran hasta el albergue, aunque fuera a regañadientes.
 
 - 🇬🇧 After a proper beer – not like the ones in San Pedro de Mérida (0.25 l) – and taking a few photos, my feet didn’t really feel like walking any further, but I managed to persuade them to carry on to the hostel, albeit reluctantly.
+
+**Albergue de Peregrinos "La Estacion" – Campanario–**
 
 ![](media05/Campanario_Albergue-de-Peregrinos_La-Station.webp)
 ↑Google Maps-Foto↑

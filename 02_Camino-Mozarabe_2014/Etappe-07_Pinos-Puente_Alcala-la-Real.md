@@ -1,7 +1,7 @@
 ## Camino Mozárabe 2014 
 
 ### Etappe-0 : Pinos Puente  →  Alcalá la Real  ( 38, 6 Km )
-03 de Maio 2014
+03 de Maio 2014 👣
 
 
 ![](media03/20140503-080621.webp)

@@ -1,7 +1,7 @@
 ## Camino Mozárabe 2014 
 
 ### Etappe-24: Cáceres → Embalse de Alcántara (34,5 Km)
-21 de Maio 2014
+21 de Maio 2014 👣
 
 ![](media01/PilgerstabmitMuchel.png) 🥾  **Unter den Wolken wandern.**  
 

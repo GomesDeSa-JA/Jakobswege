@@ -1,7 +1,7 @@
 ## Camino Mozárabe 2014 
 
 ### Etappe-22:  San Pedro de Mérida → Mérida (18,5 Km)
-Sonntag, den 18 de Maio 2014
+Sonntag, den 18 de Maio 2014 👣
 
 ![](media05/20140518-091625-DSCF4698.webp)
 

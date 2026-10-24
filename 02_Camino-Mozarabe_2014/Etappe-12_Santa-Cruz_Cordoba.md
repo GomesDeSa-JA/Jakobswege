@@ -1,7 +1,7 @@
 ## Camino Mozárabe 2014 
 
 ### Etappe-12: Santa Cruz →  Córdoba ( 25, 7 Km)
-08 de Maio 2014
+08 de Maio 2014 👣
 
 ### 🇵🇹  De Santa Cruz a Córdoba
 

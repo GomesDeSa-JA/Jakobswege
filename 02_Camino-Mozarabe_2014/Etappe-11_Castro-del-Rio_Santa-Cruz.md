@@ -1,7 +1,7 @@
 ## Camino Mozárabe 2014 
 
 ### Etappe-11 : Castro del Rio → Santa-Cruz  ( 23 Km)
-07 de Maio 2014
+07 de Maio 2014 👣
 
 ![](media03/20140507-072354.webp)
 

@@ -1,7 +1,7 @@
 ## Camino Mozárabe 2014 
 
 ### Etappe-20: Campanario → Don Benito (29,1 Km)
-16 de Maio 2014
+16 de Maio 2014 👣
 
 ![](media05/20140516-065637-DSCF4626.webp)
 
@@ -37,7 +37,7 @@
 
 ![](media05/20140516-112542.webp)
 
-- La Habla
+- La Haba
 
 ![](media05/20140516-125431.webp)
 
@@ -69,7 +69,7 @@ La Haba: **Tudo muda**
 
 ---
 
-↪ [Etappe-21_Don Benito_San-Pedro-de-Merida](Etappe-21_Don%20Benito_San-Pedro-de-Merida.md)
+↪ [Etappe-21_Don-Benito_San-Pedro-de-Merida](Etappe-21_Don-Benito_San-Pedro-de-Merida.md)
 
  🔁  [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
  

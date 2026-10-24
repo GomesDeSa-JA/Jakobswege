@@ -1,7 +1,7 @@
 ## Camino Mozárabe 2014 
 
 ### Etappe-0 : Alcála-la-Real  → Alcaudete ( 23,3 Km)
-04 de Maio 2014
+04 de Maio 2014 👣
 
 
 ![](media03/20140504-093705.webp)

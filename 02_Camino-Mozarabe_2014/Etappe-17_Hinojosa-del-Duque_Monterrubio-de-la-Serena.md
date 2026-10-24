@@ -1,15 +1,23 @@
 ## Camino Mozárabe 2014 
 
 ### Etappe-15: Hinojosa-del-Duque → Monterrubio-de-la-Serena ( 33,8 Km)
-13 de Maio 2014
+13 de Maio 2014 👣
 
-![](media04/20140513-083245-DSCF4474.webp)
+
 
 ![](media04/20140513-083356-DSCF4475.webp)
 
+<details>
+<summary></summary>
+
+![](media04/20140513-083245-DSCF4474.webp)
+
 ![](media04/20140513-083833-DSCF4477.webp)
 
+</details>
+
 ![](media04/20140513-090552-DSCF4478.webp)
+
 
 ![](media04/20140513-102255-DSCF4479.webp)
 

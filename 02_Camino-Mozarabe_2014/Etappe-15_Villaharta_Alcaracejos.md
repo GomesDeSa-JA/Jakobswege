@@ -1,7 +1,7 @@
 ## Camino Mozárabe 2014 
 
 ### Etappe-15: Villaharta → Alcaracejos (33,7 Km)
-11 de Maio 2014
+11 de Maio 2014 👣
 
 ![](media04/20140511-082403.webp)
 
@@ -11,13 +11,23 @@
 
 ![](media04/20140511-084931.webp)
 
+<details>
+<summary></summary>
+
 ![](media04/20140511-084944.webp)
 
 ![](media04/20140511-085134-.webp)
 
+</details>
+
 ![](media04/20140511-085449-.webp)
 
+<details>
+<summary></summary>
+
 ![](media04/20140511-090306.webp)
+
+</details>
 
 ![](media04/20140511-090311.webp)
 
@@ -38,13 +48,13 @@
 ![](media04/20140511-113616.webp)
 
 
-Nach etwa 9 Tagen verlässt man die Welt der Olivenhaine.
+**Nach etwa 9 Tagen verlässt man die Welt der Olivenhaine.**
 
-Após cerca de 9 dias, deixa-se para trás o mundo dos olivais.
+**Após cerca de 9 dias, deixa-se para trás o mundo dos olivais.**
 
-Al cabo de unos 9 días, dejas atrás el mundo de los olivares
+**Al cabo de unos 9 días, dejas atrás el mundo de los olivares**
 
-After about 9 days, you leave the world of olive groves.
+**After about 9 days, you leave the world of olive groves.**
 
 ![](media04/20140511-152139.webp)
 

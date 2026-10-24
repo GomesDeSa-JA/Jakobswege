@@ -1,10 +1,7 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-24:  →  ( Km)
-22 de Maio 2014
-
-
-
+### Etappe-24:  →   ( Km)
+27 de Maio 2014
 
 ---
 

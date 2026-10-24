@@ -1,7 +1,7 @@
 ## Camino Mozárabe 2014 
 
 ### Etappe-01 : Almeria  →  Albodoloduy (37,7Km)
-27 Abril 2014
+27 Abril 2014👣
 ####  Almería despierta!
 ![](media01/PilgerstabmitMuchel.png)🥾 
 
