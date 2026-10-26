@@ -1,7 +1,7 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-24: Aldeanueva del Camino  →  La Calzada de BéjarFuenterroble de Salvatierra ( Km)
-24 de Maio 2014
+### Etappe-24: Aldeanueva del Camino  →  La Calzada de Béjar (21,8 Km)
+24 de Maio 2014 👣
 
 ![](Media06/20140524_073402.webp)
 
@@ -27,7 +27,6 @@
 
 ![](Media06/20140524_102555.webp)
 
-
 ![](Media06/20140524_103707.webp)
 
 ![](Media06/20140524_110932.webp)
@@ -37,8 +36,6 @@
 ![](Media06/20140524_113042-DSCF4923.webp)
 
 ![](Media06/20140524_114946-DSCF4928.webp)
-
-![](Media06/20140524_124220-DSCF4932.webp)
 
 ![](Media06/20140524_124656.webp)
 

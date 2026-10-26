@@ -1,8 +1,7 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-24: La Calzada de Béjar  →  Fuenterroble de Salvatierra ( Km)
-26 de Maio 2014
-
+### Etappe-24:  →   ( Km)
+29 de Maio 2014 👣
 
 ---
 

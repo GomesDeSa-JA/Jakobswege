@@ -55,10 +55,12 @@ Em comparação com o alojamento seguinte, La Luna, o de San Gil era bastante si
 </details>
 
 ---
+
 🇪🇸 Hay días en la vida en los que simplemente nos olvidamos de los kilómetros, pero no de lo que hemos vivido.
 
 <details>
 <summary>🥾</summary>
+
 #### _24/10/2026, 17:18 h_
 
 Cuando comprobé la distancia, apenas podía creer que fueran tantos kilómetros. Esta etapa fue, sin duda, uno de los momentos culminantes de todas mis peregrinaciones. Aunque estaba en buena forma física, llegué cansado, pero no tan agotado como para desplomarme.
@@ -181,8 +183,6 @@ It is the sum of moments like these that inspires us to accomplish things that, 
 
 ![](Media06/20140523_123711.webp)
 
-
-
 ![](Media06/20140523_123727.webp)
 
 ![](Media06/20140523_133145.webp)
@@ -192,8 +192,8 @@ It is the sum of moments like these that inspires us to accomplish things that, 
 ![](Media06/20140523_140645-.webp)
 Wo befand ich mich ???
 
-Gronze.com-Foto
-![](Carcaboso_Aldeanueva-del-Camino.png)
+↓ Gronze.com-Foto ↓
+![](Media06/Carcaboso_Aldeanueva-del-Camino.png)
 
 ![](Media06/20140523_140947.webp)
 

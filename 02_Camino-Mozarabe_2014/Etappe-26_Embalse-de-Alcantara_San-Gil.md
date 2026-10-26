@@ -111,7 +111,9 @@ En la Vía de la Plata, Dirk caminaba a un ritmo más pausado que en las etapas 
 ¡Lo que no hacemos para contarles a los demás la historia de este camino difícil, pero maravilloso!
 
 </details>
+
 ---
+
 #### 🇬🇧 Bienvenidos a Cañaveral
 
 “I’d like a coffee and two churros with chocolate, please.”

@@ -168,7 +168,7 @@ Hinter Córdoba wird es einsam und wild. Du durchquerst die Eichenwälder der Si
 ##  Vía de la Plata  2014
 
 ### ![](media01/Jakobus-Kreuz1c.png) Mérida → Astorga (ca. 515 bis 520 Km)
-18 Maio - xx Juni 2014 
+18 Maio - 02 Juni 2014 
 
 🇵🇹 A histórica estrada romana da _Vía de la Plata_ tem uma distância total a percorrer a pé até Astorga de **cerca de 515 a 520 quilómetros**
 > **21 etapas lógicas**
@@ -332,71 +332,52 @@ Dennoch bleibt der Weg einsam. Es gibt immer noch Etappen, auf denen du 15 bis 2
 
 
 ---
-####
+#### [Etappe-27_San-Gil_Aldeanueva-del-Camino](Etappe-27_San-Gil_Aldeanueva-del-Camino.md)
 23 de Maio 2014
 
 
 ---
-#### 
+#### [Etappe-28_Aldeanueva-del-Camino_La Calzada de Bejar](Etappe-28_Aldeanueva-del-Camino_La%20Calzada%20de%20Bejar.md)
 24 de Maio 2014
 
 ---
-#### 
+#### [Etappe-29_La-Calzada-de-Bejar_Fuenterroble-de- Salvatierra](Etappe-29_La-Calzada-de-Bejar_Fuenterroble-de-%20Salvatierra.md)
 25 de Maio 2014
 
 ---
-#### 
+#### [Etappe-30_Fuenterroble-de-Salvatierra_Morille](Etappe-30_Fuenterroble-de-Salvatierra_Morille.md)
 26 de Maio 2014
 
 ---
-#### 
+#### [Etappe-31_Morille_Calzada-de-Valdunciel](Etappe-31_Morille_Calzada-de-Valdunciel.md)
 27 de Maio 2014
 
 ---
-#### 
+#### [Etappe-32_Calzada-de-Valdunciel_Villanueva-de-Campean](Etappe-32_Calzada-de-Valdunciel_Villanueva-de-Campean.md)
 28 de Maio 2014
 
 ---
-#### 
+#### [Etappe-33_Villanueva-de-Campean_](Etappe-33_Villanueva-de-Campean_.md)
 29 de Maio 2014
 
 ---
-#### 
+#### [Etappe-34](Etappe-34.md)
 30 de Maio 2014
 
 ---
-#### 
+#### [Etappe-35](Etappe-35.md)
 31 de Maio 2014
 
 ---
-#### 
+#### [Etappe-36](Etappe-36.md)
 01 de Junho 2014
 
----
-#### 
-02 de Junho 2014
-
----
-#### 
-03 de Junho 2014
-
----
-#### 
-04 de Junho 2014
-
----
-#### 
-05 de Junho 2014
-
----
-#### 
-0x de Junho 2014
 
 ---
 ##  Camino Francés 2014
 
 ### ![](media01/Jakobus-Kreuz1c.png)  Astorga → Santiago de Compostela (255 bis 270 Km)
-xx - xx Juni 2014 
+02- xx Juni 2014 
 
 🇬🇧 The walking route from Astorga to Santiago de Compostela via the classic _Camino Francés_ is **approximately 255 to 270 kilometres**.
 For this section, you should normally allow for **11 to 12 days’ walking (stages)**.
@@ -447,6 +428,28 @@ Da der Weg ab Astorga durch die Berge führt (unter anderem vorbei am berühmten
 
 </details>
 
+---
+#### [Etappe-37](Etappe-37.md)
+02 de Junho 2014
+
+---
+#### [Etappe-38](Etappe-38.md)
+03 de Junho 2014
+
+---
+#### 
+04 de Junho 2014
+
+---
+#### 
+05 de Junho 2014
+
+---
+#### 
+0x de Junho 2014
+
+
+
 
 ---
 #### 
@@ -456,7 +459,6 @@ Da der Weg ab Astorga durch die Berge führt (unter anderem vorbei am berühmten
 ---
 #### 
 0x de Junho 2014
-
 
 
 ---

@@ -450,6 +450,7 @@ Also stellte ich mich neben den Vorderreifen des Traktors und fragte den Landwir
 Anschließend zog ich meine Stiefel und die Wanderhose aus, nahm meinen Ginsterwanderstock zur Hand und tastete mich vorsichtig durch das Wasser. Denn sollte ich stürzen, würde sich mein Rucksack mit Wasser füllen. Und das wäre alles andere als ideal.
 
 **Hinweis:** Meiden Sie die Nationalstraße N-430.
+- siehe Gronze.com
 
 Inzwischen kann man den reißenden Río Búrdalo über eine Fußgängerbrücke überqueren, die im April 2026 eingeweiht wurde.
 
@@ -475,6 +476,7 @@ Por isso, coloquei-me ao lado de uma das rodas dianteiras do trator e perguntei 
 Depois, tirei as botas e as calças de caminhada, peguei no meu bastão de giesta e avancei com cuidado, tateando o fundo do rio. Afinal, se caísse, a mochila encher-se-ia de água. E isso não seria nada agradável.
 
 **Informação:** Evite a estrada nacional N-430.
+- 
 
 Atualmente, já é possível atravessar o impetuoso rio Búrdalo através de uma ponte pedonal, inaugurada em abril de 2026.
 
@@ -500,6 +502,8 @@ Así que me coloqué junto a una de las ruedas delanteras del tractor y le pregu
 Después me quité las botas y los pantalones de senderismo, agarré mi bastón de retama y avancé con cuidado, tanteando el fondo del río. Porque, si me caía, la mochila acabaría llena de agua. Y eso no habría sido nada bueno.
 
 **Información:** Evite la carretera nacional N-430.
+- Ver Gronze.com
+
 
 Ahora es posible cruzar el impetuoso río Búrdalo por una pasarela peatonal que se inauguró en abril de 2026.
 
@@ -525,6 +529,7 @@ So I stood beside one of the tractor’s front wheels and asked the farmer how f
 Then I took off my boots and hiking trousers, grabbed my broom heather walking stick, and carefully felt my way across the riverbed. After all, if I fell, my backpack would fill with water. And that would be far from ideal.
 
 **Information:** Avoid the N-430 national road.
+- See Gronze.com
 
 It is now possible to cross the fast-flowing Río Búrdalo via a footbridge that was inaugurated in April 2026.
 
