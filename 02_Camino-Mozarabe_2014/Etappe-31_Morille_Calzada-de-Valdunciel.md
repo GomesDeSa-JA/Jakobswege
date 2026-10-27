@@ -1,6 +1,6 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-24: Morille → Calzada de Valdunciel ( 35,3 Km)
+### Etappe-31: Morille → Calzada de Valdunciel ( 35,3 Km)
 27 de Maio 2014 👣
 
 ![](media07/20140527_071639.webp)

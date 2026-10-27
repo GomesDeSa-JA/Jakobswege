@@ -1,8 +1,7 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-24: Molinaseca → Villafranca del Bierzo  (30,9 Km)
-04 de Maio2014 👣
-
+### Etappe-39: Molinaseca → Villafranca del Bierzo  (30,9 Km)
+04 de Junho 2014 👣
 
 ![](media08/20140604_064746.webp)
 
@@ -41,7 +40,7 @@
 
 ---
 
-↪ [Etappe-40_](Etappe-40_.md)
+↪ [Etappe-40_Villafranca-del-Bierzo_O-Cebreiro](Etappe-40_Villafranca-del-Bierzo_O-Cebreiro.md)
 
  🔁  [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
  

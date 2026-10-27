@@ -13,7 +13,7 @@
 
 ![](media01/Camino-Mozarabe5.webp)
 - Ende der Etappe  in Hinosa del Duque am 12 Mai 2014 
-- 
+
 ![](media01/Camino-Mozarabe6.webp)
 
 ![](media01/Almeria-Pinos-Puente.webp)

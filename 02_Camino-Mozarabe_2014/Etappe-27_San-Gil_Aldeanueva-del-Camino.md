@@ -1,5 +1,5 @@
 ## Camino Mozárabe 2014 
-### Etappe-24: San-Gil → Aldeanueva del Camino (48,1 km "10h39" )
+### Etappe-27: San-Gil → Aldeanueva del Camino (48,1 km "10h39" )
 23 de Maio 2014 👣
 
 🇩🇪 Es gibt Tage im Leben, an denen wir die Kilometer einfach vergessen, aber nicht das, was wir erlebt haben.

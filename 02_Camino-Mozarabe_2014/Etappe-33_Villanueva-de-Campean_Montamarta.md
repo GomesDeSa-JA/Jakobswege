@@ -1,6 +1,6 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-24: Villanueva de Campeán →Montamarta (37,6 Km)
+### Etappe-33: Villanueva de Campeán →Montamarta (37,6 Km)
 29 de Maio 2014 👣
 
 ![](media07/20140529_081343.webp)

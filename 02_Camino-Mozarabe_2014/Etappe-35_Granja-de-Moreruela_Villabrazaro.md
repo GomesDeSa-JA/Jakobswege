@@ -1,6 +1,6 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-35: # Granja de Moreruela → Villabrázaro (34,1 Km)
+### Etappe-35: Granja de Moreruela → Villabrázaro (34,1 Km)
 31 de Maio 2014 👣
 
 

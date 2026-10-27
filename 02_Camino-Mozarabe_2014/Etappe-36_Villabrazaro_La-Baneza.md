@@ -1,6 +1,6 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-24: Villabrázaro → La Bañeza ( 35,7 Km)
+### Etappe-36: Villabrázaro → La Bañeza ( 35,7 Km)
 01 de Junho 2014 👣
 
 ![](media08/20140601_065527.webp)

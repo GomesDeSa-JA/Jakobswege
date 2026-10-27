@@ -1,6 +1,6 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-24: Aldeanueva del Camino  →  La Calzada de Béjar (21,8 Km)
+### Etappe-28: Aldeanueva del Camino  →  La Calzada de Béjar (21,8 Km)
 24 de Maio 2014 👣
 
 ![](Media06/20140524_073402.webp)

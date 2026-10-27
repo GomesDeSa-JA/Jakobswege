@@ -330,11 +330,9 @@ Dennoch bleibt der Weg einsam. Es gibt immer noch Etappen, auf denen du 15 bis 2
 #### [Etappe-26_Embalse-de-Alcantara_San-Gil](Etappe-26_Embalse-de-Alcantara_San-Gil.md)
 22 de Maio 2014
 
-
 ---
 #### [Etappe-27_San-Gil_Aldeanueva-del-Camino](Etappe-27_San-Gil_Aldeanueva-del-Camino.md)
 23 de Maio 2014
-
 
 ---
 #### [Etappe-28_Aldeanueva-del-Camino_La Calzada de Bejar](Etappe-28_Aldeanueva-del-Camino_La%20Calzada%20de%20Bejar.md)
@@ -441,49 +439,44 @@ Da der Weg ab Astorga durch die Berge führt (unter anderem vorbei am berühmten
 04 de Junho 2014
 
 ---
-#### [Etappe-40_](Etappe-40_.md)
+#### [Etappe-40_Villafranca-del-Bierzo_O-Cebreiro](Etappe-40_Villafranca-del-Bierzo_O-Cebreiro.md)
 05 de Junho 2014
 
 ---
-#### [Etappe-41](Etappe-41.md)
+#### [Etappe-41_O-Cebreiro_Tricastela](Etappe-41_O-Cebreiro_Tricastela.md)
 06 de Junho 2014
 
 ---
-#### [Etappe-42](Etappe-42.md)
+#### [Etappe-42_Tricastela_Sarria](Etappe-42_Tricastela_Sarria.md)
 07 de Junho 2014
 
 ---
-#### 
+#### [Etappe-43_Sarria_Portomarim](Etappe-43_Sarria_Portomarim.md)
 08 de Junho 2014
 
 ---
-#### 
-08 de Junho 2014
-
----
-#### 
-08 de Junho 2014
-
-
----
-#### 
-08 de Junho 2014
-
-
----
-#### 
+#### [Etappe-44_Portomarim_Palas-de-Rei](Etappe-44_Portomarim_Palas-de-Rei.md)
 09 de Junho 2014
 
-
 ---
-#### 
+#### [Etappe-45_Palas-de-Rei_Ribadiso-de-Baixo](Etappe-45_Palas-de-Rei_Ribadiso-de-Baixo.md)
 10 de Junho 2014
 
 ---
-#### 
-10 de Junho 2014
+#### [Etappe-46_Ribadiso-de-Baixo_Monte-do-Gozo](Etappe-46_Ribadiso-de-Baixo_Monte-do-Gozo.md)
+11 de Junho 2014
 
+---
+#### [Etappe-47_Monte-do-Gozo_Santiago-de-Compostela](Etappe-47_Monte-do-Gozo_Santiago-de-Compostela.md)
+12 de Junho 2014
 
+---
+#### [Etappe-48_Santiago-de-Compostela_Catedral-de-Santiago-Apostolo](Etappe-48_Santiago-de-Compostela_Catedral-de-Santiago-Apostolo.md)
+13 de Junho 2014
+
+---
+#### [Etappe-49_Santiago-de-Compostela_Tordesillas](Etappe-49_Santiago-de-Compostela_Tordesillas.md)
+12 de Junho 2014
 
 ---
 

@@ -1,6 +1,6 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-24: La Calzada de Béjar →  Fuenterroble de Salvatierra ( 20,2 Km)
+### Etappe-29: La Calzada de Béjar →  Fuenterroble de Salvatierra ( 20,2 Km)
 25 de Maio 2014 👣
 
 ![](media07/20140525_072334.webp)

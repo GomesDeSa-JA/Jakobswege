@@ -1,6 +1,6 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-24: Calzada de Valdunciel  → Villanueva de Campeán (33,9 Km)
+### Etappe-32: Calzada de Valdunciel  → Villanueva de Campeán (33,9 Km)
 28 de Maio 2014 👣
 
 ![](media07/20140528_071443-.webp)

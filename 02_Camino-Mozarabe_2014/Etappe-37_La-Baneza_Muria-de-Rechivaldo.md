@@ -1,6 +1,6 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-24:  La Bañeza  →  Murias de Rechivaldo ( 30, 5 Km)
+### Etappe-37:  La Bañeza  →  Murias de Rechivaldo ( 30, 5 Km)
 02 de Junho 2014 👣
 
 ![](media08/20140602_072144-DSCF4968-.webp)

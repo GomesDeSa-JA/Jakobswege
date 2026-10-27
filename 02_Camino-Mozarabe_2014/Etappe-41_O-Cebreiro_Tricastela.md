@@ -1,8 +1,7 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-24:  →   ( Km)
-06 de Maio2014 👣
-
+### Etappe-41: O Cebreiro → Tricastela (20,6 Km)
+06 de Junho 2014 👣
 
 ![](media09/20140606_070401.webp)
 
@@ -36,6 +35,8 @@
 
 ![](media09/20140606_105305--DSCF5070.webp)
 
+**Castiñeiro Centenario –Aldea de Ramil–**
+
 ![](media09/20140606_120613.webp)
 
 ![](media09/20140606_120848-DSCF5073.webp)
@@ -51,7 +52,7 @@
 
 ---
 
-↪ [Etappe-42](Etappe-42.md)
+↪ [Etappe-42_Tricastela_Sarria](Etappe-42_Tricastela_Sarria.md)
 
  🔁  [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
  

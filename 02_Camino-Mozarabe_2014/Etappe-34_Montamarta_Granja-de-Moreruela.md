@@ -1,6 +1,6 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-24: Montamarta →  Granja de Moreruela  (22,6 Km)
+### Etappe-34: Montamarta →  Granja de Moreruela  (22,6 Km)
 30 de Maio 2014 👣
 
 ![](media08/20140530_065701.webp)

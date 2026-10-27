@@ -1,6 +1,6 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-24: Murias de Rechivaldo → Molinaseca  ( 40,2 Km)
+### Etappe-38: Murias de Rechivaldo → Molinaseca  ( 40,2 Km)
 03 de Junho 2014 👣
 
 ### Albergue Municipal de Murias

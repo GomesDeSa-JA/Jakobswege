@@ -1,6 +1,6 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-24: Fuenterroble de Salvatierra → Morille  ( 29,4 Km)
+### Etappe-30: Fuenterroble de Salvatierra → Morille  ( 29,4 Km)
 26 de Maio 2014  👣
 
 ![](media07/20140526_071417.webp)

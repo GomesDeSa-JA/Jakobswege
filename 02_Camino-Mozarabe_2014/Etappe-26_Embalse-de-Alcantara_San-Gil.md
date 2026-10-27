@@ -1,6 +1,6 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-24: Embalse de Alcántara →San Gil  (ca. 38 Km)
+### Etappe-26: Embalse de Alcántara →San Gil  (ca. 38 Km)
 22 de Maio 2014 👣
 
 22Km+20,3
