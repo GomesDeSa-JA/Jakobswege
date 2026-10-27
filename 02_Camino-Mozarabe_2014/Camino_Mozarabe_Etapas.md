@@ -357,19 +357,19 @@ Dennoch bleibt der Weg einsam. Es gibt immer noch Etappen, auf denen du 15 bis 2
 28 de Maio 2014
 
 ---
-#### [Etappe-33_Villanueva-de-Campean_](Etappe-33_Villanueva-de-Campean_.md)
+#### [Etappe-33_Villanueva-de-Campean_Montamarta](Etappe-33_Villanueva-de-Campean_Montamarta.md)
 29 de Maio 2014
 
 ---
-#### [Etappe-34](Etappe-34.md)
+#### [Etappe-34_Montamarta_Granja-de-Moreruela](Etappe-34_Montamarta_Granja-de-Moreruela.md)
 30 de Maio 2014
 
 ---
-#### [Etappe-35](Etappe-35.md)
+#### [Etappe-35_Granja-de-Moreruela_Villabrazaro](Etappe-35_Granja-de-Moreruela_Villabrazaro.md)
 31 de Maio 2014
 
 ---
-#### [Etappe-36](Etappe-36.md)
+#### [Etappe-36_Villabrazaro_La-Baneza](Etappe-36_Villabrazaro_La-Baneza.md)
 01 de Junho 2014
 
 
@@ -429,36 +429,60 @@ Da der Weg ab Astorga durch die Berge führt (unter anderem vorbei am berühmten
 </details>
 
 ---
-#### [Etappe-37](Etappe-37.md)
+#### [Etappe-37_La-Baneza_Muria-de-Rechivaldo](Etappe-37_La-Baneza_Muria-de-Rechivaldo.md)
 02 de Junho 2014
 
 ---
-#### [Etappe-38](Etappe-38.md)
+#### [Etappe-38_Muria-de-Rechivaldo_Molinaseca](Etappe-38_Muria-de-Rechivaldo_Molinaseca.md)
 03 de Junho 2014
 
 ---
-#### 
+#### [Etappe-39_Molinaseca_Villafranca-del-Bierzo](Etappe-39_Molinaseca_Villafranca-del-Bierzo.md)
 04 de Junho 2014
 
 ---
-#### 
+#### [Etappe-40_](Etappe-40_.md)
 05 de Junho 2014
 
 ---
+#### [Etappe-41](Etappe-41.md)
+06 de Junho 2014
+
+---
+#### [Etappe-42](Etappe-42.md)
+07 de Junho 2014
+
+---
 #### 
-0x de Junho 2014
+08 de Junho 2014
 
+---
+#### 
+08 de Junho 2014
 
+---
+#### 
+08 de Junho 2014
 
 
 ---
 #### 
-0x de Junho 2014
+08 de Junho 2014
 
 
 ---
 #### 
-0x de Junho 2014
+09 de Junho 2014
+
+
+---
+#### 
+10 de Junho 2014
+
+---
+#### 
+10 de Junho 2014
+
 
 
 ---

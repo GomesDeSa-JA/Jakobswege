@@ -8,7 +8,6 @@ Blick auf Hondarribia-(Irún) und Hendaye
 
 ![](media/20150728-132653.webp)
 
-
  **Santuario de Guadalupe**
  ![](media/20150728-134128.webp)
 

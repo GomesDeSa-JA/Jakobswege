@@ -1,7 +1,7 @@
 ## Camino Mozárabe 2014 
 
 ### Etappe-24:  →   ( Km)
-29 de Maio 2014 👣
+05 de Maio2014 👣
 
 ---
 
@@ -14,7 +14,7 @@
 
 ---
 
-↪ 
+↪ [Etappe-41](Etappe-41.md)
 
  🔁  [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
  

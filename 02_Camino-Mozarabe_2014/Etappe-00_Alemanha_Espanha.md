@@ -32,8 +32,9 @@ Pode parecer ridículo hoje em dia, mas enfrentava um desafio enorme.  Só tinha
 <details>
 <summary>Dark Run</summary>
 
-Essa semana ficará bem gravada na memória dos transportes públicos, e na minha em particular, porque é o meu meio de transporte preferido e eu fazia parte daqueles que fizeram e fazem tudo o que está ao seu alcance para que isso não aconteça, mas aconteceu.
+**Nota:** Essa semana ficará bem gravada na memória dos transportes públicos, e na minha em particular, porque é o meu meio de transporte preferido e eu fazia parte daqueles que fizeram e fazem tudo o que está ao seu alcance para que isso não aconteça, mas aconteceu.
 
+---
 </details>
 
 Como costuma acontecer, os colegas ajudavam mais com conselhos do que com ações. Mas, baseando-me na minha experiência atual, os conselhos foram bastante úteis: "Encomenda simplesmente pela internet!"
@@ -53,7 +54,9 @@ Depois desta experiência, consegui um cartão de crédito. A instituição fina
 Graças a esse cartão, a partir daí pude reservar os meus voos online sem problemas e escolher o meu lugar. Desde então, tirei tantas fotografias acima das nuvens que poderia empapelar o céu inteiro com elas.
 
 </details>
+
 ---
+
 #### 🇩🇪 Mein erster Flug – wie geht das eigentlich?
 
 Seit Anfang der 90er-Jahre hörte ich immer wieder: „Du bist allein und frei und könntest überall hinfliegen. Du kannst dir das doch leisten!“ Bekannte ergänzten dann meist noch: „Ich kann mir das mit der ganzen Familie nicht leisten, deshalb fahren wir im Urlaub nur mit dem Auto.“ Ich erwiderte daraufhin immer: Ich kann mir auch keinen Mercedes oder BMW leisten – sonst bliebe mir am Ende kaum mehr als Luft zum Atmen. Und dennoch schien es meinen Bekannten mit ihren Luxusautos blendend zu gehen.
@@ -109,7 +112,9 @@ Es mag heute lächerlich klingen, aber ich stand vor einer enormen Herausforderu
 <details>
 <summary>Dark Run</summary>
 
-Diese Woche wird mir in Bezug auf den öffentlichen Nahverkehr besonders in Erinnerung bleiben – und mir ganz besonders, denn er ist mein bevorzugtes Verkehrsmittel, und ich gehörte zu denen, die alles in ihrer Macht Stehende getan haben und tun, damit so etwas nicht passiert, aber es ist doch passiert.
+**Anmerkung:** Diese Woche wird mir in Bezug auf den öffentlichen Nahverkehr besonders in Erinnerung bleiben – und mir ganz besonders, denn er ist mein bevorzugtes Verkehrsmittel, und ich gehörte zu denen, die alles in ihrer Macht Stehende getan haben und tun, damit so etwas nicht passiert, aber es ist doch passiert.
+
+---
 
 </details>
 
@@ -160,8 +165,9 @@ Puede sonar ridículo hoy en día, pero me enfrentaba a un desafío enorme.  Sol
 <details>
 <summary>Dark Run</summary>
 
-Esa semana quedará bien grabada en la memoria del transporte público, y en la mía en particular, porque es mi medio de transporte preferido y yo formaba parte de aquellos que hicieron y hacen todo lo que está en su mano para que eso no ocurra, pero ocurrió.
+**Nota:** Esa semana quedará bien grabada en la memoria del transporte público, y en la mía en particular, porque es mi medio de transporte preferido y yo formaba parte de aquellos que hicieron y hacen todo lo que está en su mano para que eso no ocurra, pero ocurrió.
 
+---
 </details>
 
 Como suele ocurrir, los compañeros ayudaban más con consejos que con acciones. Desde mi experiencia actual, sus consejos fueron bastante útiles: "¡Pídelo simplemente por internet!".
@@ -211,8 +217,9 @@ It may sound ridiculous today, but I was facing a huge challenge. I’d only eve
 <details>
 <summary>Dark Run</summary>
 
-That week will remain etched in the memory of public transport users – and in mine in particular – because it’s my favourite mode of transport and I was one of those who did, and still do, everything in their power to prevent this from happening, but it happened anyway.
+**Note:** That week will remain etched in the memory of public transport users – and in mine in particular – because it’s my favourite mode of transport and I was one of those who did, and still do, everything in their power to prevent this from happening, but it happened anyway.
 
+---
 </details>
 
 As is so often the case, colleagues were quicker to offer advice than actual help. Looking back, however, their tips were quite useful: "Just order it online!"

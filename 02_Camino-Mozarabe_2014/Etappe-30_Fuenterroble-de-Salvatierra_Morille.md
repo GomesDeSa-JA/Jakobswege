@@ -3,67 +3,68 @@
 ### Etappe-24: Fuenterroble de Salvatierra → Morille  ( 29,4 Km)
 26 de Maio 2014  👣
 
-![](20140526_071417.webp)
+![](media07/20140526_071417.webp)
 
-![](20140526_072828.webp)
+![](media07/20140526_072828.webp)
 
-![](20140526_072834.webp)
+![](media07/20140526_072834.webp)
 
-![](20140526_072923-2.webp)
+![](media07/20140526_072923-2.webp)
 
-![](20140526_074411.webp)
+![](media07/20140526_074411.webp)
 
-![](20140526_075738.webp)
+![](media07/20140526_075738.webp)
 
-![](20140526_081449.webp)
+![](media07/20140526_081449.webp)
 
-![](20140526_085943-.webp)
+![](media07/20140526_085943-.webp)
 
-![](20140526_101146.webp)
+![](media07/20140526_101146.webp)
 
-![](20140526_101633-DSCF4949.webp)
+![](media07/20140526_101633-DSCF4949.webp)
 
-![](20140526_101709.webp)
+![](media07/20140526_101709.webp)
 
-![](20140526_102929.webp)
+![](media07/20140526_102929.webp)
 
-![](20140526_104013.webp)
+![](media07/20140526_104013.webp)
 
-![](20140526_112718.webp)
+![](media07/20140526_112718.webp)
 
-![](20140526_113446-.webp)
+![](media07/20140526_113446-.webp)
 
-![](20140526_113459.webp)
+![](media07/20140526_113459.webp)
 
-![](20140526_114006.webp)
+![](media07/20140526_114006.webp)
 
-![](20140526_120013.webp)
+![](media07/20140526_120013.webp)
 
-![](20140526_120337.webp)
+![](media07/20140526_120337.webp)
 
-![](20140526_124613.webp)
+![](media07/20140526_124613.webp)
 
-![](20140526_124734.webp)
+![](media07/20140526_124734.webp)
 
-![](20140526_132601.webp)
+![](media07/20140526_132601.webp)
 
-![](20140526_132708.webp)
+![](media07/20140526_132708.webp)
 
-![](20140526_133226.webp)
+![](media07/20140526_133226.webp)
 
-![](20140526_141627.webp)
+![](media07/20140526_141627.webp)
 
-![](20140526_142421.webp)
+![](media07/20140526_142421.webp)
 
-- Kurz bevor ich dieses Foto ↓ gemacht habe, fuhr ein freundlicher Herr in seinem Mercedes vorbei, hielt an und fragte mich, ob ich eine Unterkunft suche. … Dann gehen Sie in die Bar, dort wird man Ihnen weiterhelfen.  
+- 🇩🇪  Kurz bevor ich dieses Foto ↓ gemacht habe, fuhr ein freundlicher Herr in seinem Mercedes vorbei, hielt an und fragte mich, ob ich eine Unterkunft suche. … Dann gehen Sie in die Bar, dort wird man Ihnen weiterhelfen.  
 
-- Just before I took this photo ↓, a friendly gentleman drove past in his Mercedes, stopped and asked me if I was looking for somewhere to stay. … Then go to the bar; they’ll be able to help you there.  
-- Pouco antes de tirar esta fotografia ↓, passou por mim um senhor simpático no seu Mercedes, parou e perguntou-me se eu estava à procura de alojamento. … Então vá ao bar, lá vão ajudá-lo.  
+- 🇬🇧 Just before I took this photo ↓, a friendly gentleman drove past in his Mercedes, stopped and asked me if I was looking for somewhere to stay. … Then go to the bar; they’ll be able to help you there.  
 
-- Justo antes de hacer esta foto ↓, pasó por allí un señor muy amable en su Mercedes, se detuvo y me preguntó si estaba buscando alojamiento. … Entonces vaya al bar, allí le ayudarán. 
+- 🇵🇹 Pouco antes de tirar esta fotografia ↓, passou por mim um senhor simpático no seu Mercedes, parou e perguntou-me se eu estava à procura de alojamento. … Então vá ao bar, lá vão ajudá-lo.  
+
+- 🇪🇸 Justo antes de hacer esta foto ↓, pasó por allí un señor muy amable en su Mercedes, se detuvo y me preguntó si estaba buscando alojamiento. … Entonces vaya al bar, allí le ayudarán. 
 
 Metallskulptur zu Ehren der Dorflehrerin **↓** Escultura metálica en honor a la maestra del pueblo
-![](20140526_143417.webp)
+![](media07/20140526_143417.webp)
 Escultura metálica em homenagem à professora do povo **↑** Metal sculpture in honour of the village teacher
 
 ---
@@ -101,7 +102,7 @@ Wir sind uns hier nur kurz begegnet; er hatte sich im Dorf einen anderen Unterku
 
 Ich traf auch zufällig einige Pilger aus Russland und wusste nicht, woher sie kamen, aber wenn sie aus Sibirien kamen, dann wäre die richtige Wegstrecke von Wladiwostok nach Santiago de Compostela gewesen.
 
-**Alle Wege sind der Jakobsweg**. *Und ich würde liebend gerne in Almería neu anfangen.*
+**Alle Wege sind Jakobswege**. *Und ich würde liebend gerne in Almería neu anfangen.*
 
 </details>
 
@@ -120,7 +121,7 @@ Encontrámo-nos aqui apenas por breves instantes; ele procurou outro local na al
 
 Também conheci de passagem alguns peregrinos da Rússia e não sabia de onde vinham, mas se fossem da Sibéria, então o caminho correto teria sido de Vladivostok até Santiago de Compostela. 
 
-**Todos os caminhos são o Caminho de Santiago.** *E adoraria começar de novo em Almería*
+**Todos os caminhos são Caminhos de Santiago.** *E adoraria começar de novo em Almería*
 
 </details>
 
@@ -139,7 +140,7 @@ Solo nos cruzamos por aquí un momento; él había buscado otro lugar en el pueb
 
 También conocí de pasada a algunos peregrinos de Rusia y no sabía de dónde venían, pero si eran de Siberia, entonces la ruta correcta habría sido desde Vladivostok hasta Santiago de Compostela. 
 
-**Todos los caminos son el Camino de Santiago.**  *Y me encantaría empezar de nuevo en Almería.*
+**Todos los caminos son Caminos de Santiago.**  *Y me encantaría empezar de nuevo en Almería.*
 </details>
 
 ---
@@ -147,7 +148,7 @@ También conocí de pasada a algunos peregrinos de Rusia y no sabía de dónde v
 <details>
 <summary>  </summary>
 
-![](20261013121750.png) 🇬🇧 🇪🇸 🇵🇹 🇩🇪 🥾
+![](media01/20261013121750.png) 🇬🇧 🇪🇸 🇵🇹 🇩🇪 🥾
 
 </details>
 

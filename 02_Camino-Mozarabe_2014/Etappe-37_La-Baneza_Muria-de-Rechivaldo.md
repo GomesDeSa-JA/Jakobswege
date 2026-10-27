@@ -1,8 +1,7 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-24:  →   ( Km)
+### Etappe-24:  La Bañeza  →  Murias de Rechivaldo ( 30, 5 Km)
 02 de Junho 2014 👣
-
 
 ![](media08/20140602_072144-DSCF4968-.webp)
 
@@ -74,11 +73,15 @@
 <details>
 <summary></summary>
 
-O Hospitaleiro voluntário chamava-se "Pedro"  
+Thank you, Pedro, our host, for a peaceful and relaxing stay
 
 ![](media08/20140602_192832--DSCF4986.webp)
 
+Obrigado, Pedro, o nosso anfitrião, por uma estadia tranquila e relaxante
+
 ![](media08/20140602_200303-DSCF4987.webp)
+
+Vielen Dank, Pedro, unser Gastgeber, für einen ruhigen und erholsamen Aufenthalt
 
 ![](media08/20140602_200315DSCF4989.webp)
 
@@ -86,12 +89,12 @@ O Hospitaleiro voluntário chamava-se "Pedro"
 
 ![](media08/20140602_192827-DSCF4985.webp)
 
-O Hospitaleiro voluntário chamava-se "Pedro
+Gracias, Pedro, nuestro anfitrión, por una estancia tranquila y relajante.
 
 ---
 
 <details>
-<summary>  </summary>
+<summary> </summary>
 
 ![](media01/20261013121750.png) 🇬🇧 🇪🇸 🇵🇹 🇩🇪 🥾
 
@@ -99,7 +102,7 @@ O Hospitaleiro voluntário chamava-se "Pedro
 
 ---
 
-↪ [Etappe-38](Etappe-38.md)
+↪ [Etappe-38_Muria-de-Rechivaldo_Molinaseca](Etappe-38_Muria-de-Rechivaldo_Molinaseca.md)
 
  🔁  [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
  

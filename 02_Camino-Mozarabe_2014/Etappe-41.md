@@ -1,10 +1,8 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-0 :   →   ( Km)
+### Etappe-24:  →   ( Km)
+06 de Maio2014 👣
 
-2026-10-14 20:07 Beginn der Beschreibung des „Camino Mozábe“
-
- 
 ---
 
 <details>
@@ -16,7 +14,7 @@
 
 ---
 
-↪ 
+↪ [Etappe-42](Etappe-42.md)
 
  🔁  [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
  

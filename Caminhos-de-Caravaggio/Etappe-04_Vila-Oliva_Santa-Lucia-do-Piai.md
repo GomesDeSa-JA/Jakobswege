@@ -62,7 +62,7 @@ Zurück im Seminar bemerkte ich, dass mein Handy fehlte. Wir machten uns sofort 
 
 Wie das Foto zeigt, das ich um 16:47 Uhr aufnahm, waren  Menschen dort unterwegs. Wer es gesehen hat, muss wohl gedacht haben: „Man darf Dinge, die jemand liegengelassen hat, nicht anfassen, sonst findet der Besitzer sie nicht wieder.“
 
->Das sind keine Ammenmärchen, sondern echte Erlebnisse. Und wo wir gerade von Geschichten sprechen: Ich muss auch noch die Geschichten über Pferde aufschreiben, über die wir beim Abendessen gesprochen haben – genauer gesagt über die Alternativroute, die der Pfarrer hoch zu Ross zurückgelegt hat.
+>Das sind keine Ammenmärchen, sondern echte Erlebnisse. Und wo wir gerade von Geschichten sprechen: Ich muss auch noch die Geschichten über Pferde aufschreiben, über die wir beim Abendessen gesprochen haben – genauer gesagt über die Alternativroute, die der Herr Pfarrer hoch zu Ross zurückgelegt hat.
 
 ---
 <details>
@@ -182,7 +182,7 @@ Quando chegámos ao Seminário, percebi que o meu telemóvel tinha desaparecido.
 
 Como mostra a fotografia que tirei às 16h47, passaram pessoas por ali. Quem quer que o tenha visto deve ter pensado: "Não se deve tocar nas coisas que alguém deixou esquecidas, senão o dono não as encontra."
 
->Isto não são histórias da carochinha, são coisas que aconteceram mesmo. E por falar nisso, também tenho de escrever as histórias sobre cavalos de que falámos ao jantar — especificamente sobre a rota alternativa que o padre fez a cavalo.
+>Isto não são histórias da carochinha, são coisas que aconteceram mesmo. E por falar nisso, também tenho de escrever as histórias sobre cavalos de que falámos ao jantar — especificamente sobre a rota alternativa que o Senhor  Padre fez a cavalo.
 
 ---
 
@@ -227,7 +227,7 @@ Este telemóvel tornou-se um dos meus companheiros mais fiéis e prestou-me serv
 Após a dolorosa perda nos Alpes, mudei para o Samsung Galaxy A52s 5G. Ele viria a escrever uma história que dificilmente será superada em termos de perspicácia detetivesca e drama humano.
 
 Aconteceu em setembro de 2022, no apeadeiro de comboios em Vila Praia de Âncora, Portugal. Antes da partida do comboio, estava sentado num banco e tirei o meu tablet da mochila, onde também se encontrava o meu telemóvel. Ao sentar-me, não fechei a mochila corretamente. Quando o comboio chegou, levantei-me depressa, guardei o tablet, fechei a mochila, entrei e sentei-me ao lado dos meus colegas de casa da altura: a Gabriela, o Ari e a Jacqueline. Durante a viagem, a Jacqueline contou que ia a caminho de um curso de estética, que custava cerca de 300 euros por apenas algumas horas. Chocado com o preço, respondi que aquilo era mais caro do que na Suíça. Quis tirar o telemóvel para comparar os preços dos cursos na Suíça na internet, mas a minha mão tateou no vazio. "Podia jurar que guardei o meu Andi na mala!", disse eu, incrédulo. O Ari sugeriu que talvez estivesse em casa na cozinha, onde eu o tinha usado pela última vez. Saí imediatamente no apeadeiro seguinte e voltei para trás.
-
+señor cura
 Mas na casa não havia telemóvel. Procurei nas redondezas, perguntei por aí – sem sucesso. Determinado, enviei um SMS para o meu número (963983428) com a informação de onde o aparelho poderia ser entregue. O meu passo seguinte levou-me aos correios, para informar os funcionários. O prestável funcionário dos correios ligou imediatamente do seu próprio telefone para o meu telemóvel **"963 983 428"** .Nenhuma reação. Ele sugeriu: "Vamos até à Praça e ligamos outra vez. Algumas pessoas atiram os aparelhos para o lixo quando veem que não têm acesso." Mas também na praça tudo permaneceu em silêncio.
 
 Continuei até ao posto da _Guarda Nacional Republicana_ (GNR) em Âncora Praia. Ainda antes da porta, um guarda abordou-me de passagem. Relatei o sucedido. Quando ele perguntou se a localização estava ativa, respondi que não e expliquei que o aparelho estava em modo offline. No Galaxy A52s 5G, este modo é especialmente seguro, pois é necessário introduzir uma palavra-passe para o ligar ou desligar. O guarda desvalorizou: "Então não tem qualquer hipótese de o encontrar." Com isto, ele deu o caso por encerrado e eu fui-me embora.
@@ -286,7 +286,7 @@ The reason I am sharing this story is another incredible anecdote that a gentlem
 
 One of the customers was counting a stack of banknotes while the bank teller verified some data. Judging by the size and the somewhat crumpled state of the bills, I would guess the gentleman with the cash ran a small corner grocery store nearby, selling potatoes and a few onions. When the other customer stood up and saw the man next to him counting the money, he whispered to him not to do it so openly. He told him he was lucky we were in Portugal—a country where you are safe.
 
-Then he told me about an employee of an armored car company. While emptying the ATM cassettes, the man supposedly decided to go to the restroom, leaving the cassettes wide open right on the pedestrian crossing. Many passersby walked past, but no one touched the money. Portugal is safe, he said; in Brazil, that money would have been gone long ago.
+Then he told me about an employee of an armored car company. While emptying the ATM cassettes, the man supposedly deseñor curaseñor curacided to go to the restroom, leaving the cassettes wide open right on the pedestrian crossing. Many passersby walked past, but no one touched the money. Portugal is safe, he said; in Brazil, that money would have been gone long ago.
 
 To that, I replied in a matter-of-fact tone: "There is theft in Portugal too. I had my phone stolen right off the platform in Âncora Praia. In Brazil, on the other hand, I once accidentally left my phone on a park bench—and when I returned an hour later, it was still there."
 
@@ -307,7 +307,6 @@ As the photo I took at 4:47 PM shows, people were walking past. Anyone who saw i
 </details>
 ---
 
-
 ![](media/20230929-180000-.jpg)
 
 <details>
@@ -324,4 +323,4 @@ As the photo I took at 4:47 PM shows, people were walking past. Anyone who saw i
 
  🔁 [Caminhos-de-Caravaggio_Etapas](Caminhos-de-Caravaggio_Etapas.md)
  
- ...→
+ ...→señor cura

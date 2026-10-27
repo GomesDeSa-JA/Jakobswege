@@ -13,6 +13,7 @@
 
 ![](media01/Camino-Mozarabe5.webp)
 - Ende der Etappe  in Hinosa del Duque am 12 Mai 2014 
+- 
 ![](media01/Camino-Mozarabe6.webp)
 
 ![](media01/Almeria-Pinos-Puente.webp)
@@ -90,7 +91,7 @@ Mapa: Almeria  →  ...  →  Mérida  →  ... →  Zamora  →  Puebla de San�
 
 ---
 
-↪ 
+↪ [Etappe-01_Almeria_Alboloduy](Etappe-01_Almeria_Alboloduy.md)
 
  🔁 [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
  
