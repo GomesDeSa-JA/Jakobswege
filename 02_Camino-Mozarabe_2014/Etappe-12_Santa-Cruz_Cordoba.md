@@ -1,6 +1,6 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-12: Santa Cruz →  Córdoba ( 25, 7 Km)
+### Etappe-12: Santa Cruz  →  Córdoba ( 25, 7 Km)
 08 de Maio 2014 👣
 
 ### 🇵🇹  De Santa Cruz a Córdoba
@@ -39,6 +39,8 @@ E esta não foi a minha primeira aventura a atravessar rios e campos fora dos ca
 
 </details>
 
+---
+
 ### 🇪🇸 De Santa Cruz a Córdoba
 
 - Reinhard salió un poco antes.
@@ -49,8 +51,6 @@ Cuando me eché la mochila a la espalda, listo para afrontar la siguiente etapa,
 
 <details>
 <summary></summary>
-
-
 
 En el mapa sin conexión de Google Maps vi que, si retrocedía aproximadamente 1,5 km, llegaría al camino rural CO-3203, que conectaba con la CB-226. Y eso fue exactamente lo que hice. El camino iba en dirección a Córdoba, pero no había examinado todo el recorrido con detenimiento y pensé que, tarde o temprano, acabaría desembocando en la N-432 o en algún otro camino rural. Así que me puse en marcha.
 
@@ -75,7 +75,9 @@ Sin embargo, el peligro era real: al atravesar los campos de cereales, las costu
 Y esta no fue mi primera aventura atravesando ríos y campos fuera de los caminos habituales. Poco antes de San Pedro de Mérida me esperaba algo parecido, aunque aquella vez tuve la suerte de encontrarme con un agricultor que me advirtió de lo que me esperaba.
 
 </details>
+
 ---
+
 ### 🇬🇧 From Santa Cruz to Córdoba
 
 - Reinhard had set off a little earlier.
@@ -87,8 +89,6 @@ As I swung my backpack onto my shoulders, ready for the next stage, I couldn't s
 
 <details>
 <summary></summary>
-
-
 
 Looking at the offline map in Google Maps, I saw that if I went back about 1.5 km, I would reach the CO-3203 country road, which connected with the CB-226. And that's exactly what I did. The road headed towards Córdoba, but I hadn't examined the entire route carefully. I assumed that sooner or later it would lead to the N-432 or another country road. So off I went.
 
@@ -216,7 +216,6 @@ Todavía quedaban 6 km hasta Córdoba y 4 km hasta la siguiente gasolinera. La v
 
 Google Maps Foto: ↓ Estação de serviço ↓  petrol station 
 ![](media04/Repsol-N-432-2Km-vorCordoba.webp)
-
 
 ---
 

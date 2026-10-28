@@ -24,8 +24,7 @@ Sorry for the trouble
 ![](media02/20140428-084745-.webp)
 Kaum zu erkennen  ↑ Hardly recognizable ↑ Difícil de reconhecer ↑
 
- ![](media02/20140428-084827.webp)
-
+![](media02/20140428-084827.webp)
 
 ![](media02/20140428-085044.webp)
 -   
@@ -68,7 +67,6 @@ Fiquei contente por ter iniciado esta etapa logo de manhã cedo e não à tarde,
 
 
 ![](media02/20140428-103042.webp)
-
 
 ![](media02/20140428-103458%20.webp)
 
@@ -119,14 +117,20 @@ Bakers deserve recognition for their commitment to the community. They do so muc
 Ein kühler Ort zum Ausruhen.
 - Fontes e os lavatórios públicos para lavar roupa.
 Um local fresco para descansar.
+<details>
+<summary></summary>
 
 ![](media02/20140428-152102.webp)
 
 ![](media02/20140428-155521.webp)
 
 ![](media02/20140428-160330.webp)
+</details>
 
 ![](media02/20140428-160523.webp)
+
+<details>
+<summary></summary>
 
 ![](media02/20140428-164102.webp)
 
@@ -135,6 +139,8 @@ Um local fresco para descansar.
 ![](media02/20140428-170550.webp)
 
 ![](media02/20140428-180722-Acueducto-Molinos-los-Arcos.webp)
+
+</details>
 
 ![](media02/20140428-180903.webp)
 
@@ -184,11 +190,13 @@ To be honest, I don't know if I would have made it to the Casa Rural at all if t
 
 ![](media02/20140428-214752.webp)
 
-
-
 ---
 
----
+<details>
+<summary>  </summary>
+
+![](20261013121750.png) 🇬🇧 🇪🇸 🇵🇹 🇩🇪 🥾
+
 <details>
 <summary></summary>
 
@@ -198,16 +206,17 @@ unterkunft: Las Paratas del Faz
 tags: [pilgern, dankbarkeit, geschichten]
 ---
 
-# Ein großes Dankeschön an Fiñana / A big thank you!
+### Ein großes Dankeschön an Fiñana / A big thank you!
 Veröffentlichung via GitHub
 
 Da du dein Repository öffentlich machst, gibt es zwei großartige Möglichkeiten, wie andere Pilger oder die Helfer vor Ort das lesen können:
 
 1. **GitHub Pages:** Wenn du dein Obsidian-Vault über Tools wie _Quartz_ oder _Obsidian Publish_ (oder ein einfaches Jekyll/Hugo-Theme) als Website exportierst, wird daraus ein wunderschöner, lesbarer Blog.
+
 2. **Der „Social Media“-Effekt:** Da du den Text extra auf Spanisch übersetzt hast, könntest du den Link zu genau dieser Markdown-Datei auf GitHub (oder deiner GitHub-Page) später auch in lokalen Pilger-Foren oder als Dankeschön per WhatsApp an die Unterkunft schicken. Die Gastgeber der _Casa Rural_ werden sich riesig über die spanische Version freuen!
 
 
-# 🗺️ Fiñana: Ein großes Dankeschön | ¡Muchísimas gracias!
+### 🗺️ Fiñana: Ein großes Dankeschön | ¡Muchísimas gracias!
 
 > [!TIP]
 > **Ort:** Fiñana (Andalusien)  
@@ -217,8 +226,7 @@ Da du dein Repository öffentlich machst, gibt es zwei großartige Möglichkeite
 
 ---
 
-## 🇩🇪 Deutsch
-Herzlichen Dank an alle!
+### 🇩🇪 Herzlichen Dank an alle!
 - An das Team der **„Café Bar Castillo“** für die köstlichen Leckereien
 - An die **örtliche Polizei** für den Anruf
 - An das **Ehepaar** der Casa Rural „Las Paratas del Faz“
@@ -227,8 +235,7 @@ Ich weiß ehrlich gesagt nicht, ob ich es überhaupt bis zur Unterkunft geschaff
 
 ---
 
-## 🇪🇸 Español
-¡Muchísimas gracias a todos!
+### 🇪🇸 ¡Muchísimas gracias a todos!
 - Al equipo del **„Café Bar Castillo“** por sus delicias
 - A la **policía local** por la llamada
 - A los **dueños** de la Casa Rural „Las Paratas del Faz“
@@ -237,8 +244,7 @@ Sinceramente, no sé si habría logrado llegar a la casa rural si el señor (cuy
 
 ---
 
-## 🇵🇹 Português
-Muito obrigado(a) a todos!
+### 🇵🇹 Muito obrigado(a) a todos!
 - À equipa do **„Café Bar Castillo“** pelas delícias
 - À **polícia local** pelo telefonema
 - Ao **casal** da Casa Rural „Las Paratas del Faz“
@@ -247,21 +253,14 @@ Sinceramente, não sei se teria conseguido chegar à casa rural se o senhor (cuj
 
 ---
 
-## 🇬🇧 English
-A huge thank you to everyone!
+### 🇬🇧 A huge thank you to everyone!
 - To the team at **„Café Bar Castillo“** for the delicious treats
 - To the **local police** for the phone call
 - To the **couple** from the „Las Paratas del Faz“ country house
 
 To be honest, I don't know if I would have made it to the Casa Rural at all if the gentleman (whose name I have completely forgotten due to exhaustion – please forgive me!) hadn't come to pick me up. I had been enjoying a cold beer and some delicious food at the bar, feeling so comfortable that my feet simply refused to take another step.
 
-
 </details>
-
-<details>
-<summary>  </summary>
-
-![](20261013121750.png) 🇬🇧 🇪🇸 🇵🇹 🇩🇪 🥾
 
 </details>
 

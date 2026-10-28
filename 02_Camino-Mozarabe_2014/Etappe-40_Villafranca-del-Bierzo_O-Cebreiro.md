@@ -29,7 +29,7 @@ media09/20140605_150018-DSCF5047.webp
 
 **Bar-Albergue-La-Escuela**
 ↓ Google Maps-Foto ↓
-![](Bar-Albergue-La-Escuela.webp)
+![](media09/Bar-Albergue-La-Escuela.webp)
 
 ![](media09/20140605_150035-DSCF5051.webp)
 #### 🇩🇪 **Was uns antreibt** 

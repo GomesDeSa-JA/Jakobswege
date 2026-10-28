@@ -7,6 +7,9 @@
 
 ![](media02/20140429-074903-.webp)
 
+<details>
+<summary></summary>
+
 ![](media02/20140429-074931.webp)
 
 ![](media02/20140429-075606.webp)
@@ -14,7 +17,8 @@
 ![](media02/20140429-075647.webp)
 
 ![](media02/20140429-095941.webp)
-  
+</details>
+
 ####  Route der Wassermühlen
 
 🇩🇪 Ich ging kurz zur Post und verlor dabei die gelben Pfeile aus den Augen; dann ging ich einfach weiter und stieß auf die Route von Los Molinos. Als ich davon las, träumte ich von der Symphonie des fließenden Wassers und konnte es kaum erwarten, diese Route zu entdecken; und da ich wusste, dass „alle Wege nach Santiago de Compostela führen“, machte ich diese Route zu meiner persönlichen Alternativroute.
@@ -42,7 +46,8 @@
 ![](media02/20140429-101009.webp)
 
 ![](media02/20140429-101550.webp)
-
+<details>
+<summary></summary>
 ![](media02/20140429-102101.webp)
 
 ![](media02/20140429-102400.webp)
@@ -58,6 +63,7 @@
 ![](media02/20140429-122259.webp)
 
 ![](media02/20140429-133930.webp)
+</details>
 
 ![](media02/20140429-133937.webp)
 

@@ -25,8 +25,8 @@ Una peregrina se levantó de puntillas, luego otra, hasta que una holandesa fina
 One pilgrim got up on tiptoe, then another, until a Dutch woman finally asked, "I'm going to turn on the light, is that okay?" Since the majority were Dutch women, everyone agreed. The rest of us were just glad we didn't have to keep creeping around on tiptoe to avoid waking anyone up.
 </details>
 
-![](Albergue-Municipal-de-Murias.webp)
-Google-Foto von 정졍짱
+![](media08/Albergue-Municipal-de-Murias.webp)
+Google Maps-Foto von 정졍짱
 
 🇩🇪 Im Jahr 2014 war die Herberge voll. Die Betten wurden enger beieinander aufgestellt, und dazwischen wurden Matratzen auf den Boden gelegt. Trotzdem fand ich es sehr bequem, denn für mich ist das H4 perfekt. Ich schlafe in einem H4.
 

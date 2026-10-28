@@ -3,11 +3,12 @@
 ### Etappe-13: Córdoba → Los Patios de  Córdoba ( ca. 2,x Km)
 09 de Maio 2014 👣
 
-
 ![](media04/20140509-103901.webp)
+<details>
+<summary></summary>
 
 ![](media04/20140509-103909.webp)
-
+</details>
 ![](media04/20140509-104502.webp)
 
 - 🇪🇸 El alojamiento se encontraba al otro lado del río Guadalquivir.
@@ -25,7 +26,6 @@ O passeio matinal e vespertino passava mesmo em frente à histórica **Torre de 
 - 🇬🇧 The accommodation was on the other side of the River Guadalquivir.
 >Was it in the Campo de la Verdad or in the _Plaza de la Iglesia_?
 The morning and evening walk took us right past the historic **Torre de la Calahorra** and then across the monumental **Puente Romano** (_Puente Romano_). From there, you reach the old town directly and can admire the imposing backdrop of the _mosque-cathedral_.
-
 
 ![](media04/20140509-104512.webp)
 

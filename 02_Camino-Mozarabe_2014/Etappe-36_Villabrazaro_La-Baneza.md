@@ -57,10 +57,10 @@
 
 Albergue Monte Urba
 
-![](Albergue-Monte-Urba.webp)
+![](media08/Albergue-Monte-Urba.webp)
 ↑ Google Maps Foto ↑
 
-**### 🇵🇹 Alojamento para peregrinos em La Bañeza.
+### 🇵🇹 Alojamento para peregrinos em La Bañeza.
 
 Um antigo hospital ou enfermaria, muitas camas vagas – apenas dois peregrinos franceses de bicicleta e eu. Foi a primeira vez –no caminho– que dormi numa cama onde outrora se cuidavam doentes.  
 
@@ -86,7 +86,6 @@ Un antiguo hospital o enfermería, muchas camas libres: solo dos peregrinos fran
 A former hospital or military infirmary, plenty of empty beds – just two French cycling pilgrims and me. It was the first time –on the way–  I’d slept in a bed where sick people had once been cared for. 
 
 > *The second time I slept in a bed like that was in a bullring on the Caminho Levante. That’s where the bullfighters were treated after a bout with a bull.* 
-
 
 ---
 

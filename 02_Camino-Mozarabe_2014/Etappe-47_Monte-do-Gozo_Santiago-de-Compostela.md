@@ -23,10 +23,12 @@
 ![](media09/20140612_085018.webp)
 
 ![](media09/20140612_105339.webp)
-
+<details>
+<summary></summary>
 ![](media09/20140612_105344.webp)
 
 ![](media09/20140612_105405.webp)
+</details>
 
 ![](media09/20140612-085027-DSCF5106.webp)
 
@@ -38,10 +40,15 @@
 
 ![](media01/20261013121750.png) 🇬🇧 🇪🇸 🇵🇹 🇩🇪 🥾
 
+<details>
+<summary></summary>
+
+</details>
+
 </details>
 
 ---
-↪ [Etappe-01_Almeria_Alboloduy](Etappe-01_Almeria_Alboloduy.md)
+↪ [Etappe-48_Santiago-de-Compostela_Catedral-de-Santiago-Apostolo](Etappe-48_Santiago-de-Compostela_Catedral-de-Santiago-Apostolo.md)
 
 ↪ 
 

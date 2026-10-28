@@ -17,7 +17,6 @@
 ![](media04/20140510-073021.webp)
 
 ![](media04/20140510-073325.webp)
-
 <details>
 <summary></summary>
 
@@ -25,16 +24,13 @@
 
 ![](media04/20140510-085256.webp)
 </details>
-
 ![](media04/20140510-085657.webp)
 
 ![](media04/20140510-104422.webp)
 
 ![](media04/20140510-105039.webp)
-
 <details>
 <summary></summary>
-
 
 ![](media04/20140510-105046.webp)
 
@@ -43,7 +39,6 @@
 ![](media04/20140510-111603.webp)
 
 </details>
-
 ![](media04/20140510-113619.webp)
 
 - 🇩🇪 Es gibt tatsächlich keinen schöneren Ort, um eine kleine Pause einzulegen.

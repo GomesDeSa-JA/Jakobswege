@@ -1,6 +1,6 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-18: Monterrubio de la Serena → Campanario (38,8Km)
+### Etappe-19: Monterrubio de la Serena → Campanario (38,8Km)
 15 de Maio 2014 👣
 
 
@@ -29,10 +29,14 @@ Heiliger Isidor der Bauer (der Schutzheilige von Madrid).
 ![](media05/20140515-074357-DSCF4555.webp)
 
 ![](media05/20140515-081144-DSCF4560.webp)
+<details>
+<summary></summary>
 
 ![](media05/20140515-091132-DSCF4569.webp)
 
 ![](media05/20140515-091208-DSCF4570.webp)
+
+</details>
 
 ![](media05/20140515-092202.webp)
 
@@ -52,7 +56,7 @@ Heiliger Isidor der Bauer (der Schutzheilige von Madrid).
 ![](media05/20140515-111102-DSCF4597.webp)
 
 <details>
-<summary>Festas de San Isidro em Castuera  </summary>
+<summary>🇵🇹 Festas de San Isidro em Castuera</summary>
 
 #### Festas de San Isidro em Castuera
 
@@ -65,9 +69,9 @@ Principais Atividades
 • Romaria e Procissão: A imagem de San Isidro é acompanhada em procissão até à ermida e aos terrenos da dehesa (como a zona de "La Parte" ou o entorno a cerca de 3 km da localidade).
 • Convívio Campestre: O dia é passado em convívio familiar e de amigos ao ar livre, com música, danças tradicionais (jotas) e petiscos típicos da região
 
-</details>
-
 ![](media05/20140515-113411-DSCF4604.webp)
+
+</details>
 
 ![](media05/20140515-151545-DSCF4612.webp)
 
@@ -99,13 +103,13 @@ Principais Atividades
 ↓ Google Maps-Foto ↓
 ![](media05/Campanario_Albergue-de-Peregrinos_La-Station1.webp)
 
-Llama antes, ya que el albergue está un poco apartado del «pueblo».
+🇪🇸 Llama antes, ya que el albergue está un poco apartado del «pueblo».
 
-Ruf vorher an, da die Herberge etwas abseits des „Dorfes“ liegt.
+🇩🇪 Ruf vorher an, da die Herberge etwas abseits des „Dorfes“ liegt.
 
-Liga antes, pois o albergue fica um pouco afastado da «vila».
+🇵🇹 Liga antes, pois o albergue fica um pouco afastado da «vila».
 
-Give them a ring beforehand, as the hostel is a bit out of the way from the ‘village’.
+🇬🇧 Give them a ring beforehand, as the hostel is a bit out of the way from the ‘village’.
 
 ---
 

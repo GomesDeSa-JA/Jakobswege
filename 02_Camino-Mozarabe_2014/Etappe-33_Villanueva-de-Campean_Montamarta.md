@@ -92,6 +92,7 @@ Sie bietet alles, was ein Pilger braucht.
 Seit Almería war dies die dritte Herberge, in der ich übernachtet habe, und sie war relativ gut belegt.
 
 Es hat mir sehr gut gefallen. Die Atmosphäre, die Pilger … es war ein sehr ruhiger Abend.
+
 … Ein älteres spanisches Pilgerpaar – das nach rechts statt nach links abgebogen war – kam etwas später an, bereits müde, fand aber dennoch einen Platz zum Schlafen.
 
 ---
@@ -102,6 +103,7 @@ Oferece tudo o que um peregrino precisa.
 Desde Almería que esta foi a terceira pousada onde pernoitei, e estava relativamente cheia.
 
 Gostei imenso. O ambiente, os peregrinos… foi uma noite muito tranquila.
+
 … Um casal espanhol de idosos em peregrinação — que virou à direita em vez de à esquerda — chegou um pouco mais tarde, já cansado, mas ainda assim conseguiu encontrar um sítio para dormir.
 
 ---
@@ -112,6 +114,7 @@ It offers everything a pilgrim needs.
 This was the third hostel I’d stayed in since leaving Almería, and it was fairly full.
 
 I really enjoyed it. The atmosphere, the pilgrims… it was a very peaceful evening.
+
 … An elderly Spanish couple on a pilgrimage — who turned right instead of left — arrived a little later, already tired, but still managed to find a place to sleep.
 
 ---
@@ -123,11 +126,12 @@ Ofrece todo lo que un peregrino necesita.
 Desde Almería, este ha sido el tercer albergue en el que he pasado la noche, y estaba bastante lleno.
 
 Me gustó muchísimo. El ambiente, los peregrinos… fue una noche muy tranquila.
+
 … Una pareja de ancianos españoles que estaban de peregrinación —y que giraron a la derecha en lugar de a la izquierda— llegó un poco más tarde, ya cansados, pero aun así consiguieron encontrar un sitio para dormir.
 
-![](Albergue-de-peregrinos-de-Montamarta.webp)
+![](media07/Albergue-de-peregrinos-de-Montamarta.webp)
 
-![](Albergue-de-peregrinos-de-Montamarta1.webp)
+![](media07/Albergue-de-peregrinos-de-Montamarta1.webp)
 
 ---
 

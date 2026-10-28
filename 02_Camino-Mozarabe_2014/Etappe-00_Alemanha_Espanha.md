@@ -257,6 +257,8 @@ ISBN: 978-3-86686-567-9
 ![](media02/20140426-162444.webp)
 
 
+---
+
 <details>
 <summary>  </summary>
 

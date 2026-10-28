@@ -4,7 +4,7 @@
 02 de Maio 2014 👣
 
 ![](media03/Granada-GR3201.webp)
-Google maps Foto
+↑ Google Maps Foto ↑
 
 - **_Ist der Fotoordner verschwunden? Waren die Bilder auf dem alten Laptop oder Netbook?_**
 

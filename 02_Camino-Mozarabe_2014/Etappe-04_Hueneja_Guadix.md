@@ -1,6 +1,6 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-0 : Huéneja → Guadix  (41,2 Km)
+### Etappe-04 : Huéneja → Guadix  (41,2 Km)
 30 de Abril 2014 👣
 
 ![](media02/20140430-065848.webp)
@@ -13,7 +13,7 @@
 
 🇬🇧 If you want to get to today’s destination quickly, take the motorway; it’s only 19 km. Personally, I don’t like walking on tarmac, even though it’s unavoidable today. We’ll definitely see each other in Guadix.
 
- ![](media02/20140430-070734.webp)
+![](media02/20140430-070734.webp)
 
 🇵🇹 Se as subidas e descidas forem demasiado cansativas, basta continuar em frente – imagino que seja mais fácil, mas talvez também possa tornar-se aborrecido. Pessoalmente, viro à esquerda aqui.
 
@@ -31,6 +31,8 @@
 
 ![](media02/20140430-072315.webp)
 
+<details>
+<summary></summary>
  ![](media02/20140430-074814.webp)
 
  ![](media02/20140430-074830.webp)
@@ -45,6 +47,7 @@
 
  ![](media02/20140430-091043.webp)
 
+</details>
  ![](media02/20140430-091253.webp)
 
  ![](media02/20140430-092019.webp)

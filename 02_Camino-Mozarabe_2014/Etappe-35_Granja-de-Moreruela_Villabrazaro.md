@@ -10,27 +10,26 @@
 
 ![](media08/20140531_075414.webp)
 
-Naquela manhã, as temperaturas ainda eram agradáveis; eu encontrava-me algures entre Granja de Moruela e Benavente quando parei para tomar um café expresso e conversar um pouco com o Bar-Mann — da minha idade —, que era da Andaluzia. Ele deu-me alguns conselhos: contou-me que, em alguns pontos, as placas com setas amarelas se tinham caído e que, por isso, alguns peregrinos tinham dificuldades em orientar-se, mas não sabia se o problema já tinha sido resolvido. Por isso, aconselhou-me a estar atento a isso.
+🇵🇹 Naquela manhã, as temperaturas ainda eram agradáveis; eu encontrava-me algures entre Granja de Moruela e Benavente quando parei para tomar um café expresso e conversar um pouco com o Bar-Mann — da minha idade —, que era da Andaluzia. Ele deu-me alguns conselhos: contou-me que, em alguns pontos, as placas com setas amarelas se tinham caído e que, por isso, alguns peregrinos tinham dificuldades em orientar-se, mas não sabia se o problema já tinha sido resolvido. Por isso, aconselhou-me a estar atento a isso.
 
 **Acho que foi nesta aldeia**.
 
 ---
-Aquella mañana, las temperaturas aún eran agradables, pero me encontraba en algún lugar entre Granja de Moruela y Benavente cuando paré para tomarme un café expreso y charlar un rato con el Bar-Mann—de mi edad—, que era de Andalucía. Me dio algunos consejos: me contó que, en algunos puntos, las señales con las flechas amarillas se habían caído y que, por eso, algunos peregrinos tenían dificultades para orientarse, pero no sabía si el problema ya se había solucionado. Por eso, me aconsejó que estuviera atento a eso.
+🇪🇸 Aquella mañana, las temperaturas aún eran agradables, pero me encontraba en algún lugar entre Granja de Moruela y Benavente cuando paré para tomarme un café expreso y charlar un rato con el Bar-Mann—de mi edad—, que era de Andalucía. Me dio algunos consejos: me contó que, en algunos puntos, las señales con las flechas amarillas se habían caído y que, por eso, algunos peregrinos tenían dificultades para orientarse, pero no sabía si el problema ya se había solucionado. Por eso, me aconsejó que estuviera atento a eso.
 
 **Creo que fue en este pueblo.**
 
 ---
 
-An jenem Morgen waren die Temperaturen noch angenehm,  ich befand mich irgendwo zwischen Granja de Moruela und Benavente, als ich anhielt, um einen Espresso zu trinken und mich ein wenig mit dem Barkeeper – in meinem Alter – zu unterhalten, der aus Andalusien stammte. Er gab mir ein paar Tipps: Er erzählte mir, dass an bestimmten Stellen die Wegweiser mit den gelben Pfeilen umgefallen waren und dass einige Pilger deshalb Schwierigkeiten hatten, sich zu orientieren, wusste aber nicht, ob das Problem bereits behoben worden war. Deshalb riet er mir, darauf zu achten.
+🇩🇪 An jenem Morgen waren die Temperaturen noch angenehm,  ich befand mich irgendwo zwischen Granja de Moruela und Benavente, als ich anhielt, um einen Espresso zu trinken und mich ein wenig mit dem Barkeeper – in meinem Alter – zu unterhalten, der aus Andalusien stammte. Er gab mir ein paar Tipps: Er erzählte mir, dass an bestimmten Stellen die Wegweiser mit den gelben Pfeilen umgefallen waren und dass einige Pilger deshalb Schwierigkeiten hatten, sich zu orientieren, wusste aber nicht, ob das Problem bereits behoben worden war. Deshalb riet er mir, darauf zu achten.
 
 **Ich glaube, es war in diesem Dorf.**
 
 ---
 
-That morning, the temperatures were still pleasant; I was somewhere between Granja de Moruela and Benavente when I stopped for an espresso and a chat with the barista — who was about my age — and who was from Andalusia. He gave me some advice: he told me that, in some places, the signs with the yellow arrows had fallen down and that, as a result, some pilgrims were having trouble finding their way, but he didn’t know if the problem had been sorted out yet. So, he advised me to keep an eye out for that.
+🇬🇧 That morning, the temperatures were still pleasant; I was somewhere between Granja de Moruela and Benavente when I stopped for an espresso and a chat with the barista — who was about my age — and who was from Andalusia. He gave me some advice: he told me that, in some places, the signs with the yellow arrows had fallen down and that, as a result, some pilgrims were having trouble finding their way, but he didn’t know if the problem had been sorted out yet. So, he advised me to keep an eye out for that.
 
 **I think it was in thist village.**
-
 
 ![](media08/20140531_075734.webp)
 
@@ -67,10 +66,11 @@ Parador de Benavente
  Cemitério  ↑  31 de Maio de 2014 **↑** Villabrázaro, Kastilien und León
  
 Cemitério ↓ Nov de 2013 **↓**  Villabrázaro, Kastilien und León
-![](2013-Nov-Villabrazaro.webp)
+![](media08/2013-Nov-Villabrazaro.webp)
 
 Albergue de peregrinos de Villabrázaro
-![](Albergue-de-peregrinos-de-Villabrazaro.webp)
+![](media08/Albergue-de-peregrinos-de-Villabrazaro.webp)
+
 [Não te esqueças de levar algo para comer e beber](https://www.gronze.com/castilla-y-leon/zamora/villabrazaro/albergue-peregrinos-villabrazaro)
 
 ---
