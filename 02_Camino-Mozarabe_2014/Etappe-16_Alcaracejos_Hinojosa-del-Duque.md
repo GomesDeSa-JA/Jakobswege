@@ -22,6 +22,7 @@
 ![](media04/20140512-162051.webp)
 
 ![](media04/20140512-162905.webp)
+
 <details>
 <summary></summary>
 
@@ -30,7 +31,9 @@
 ![](media04/20140512-163005.webp)
 
 ![](media04/20140512-163015.webp)
+
 </details>
+
 ![](media04/20140512-185541.webp)
 
 

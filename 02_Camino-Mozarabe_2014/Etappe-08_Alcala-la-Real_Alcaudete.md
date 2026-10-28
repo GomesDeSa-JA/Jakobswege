@@ -7,14 +7,18 @@
 ![](media03/20140504-093705.webp)
 
 ![](media03/20140504-100205.webp)
+
 <details>
 <summary></summary>
 
 ![](media03/20140504-100639.webp)
 
 ![](media03/20140504-103308.webp)
+
 </details>
+
 ![](media03/20140504-103318.webp)
+ 
  <details>
 <summary></summary>
 

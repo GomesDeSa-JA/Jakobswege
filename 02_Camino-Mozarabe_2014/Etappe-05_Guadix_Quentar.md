@@ -8,9 +8,10 @@
 
 ![](media03/20140501-073134.webp)
 
-![](media03/20140501-073237.webp)
 <details>
 <summary></summary>
+
+![](media03/20140501-073237.webp)
 
 ![](media03/20140501-073932.webp)
 
@@ -35,20 +36,27 @@
 ![](media03/20140501-081912.webp)
 
 ![](media03/20140501-082841.webp)
+
 </details>
+
 ![](media03/20140501-083532.webp)
+
+<details>
+<summary></summary>
 
 ![](media03/20140501-083724.webp)
 
 ![](media03/20140501-093131.webp)
-<details>
-<summary></summary>
+
 
 ![](media03/20140501-094530.webp)
 
 ![](media03/20140501-101945.webp)
+
 </details>
+
 ![](media03/20140501-101951.webp)
+
 <details>
 <summary></summary>
 
@@ -67,7 +75,9 @@
 ![](media03/20140501-111622.webp)
 
 ![](media03/20140501-111626.webp)
+
 </details>
+
 ![](media03/20140501-111632.webp)
 
 #### Info: Das Castillo de La Peza: Wächter des maurischen Caminos
@@ -222,10 +232,10 @@ If you take a sharp right at Puerto de los Blancares (12.3 kilometres from La Pe
 ![](media03/20140501-141427.webp)
 
 ![](media03/20140501-143303.webp)
-
-![](media03/20140501-143837.webp)
 <details>
 <summary></summary>
+
+![](media03/20140501-143837.webp)
 
 ![](media03/20140501-154936.webp)
 
@@ -237,7 +247,9 @@ If you take a sharp right at Puerto de los Blancares (12.3 kilometres from La Pe
 ![](media03/20140501-161734.webp)
 
 ![](media03/20140501-164834.webp)
+
 </details>
+
 ![](media03/20140501-165005.webp)
 
 ---

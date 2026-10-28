@@ -13,7 +13,7 @@
 Quando coloquei a mochila às costas, pronto para a próxima etapa, não consegui ver as setas amarelas. Liguei o telemóvel e tentei determinar a minha localização para perceber onde me encontrava. Mas, como se tratava de um GPS de primeira geração, podia demorar algum tempo até conseguir estabelecer contacto com um satélite em órbita terrestre, a **20 200 quilómetros de altitude**. E agora?
 
 <details>
-<summary></summary>
+<summary>🗺️</summary>
 
 No mapa offline do Google Maps, vi que, se recuasse cerca de 1,5 km, chegaria ao estrada rural CO-3203, que se ligava ao caminho CB-226. Foi exatamente isso que fiz. O caminho seguia na direção de Córdoba, mas eu não tinha analisado o percurso completo com atenção e pensei que, mais cedo ou mais tarde, acabaria por desembocar na N-432 ou noutro caminho rural. Por isso, pus-me a caminho.
 
@@ -50,7 +50,7 @@ E esta não foi a minha primeira aventura a atravessar rios e campos fora dos ca
 Cuando me eché la mochila a la espalda, listo para afrontar la siguiente etapa, no conseguí ver las flechas amarillas. Encendí el móvil e intenté determinar mi posición para saber dónde me encontraba. Pero, como se trataba de un GPS de primera generación, podía tardar un rato en establecer contacto con un satélite situado en órbita terrestre, a **20.200 kilómetros de altura**. ¿Y ahora qué?
 
 <details>
-<summary></summary>
+<summary>🗺️</summary>
 
 En el mapa sin conexión de Google Maps vi que, si retrocedía aproximadamente 1,5 km, llegaría al camino rural CO-3203, que conectaba con la CB-226. Y eso fue exactamente lo que hice. El camino iba en dirección a Córdoba, pero no había examinado todo el recorrido con detenimiento y pensé que, tarde o temprano, acabaría desembocando en la N-432 o en algún otro camino rural. Así que me puse en marcha.
 
@@ -88,7 +88,7 @@ Y esta no fue mi primera aventura atravesando ríos y campos fuera de los camino
 As I swung my backpack onto my shoulders, ready for the next stage, I couldn't see the yellow arrows. I switched on my phone and tried to determine my location so I could work out where I was. But since this was a first-generation GPS device, it could take a while to establish contact with a satellite orbiting the Earth at an altitude of **20,200 kilometres**. So, what now?
 
 <details>
-<summary></summary>
+<summary>🗺️</summary>
 
 Looking at the offline map in Google Maps, I saw that if I went back about 1.5 km, I would reach the CO-3203 country road, which connected with the CB-226. And that's exactly what I did. The road headed towards Córdoba, but I hadn't examined the entire route carefully. I assumed that sooner or later it would lead to the N-432 or another country road. So off I went.
 
@@ -125,7 +125,7 @@ And this wasn't my first adventure involving rivers and cross-country detours. J
 Als ich mir den Rucksack auf den Rücken schwang, bereit für die nächste Etappe, konnte ich die gelben Pfeile nicht sehen. Ich schaltete mein Handy ein und versuchte, meinen Standort zu bestimmen, um herauszufinden, wo ich mich befand. Doch da es sich um ein GPS der ersten Generation handelte, konnte es eine Weile dauern, bis die Verbindung zu einem Satelliten in **20.200 Kilometern Höhe** hergestellt war. Und jetzt?
 
 <details>
-<summary></summary>
+<summary>🗺️</summary>
 
 Auf der Offline-Karte von Google Maps sah ich, dass ich, wenn ich etwa 1,5 km zurückging, den Feldweg CO-3203 erreichen würde, der mit der CB-226 verbunden war. Genau das tat ich. Der Weg führte in Richtung Córdoba, aber ich hatte mir die gesamte Strecke nicht genauer angesehen. Ich dachte, dass er früher oder später auf die N-432 oder einen anderen Feldweg treffen würde. Also machte ich mich auf den Weg.
 
@@ -163,7 +163,6 @@ Und es war nicht mein erstes Abenteuer durch Flüsse und querfeldein. Kurz vor S
 ![](media03/20140508-120904.webp)
 
 ![](media03/20140508-120858.webp)
-
 
 ![](media03/20140508-172111-.webp)
 N-432- 6 km → Cordoba

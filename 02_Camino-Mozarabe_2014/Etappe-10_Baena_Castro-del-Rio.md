@@ -6,8 +6,10 @@
 #### Capital do Reino das Oliveiras e do Azeite de qualidade
 
 ![](media03/20140506-075720.webp)
+
 <details>
 <summary></summary>
+
 ![](media03/20140506-075743.webp)
 
 ![](media03/20140506-081941.webp)
@@ -17,8 +19,11 @@
 ![](media03/20140506-090421.webp)
 
 ![](media03/20140506-092101.webp)
+
 </details>
+
 ![](media03/20140506-092109.webp)
+
 <details>
 <summary></summary>
 
@@ -29,7 +34,9 @@
 ![](media03/20140506-093523.webp)
 
 ![](media03/20140506-095542.webp)
+
 </details>
+
 ![](media03/20140506-122830.webp)
 
 ![](media03/20140506-122846-.webp)

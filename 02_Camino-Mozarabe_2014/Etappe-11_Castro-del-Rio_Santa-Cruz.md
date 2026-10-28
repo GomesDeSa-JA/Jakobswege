@@ -14,15 +14,20 @@
 ![](media03/20140507-073646.webp)
 
 ![](media03/20140507-080335.webp)
+
 </details>
+
 ![](media03/20140507-080511--.webp)
 
 ![](media03/20140507-080529.webp)
+
 <details>
 <summary></summary>
 
 ![](media03/20140507-080534.webp)
+
 </details>
+
 ![](media03/20140507-092715.webp)
 
 - 🇩🇪 Reinhard hatte ein Solarpanel mit Akku dabei, aber ich glaube, dass ihm das aufgrund des Gewichts und des Platzbedarfs mehr Nachteile als Vorteile gebracht hat.
@@ -35,12 +40,14 @@
 
 
 ![](media03/20140507-093622.webp)
+
 <details>
 <summary></summary>
 
 ![](media03/20140507-094047-.webp)
 
 ![](media03/20140507-094038-.webp)
+
 </details>
 
 ---

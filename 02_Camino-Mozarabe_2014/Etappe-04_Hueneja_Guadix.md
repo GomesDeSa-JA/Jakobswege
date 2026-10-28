@@ -30,9 +30,9 @@
 ![](media02/20140430-070758.webp)
 
 ![](media02/20140430-072315.webp)
-
 <details>
 <summary></summary>
+
  ![](media02/20140430-074814.webp)
 
  ![](media02/20140430-074830.webp)
@@ -48,9 +48,9 @@
  ![](media02/20140430-091043.webp)
 
 </details>
- ![](media02/20140430-091253.webp)
+![](media02/20140430-091253.webp)
 
- ![](media02/20140430-092019.webp)
+![](media02/20140430-092019.webp)
 
 - 🇬🇧 If the bakery is closed, it’s because the baker is currently delivering bread to the villages; as soon as you spot him along the way, don’t hesitate to stop him and enjoy some fresh bread rolls – that’s exactly what I did.
 
@@ -70,13 +70,17 @@
 - 🇬🇧 Thank you so very much, Lord, for the yellow arrows; I am so grateful for each and every one of those lovely detours off the tarmac road.
 
  ![](media02/20140430-094916.webp)
+ 
+<details>
+<summary></summary>
 
- ![](media02/20140430-095648.webp)
+![](media02/20140430-095648.webp)
 
 ![](media02/20140430-100230.webp)
 
 ![](media02/20140430-100342Alto-de-la-Regua.webp)
 
+</details>
 ![](media02/20140430-101046.webp)
 
  ![](media02/20140430-103025.webp)
@@ -88,13 +92,26 @@
 - 🇪🇸 Con estas vistas, se podría pensar en abrir aquí, en el castillo, un albergue.
 - 🇬🇧 Given this view, one might consider opening a pilgrims’ hostel here at the castle.
 
- ![](media02/20140430-113437.webp)
+ <details>
+<summary></summary>
+
+![](media02/20140430-113437.webp)
+
+</details>
 
  ![](media02/20140430-113757.webp)
+ 
+<details>
+<summary></summary>
 
  ![](media02/20140430-113802.webp)
+ 
+</details>
 
 ![](media02/20140430-124144.webp)
+
+<details>
+<summary></summary>
 
 ![](media02/20140430-125949.webp)
 ↑ Em 2014 ofereceram-me  alojamento na casa da avó ↑  
@@ -108,9 +125,11 @@
  
  ![](media02/20140430-141931.webp)
 
- ![](media02/20140430-144537.webp)
+![](media02/20140430-144537.webp)
 
- ![](media02/20140430-145216.webp)
+</details>
+
+![](media02/20140430-145216.webp)
 
  ![](media02/20140430-145954.webp)
 
@@ -118,11 +137,14 @@
 
  ![](media02/20140430-151455.webp)
 
- ![](media02/20140430-152255.webp)
+![](media02/20140430-152255.webp)
 
- ![](media02/20140430-160448.webp)
+![](media02/20140430-160448.webp)
 
- ![](media02/20140430-161714.webp)
+ <details>
+<summary></summary>
+
+![](media02/20140430-161714.webp)
 
  ![](media02/20140430-161910.webp)
 
@@ -130,13 +152,20 @@
 
  ![](media02/20140430-164226.webp)
 
- ![](media02/20140430-164329-.webp)
+</details>
 
- ![](media02/20140430-170044.webp)
+![](media02/20140430-164329-.webp)
+
+ <details>
+<summary></summary>
+
+![](media02/20140430-170044.webp)
 
  ![](media02/20140430-171238.webp)
 
- ![](media02/20140430-171756.webp)
+ </details>
+
+![](media02/20140430-171756.webp)
 
 ![](media02/20140430-180152.webp)
  
@@ -146,6 +175,7 @@
 - 🇪🇸 Una madre con su cría. No está enfadada, sino que simplemente pide que se mantenga una distancia adecuada y respetuosa con respecto a su cría. Y eso es precisamente lo que hice, sin prisas y con toda tranquilidad.
 -  🇬🇧 A mother with her offspring. She isn’t annoyed; she’s simply asking people to keep a reasonable and respectful distance from her offspring. And that’s exactly what I did, without rushing and in a completely calm manner.
 - 🇵🇹 Uma mãe com a sua cria. Ela não está zangada, mas pede simplesmente que se mantenha uma distância adequada e respeitosa em relação à sua cria. E foi precisamente isso que fiz, sem pressa e com toda a calma.
+
  ![](media02/20140430-184800.webp)
 
 ![](media02/20140430-185251.webp)

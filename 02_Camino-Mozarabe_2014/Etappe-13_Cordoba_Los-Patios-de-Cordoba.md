@@ -4,11 +4,14 @@
 09 de Maio 2014 👣
 
 ![](media04/20140509-103901.webp)
+
 <details>
 <summary></summary>
 
 ![](media04/20140509-103909.webp)
+
 </details>
+
 ![](media04/20140509-104502.webp)
 
 - 🇪🇸 El alojamiento se encontraba al otro lado del río Guadalquivir.

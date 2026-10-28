@@ -10,6 +10,7 @@
 ![](media04/20140511-083906.webp)
 
 ![](media04/20140511-084931.webp)
+
 <details>
 <summary></summary>
 
@@ -18,14 +19,18 @@
 ![](media04/20140511-085134-.webp)
 
 </details>
+
 ![](media04/20140511-085449-.webp)
+
 <details>
 <summary></summary>
 
 ![](media04/20140511-090306.webp)
 
 </details>
+
 ![](media04/20140511-090311.webp)
+
 <details>
 <summary></summary>
 
@@ -34,7 +39,9 @@
 ![](media04/20140511-091219.webp)
 
 ![](media04/20140511-092330.webp)
+
 </details>
+
 ![](media04/20140511-092345.webp)
 
 ![](media04/20140511-092616.webp)

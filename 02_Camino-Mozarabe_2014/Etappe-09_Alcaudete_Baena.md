@@ -7,20 +7,24 @@
 ![](media03/20140505-081452.webp)
 
 ![](media03/20140505-083913.webp)
+
 <details>
 <summary></summary>
 
 ![](media03/20140505-101127.webp)
 
 ![](media03/20140505-125431.webp)
+
 </details>
+
 ![](media03/20140505-125439.webp)
 
 ![](media03/20140505-125450.webp)
+
 <details>
-<summary></summary>
+<summary>Baena</summary>
+
 ![](media03/20140505-125615.webp)
-</details>
 
 **Baena:** Uma das capitais do azeite espanhol de alta qualidade.
 
@@ -41,7 +45,12 @@ Baena nimmt bei der Olivenproduktion eine ==absolute Spitzenposition== ein – n
 - **Flächenmäßig ein Schwergewicht:** Das kontrollierte Anbaugebiet der D.O. Baena umfasst über **60.000 Hektar** Olivenhaine und erstreckt sich neben Baena über mehrere Nachbargemeinden der Provinz Córdoba. In Spitzenjahren werden hier über **250 Millionen Kilogramm Oliven** zu mehr als 50 Millionen Kilo Olivenöl gepresst.
 
 Während Jaén das Zentrum der weltweiten Massenproduktion ist, gilt Baena somit als eine der renommiertesten **Hauptstädte des spanischen Premium-Olivenöls**. Die Region zeichnet sich besonders durch den Anbau der seltenen und geschmacksintensiven Olivensorte **Picuda** aus.
+
 </details>
+
+</details>
+
+
 
 ---
 
