@@ -5,6 +5,9 @@
 
 ![](media07/20140527_071639.webp)
 
+<details>
+<summary></summary>
+
 ![](media07/20140527_073605.webp)
 
 ![](media07/20140527_084644.webp)
@@ -15,13 +18,18 @@
 
 ![](media07/20140527_093450.webp)
 
+</details>
+
 ![](media07/20140527_093831.webp)
 
 ![](media07/20140527_094722.webp)
 
+**Salamanca lá longe**
+
 ![](media07/20140527_094828.webp)
 
-Salamanca lá longe
+<details>
+<summary></summary>
 
 ![](media07/20140527_100333.webp)
 
@@ -29,15 +37,25 @@ Salamanca lá longe
 
 ![](media07/20140527_104204.webp)
 
-![](media07/20140527_112653.webp)
-
 ![](media07/20140527_113311.webp)
+
+</details>
+
+![](media07/20140527_112653.webp)
 
 ![](media07/20140527_114833.webp)
 
+<details>
+<summary></summary>
+
 ![](media07/20140527_123110.webp)
 
+</details>
+
 ![](media07/20140527_123943.webp)
+
+<details>
+<summary></summary>
 
 ![](media07/20140527_130045.webp)
 
@@ -46,6 +64,8 @@ Salamanca lá longe
 ![](media07/20140527_133111.webp)
 
 ![](media07/20140527_133449.webp)
+
+</details>
 
 ![](media07/20140527_155621.webp)
 

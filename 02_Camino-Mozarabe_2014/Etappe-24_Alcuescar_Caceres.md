@@ -3,9 +3,14 @@
 ### Etappe-24: Alcuéscar  →  Cáceres ( 37,4 Km)
 20 de Maio 2014 👣
 
-![](Media06/20140520_070558.webp)
+
 
 ![](Media06/20140520_070607.webp)
+
+<details>
+<summary></summary>
+
+![](Media06/20140520_070558.webp)
 
 ![](Media06/20140520-081522-DSCF4784-.webp)
 
@@ -17,10 +22,15 @@
 
 ![](Media06/20140520_101614.webp)
 
+</details>
+
 Um desvio pelo supermercado ?
 Fruta e água..., ... 
 
 ![](Media06/20140520_101628.webp)
+
+<details>
+<summary></summary>
 
 ![](Media06/20140520_120409.webp)
 
@@ -28,7 +38,12 @@ Fruta e água..., ...
 
 ![](Media06/20140520_120436-.webp)
 
+</details>
+
 ![](Media06/20140520_121300.webp)
+
+<details>
+<summary></summary>
 
 ![](Media06/20140520-123619-DSCF4788.webp)
 
@@ -36,7 +51,12 @@ Fruta e água..., ...
 
 ![](Media06/20140520-150221-DSCF4792.webp)
 
+</details>
+
 ![](Media06/20140520_162858.webp)
+
+<details>
+<summary></summary>
 
 ![](Media06/20140520_162953.webp)
 
@@ -45,6 +65,8 @@ Fruta e água..., ...
 ![](Media06/20140520-163659-DSCF4796.webp)
 
 ![](Media06/20140520_164238.webp)
+
+</details>
 
 ![](Media06/20140520_164224-.webp)
 

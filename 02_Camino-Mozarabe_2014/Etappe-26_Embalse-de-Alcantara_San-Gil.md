@@ -3,8 +3,6 @@
 ### Etappe-26: Embalse de Alcántara →San Gil  (ca. 38 Km)
 22 de Maio 2014 👣
 
-22Km+20,3
-
 
 ![](Media06/20140522_073133.webp)
 
@@ -18,27 +16,32 @@
 
 🇬🇧 A wind-powered clothes dryer—an indispensable piece of equipment in a pilgrim hostel– and one of the reasons why, as a pilgrim, I don’t like staying in guesthouses is the fact that you can’t find an identical, nostalgic plastic model there. 
 
+<details>
+<summary></summary>
+
 ![](Media06/20140522_073203.webp)
 
 ![](Media06/20140522_074644-DSCF4823.webp)
 
+</details>
+
 ![](Media06/20140522_080139-DSCF4828.webp)
+
+<details>
+<summary></summary>
 
 ![](Media06/20140522_080145-DSCF4829.webp)
 
 ![](Media06/20140522_090545.webp)
 
-
 ![](Media06/20140522_091446-DSCF4832-.webp)
-
-<details>
-<summary></summary>
 
 ![](Media06/20140522_093534.webp)
 
 ![](Media06/20140522_093544-.webp)
 
 ![](Media06/20140522_093620.webp)
+
 </details>
 
 ![](Media06/20140522_094728-DSCF4833-.webp)
@@ -52,7 +55,7 @@
 „Ich hätte gerne einen Kaffee und zwei Churros mit Schokolade, bitte.“
 
 <details>
-<summary></summary>
+<summary>🥾</summary>
 
 Danach sage ich zu Dirk: „Ich bin dann mal weg.“ Er erwidert, dass er versuchen werde, sich bis nach Salamanca durchzukämpfen.
 
@@ -74,7 +77,7 @@ Was tut man nicht alles, um anderen Menschen von diesem anspruchsvollen, aber wu
 «Queria um café e dois churros com chocolate, por favor.»
 
 <details>
-<summary></summary>
+<summary>🥾</summary>
 
 Depois, digo ao Dirk: «Bem, vou andando.» Ele responde que vai tentar aguentar-se até Salamanca.
 
@@ -96,7 +99,7 @@ O que não fazemos nós para contar aos outros a história deste caminho difíci
 «Quisiera un café y dos churros con chocolate, por favor».
 
 <details>
-<summary></summary>
+<summary>🥾</summary>
 
 Después le digo a Dirk: «Bueno, yo sigo mi camino». Él me responde que intentará llegar hasta  Salamanca.
 
@@ -113,13 +116,12 @@ En la Vía de la Plata, Dirk caminaba a un ritmo más pausado que en las etapas 
 </details>
 
 ---
-
 #### 🇬🇧 Bienvenidos a Cañaveral
 
 “I’d like a coffee and two churros with chocolate, please.”
 
 <details>
-<summary></summary>
+<summary>🥾</summary>
 
 After that, I say to Dirk, “Well, I’m off.” He replies that he will try to hold out until he reaches Salamanca.
 
@@ -151,19 +153,18 @@ Um Guardião ↓ vigia o Caminho.
 
 ![](Media06/20140522_122712.webp)
 
-</details>
-
 ![](Media06/20140522_122721.webp)
 
 ![](Media06/20140522_122735-.webp)
 
 ![](Media06/20140522_130243.webp)
 
-Bitte schließen Sie das Tor **↓** hinter sich.
-Por favor, feche o portão **↓** depois de passar.
+</details>
+Bitte schließen Sie das **Tor ↓** hinter sich.
+Por favor, feche o **portão ↓** depois de passar.
 ![](Media06/20140522_132207.webp)
-Por favor, cierra la puerta **↑**  detrás de ti.
-Please close the gate **↑** behind you.
+Por favor, cierra la **puerta ↑**  detrás de ti.
+Please close the **gate ↑** behind you.
 
 <details>
 <summary></summary>
@@ -180,14 +181,14 @@ Please close the gate **↑** behind you.
 
 ![](Media06/20140522_142519.webp)
 
+<details>
+<summary></summary>
+
 ![](Media06/20140522_143300.webp)
 
 ![](Media06/20140522_145952.webp)
 
 ![](Media06/20140522_154902-.webp)
-
-<details>
-<summary></summary>
 
 ![](Media06/20140522_154918.webp)
 
@@ -204,7 +205,7 @@ Please close the gate **↑** behind you.
 
 ![](Media06/20140522_162448-DSCF4881.webp)
 
-#### 🇩🇪**Der Radfahrer kehrte um**
+#### 🇩🇪 **Der Radfahrer kehrte um**
 
 Die „Via de la  Plata“: So war sie vor der Ankunft der Römer, und so ist sie, nachdem die Römer nicht mehr kamen. Damit das Gras diese historischen Spuren nicht verwischt, sollten Pilger diese alten Wege beschreiten und den Spuren der „Marcos Miliários“ folgen. Zu Fuß, nicht mit dem Fahrrad. 
 
@@ -212,12 +213,11 @@ Die „Via de la  Plata“: So war sie vor der Ankunft der Römer, und so ist si
 
 La «Via de la Plata»: así era antes de la llegada de los romanos y así quedó después de que los romanos dejaran de venir. Para que la hierba no borre estos vestigios históricos, los peregrinos deben recorrer estos antiguos caminos y seguir las huellas de los «Marcos Miliários». A pie, no en bicicleta. 
 
-#### 🇵🇹**O ciclista deu meia-volta**
+#### 🇵🇹 **O ciclista deu meia-volta**
 
 A «Via de la Plata»: era assim que era antes da chegada dos romanos e era assim que ficou depois de os romanos terem deixado de vir. Para que a relva não apague estes vestígios históricos, os peregrinos devem percorrer estes antigos caminhos e seguir os vestígios dos «Marcos Miliários». A pé, não de bicicleta. 
 
-
-#### 🇬🇧**The cyclist turned back**
+#### 🇬🇧 **The cyclist turned back**
 
 The ‘Via de la Plata’: that is what it was like before the Romans arrived, and that is what it remained like after the Romans stopped coming. To ensure that the grass does not obscure these historical traces, pilgrims should walk these ancient paths and follow in the footsteps of the ‘Marcos Miliários’. On foot, not by bicycle. 
 

@@ -1,6 +1,6 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-47: Monte do Gozo  →  Santiago de Compostela ( Km)
+### Etappe-47: Monte do Gozo  →  Santiago de Compostela (4,4 Km)
 12 de Junho 2014 👣
 
 ![](media09/20140612_084749.webp)
@@ -22,15 +22,18 @@
 
 ![](media09/20140612_085018.webp)
 
-![](media09/20140612_105339.webp)
+![](media09/20140612-085027-DSCF5106.webp)
+
 <details>
 <summary></summary>
+
 ![](media09/20140612_105344.webp)
 
 ![](media09/20140612_105405.webp)
+
 </details>
 
-![](media09/20140612-085027-DSCF5106.webp)
+![](media09/20140612_105339.webp)
 
 
 ---

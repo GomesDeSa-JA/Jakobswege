@@ -11,9 +11,14 @@
 
 ![](media07/20140529_084310.webp)
 
+<details>
+<summary></summary>
+
 ![](media07/20140529_090658.webp)
 
 ![](media07/20140529_094042.webp)
+
+</details>
 
 ![](media07/20140529_095436.webp)
 
@@ -25,13 +30,21 @@
 
 ![](media07/20140529_095746.webp)
 
+<details>
+<summary></summary>
+
 ![](media07/20140529_110747.webp)
+
+</details>
 
 ![](media07/20140529_110836.webp)
 
-![](media07/20140529_111805.webp)
-
 ![](media07/20140529_111851-.webp)
+
+<details>
+<summary></summary>
+
+![](media07/20140529_111805.webp)
 
 ![](media07/20140529_112046-.webp)
 
@@ -44,6 +57,8 @@
 ![](media07/20140529_113638-.webp)
 
 ![](media07/20140529_113720-.webp)
+
+</details>
 
 ![](media07/20140529_113854.webp)
 
@@ -59,9 +74,10 @@
 
 ![](media07/20140529_122700-.webp)
 
+<details>
+<summary></summary>
+
 ![](media07/20140529_130430.webp)
-
-
 
 ![](media07/20140529_134112.webp)
 
@@ -69,13 +85,9 @@
 
 ![](media07/20140529_135242.webp)
 
-<details>
-<summary></summary>
-
 ![](media07/20140529_135304.webp)
 
 ![](media07/20140529_135309.webp)
-
 
 </details>
 
@@ -86,7 +98,7 @@
 ![](media07/20140529_142746.webp)
 
 ---
-Pilgerherberge von Montamarta
+**🇩🇪 Pilgerherberge von Montamarta**
 
 Sie bietet alles, was ein Pilger braucht.
 Seit Almería war dies die dritte Herberge, in der ich übernachtet habe, und sie war relativ gut belegt.
@@ -96,7 +108,7 @@ Es hat mir sehr gut gefallen. Die Atmosphäre, die Pilger … es war ein sehr ru
 … Ein älteres spanisches Pilgerpaar – das nach rechts statt nach links abgebogen war – kam etwas später an, bereits müde, fand aber dennoch einen Platz zum Schlafen.
 
 ---
-**Albergue de peregrinos de Montamarta**
+**🇵🇹 Albergue de peregrinos de Montamarta**
 
 Oferece tudo o que um peregrino precisa.
 
@@ -107,7 +119,7 @@ Gostei imenso. O ambiente, os peregrinos… foi uma noite muito tranquila.
 … Um casal espanhol de idosos em peregrinação — que virou à direita em vez de à esquerda — chegou um pouco mais tarde, já cansado, mas ainda assim conseguiu encontrar um sítio para dormir.
 
 ---
-**Montamarta Pilgrims’ Hostel**
+**🇬🇧 Montamarta Pilgrims’ Hostel**
 
 It offers everything a pilgrim needs.
 
@@ -119,7 +131,7 @@ I really enjoyed it. The atmosphere, the pilgrims… it was a very peaceful even
 
 ---
 
-**Albergue de peregrinos de Montamarta**
+**🇪🇸 Albergue de peregrinos de Montamarta**
 
 Ofrece todo lo que un peregrino necesita.
 

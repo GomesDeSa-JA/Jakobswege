@@ -7,6 +7,9 @@
 
 ![](media08/20140530_070523-.webp)
 
+<details>
+<summary></summary>
+
 ![](media08/20140530_071245-.webp)
 
 ![](media08/20140530_072530-.webp)
@@ -20,6 +23,8 @@
 ![](media08/20140530_095903.webp)
 
 ![](media08/20140530_101628.webp)
+
+</details>
 
 ![](media08/20140530_103641.webp)
 

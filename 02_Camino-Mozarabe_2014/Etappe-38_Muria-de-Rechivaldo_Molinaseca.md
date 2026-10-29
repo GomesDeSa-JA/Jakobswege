@@ -26,7 +26,7 @@ One pilgrim got up on tiptoe, then another, until a Dutch woman finally asked, "
 </details>
 
 ![](media08/Albergue-Municipal-de-Murias.webp)
-Google Maps-Foto von 정졍짱
+Google Maps-Foto von **정졍짱**
 
 🇩🇪 Im Jahr 2014 war die Herberge voll. Die Betten wurden enger beieinander aufgestellt, und dazwischen wurden Matratzen auf den Boden gelegt. Trotzdem fand ich es sehr bequem, denn für mich ist das H4 perfekt. Ich schlafe in einem H4.
 
@@ -40,6 +40,9 @@ Google Maps-Foto von 정졍짱
 
 ![](media08/20140603_070753.webp)
 
+<details>
+<summary></summary>
+
 ![](media08/20140603_074710.webp)
 
 ![](media08/20140603_083404-DSCF4993.webp)
@@ -48,7 +51,12 @@ Google Maps-Foto von 정졍짱
 
 ![](media08/20140603_084422-.webp)
 
+</details>
+
 ![](media08/20140603_094953_DSCF4996.webp)
+
+<details>
+<summary></summary>
 
 ![](media08/20140603_094956.webp)
 
@@ -60,11 +68,16 @@ Google Maps-Foto von 정졍짱
 
 ![](media08/20140603_104218.webp)
 
+</details>
+
 ![](media08/20140603_104322.webp)
 
 ![](media08/20140603_110111-DSCF5005.webp)
 
 ![](media08/20140603_110641.webp)
+
+<details>
+<summary></summary>
 
 ![](media08/20140603_112145.webp)
 
@@ -72,11 +85,16 @@ Google Maps-Foto von 정졍짱
 
 ![](media08/20140603_112610.webp)
 
+</details>
+
 ![](media08/20140603_112918.webp)
 
 ![](media08/20140603_120627.webp)
 
 ![](media08/20140603_122523.webp)
+
+<details>
+<summary></summary>
 
 ![](media08/20140603_122655.webp)
 
@@ -88,11 +106,16 @@ Google Maps-Foto von 정졍짱
 
 ![](media08/20140603_131225.webp)
 
+</details>
+
 ![](media08/20140603_133409.webp)
 
 ![](media08/20140603_135103.webp)
 
 ![](media08/20140603_135333.webp)
+
+<details>
+<summary></summary>
 
 ![](media08/20140603_135540.webp)
 
@@ -112,14 +135,13 @@ Google Maps-Foto von 정졍짱
 
 ![](media08/20140603_152448.webp)
 
+</details>
+
 ![](media08/20140603_154248-DSCF5024.webp)
 
 ![](media08/20140603_202511-DSCF5026.webp)
 
-Pilgerherberge San Roque de Molinaseca
-
-Diese Herberge mit Dach Holz-Fachwerk hatte mir einfach gefallen.
-
+Diese Herberge mit dem Holz-Fachwerk hatte mir einfach gefallen.
 
 ---
 

@@ -3,25 +3,40 @@
 ### Etappe-41: O Cebreiro → Tricastela (20,6 Km)
 06 de Junho 2014 👣
 
+<details>
+<summary></summary>
+
 ![](media09/20140606_070401.webp)
 
 ![](media09/20140606_070410.webp)
 
+</details>
+
 ![](media09/20140606_070532.webp)
+
+<details>
+<summary></summary>
 
 ![](media09/20140606_072247-DSCF5060.webp)
 
 ![](media09/20140606_072259.webp)
 
+</details>
+
 ![](media09/20140606_072303.webp)
 
 ![](media09/20140606_074125.webp)
+
+<details>
+<summary></summary>
 
 ![](media09/20140606_074226.webp)
 
 ![](media09/20140606_075948.webp)
 
 ![](media09/20140606_080250.webp)
+
+</details>
 
 ![](media09/20140606_081507-DSCF5061.webp)
 
@@ -32,6 +47,7 @@
 ![](media09/20140606_094001.webp)
 
 ![](media09/20140606_104546.webp)
+
 
 ![](media09/20140606_105305--DSCF5070.webp)
 

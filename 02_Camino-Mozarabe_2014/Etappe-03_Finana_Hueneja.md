@@ -17,6 +17,7 @@
 ![](media02/20140429-075647.webp)
 
 ![](media02/20140429-095941.webp)
+
 </details>
 
 ####  Route der Wassermühlen
@@ -46,6 +47,7 @@
 ![](media02/20140429-101009.webp)
 
 ![](media02/20140429-101550.webp)
+
 <details>
 <summary></summary>
 ![](media02/20140429-102101.webp)
@@ -63,13 +65,13 @@
 ![](media02/20140429-122259.webp)
 
 ![](media02/20140429-133930.webp)
+
 </details>
 
 ![](media02/20140429-133937.webp)
 
 ![](media02/Huenega.webp)
-Google Maps-Foto
- 
+**↓ ↑ Google Maps-Fotos ↑ ↓**
 ![](media02/Huéneja-Foto-von-Henrique-Gomez.webp.webp)
 **Huéneja:** Google Maps-Foto von Henrique Gomez (Juni 2023)
 - Hätte ich damals dieses Wetter gehabt, hätte ich die Sendung nicht nach Santiago de Compostela geschickt.
@@ -235,6 +237,7 @@ Personally, back then, I would have had no problem covering 40 to 50 kilometres 
 At the time, I invited a few colleagues from work to come and watch me walk. The idea was that they would form my support team: while waiting for me, they could record the kilometres I covered and plot them on a statistical chart.
 
 I do not know whether they hated mathematics and therefore politely declined, deciding to spend their time elsewhere instead. In any case, I had no choice but to carry on along the route without any support.
+
 </details>
 
 ---

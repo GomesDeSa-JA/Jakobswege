@@ -6,9 +6,15 @@
 
 ![](media08/20140531_063345.webp)
 
+<details>
+<summary></summary>
+
 ![](media08/20140531_072115.webp)
 
 ![](media08/20140531_075414.webp)
+
+</details>
+
 
 🇵🇹 Naquela manhã, as temperaturas ainda eram agradáveis; eu encontrava-me algures entre Granja de Moruela e Benavente quando parei para tomar um café expresso e conversar um pouco com o Bar-Mann — da minha idade —, que era da Andaluzia. Ele deu-me alguns conselhos: contou-me que, em alguns pontos, as placas com setas amarelas se tinham caído e que, por isso, alguns peregrinos tinham dificuldades em orientar-se, mas não sabia se o problema já tinha sido resolvido. Por isso, aconselhou-me a estar atento a isso.
 
@@ -35,6 +41,9 @@
 
 ![](media08/20140531_075833.webp)
 
+<details>
+<summary></summary>
+
 ![](media08/20140531_075944.webp)
 
 ![](media08/20140531_080721-.webp)
@@ -47,6 +56,8 @@
 
 ![](media08/20140531_095339.webp)
 
+</details>
+
 ![](media08/20140531_110919.webp)
 
 ![](media08/20140531_111207.webp)
@@ -55,6 +66,9 @@
 
 ![](media08/20140531_111336.webp)
 
+<details>
+<summary></summary>
+
 ![](media08/20140531_111422.webp)
 
 ![](media08/20140531_120814-DSCF4964.webp)
@@ -62,13 +76,14 @@ Parador de Benavente
 
 ![](media08/20140531_134203-DSCF4965.webp)
 
-![](media08/20140531_143626.webp)
- Cemitério  ↑  31 de Maio de 2014 **↑** Villabrázaro, Kastilien und León
- 
-Cemitério ↓ Nov de 2013 **↓**  Villabrázaro, Kastilien und León
-![](media08/2013-Nov-Villabrazaro.webp)
+</details>
 
-Albergue de peregrinos de Villabrázaro
+![](media08/20140531_143626.webp)
+ Cemitério  **↑  31 de Maio de 2014 ↑** Villabrázaro, Kastilien und León
+![](media08/2013-Nov-Villabrazaro.webp)
+Google Maps-Foto:  Cemitério **↑ Nov de 2013 ↑**  Villabrázaro, Kastilien und León
+
+Google Maps-Foto: ↓ Albergue de peregrinos de Villabrázaro ↓
 ![](media08/Albergue-de-peregrinos-de-Villabrazaro.webp)
 
 [Não te esqueças de levar algo para comer e beber](https://www.gronze.com/castilla-y-leon/zamora/villabrazaro/albergue-peregrinos-villabrazaro)
@@ -82,14 +97,14 @@ Als ich ankam, war der italienische Herr bereits dort.
 An diesem Tag streiften nur ich und ein älterer italienischer Pilger durch diese Gegend, während die Kinder rund um das Dorf spielten und die Freiheit genossen, die sie nur an Orten wie diesem finden können. 
 
 ---
-Albergue dos Peregrinos de Villabrázaro: Não carimbei a minha credencial de peregrino. –mais uma vez–
+🇵🇹 Albergue dos Peregrinos de Villabrázaro: Não carimbei a minha credencial de peregrino. –mais uma vez–
 
 Quando cheguei, o senor  italiano já lá estava. 
 
 Nesse dia, só eu e um peregrino italiano mais velho vagueávamos por aquela zona, enquanto as crianças brincavam aos redores da aldeia e desfrutavam da liberdade que só se encontram mesmo em lugares como este. 
 
 ---
-Albergue de peregrinos de Villabrázaro: no sellé la credencial de peregrino. –una vez más–
+🇪🇸 Albergue de peregrinos de Villabrázaro: no sellé la credencial de peregrino. –una vez más–
 
 Cuando llegué, el señor italiano ya estaba allí.
 
@@ -97,12 +112,11 @@ Ese día, solo un peregrino italiano mayor y yo deambulábamos por aquella zona,
 
 ---
 
-Villabrázaro pilgrims’ hostel – I didn’t get my pilgrim’s passport stamped. –once again–
+🇬🇧 Villabrázaro pilgrims’ hostel – I didn’t get my pilgrim’s passport stamped. –once again–
 
 When I arrived, the Italian gentleman was already there.
 
 That day, it was just me and an elderly Italian pilgrim wandering around that area, whilst the children played around the village and enjoyed the freedom that they can only really find in places like this. 
-
 
 ---
 

@@ -6,6 +6,8 @@
 ![](media03/Granada-GR3201.webp)
 ↑ Google Maps Foto ↑
 
+Wo sind die Fotos von diese Etappe?
+
 - **_Ist der Fotoordner verschwunden? Waren die Bilder auf dem alten Laptop oder Netbook?_**
 
 <details>
@@ -48,6 +50,7 @@ Und dann waren da noch die Bilder der Sierra Nevada mit ihren schneebedeckten Gi
 
 ---
 
+Onde estão as fotos desta etapa?
 - **_A pasta das fotografias desapareceu? Estariam as imagens no antigo portátil ou netbook?_**
 
 <details>
@@ -89,6 +92,8 @@ E havia ainda as imagens da Sierra Nevada, com os seus picos nevados no horizont
 </details>
 
 ---
+
+¿Dónde están las fotos de esta etapa?
 
 - **_¿Ha desaparecido la carpeta de fotografías? ¿Estarían las imágenes en el antiguo portátil o netbook?_**
 
@@ -132,6 +137,7 @@ A veces, una fotografía puede mostrar una realidad que, en aquel preciso instan
 
 ---
 
+Where are the photos from this stage?
 - **_Has the photo folder disappeared? Were the pictures on the old laptop or netbook?_**
 
 <details>

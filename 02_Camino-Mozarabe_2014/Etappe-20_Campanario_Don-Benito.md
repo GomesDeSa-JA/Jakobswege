@@ -17,6 +17,7 @@
 ![](media05/20140516-080125-DSCF4641a.webp)
 
 </details>
+
 ![](media05/20140516-080542-DSCF4643.webp)
 
 <details>
@@ -34,22 +35,34 @@
 
 ![](media05/20140516-104412-DSCF4661.webp)
 
+<details>
+<summary></summary>
+
 ![](media05/20140516-104551-DSCF4665-.webp)
 
 ![](media05/20140516-104428-DSCF4662.webp)
 
 ![](media05/20140516-111120-DSCF4670.webp)
 
+</details>
+
 ![](media05/20140516-111138-DSCF4674.webp)
+
+<details>
+<summary></summary>
 
 ![](media05/20140516-112522.webp)
 
 ![](media05/20140516-112542.webp)
 
+</details>
+
 - La Haba
 
 ![](media05/20140516-125431.webp)
 
+<details>
+<summary></summary>
 
 ![](media05/20140516-141500-DSCF4685.webp)
 
@@ -57,10 +70,11 @@ La Haba: **Tudo muda**
 
 ![](media05/20140516Fr16Mai124350.webp)
 
+</details>
+
 - Don Benito
 
 ![](media05/20140516-150802.webp)
-
 
 ![](media05/20140516-145304-DSCF4686-.webp)
 

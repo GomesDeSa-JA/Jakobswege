@@ -35,6 +35,7 @@ Pode parecer ridículo hoje em dia, mas enfrentava um desafio enorme.  Só tinha
 **Nota:** Essa semana ficará bem gravada na memória dos transportes públicos, e na minha em particular, porque é o meu meio de transporte preferido e eu fazia parte daqueles que fizeram e fazem tudo o que está ao seu alcance para que isso não aconteça, mas aconteceu.
 
 ---
+
 </details>
 
 Como costuma acontecer, os colegas ajudavam mais com conselhos do que com ações. Mas, baseando-me na minha experiência atual, os conselhos foram bastante úteis: "Encomenda simplesmente pela internet!"

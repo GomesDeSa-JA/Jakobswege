@@ -5,32 +5,44 @@
 
 ![](media09/20140605_062247-DSCF5039.webp)
 
+<details>
+<summary></summary>
+
 ![](media09/20140605_070412.webp)
 
 ![](media09/20140605_070416.webp)
 
+</details>
+
 ![](media09/20140605_081033.webp)
+
+<details>
+<summary></summary>
 
 ![](media09/20140605_083412.webp)
 
 ![](media09/20140605_083425.webp)
 
+</details>
+
 ![](media09/20140605_083629.webp)
+
+<details>
+<summary></summary>
 
 ![](media09/20140605_123137-DSCF5043-.webp)
 
 ![](media09/20140605_123142-DSCF5044.webp)
 
 ![](media09/20140605_134144-DSCF5045.webp)
-media09/20140605_150018-DSCF5047.webp
 
+</details>
 
 ![](media09/20140605_150018--DSCF5047.webp)
 
 **Bar-Albergue-La-Escuela**
-↓ Google Maps-Foto ↓
 ![](media09/Bar-Albergue-La-Escuela.webp)
-
+**↑  Google Maps-Foto ↑**
 ![](media09/20140605_150035-DSCF5051.webp)
 #### 🇩🇪 **Was uns antreibt** 
 > Jahr für Jahr beobachtete er von seinem Haus aus, wie Scharen von Pilgern den Jakobsweg beschritten. Er fragte sich immer wieder: Was bewegt Menschen dazu, Länder und Ozeane zu durchqueren, nur um diesen Weg zu gehen? Was empfinden sie dabei?

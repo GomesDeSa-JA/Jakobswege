@@ -82,6 +82,9 @@
 
 #### Info: Das Castillo de La Peza: Wächter des maurischen Caminos
 
+<details>
+<summary>🇩🇪</summary>
+
 >  *Ich bin nicht dort gewesen.*
 
 Die Burgruine von La Peza  (auf dem Hügel _San Antón_) hat eine tief verwurzelte strategische Geschichte:
@@ -91,6 +94,7 @@ Die Burgruine von La Peza  (auf dem Hügel _San Antón_) hat eine tief verwurzel
 
 - **Das Ende der Burg:** Im Jahr 1489 wurde die Burg im Zuge der _Reconquesta_ von den Katholischen Königen erobert. Bis zum Jahr 1571 war die Anlage noch gut erhalten. Im 17. Jahrhundert wurde sie endgültig aufgegeben und verfiel zur heutigen Ruine
 ---
+</details>
 
 ![](media03/20140501-113447.webp)
 

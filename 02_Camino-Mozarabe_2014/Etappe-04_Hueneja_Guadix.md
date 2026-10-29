@@ -30,6 +30,7 @@
 ![](media02/20140430-070758.webp)
 
 ![](media02/20140430-072315.webp)
+
 <details>
 <summary></summary>
 
@@ -48,6 +49,7 @@
  ![](media02/20140430-091043.webp)
 
 </details>
+
 ![](media02/20140430-091253.webp)
 
 ![](media02/20140430-092019.webp)
@@ -81,6 +83,7 @@
 ![](media02/20140430-100342Alto-de-la-Regua.webp)
 
 </details>
+
 ![](media02/20140430-101046.webp)
 
  ![](media02/20140430-103025.webp)
@@ -114,7 +117,13 @@
 <summary></summary>
 
 ![](media02/20140430-125949.webp)
-↑ Em 2014 ofereceram-me  alojamento na casa da avó ↑  
+
+🇪🇸 ↑ Im Jahr 2014 bot man mir einen Schlafplatz im Haus gegenüber an. ↑ Es ist gut zu wissen, dass es einen Ort gibt, wo man sich ausruhen kann.
+
+🇪🇸 ↑ En 2014, me ofrecieron un sitio para dormir en la casa de enfrente. ↑ Es bueno saber que hay un lugar donde uno puede descansar.
+
+🇬🇧 ↑ In 2014, I was offered a place to sleep in the house opposite. ↑ It’s good to know there’s a place where you can rest.
+
  ![](media02/20140430-133232.webp)
  
  ![](media02/20140430-133611.webp)

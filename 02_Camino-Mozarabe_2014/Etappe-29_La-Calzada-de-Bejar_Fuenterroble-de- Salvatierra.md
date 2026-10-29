@@ -5,13 +5,21 @@
 
 ![](media07/20140525_072334.webp)
 
+<details>
+<summary></summary>
+
 ![](media07/20140525_072412.webp)
 
 ![](media07/20140525_072516.webp)
 
 ![](media07/20140525_075013.webp)
 
+</details>
+
 ![](media07/20140525_081042.webp)
+
+<details>
+<summary></summary>
 
 ![](media07/20140525_083154.webp)
 
@@ -22,6 +30,8 @@
 ![](media07/20140525_102945.webp)
 
 ![](media07/20140525_111826.webp)
+
+</details>
 
 ![](media07/20140525_115011.webp)
 

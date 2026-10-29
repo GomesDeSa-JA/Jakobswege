@@ -1,12 +1,15 @@
 ## Camino Mozárabe 2014 
 
-### Etappe-42: Tricastela → Sarria (media09/24,7 Km)
+### Etappe-42: Tricastela → Sarria (24,7 Km)
 07 de Junho 2014 👣
 
 
 ![](media09/20140607_072901.webp)
 
 ![](media09/20140607_075148-DSCF5076.webp)
+
+<details>
+<summary></summary>
 
 ![](media09/20140607_075922.webp)
 
@@ -22,6 +25,8 @@ A pilgrimage round the hill
 
 ![](media09/20140607_080153-DSCF5079.webp)
 
+</details>
+
 🇩🇪 Nach der Pilgerwanderung rund um die Berge werde ich mir in Samos ein großes, leckeres Sandwich mit Rührei und Chouriço gönnen. Wenn ich dort ankomme, wird das Wetter ideal sein, um es uns an einem gemütlichen Ort bequem zu machen und darauf zu warten, dass die Sonnenstrahlen die Wolken durchbrechen.
 
 🇵🇹 Depois da caminhada de peregrinação à volta da serra, vou saborear uma sanduíche grande e deliciosa, com ovos mexidos e chouriço em Samos. Quando lá chegar, o tempo estará ideal para nos instalarmos confortavelmente num local acolhedor e esperarmos que os raios de sol rompam as nuvens. 
@@ -34,9 +39,14 @@ A pilgrimage round the hill
 
 ![](media09/20140607_102252.webp)
 
+<details>
+<summary></summary>
+
 ![](media09/20140607_102323.webp)
 
 ![](media09/20140607_110204.webp)
+
+</details>
 
 ![](media09/20140607_110851.webp)
 

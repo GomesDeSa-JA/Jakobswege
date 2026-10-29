@@ -13,9 +13,12 @@
 
 **El día de las nubes**
 
-![](Media06/20140521_092038-DSCF4804.webp)
-
 ![](Media06/20140521_092515.webp)
+
+<details>
+<summary></summary>
+
+![](Media06/20140521_092038-DSCF4804.webp)
 
 ![](Media06/20140521_092607.webp)
 
@@ -31,9 +34,14 @@
 
 ![](Media06/20140521_093502.webp)
 
+</details>
+
 ![](Media06/20140521_093506.webp)
 
 ![](Media06/20140521_093520.webp)
+
+<details>
+<summary>🥾</summary>
 
 ![](Media06/20140521_095004.webp)
 
@@ -67,8 +75,7 @@
 
 ![](Media06/20140521_103038.webp)
 
-<details>
-<summary>🥾</summary>
+---
 
 Es regnete; das war einfach erfrischend, und die Wolken warfen immer wieder wunderschöne Schatten, was die Wanderung zu einem Vergnügen machte.
 
@@ -78,11 +85,16 @@ Mein Poncho war so tief in meinem Rucksack vergraben, dass ich schließlich mein
 
 ![](Media06/20140521_105346.webp)
 
+![](Media06/20140521_110537.webp)
+
+
+
 ![](Media06/20140521_110450.webp)
 
 ![](Media06/20140521_110504.webp)
 
-![](Media06/20140521_110537.webp)
+<details>
+<summary></summary>
 
 ![](Media06/20140521_110825.webp)
 
@@ -94,7 +106,12 @@ Mein Poncho war so tief in meinem Rucksack vergraben, dass ich schließlich mein
 
 ![](Media06/20140521_114508-.webp)
 
+</details>
+
 ![](Media06/20140521_120110.webp)
+
+<details>
+<summary></summary>
 
 ![](Media06/20140521_120230.webp)
 
@@ -104,7 +121,12 @@ Mein Poncho war so tief in meinem Rucksack vergraben, dass ich schließlich mein
 
 ![](Media06/20140521_151613.webp)
 
+</details>
+
 ![](Media06/20140521_151640.webp)
+
+<details>
+<summary></summary>
 
 ![](Media06/20140521_153011.webp)
 
@@ -113,6 +135,10 @@ Mein Poncho war so tief in meinem Rucksack vergraben, dass ich schließlich mein
 ![](Media06/20140521_153015.webp)
 
 ![](Media06/20140521_153034.webp)
+
+</details>
+
+![](Media06/20140521_162600.webp)
 
 <details>
 <summary>Die Hochgeschwindigkeits-Bahntrasse zwischen Lissabon und Madrid 🥾</summary>
@@ -221,15 +247,11 @@ Quando fui registar o carro, alguém me perguntou se eu conseguia arranjar um Me
 
 "The unfinished bridge with its visible fracture at the Alcántara reservoir is also the symbol of my life. While the economy in Portugal and Spain was booming between 2000 and 2008, Germany was in a crisis. Back then, construction workers earned more in Spain than in Germany. Many construction workers from Germany are trying their luck in Spain. I also thought about leaving Germany at the time and, in May/June 2009, even spent nearly a month in Paris working on the renovation of the 'Villa Cathala – Maison des arts (Noisy-le-Grand) '. However, with 1,400 euros (after almost a month of work as an unskilled laborer), you cannot afford a decent life in Paris. As people used to say around 2007 while having a beer at the Café "Estrela da Meia Noite" in Vila Boa: anyone who owns a house in Portugal and earns 1,000 euros lives like a king; in Paris, you can count yourself lucky if you have a spot under the bridge."
 
-
-
 </details>
-
-</details>
-
-![](Media06/20140521_162600.webp)
 
 ![](Media06/20140521_162607.webp)
+
+</details>
 
 ![](Media06/20140521_162610.webp)
 

@@ -5,15 +5,20 @@
 
 ![](media05/20140517-083412.webp)
 
+<details>
+<summary></summary>
+
 ![](media05/20140517-092427-.webp)
 
 ![](media05/20140517-092938.webp)
 
 ![](media05/20140517-094817.webp)
 
-### Medellín 
+</details>
 
 ![](media05/20140517-094830.webp)
+
+### Medellín 
 
 <details>
 <summary>🇩🇪  Hernán Cortés und "Ich" </summary>
@@ -348,6 +353,10 @@ Today, I wonder what would have happened to a Spaniard back then if it had been 
 </details>
 </details>
 
+---
+<details>
+<summary></summary>
+
 ![](media05/20140517-095014.webp)
 
 ![](media05/20140517-103325.webp)
@@ -357,6 +366,8 @@ Today, I wonder what would have happened to a Spaniard back then if it had been 
 ![](media05/20140517-103403.webp)
 
 ![](media05/20140517-103416.webp)
+
+</details>
 
 ![](media05/20140517-103323-DSCF4689.webp)
 
@@ -421,9 +432,14 @@ The finance professional from the north explained that a parasol protects you fr
 
 ![](media05/20140517-103330-DSCF4690.webp)
 
+<details>
+<summary></summary>
+
 ![](media05/20140517-114422-DSCF4693.webp)
 
 ![](media05/20140517-125231-DSCF4694.webp)
+
+</details>
 
 ![](media05/20140517-135445-DSCF4697.webp)
 
@@ -476,7 +492,7 @@ Por isso, coloquei-me ao lado de uma das rodas dianteiras do trator e perguntei 
 Depois, tirei as botas e as calças de caminhada, peguei no meu bastão de giesta e avancei com cuidado, tateando o fundo do rio. Afinal, se caísse, a mochila encher-se-ia de água. E isso não seria nada agradável.
 
 **Informação:** Evite a estrada nacional N-430.
-- 
+- Ver Gronze.com
 
 Atualmente, já é possível atravessar o impetuoso rio Búrdalo através de uma ponte pedonal, inaugurada em abril de 2026.
 
@@ -540,6 +556,7 @@ It is now possible to cross the fast-flowing Río Búrdalo via a footbridge that
 ![](media05/Rio-Burdalo-Guadiana-San-Pedro-de-Merida.webp)
 
 ![](media05/20140517-140359.webp)
+
 #### 🇩🇪 Tagesziel erreicht – und zum Abschluss ein richtiges Bier!
 
 Das dachte ich zumindest. Doch ich hatte mich getäuscht. Es gab nur **Botellín** oder **Quinto** – oder hieß es vielleicht **Mini**?

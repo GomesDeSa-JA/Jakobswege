@@ -5,13 +5,21 @@
 
 ![](media08/20140601_065527.webp)
 
+<details>
+<summary></summary>
+
 ![](media08/20140601_065737-.webp)
 
 ![](media08/20140601_065818.webp)
 
 ![](media08/20140601_065855.webp)
 
+</details>
+
 ![](media08/20140601_070020.webp)
+
+<details>
+<summary></summary>
 
 ![](media08/20140601_075239.webp)
 
@@ -23,7 +31,12 @@
 
 ![](media08/20140601_085642.webp)
 
+</details>
+
 ![](media08/20140601_090533.webp)
+
+<details>
+<summary></summary>
 
 ![](media08/20140601_090641.webp)
 
@@ -45,13 +58,20 @@
 
 ![](media08/20140601_131438.webp)
 
+</details>
+
 ![](media08/20140601_132247.webp)
+
+<details>
+<summary></summary>
 
 ![](media08/20140601_132624.webp)
 
 ![](media08/20140601_142357.webp)
 
 ![](media08/So01Juni-2014-151329-DSCF4967.webp)
+
+</details>
 
 ![](media08/20140601_152702-.webp)
 

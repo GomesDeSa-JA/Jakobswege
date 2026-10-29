@@ -7,6 +7,9 @@
 
 ![](media07/20140526_072828.webp)
 
+<details>
+<summary></summary>
+
 ![](media07/20140526_072834.webp)
 
 ![](media07/20140526_072923-2.webp)
@@ -15,7 +18,12 @@
 
 ![](media07/20140526_075738.webp)
 
+</details>
+
 ![](media07/20140526_081449.webp)
+
+<details>
+<summary></summary>
 
 ![](media07/20140526_085943-.webp)
 
@@ -39,7 +47,12 @@
 
 ![](media07/20140526_120013.webp)
 
+</details>
+
 ![](media07/20140526_120337.webp)
+
+<details>
+<summary></summary>
 
 ![](media07/20140526_124613.webp)
 
@@ -53,6 +66,8 @@
 
 ![](media07/20140526_141627.webp)
 
+</details>
+
 ![](media07/20140526_142421.webp)
 
 - 🇩🇪  Kurz bevor ich dieses Foto ↓ gemacht habe, fuhr ein freundlicher Herr in seinem Mercedes vorbei, hielt an und fragte mich, ob ich eine Unterkunft suche. … Dann gehen Sie in die Bar, dort wird man Ihnen weiterhelfen.  
@@ -63,9 +78,9 @@
 
 - 🇪🇸 Justo antes de hacer esta foto ↓, pasó por allí un señor muy amable en su Mercedes, se detuvo y me preguntó si estaba buscando alojamiento. … Entonces vaya al bar, allí le ayudarán. 
 
-Metallskulptur zu Ehren der Dorflehrerin **↓** Escultura metálica en honor a la maestra del pueblo
+Metallskulptur zu Ehren der **Dorflehrerin ↓** Escultura metálica en honor a la maestra del pueblo
 ![](media07/20140526_143417.webp)
-Escultura metálica em homenagem à professora do povo **↑** Metal sculpture in honour of the village teacher
+Escultura metálica em homenagem à **professora do povo ↑** Metal sculpture in honour of the village teacher
 
 ---
 
@@ -92,7 +107,6 @@ I also met a few pilgrims from Russia in passing and didn’t know where they we
 
 <details>
 <summary>🥾</summary>
-
 
 - Und ich muss unbedingt den spanischen Pilger erwähnen, den ich in Fuente Roble de Salvatierra kennengelernt habe und mit dem ich eine etwas kontroverse Diskussion über den Jakobsweg geführt habe; als er mich fragte, wo meine Wanderung begonnen habe, und ich ihm antwortete, dass dies in Almería gewesen sei, entgegnete er mir, dass es ab Almería kein Jakobsweg mehr sei. 
 

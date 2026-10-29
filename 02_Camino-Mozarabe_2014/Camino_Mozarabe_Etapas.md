@@ -6,6 +6,8 @@
 ### ![](media01/Jakobus-Kreuz1c.png) Almeria → Mérida (ca. 615 bis 630 Km)
 **Start:**  27 de Abril  **Ende:**  17 de Maio 2014**
 
+### Addiert = 601 Km 
+
 🇬🇧  Planning a stage-by-stage journey along the **Camino Mozárabe from Almería to Mérida** is a challenging but spectacular adventure, both in terms of scenery and culture. The route stretches for **approximately 615 to 630 kilometres** and takes you right across Andalusia and Extremadura.
 
 ----
@@ -169,6 +171,8 @@ Hinter Córdoba wird es einsam und wild. Du durchquerst die Eichenwälder der Si
 
 ### ![](media01/Jakobus-Kreuz1c.png) Mérida → Astorga (ca. 515 bis 520 Km)
 18 Maio - 02 Juni 2014 
+
+### Addiert = 495 Km 
 
 🇵🇹 A histórica estrada romana da _Vía de la Plata_ tem uma distância total a percorrer a pé até Astorga de **cerca de 515 a 520 quilómetros**
 > **21 etapas lógicas**
@@ -375,7 +379,9 @@ Dennoch bleibt der Weg einsam. Es gibt immer noch Etappen, auf denen du 15 bis 2
 ##  Camino Francés 2014
 
 ### ![](media01/Jakobus-Kreuz1c.png)  Astorga → Santiago de Compostela (255 bis 270 Km)
-02- xx Juni 2014 
+02- 12 Juni 2014 
+
+### Addiert = 258,4 Km 
 
 🇬🇧 The walking route from Astorga to Santiago de Compostela via the classic _Camino Francés_ is **approximately 255 to 270 kilometres**.
 For this section, you should normally allow for **11 to 12 days’ walking (stages)**.

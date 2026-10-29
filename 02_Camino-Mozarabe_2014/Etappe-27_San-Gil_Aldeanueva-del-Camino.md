@@ -113,6 +113,9 @@ It is the sum of moments like these that inspires us to accomplish things that, 
 ![](Media06/20140523_073822-DSCF4888.webp)
 ↑ Bar Social San Gil ↑
 
+<details>
+<summary></summary>
+
 ![](Media06/20140523_074539.webp)
 
 ![](Media06/20140523_083636.webp)
@@ -137,6 +140,8 @@ It is the sum of moments like these that inspires us to accomplish things that, 
 
 ![](Media06/20140523_101956.webp)
 
+</details>
+
 ![](Media06/20140523_102009.webp)
 
 ![](Media06/20140523_112122.webp)
@@ -154,20 +159,20 @@ It is the sum of moments like these that inspires us to accomplish things that, 
 
 ![](Media06/20140523_115656-DSCF4898-.webp)
 
-</details>
-
 ![](Media06/20140523_115734-DSCF4899.webp)
 
 ![](Media06/20140523_115909.webp)
+
+</details>
 
 ![](Media06/20140523_115923-DSCF4900-.webp)
 
 ![](Media06/20140523_120008-DSCF4901-.webp)
 
-![](Media06/20140523_122557.webp)
-
 <details>
 <summary></summary>
+
+![](Media06/20140523_122557.webp)
 
 ![](Media06/20140523_122614.webp)
 
@@ -187,23 +192,22 @@ It is the sum of moments like these that inspires us to accomplish things that, 
 
 ![](Media06/20140523_133145.webp)
 
-</details>
-
 ![](Media06/20140523_140645-.webp)
 Wo befand ich mich ???
 
-↓ Gronze.com-Foto ↓
+**↓ Gronze.com-Foto ↓**
 ![](Media06/Carcaboso_Aldeanueva-del-Camino.png)
 
 ![](Media06/20140523_140947.webp)
 
-![](Media06/20140523_142150-.webp)
+</details>
 
-![](Media06/20140523_142208-.webp)
+![](Media06/20140523_142150-.webp)
 
 <details>
 <summary></summary>
 
+![](Media06/20140523_142208-.webp)
 
 ![](Media06/20140523_142413-.webp)
 
@@ -217,6 +221,9 @@ Wo befand ich mich ???
 
 ![](Media06/20140523_145946.webp)
 
+<details>
+<summary></summary>
+
 ![](Media06/20140523_150011.webp)
 
 ![](Media06/20140523_175300.webp)
@@ -226,6 +233,8 @@ Wo befand ich mich ???
 ![](Media06/20140523_182856.webp)
 
 ![](Media06/20140523_185913.webp)
+
+</details>
 
 ![](Media06/20140523_204053.webp)
 

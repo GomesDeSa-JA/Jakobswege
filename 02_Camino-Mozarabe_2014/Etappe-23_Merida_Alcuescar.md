@@ -6,6 +6,9 @@
 
 ![](Media06/20140519-090000.webp)
 
+<details>
+<summary></summary>
+
 ![](Media06/20140519-102426-DSCF4769.webp)
 
 ![](Media06/20140519-102450.webp)
@@ -14,9 +17,14 @@
 
 ![](Media06/20140519-110806-DSCF4771.webp)
 
+</details>
+
 ![](Media06/20140519-115447.webp)
 
 ![](Media06/20140519-122048-DSCF4773.webp)
+
+<details>
+<summary></summary>
 
 ![](Media06/20140519-122615-DSCF4776.webp)
 
@@ -26,17 +34,29 @@
 
 ![](Media06/20140519-132008.webp)
 
+</details>
+
 ![](Media06/20140519-135510.webp)
 
 ![](Media06/20140519-141020.webp)
 
+<details>
+<summary></summary>
+
 ![](Media06/20140519-153150-DSCF4777.webp)
 
+</details>
+
 ![](Media06/20140519-170454-DSCF4779.webp)
+
+<details>
+<summary></summary>
 
 ![](Media06/20140519-173702-DSCF4781.webp)
 
 ![](Media06/20140519-183904.webp)
+
+</details>
 
 ![](Media06/20140519-184018.webp)
 
