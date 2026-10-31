@@ -52,6 +52,17 @@ It was a logistical feat, but even so, I sacrificed my free time over Christmas 
 <details>
 <summary>  </summary>
 
+####  Todas as minhas mudanças
+
+- A mudança de 1992, ..., ... . e as chaves que foram trocadas sem autorização no antigo apartamento. ..., ... . bem como os paralelos e contrastes com 2022. ..., ... .
+
+- A mudança de 1997/98, porque acabei de concluir os meus estudos de técnico, que frequentei a tempo parcial durante quatro anos..., ... .
+- A mudança de 2012, ..., ... .
+
+- A mudança de 2022, a mudança mais cara de sempre, que nunca chegou a concretizar-se. ..., ... . 
+
+- ..., ... ...., ... ...., ... .
+
 <details>
 <summary></summary>
 
@@ -60,44 +71,64 @@ It was a logistical feat, but even so, I sacrificed my free time over Christmas 
 <summary></summary>
 
 ####  Alle meine Umzüge
+
 - Der Umzug im Jahr 1992, ..., ... . und die Schlüssel, die ohne Erlaubnis in der alten Wohnung ausgestauscht wurden. ..., ... . sowie die Parallelen und Antiparallelen zu 2022. ..., ... .
 - Der Umzug 1997/98, der nicht stattfand, weil ich gerade mein Studium an der Fachhochschule beendete ..., ... .
 - Der Umzug im Jahr  2012, ..., ... .
 
-- Der Umzug im Jahr  2022,  der teuerste Umzug  aller Zeiten, der nie stattfand. ..., ... . ..., ... ...., ... ...., ... . 
+- Der Umzug im Jahr  2022,  der teuerste Umzug  aller Zeiten, der nie stattfand. ..., ... . ..., ... ...., ... 
+
+- ...., ... . 
+
 </details>
 
 ---
 
 <details>
 <summary></summary>
+
 ####  Alle meine Umzüge
+
 - Der Umzug im Jahr 1992, ..., ... . und die Schlüssel, die ohne Erlaubnis in der alten Wohnung ausgestauscht wurden. ..., ... . sowie die Parallelen und Antiparallelen zu 2022. ..., ... .
-- Der Umzug 1997/98, der nicht stattfand, weil ich gerade mein Studium an der Fachhochschule beendete ..., ... .
+
+- Der Umzug 1997/98, der nicht stattfand, weil ich gerade mein vierjähriges berufsbegleitendes Studium zum Techniker abgeschlossen habe ..., ... .
 
 - Der Umzug im Jahr  2012, ..., ... .
 
-- Der Umzug im Jahr  2022,  der teuerste Umzug  aller Zeiten, der nie stattfand. ..., ... . ..., ... ...., ... ...., ... . 
+- Der Umzug im Jahr  2022,  der teuerste Umzug  aller Zeiten, der nie stattfand. ..., ... . ..., ... ...., ... 
+
+...., ... . 
+
 </details>
 
 ---
+
 <details>
 <summary></summary>
+
 ####  Todas mis mudanzas
 - La mudanza de 1992, ..., ... . y las llaves que se cambiaron sin permiso en el antiguo piso. ..., ... . así como los paralelismos y contrastes con 2022. ..., ... .
-- La mudanza de 1997/98, que no se llevó a cabo porque estaba terminando mis estudios en la escuela técnica superior..., ... .
+
+- La mudanza de 1997/98, porque acabo de terminar mis estudios de técnico, que he cursado a tiempo parcial durante cuatro años..., ... .
+
 - La mudanza de 2012, ..., ... .
 - La mudanza de 2022, la mudanza más cara de todos los tiempos, que nunca llegó a realizarse. ..., ... . ..., ... ...., ... ...., ... . 
+
+
 </details>
 
 ---
+
 <details>
 <summary></summary>
+
 ####  All my house moves
+
 - The move in 1992, ..., ... . and the keys that were replaced in the old flat without permission. ..., ... . as well as the parallels and contrasts with 2022. ..., ... .
-- The move in 1997/98, which didn’t happen because I was just finishing my degree at the University of Applied Sciences …, … .
+- The move in 1997/98, which didn’t happen because I have just completed my four-year part-time degree course to become a technician …, … .
 - The move in  2012, …, … .
 - The move in 2022, the most expensive move of all time, which never took place. …, … . …, … ...., … ...., … . 
+- 
 </details>
 </details>
 
@@ -108,8 +139,13 @@ It was a logistical feat, but even so, I sacrificed my free time over Christmas 
 
 ---
 
- 🔁 
- 
-↪ 
+↪ [Caminhos-Mozarabe_Credencial-del-Peregrino](Caminhos-Mozarabe_Credencial-del-Peregrino.md)
+
+↪ [Etappe-01_Almeria_Alboloduy](Etappe-01_Almeria_Alboloduy.md)
+
+🔁 [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
+
+**←** 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
  ...→
+ 

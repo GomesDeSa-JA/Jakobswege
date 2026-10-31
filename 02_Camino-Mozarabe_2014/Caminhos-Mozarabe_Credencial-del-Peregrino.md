@@ -18,7 +18,6 @@
 
 ![](media01/Almeria-Pinos-Puente.webp)
 
-
 ***Wie hoch ist der Anteil der Pilger, die die Via de La Plata, den Caminho do Levante und den Caminho Mozárabe beschreiten und sich für den Caminho Sanabrés entscheiden?***
 
 Das offizielle Pilgerbüro in Santiago de Compostela (_Oficina del Peregrino_) erfasst den **Camino Sanabrés statistisch nicht als eigenständigen Weg**. Stattdessen werden alle Pilger, die über die _Vía de la Plata_, den _Camino Mozárabe_ oder den _Camino de Levante_ kommen, unter der gemeinsamen Kategorie **Vía de la Plata** (oder _Silver Way_) zusammengefasst.
@@ -36,7 +35,7 @@ Warum ist der Anteil für den Sanabrés so hoch?
 **Landschaftliche Schönheit:** Die Strecke durch die Berge von Sanabria und die galicische Provinz Ourense gilt als einer der landschaftlich reizvollsten Abschnitte des gesamten spanischen Jakobswegnetzes.
 
 <details>
-<summary></summary>
+<summary>🇩🇪 Vermeidung des "Kulturschocks</summary>
 
 **Vermeidung des "Kulturschocks":** 
 
@@ -55,7 +54,7 @@ Du hast durch deine eigenen Reisen ab 2012 einen ganz besonderen, tiefen Einblic
 
 - **2012:** Dein Einstieg auf dem klassischen _Camino Francés_.
 - **2014:** Die Erfahrung des _Camino Mozárabe_ mit dem bewussten Erleben der Zusammenführung in Astorga.
-- **2015 & 2019:** Das Kennenlernen des extrem einsamen _Caminho do Levante_ ab Valencia/Ávila und der Wechsel auf den _Camino Sanabrés_.
+- **2015 & 2019:** Das Kennenlernen des extrem einsamen _Caminho do Levante_ ab Valencia/Ávila 2015 und der Wechsel auf den _Camino Sanabrés 2019_.
 
 Durch diesen Wechsel im Jahr 2019 auf den _Sanabrés_ hast du genau die Entscheidung getroffen, die – wie die Statistiken zeigen – die meisten Pilger der Süd- und Ostrouten wählen, um genau diesen „Kulturschock“ in Astorga zu umgehen. Der Sanabrés erlaubt es, die spirituelle Intimität und den inneren Fokus, den man auf Wegen wie dem _Levante_ oder _Mozárabe_ aufbaut, sanft bis nach Santiago de Compostela zu tragen.
 
@@ -76,6 +75,7 @@ Um das Jahr 2010 herum (auch befeuert durch das Heilige Jahr 2010 und Filme wie 
 
 - **Damals (bis ca. 2012):** Die begrenzte Infrastruktur zwang die Menschen zur Kooperation. Man teilte das Essen, half sich in den spärlichen Herbergen und bildete eine verschworene Gemeinschaft.
 - **Heute:** Die perfekte touristische Erschließung (Gepäcktransport, App-Buchungen von Privatzimmern, lückenloses WLAN) hat den Weg entmystifiziert. Man teilt nicht mehr dieselben Entbehrungen, und dadurch schwindet das verbindende Element. Aus Mitpilgern wurden anonyme Nebengänger.
+
 </details>
 
 Mapa: Almeria  →  ...  →  Mérida  →  ... →  Zamora  →  Puebla de Sanábria   →  Ourense  → Santiago de Compostela  
@@ -90,6 +90,8 @@ Mapa: Almeria  →  ...  →  Mérida  →  ... →  Zamora  →  Puebla de San�
 </details>
 
 ---
+
+↪ 
 
 ↪ [Etappe-01_Almeria_Alboloduy](Etappe-01_Almeria_Alboloduy.md)
 

@@ -76,7 +76,7 @@ It’s interesting to think about where we stop to take a photograph.
 
 **↪** [Etappe-01-bis-03_Irun_San-Sabastian_Zarautz_Deba](Etappe-01-bis-03_Irun_San-Sabastian_Zarautz_Deba.md)
 
-**↪** [Etappe-19](Etappe-19.md)
+**↪** [Etappe-19](Jakobswege/04_Camino-del-Norte_2018-X/Etappe-19.md)
 
  🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
  

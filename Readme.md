@@ -1,6 +1,6 @@
-### ![](Jakobus-Kreuz1.png) Leia-me
+### ![](Jakobus-Kreuz1b.png) Leia-me
 
-**🇵🇹 Readme / «Leia-me!»:** Este título é um convite à leitura da nossa perspetiva, do nosso ponto de vista e das nossas conclusões sobre as razões ou o sentido de uma iniciativa, de um projeto ou, neste caso, de uma peregrinação.
+**🇵🇹 «Leia-me!»:** Este título é um convite à leitura da nossa perspetiva, do nosso ponto de vista e das nossas conclusões sobre as razões ou o sentido de uma iniciativa, de um projeto ou, neste caso, de uma peregrinação.
 
 Se eu simplificar a minha peregrinação com uma frase transcendental que ouvi frequentemente por volta de 2012, nomeadamente que esta viagem deveria ser **«uma busca de si mesmo»**, a frase soa maravilhosa, mas, na realidade, não diz nada de concreto, pois pode significar tudo, mas também pode não significar absolutamente nada.
 
@@ -21,7 +21,7 @@ Aqueles que, apesar de tudo, se lançam nesta aventura e conseguem levá-la até
 
 ---
 
-### ![](Jakobus-Kreuz1.png) Lies mich!
+### ![](Jakobus-Kreuz1b.png) Lies mich!
 
 **🇩🇪 „Lies mich!:** Dieser Titel ist eine Einladung, unsere Sichtweise, unseren Standpunkt und unsere Schlussfolgerungen zu den Beweggründen oder zum Sinn einer Initiative, eines Projekts oder eben einer Pilgerreise kennenzulernen.
 
@@ -44,7 +44,7 @@ Diejenigen, die sich trotz aller Hindernisse auf den Weg machen und ihn erfolgre
 
 ---
 
-### ![](Jakobus-Kreuz1.png) Léeme!
+### ![](Jakobus-Kreuz1b.png) Léeme!
 
 **🇪🇸 «Léeme!»:** Este título es una invitación a conocer nuestra perspectiva, nuestro punto de vista y nuestras conclusiones sobre las razones o el sentido de una iniciativa, de un proyecto o, en este caso, de una peregrinación.
 
@@ -67,7 +67,7 @@ Quienes, a pesar de todo, se deciden a emprender el viaje y consiguen completarl
 
 ---
 
-### ![](Jakobus-Kreuz1.png) Read me!
+### ![](Jakobus-Kreuz1b.png) Read me!
 
 **🇬🇧 “Read me!”:** This title is an invitation to discover our perspective, our point of view, and our conclusions regarding the reasons behind or the meaning of an initiative, a project, or, in this case, a pilgrimage.
 

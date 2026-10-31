@@ -160,6 +160,7 @@ Um Guardião ↓ vigia o Caminho.
 ![](Media06/20140522_130243.webp)
 
 </details>
+
 Bitte schließen Sie das **Tor ↓** hinter sich.
 Por favor, feche o **portão ↓** depois de passar.
 ![](Media06/20140522_132207.webp)

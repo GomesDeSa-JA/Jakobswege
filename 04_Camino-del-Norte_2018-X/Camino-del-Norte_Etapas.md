@@ -101,7 +101,7 @@ Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 
 ---
 
-#### [Etappe-19](Etappe-19.md)
+#### [Etappe-19](Jakobswege/04_Camino-del-Norte_2018-X/Etappe-19.md)
 DD de MMMM de 20xx
 
 

@@ -1,36 +1,40 @@
 🔁 [**←** Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
 ## Camino Primitivo 2023
+### ![](media01/Jakobus-Kreuz1c.png) Oviedo → Santiago de Compostela (ca. xxx Km)
+**Start:**  04 de Maio 2023 **Ende:**  16 de Maio 2023**
 
 ### Die Etappen
 
-[Etapa-01_Oviedo_Escamplero](Etapa-01_Oviedo_Escamplero.md)
-
-[Etapa-02_Escamplero_San-Juan-de-Villapanada](Etapa-02_Escamplero_San-Juan-de-Villapanada.md)
-
-[Etapa-03_San-Juan-de-Villapanada _La-Espina](Etapa-03_San-Juan-de-Villapanada%20_La-Espina.md)
-
-[Etapa-04_La-Espina_Borres](Etapa-04_La-Espina_Borres.md)
-
-[Etapa-05_Borres_La-Mesa](Etapa-05_Borres_La-Mesa.md)
-
-[Etapa-06_La-Mesa_Grandas-de-Salime](Etapa-06_La-Mesa_Grandas-de-Salime.md)
-
-[Etapa-07_Grandas-de-Salime_O-Pineiral](Etapa-07_Grandas-de-Salime_O-Pineiral.md)
-
-[Etapa-08_O-Pineiral_Cadavo](Etapa-08_O-Pineiral_Cadavo.md)
-
-[Etapa-09_Cadavo_Lugo](Etapa-09_Cadavo_Lugo.md)
-
-[Etapa-10_Lugo_A-Ponte-de-Ferreira](Etapa-10_Lugo_A-Ponte-de-Ferreira.md)
-
-[Etapa-11_A-Ponte-de-Ferreira_Ribadiso](Etapa-11_A-Ponte-de-Ferreira_Ribadiso.md)
-
-[Etapa-12_Ribadiso_Lavacolla](Etapa-12_Ribadiso_Lavacolla.md)
-
-[Etapa-13_Lavacolla_Santiago-de-Compostela](Etapa-13_Lavacolla_Santiago-de-Compostela.md)
+#### [Etapa-01_Oviedo_Escamplero](Etapa-01_Oviedo_Escamplero.md)
+04 de Maio 2023 
+#### [Etapa-02_Escamplero_San-Juan-de-Villapanada](Etapa-02_Escamplero_San-Juan-de-Villapanada.md)
+04 de Maio 2023 
+#### [Etapa-03_San-Juan-de-Villapanada _La-Espina](Etapa-03_San-Juan-de-Villapanada%20_La-Espina.md)
+04 de Maio 2023 
+#### [Etapa-04_La-Espina_Borres](Etapa-04_La-Espina_Borres.md)
+04 de Maio 2023 
+#### [Etapa-05_Borres_La-Mesa](Etapa-05_Borres_La-Mesa.md)
+05 de Maio 2023 
+#### [Etapa-06_La-Mesa_Grandas-de-Salime](Etapa-06_La-Mesa_Grandas-de-Salime.md)
+06 de Maio 2023 
+#### [Etapa-07_Grandas-de-Salime_O-Pineiral](Etapa-07_Grandas-de-Salime_O-Pineiral.md)
+06 de Maio 2023 
+#### [Etapa-08_O-Pineiral_Cadavo](Etapa-08_O-Pineiral_Cadavo.md)
+07 de Maio 2023 
+#### [Etapa-09_Cadavo_Lugo](Etapa-09_Cadavo_Lugo.md)
+08 de Maio 2023 
+#### [Etapa-10_Lugo_A-Ponte-de-Ferreira](Etapa-10_Lugo_A-Ponte-de-Ferreira.md)
+09 de Maio 2023 
+#### [Etapa-11_A-Ponte-de-Ferreira_Ribadiso](Etapa-11_A-Ponte-de-Ferreira_Ribadiso.md)
+10 de Maio 2023 
+#### [Etapa-12_Ribadiso_Lavacolla](Etapa-12_Ribadiso_Lavacolla.md)
+11 de Maio 2023 
+#### [Etapa-13_Lavacolla_Santiago-de-Compostela](Etapa-13_Lavacolla_Santiago-de-Compostela.md)
+12 de Maio 2023 
 
 ---
+
 [A Promessa Herdada](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Caminhos-de-Fatima/1_Ferreira-de-Aves_Fatima_2006/A-Promessa-Herdada.md)
 
 ---

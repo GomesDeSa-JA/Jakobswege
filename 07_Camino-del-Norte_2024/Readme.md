@@ -288,7 +288,7 @@ Jetzt habe ich noch einen Pilgerausweis aus dem Jahr 2018, mit vielen leeren Fel
 ---
 ↪ 
 
-🔁 
+🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
 
 ---
 **←** 🔁 [Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)

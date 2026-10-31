@@ -98,6 +98,7 @@
 ![](media07/20140529_142746.webp)
 
 ---
+
 **🇩🇪 Pilgerherberge von Montamarta**
 
 Sie bietet alles, was ein Pilger braucht.
