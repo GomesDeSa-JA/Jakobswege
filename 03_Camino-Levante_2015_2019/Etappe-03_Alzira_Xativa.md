@@ -25,7 +25,6 @@
 ![](media02/20150429_135255.webp)
 
 </details>
-
 ![](media02/20150429_140144DSCF5420-.webp)
 
 <details>
@@ -40,11 +39,9 @@
 ![](media02/20150429_142025.webp)
 
 </details>
-
 ![](media02/20150429_142039.webp)
 
 ![](media02/20150429_155907.webp)
-
 <details>
 <summary>  </summary>
 
@@ -61,7 +58,6 @@
 ![](media02/20150429_174255.webp)
 
 </details>
-
 ![](media02/20150429_175604-DSCF5429-.webp)
 
 ---

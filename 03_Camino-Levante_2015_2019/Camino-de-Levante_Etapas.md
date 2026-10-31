@@ -2,9 +2,8 @@
 
 #### Camino de Levante  → Vía de la Plata → Camino Sanabrés 
 
-
  
- ![](Amigos-del-Camino-de-Santiago-Comunidade-Valencia-.png) 
+ ![](media01/Amigos-del-Camino-de-Santiago-Comunidade-Valencia-.png) 
 ![](media01/Camino-Levante.webp)
 - **42 Etappen bei etwa 30 Km pro Etappe**
 - **51 Etappen bei etwa 25 Km pro Etappe**
@@ -13,9 +12,9 @@
 **Fotos ↑ von | Fotos ↑ de ** : https://vieiragrino.com/
 
 
-### Wuppertal  → Franfurt Hahn  →  Valencia 
+### Wuppertal  →  → ✈️  Valencia 
 **26  April 2015**
-
+ 
 ### ![](media01/Jakobus-Kreuz1c.png) Valencia → Ávila (xx Km)
 **Start:**  27 de April  **Ende:**  24  Mai 2015**
 
@@ -35,10 +34,7 @@
 
 ### Camino de Levante  2015
 
-### Start
-
-#### [Etappe-00](Etappe-00.md)
-26 de April 2015
+### Start 27 de Abril 2015
 
 ---
 #### [Etappe-01_Valencia_Silla](Etappe-01_Valencia_Silla.md)
