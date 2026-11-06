@@ -1,7 +1,12 @@
 ## Camino de Levante 2015 
 
+### **Start of Part 1**
+
+>- **Start of Part 1:** 27 April 2015 
+> - **End of Part 1 :** 24 Mai 2015 
+
 <details>
-<summary>26 de Abril 2015: Wuppertal  ✈️ Valencia </summary>
+<summary>26 de Abril 2015: Wuppertal → Airport-Hahn ✈️ Valencia </summary>
 
 ### Etappe-00: Wuppertal 🚆 → Koblenz   🚌 →  Hahn Airport  (Lautzenhausen)  → Valencia 
 26 de Abril 2015 

@@ -162,6 +162,9 @@
 
 **↪** [Camino-Frances_Credencial-del-Peregrino](Camino-Frances_Credencial-del-Peregrino.md)
 
-**←** 🔁 [Readme](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Readme.md)
+**←** 🔁 [Readme](https://github.com/GomesDeSa-JA/Jakobswege#)
+
+**←** 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+
 
  ...→

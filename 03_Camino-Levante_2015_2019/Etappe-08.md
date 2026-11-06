@@ -204,7 +204,7 @@ Afterwards, he served me a few more, but even if he hadn’t, it would have been
 
 ---
 
-↪ [Etappe-09](Etappe-09.md)
+↪ [Etappe-09](Jakobswege/03_Camino-Levante_2015_2019/Etappe-09.md)
 
  🔁  [Camino-de-Levante_Etapas](Camino-de-Levante_Etapas.md)
 

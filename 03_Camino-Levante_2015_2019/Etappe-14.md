@@ -30,7 +30,11 @@
 
 ![](media04/20150510_084836.webp)
 
+![](20150510_090222.webp)
+
 ![](media04/20150510_090401.webp)
+
+
 
 ![](media04/20150510_103925.webp)
 
@@ -56,7 +60,7 @@
 
 ---
 
-↪ [Etappe-15](Etappe-15.md)
+↪ [Etappe-15](Jakobswege/03_Camino-Levante_2015_2019/Etappe-15.md)
 
  🔁  [Camino-de-Levante_Etapas](Camino-de-Levante_Etapas.md)
 

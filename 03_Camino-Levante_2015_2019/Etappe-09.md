@@ -75,7 +75,7 @@ Veo a un peregrino al que no habría visto en el Camino Francés ni aunque camin
 
 ---
 
-↪ [Etappe-10](Etappe-10.md)
+↪ [Etappe-10](Jakobswege/03_Camino-Levante_2015_2019/Etappe-10.md)
 
  🔁  [Camino-de-Levante_Etapas](Camino-de-Levante_Etapas.md)
 

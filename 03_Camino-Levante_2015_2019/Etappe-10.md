@@ -43,7 +43,7 @@
 
 ---
 
-↪ [Etappe-11](Etappe-11.md)
+↪ [Etappe-11](Jakobswege/03_Camino-Levante_2015_2019/Etappe-11.md)
 
  🔁  [Camino-de-Levante_Etapas](Camino-de-Levante_Etapas.md)
 

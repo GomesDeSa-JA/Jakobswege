@@ -99,7 +99,7 @@
 
 ---
 
-↪ [Etappe-16](Etappe-16.md)
+↪ [Etappe-16](Jakobswege/03_Camino-Levante_2015_2019/Etappe-16.md)
 
  🔁  [Camino-de-Levante_Etapas](Camino-de-Levante_Etapas.md)
 

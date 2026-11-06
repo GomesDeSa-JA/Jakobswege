@@ -35,7 +35,7 @@
 
 ---
 
-↪ [Etappe-12](Etappe-12.md)
+↪ [Etappe-12](Jakobswege/03_Camino-Levante_2015_2019/Etappe-12.md)
 
  🔁  [Camino-de-Levante_Etapas](Camino-de-Levante_Etapas.md)
 

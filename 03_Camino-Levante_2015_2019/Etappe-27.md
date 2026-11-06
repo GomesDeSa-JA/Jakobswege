@@ -9,7 +9,20 @@
 <details>
 <summary></summary>
 
-![](media06/20150523_081218.webp)
+![](media06/20150523_081218-.webp)
+
+
+ ##### 1 Adler  ⁘   Águia  ⁘  Águila  ⁘  Eagle ?
+
+**Iberienadler / Spanischer Kaiseradler** (_Aquila adalberti_)  
+Dieser majestätische, dunkelbraune Greifvogel mit charakteristisch weißen Schultern ist auf der Iberischen Halbinsel endemisch. In den offenen Landschaften, Dehesas und Bergen rund um Ávila hat sich die streng geschützte Population in den letzten Jahren erfolgreich stabilisiert.
+
+**Steinadler** (_Aquila chrysaetos_)  
+Der größte und kraftvollste Adler der Region nutzt die thermischen Aufwinde der schroffen Felswände und Gipfel der Sierra de Ávila.
+
+**Zwergadler** (_Hieraaetus pennatus_)  
+Er ist deutlich kleiner, extrem wendig und in den wärmeren Monaten (als Zugvogel) häufig über den bewaldeten Zonen der Provinz beim Jagen zu beobachten.
+
 
 ![](media06/20150523_090309.webp)
 
@@ -154,7 +167,7 @@
 
 ---
 
-↪ [Etappe-28](Etappe-28.md)
+↪ [Etappe-28_San-Bartolome-de-Pinares _Avila_End-of-Part-1_2015](Etappe-28_San-Bartolome-de-Pinares%20_Avila_End-of-Part-1_2015.md)
 
  🔁  [Camino-de-Levante_Etapas](Camino-de-Levante_Etapas.md)
 
