@@ -1,6 +1,6 @@
 ## Camino de Levante 2015 
 
-### Etappe-02 : Silla  → Alzira  ( Km)
+### Etappe-02 : Silla → Alzira  ( Km)
 28 de Abril 2015 👣
 
 

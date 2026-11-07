@@ -16,19 +16,20 @@ End of Part 1:  *24 Mai 2015* in  Ávila
 <details>
 <summary></summary>
 
-![](media1/20190520_DUS_UX1446_MAD.webp)
+![](media00/20190520_DUS_UX1446_MAD.webp)
 
-![](media1/20190520-Avila_Hostal-El-Rincón-.webp)
+![](media00/20190520-Avila_Hostal-El-Rincón-.webp)
+
 </details>
 </details>
 
 ### **Start of Part 2**
 
 >- **Start of Part 2:** 21 Mai 2019 
-> - **End of Part 2 :** 11 Mai 2019 
+> - **End of Part 2 :** 11 Juni 2019 
 
 ### Etappe-29: Ávila  → Arévalo ( Km)
-**21 Mai 2019** 👣  ( *24 Mai 2015*  Ávila )
+**21 Mai 2019** 👣 
 
 ![](media1/20190521-074554.webp)
 
@@ -97,8 +98,8 @@ End of Part 1:  *24 Mai 2015* in  Ávila
 
 ---
 
-↪ [Etappe-30](Etappe-30.md)
+↪ [Etappe-30_Gotarrendur_Arevalo](Etappe-30_Gotarrendur_Arevalo.md)
 
- 🔁  [Camino-de-Levante_Etapas](Camino-de-Levante_Etapas.md)
+🔁  [Camino-de-Levante_Etapas](../03_Camino-Levante_2015_2019/Camino-de-Levante_Etapas.md)
 
  ...→

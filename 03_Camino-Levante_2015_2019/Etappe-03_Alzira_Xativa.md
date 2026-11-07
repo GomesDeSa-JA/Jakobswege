@@ -1,6 +1,6 @@
 ## Camino de Levante 2015 
 
-### Etappe-03 : Alzira → Xàtiva  ( Km)
+### Etappe-03 : Alzira → Xátiva ( Km)
 29 de Maio 2015 👣
 
 ![](media02/20150429_093959-DSCF5408.webp)
@@ -80,7 +80,7 @@
 
 ---
 
-↪ [Etappe-04_Xativa_](Etappe-04_Xativa_.md)
+↪ [Etappe-04_Xativa_Moixent](Etappe-04_Xativa_Moixent.md)
 
  🔁  [Camino-de-Levante_Etapas](Camino-de-Levante_Etapas.md)
 

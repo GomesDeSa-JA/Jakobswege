@@ -1,4 +1,4 @@
-## ![](../05_Camino-Levante_2019/media00/20261013120738.webp) Camino de Levante  2015  **∵**  2019 
+## ![](../../05_Camino-Levante_2019/media00/20261013120738.webp) Camino de Levante  2015  **∵**  2019 
 
 #### Camino de Levante  →  Vía de la Plata → Camino Sanabrés 
 
@@ -38,99 +38,99 @@ Wuppertal → Koblenz  →  Hahn Airport  (Lautzenhausen)  ✈️  → Valencia
 29 de Abril 2015
 
 ---
-#### [Etappe-04_Xativa_](Etappe-04_Xativa_.md)
+#### [Etappe-04_Xativa_Moixent](Etappe-04_Xativa_Moixent.md)
 30 de Abril 2015
 
 ---
-#### [Etappe-05](Jakobswege/03_Camino-Levante_2015_2019/Etappe-05.md)
+#### [Etappe-05_Moixent-La-Fonte-de-La Figuera](Etappe-05_Moixent-La-Fonte-de-La%20Figuera.md)
 01 Mai 2015
 
 ---
-#### [Etappe-06](Jakobswege/03_Camino-Levante_2015_2019/Etappe-06.md)
+#### [Etappe-06_La-Fonte-de-la-Figuera_Almansa](Etappe-06_La-Fonte-de-la-Figuera_Almansa.md)
 02 Mai 2015
 
 ---
-#### [Etappe-07](Jakobswege/03_Camino-Levante_2015_2019/Etappe-07.md)
+#### [Etappe-07_Almansa_Castillo-de-Almansa](Etappe-07_Almansa_Castillo-de-Almansa.md)
 03 Mai 2015
 
 ---
-#### [Etappe-08](Jakobswege/03_Camino-Levante_2015_2019/Etappe-08.md)
+#### [Etappe-08_Almansa_Higueruela](Etappe-08_Almansa_Higueruela.md)
 04 Mai 2015
 
 ---
-#### [Etappe-09](Jakobswege/03_Camino-Levante_2015_2019/Etappe-09.md)
+#### [Etappe-09_Higueruela_Chinchille-de-Aragon](Etappe-09_Higueruela_Chinchille-de-Aragon.md)
 05 Mai 2015
 
 ---
-#### [Etappe-10](Jakobswege/03_Camino-Levante_2015_2019/Etappe-10.md)
+#### [Etappe-10_Chinchille-de-Aragon_Albacete](Etappe-10_Chinchille-de-Aragon_Albacete.md)
 06 Mai 2015
 
 ---
-#### [Etappe-11](Jakobswege/03_Camino-Levante_2015_2019/Etappe-11.md)
+#### [Etappe-11_Albacete_La-Gineta](Etappe-11_Albacete_La-Gineta.md)
 07 Mai 2015
 
 ---
-#### [Etappe-12](Jakobswege/03_Camino-Levante_2015_2019/Etappe-12.md)
+#### [Etappe-12_La-Gineta_La-Roda](Etappe-12_La-Gineta_La-Roda.md)
 08 Mai 2015
 
 ---
-#### [Etappe-13](Jakobswege/03_Camino-Levante_2015_2019/Etappe-13.md)
+#### [Etappe-13_La-Roda_San-Clemente](Etappe-13_La-Roda_San-Clemente.md)
 09 Mai 2015
 
 ---
-#### [Etappe-14](Jakobswege/03_Camino-Levante_2015_2019/Etappe-14.md)
+#### [Etappe-14_San-Clemente_Las-Pedroneras](Etappe-14_San-Clemente_Las-Pedroneras.md)
 10 Mai 2015
 
 ---
-#### [Etappe-15](Jakobswege/03_Camino-Levante_2015_2019/Etappe-15.md)
+#### [Etappe-15_Las-Pedroneras_Mota-del-Cuervo](Etappe-15_Las-Pedroneras_Mota-del-Cuervo.md)
 11 Mai 2015
 
 ---
-#### [Etappe-16](Jakobswege/03_Camino-Levante_2015_2019/Etappe-16.md)
+#### [Etappe-16_Mota-del-Cuervo_Quintanar-de-la-Orden](Etappe-16_Mota-del-Cuervo_Quintanar-de-la-Orden.md)
 12 Mai 2015
 
 ---
-#### [Etappe-17](Etappe-17.md)
+#### [Etappe-17_Quintanar-de-la-Orden_Villacanas](Etappe-17_Quintanar-de-la-Orden_Villacanas.md)
 13 Mai 2015
 
 ---
-#### [Etappe-18](Etappe-18.md)
+#### [Etappe-18_Villacanas_Tembleque](Etappe-18_Villacanas_Tembleque.md)
 14 Mai 2015
 
 ---
-#### [Etappe-19](Jakobswege/03_Camino-Levante_2015_2019/Etappe-19.md)
+#### [Etappe-19_Tembleque_Mora](Etappe-19_Tembleque_Mora.md)
 15 Mai 2015
 
 ---
-#### [Etappe-20](Etappe-20.md)
+#### [Etappe-20_Mora_Burguillos-de-Toledo](Etappe-20_Mora_Burguillos-de-Toledo.md)
 16 Mai 2015
 
 ---
-#### [Etappe-21](Etappe-21.md)
+#### [Etappe-21_Burguillos-de-Toledo_Toledo](Etappe-21_Burguillos-de-Toledo_Toledo.md)
 17 Mai 2015
 
 ---
-#### [Etappe-22](Etappe-22.md)
+#### [Etappe-22_Toledo_Toledo-Parque-de-La-Vega](Etappe-22_Toledo_Toledo-Parque-de-La-Vega.md)
 18 Mai 2015
 
 ---
-#### [Etappe-23](Etappe-23.md)
+#### [Etappe-23_Toledo_Torrijos](Etappe-23_Toledo_Torrijos.md)
 19 Mai 2015
 
 ---
-#### [Etappe-24](Etappe-24.md)
+#### [Etappe-24_Torrijos_Escalona](Etappe-24_Torrijos_Escalona.md)
 20 Mai 2015
 
 ---
-#### [Etappe-25](Etappe-25.md)
+#### [Etappe-25_Escalona_San-Martin-de-Valdeiglesias](Etappe-25_Escalona_San-Martin-de-Valdeiglesias.md)
 21 Mai 2015
 
 ---
-#### [Etappe-26](Etappe-26.md)
+#### [Etappe-26_San-Martin-de-Valdeiglesias_Cebreros](Etappe-26_San-Martin-de-Valdeiglesias_Cebreros.md)
 22 Mai 2015
 
 ---
-#### [Etappe-27](Etappe-27.md)
+#### [Etappe-27_Cebreros_San-Bartolome-de-Pinares](Etappe-27_Cebreros_San-Bartolome-de-Pinares.md)
 23 Mai 2015
 
 ---
@@ -163,31 +163,31 @@ Wuppertal → Koblenz  →  Hahn Airport  (Lautzenhausen)  ✈️  → Valencia
 > - **Ende:**  27  Mai 2019
 
 ---
-#### [Etappe-29_Avila_Arevalo_Start-of-Part-2_2019](05_Camino-Levante_2019/Etappe-29_Avila_Arevalo_Start-of-Part-2_2019.md)
+#### [Etappe-29_Avila_Arevalo_Start-of-Part-2_2019](../05_Camino-Levante_2019/Etappe-29_Avila_Arevalo_Start-of-Part-2_2019.md)
 21 Mai 2019
 
 ---
-#### [Etappe-30](05_Camino-Levante_2019/Etappe-30.md)
+#### [Etappe-30_Gotarrendur_Arevalo](Etappe-30_Gotarrendur_Arevalo.md)
 22 Mai 2019
 
 ---
-#### [Etappe-31](05_Camino-Levante_2019/Etappe-31.md)
+#### [Etappe-31_Arevalo_Medina-del-Campo](Etappe-31_Arevalo_Medina-del-Campo.md)
 23 Mai 2019
 
 ---
-#### [Etappe-32](05_Camino-Levante_2019/Etappe-32.md)
+#### [Etappe-32_Medina-del-Campo_Siete-Iglesias-de-Trabancos](Etappe-32_Medina-del-Campo_Siete-Iglesias-de-Trabancos.md)
 24 Mai 2019
 
 ---
-#### [Etappe-33](05_Camino-Levante_2019/Etappe-33.md)
+#### [Etappe-33_Siete-Iglesias-de-Trabancos_Toro](Etappe-33_Siete-Iglesias-de-Trabancos_Toro.md)
 25 Mai 2019
 
 ---
-#### [Etappe-34](05_Camino-Levante_2019/Etappe-34.md)
+#### [Etappe-34_Toro_Ruhetag](Etappe-34_Toro_Ruhetag.md)
 26 Mai 2019
 
 ---
-#### [Etappe-35](05_Camino-Levante_2019/Etappe-35.md)
+#### [Etappe-35_Toro_Zamora](Etappe-35_Toro_Zamora.md)
 27 Mai 2019
 
 ---
@@ -196,11 +196,11 @@ Wuppertal → Koblenz  →  Hahn Airport  (Lautzenhausen)  ✈️  → Valencia
 ####  Zamora → Granja de Moruela (xx Km)
 > *28 Mai -  29 Mai 2019* 
 
-#### [Etappe-36](05_Camino-Levante_2019/Etappe-36.md)
+#### [Etappe-36_Zamora_Montamarta](Etappe-36_Zamora_Montamarta.md)
 28 Mai 2019
 
 ---
-#### [Etappe-37](05_Camino-Levante_2019/Etappe-37.md)
+#### [Etappe-37_Montamarta_Granja-de-Moreruela](Etappe-37_Montamarta_Granja-de-Moreruela.md)
 29 Mai 2019
 
 ---
@@ -209,80 +209,67 @@ Wuppertal → Koblenz  →  Hahn Airport  (Lautzenhausen)  ✈️  → Valencia
 ### Granja de Moruela → Santiago de Compostela (255 bis 270 Km)
 > *30 Mai - 11 Juni 2019* 
 
-#### [Etappe-38](05_Camino-Levante_2019/Etappe-38.md)
+#### [Etappe-38_Granja-de-Moreruela_Tabara](Etappe-38_Granja-de-Moreruela_Tabara.md)
 30 Mai 2019
 
 ---
-#### [Etappe-39](05_Camino-Levante_2019/Etappe-39.md)
+#### [Etappe-39_Tabara_Santa-Marta-de-Tera](Etappe-39_Tabara_Santa-Marta-de-Tera.md)
 31 Mai 2019
 
 ---
-#### [Etappe-40](05_Camino-Levante_2019/Etappe-40.md)
+#### [Etappe-40_Santa-Marta-de-Tera_Mombuey](Etappe-40_Santa-Marta-de-Tera_Mombuey.md)
 01 Juni 2019
 
 ---
-#### [Etappe-41](05_Camino-Levante_2019/Etappe-41.md)
+#### [Etappe-41_Mombuey_Puebla-de-Sanabria](Etappe-41_Mombuey_Puebla-de-Sanabria.md)
 02 Juni 2019
 
 ---
-#### [Etappe-42](05_Camino-Levante_2019/Etappe-42.md)
+#### [Etappe-42_Puebla-de-Sanabria_A-Gudina](Etappe-42_Puebla-de-Sanabria_A-Gudina.md)
 03 Juni 2019
 
 ---
-#### [Etappe-43](05_Camino-Levante_2019/Etappe-43.md)
+#### [Etappe-43_A-Gudina_Campobecerros](Etappe-43_A-Gudina_Campobecerros.md)
 04 Juni 2019
 
 ---
-#### [Etappe-44_Campobecerros_Ruhetag](05_Camino-Levante_2019/Etappe-44_Campobecerros_Ruhetag.md)
+#### [Etappe-44_Campobecerros_Ruhetag](../05_Camino-Levante_2019/Etappe-44_Campobecerros_Ruhetag.md)
 05 Juni 2019
 
 ---
-####  [Etappe-45](05_Camino-Levante_2019/Etappe-45.md)
+####  [Etappe-45_Campobecerros_Vilar-de-Barrio](Etappe-45_Campobecerros_Vilar-de-Barrio.md)
 06 Juni 2019
 
 ---
-#### [Etappe-46](05_Camino-Levante_2019/Etappe-46.md)
+#### [Etappe-46_Vilar-de-Barrio_Ourense](Etappe-46_Vilar-de-Barrio_Ourense.md)
 07 Juni 2019
 
 ---
-#### [Etappe-47](05_Camino-Levante_2019/Etappe-47.md)
+#### [Etappe-47_Ourense_Oseira](Etappe-47_Ourense_Oseira.md)
 08 Juni 2019
 
 ---
-#### [Etappe-48](05_Camino-Levante_2019/Etappe-48.md)
+#### [Etappe-48_Oseira_A-Laxe-Bendoiro](Etappe-48_Oseira_A-Laxe-Bendoiro.md)
 09 Juni 2019
 
 ---
 
-#### [Etappe-49](05_Camino-Levante_2019/Etappe-49.md)
+#### [Etappe-49_A-Laxe_Outeiro](Etappe-49_A-Laxe_Outeiro.md)
 10 Juni 2019
 
 ---
-#### [Etappe-50](05_Camino-Levante_2019/Etappe-50.md)
+#### [Etappe-50_Outeiro_Santiago-de-Compostela](Etappe-50_Outeiro_Santiago-de-Compostela.md)
 11 Juni 2019
 
 ---
-#### [Etappe-51_Santiago-de-Compostela_San-Francisco](05_Camino-Levante_2019/Etappe-51_Santiago-de-Compostela_San-Francisco.md)
+#### [Etappe-51_Santiago-de-Compostela_San-Francisco](../05_Camino-Levante_2019/Etappe-51_Santiago-de-Compostela_San-Francisco.md)
 12 Juni 2019
 
 ---
 
-🇬🇧 
-
----
-🇪🇸 
-
----
-🇵🇹 
-
----
-🇩🇪 
-
----
-
-
 <details>
 <summary>🏠 Unterkunft / Albergues</summary>
+
 
 ![](media01/Albergues-Camino_de_Levante1.webp)
 
@@ -300,6 +287,7 @@ Wuppertal → Koblenz  →  Hahn Airport  (Lautzenhausen)  ✈️  → Valencia
 <summary>  </summary>
 
 🇬🇧 🇪🇸 🇵🇹 🇩🇪 
+
 
 </details>
 

@@ -6,10 +6,12 @@
 > - **End of Part 1 :** 24 Mai 2015 
 
 <details>
-<summary>26 de Abril 2015: Wuppertal → Airport-Hahn ✈️ Valencia </summary>
+<summary>26 de Abril 2015: Airport-Hahn ✈️ Valencia </summary>
 
-### Etappe-00: Wuppertal 🚆 → Koblenz   🚌 →  Hahn Airport  (Lautzenhausen)  → Valencia 
+### Etappe-00: Wuppertal 🚆 → Koblenz  🚌 → Hahn Airport  (Lautzenhausen) ✈️  → Valencia 
 26 de Abril 2015 
+
+Hahn Airport = Frankfurt-Hahn
 
 ![](media02/20150426_093508.webp)
 
@@ -20,7 +22,7 @@
 </details>
 
 ---
-### Etappe-0 1: Valencia  → Silla  (13,7 Km)
+### Etappe-01: Valencia  → Silla  (13,7 Km)
 27 de Abril 2015 👣
 
 ![](media02/20150426_201202-.webp)

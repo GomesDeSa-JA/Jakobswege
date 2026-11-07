@@ -93,8 +93,7 @@ Suponho que, nesse dia, se tivessem reunido mais peregrinos neste local do que o
  
 ↪ [Etappe-01_Valencia_Silla](Etappe-01_Valencia_Silla.md)
 
- 🔁  [Camino-de-Levante_Etapas](Camino-de-Levante_Etapas.md)
-
+ 🔁  [Camino-de-Levante_Etapas](../03_Camino-Levante_2015_2019/Camino-de-Levante_Etapas.md)
 
  
  ...→

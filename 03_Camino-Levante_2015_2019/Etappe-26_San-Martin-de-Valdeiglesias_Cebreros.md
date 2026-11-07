@@ -1,0 +1,90 @@
+## Camino de Levante 2015 
+
+### Etappe-26: San Martin de Valdeiglesias  →  Cebreros (ca. 18,5 Km)
+22 de Maio 2015 👣
+(17,5 km + Umweg über Toros de Guisando =  18,6 Km)
+
+![](media06/20150522_094200.webp)
+
+<details>
+<summary></summary>
+
+![](media06/20150522_094343.webp)
+
+![](media06/20150522_095320.webp)
+
+![](media06/20150522_100631.webp)
+
+</details>
+
+![](media06/20150522_104440.webp)
+
+![](media06/20150522_104449.webp)
+
+<details>
+<summary></summary>
+
+![](media06/20150522_104555.webp)
+
+![](media06/20150522_104933.webp)
+
+![](media06/20150522_105004.webp)
+
+![](media06/20150522_112906.webp)
+
+![](media06/20150522_112925.webp)
+
+![](media06/20150522_122235.webp)
+
+![](media06/20150522_123327.webp)
+
+![](media06/20150522_123919.webp)
+
+</details>
+
+![](media06/20150522_130208.webp)
+
+![](media06/20150522_130942.webp)
+
+![](media06/20150522_134953.webp)
+
+![](media06/20150522_135005.webp)
+
+<details>
+<summary></summary>
+
+![](media06/20150522_142852.webp)
+
+![](media06/20150522_143031.webp)
+
+![](media06/20150522_143406.webp)
+
+![](media06/20150522_160353.webp)
+
+![](media06/20150522_200702.webp)
+
+</details>
+
+![](media06/20150522_204103.webp)
+
+---
+
+<details>
+<summary>  </summary>
+
+<details>
+<summary>🗺️</summary>
+
+</details>
+
+![](media01/20261013121750.png) 🇬🇧 🇪🇸 🇵🇹 🇩🇪 🥾
+
+</details>
+
+---
+
+↪ [Etappe-27_Cebreros_San-Bartolome-de-Pinares](Etappe-27_Cebreros_San-Bartolome-de-Pinares.md)
+
+ 🔁  [Camino-de-Levante_Etapas](Camino-de-Levante_Etapas.md)
+
+ ...→
