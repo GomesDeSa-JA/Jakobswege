@@ -72,6 +72,28 @@
 
 ![](media05/20150519_163735.webp)
 
+### Chuva
+
+🇬🇧  5 - 10  minutes of torrential rain
+
+When I arrived in town, I managed to escape the torrential rain by walking quickly.
+A few hours later, I watched a night-time procession as if nothing had happened.
+
+#### 🇪🇸 5 - 10  minutos de lluvia torrencial
+
+Cuando llegué a la ciudad, logré escapar de la lluvia torrencial a paso ligero.
+Unas horas más tarde, asistí a una procesión nocturna como si nada hubiera pasado.
+
+##### 🇵🇹 5 - 10  minutos de chuva torrencial
+
+Quando cheguei à cidade, consegui escapar à chuva torrencial a passos apressados.
+Algumas horas depois, assisti a uma procissão noturna, como se nada tivesse acontecido.
+
+#### 🇩🇪 5 - 10 Minuten sintflutartiger Regen
+
+Als ich in der Stadt ankam, gelang es mir mit eiligen Schritten, dem sintflutartigen Regen zu entkommen.
+Einige Stunden später sah ich mir eine nächtliche Prozession an, als wäre nichts geschehen.
+
 ![](media05/20150519_170159.webp)
 
 ![](media05/20150519_201626.webp)

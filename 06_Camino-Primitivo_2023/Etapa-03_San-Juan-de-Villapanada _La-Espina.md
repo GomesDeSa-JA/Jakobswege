@@ -55,7 +55,7 @@ he followed us step by step, and when we stopped for a quick breather before the
 
 ---
 
- 🔁 [El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
+ 🔁 [Camino-Primitivo_Etappen](Camino-Primitivo_Etappen.md)
  
 ↪ [Etapa-04_La-Espina_Borres](Etapa-04_La-Espina_Borres.md)
 

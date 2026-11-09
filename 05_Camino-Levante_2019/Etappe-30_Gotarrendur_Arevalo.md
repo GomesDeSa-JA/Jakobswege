@@ -1,6 +1,6 @@
 ## Camino de Levante 2019
 
-### Etappe-30: # Gotarrendura  →  Arévalo  ( 28,3 Km)
+### Etappe-30: Gotarrendura  →  Arévalo  ( 28,3 Km)
 **22 Mai 2019** 👣  
 
 ![](media1/20190522-073411.webp)

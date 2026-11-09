@@ -44,7 +44,7 @@ Villar de Farfón, Kastilien und León
 
 
 Albergue Rehoboth
-![](01Juni2019.webp)
+![](media00/01Juni2019.webp)
  Uma Albergue bonita contruída da ruínas
 ..., ... . Um lugar tranquilo para tomar um café  ou uma cerveja e descansar um pouco ou uma noite.
 

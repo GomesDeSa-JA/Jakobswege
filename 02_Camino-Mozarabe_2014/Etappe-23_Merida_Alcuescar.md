@@ -65,7 +65,7 @@
 <details>
 <summary>  </summary>
 
-![](media06/20261013121750.png) 🇬🇧 🇪🇸 🇵🇹 🇩🇪 🥾
+🇬🇧 🇪🇸 🇵🇹 🇩🇪 🥾
 
 </details>
 

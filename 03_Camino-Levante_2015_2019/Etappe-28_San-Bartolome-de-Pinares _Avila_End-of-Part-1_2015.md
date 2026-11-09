@@ -124,7 +124,7 @@ _Gyps fulvus_
 
 ---
 
-↪ [Etappe-29_Avila_Arevalo_Start-of-Part-2_2019](../05_Camino-Levante_2019/Etappe-29_Avila_Arevalo_Start-of-Part-2_2019.md)
+↪ [Etappe-29_Avila_Gotarrendura_Start-of-Part-2_2019](Etappe-29_Avila_Gotarrendura_Start-of-Part-2_2019.md)
 
 
  🔁  [Camino-de-Levante_Etapas](Camino-de-Levante_Etapas.md)

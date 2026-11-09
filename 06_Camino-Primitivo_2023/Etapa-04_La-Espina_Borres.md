@@ -133,7 +133,7 @@ Embora não pudessem ser mais diferentes em termos de idade e personalidade, sem
 
 ---
 
-🔁 [El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
+🔁 [Camino-Primitivo_Etappen](Camino-Primitivo_Etappen.md)
  
 ↪ [Etapa-05_Borres_La-Mesa](Etapa-05_Borres_La-Mesa.md)
 

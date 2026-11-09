@@ -1,4 +1,4 @@
-**←** 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
 ---
 ## Camino Francés 2012
@@ -165,6 +165,5 @@
 **←** 🔁 [Readme](https://github.com/GomesDeSa-JA/Jakobswege#)
 
 **←** 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
-
 
  ...→

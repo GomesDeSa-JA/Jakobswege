@@ -1,6 +1,6 @@
 ## Camino de Levante 2019
 
-### Etappe-34: Ávila Toro → Ruhetag  ( xx m)
+### Etappe-34: Toro → Ruhetag  ( xx m)
 **26 Mai 2019** 👣  
 
 ![](media2/20190526-082756.webp)

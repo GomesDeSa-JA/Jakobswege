@@ -1,6 +1,6 @@
 ## Camino de Levante 2019
 
-### Etappe-42: Ávila  →  A Gudiña (51,8 Km)
+### Etappe-42: Puebla-de-Sanabria  →  A Gudiña (51,8 Km)
 **03 Juni 2019** 👣  
 
 

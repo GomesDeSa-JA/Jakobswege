@@ -125,7 +125,7 @@ I can’t remember now whether it was 1 or 2 km, but after the descent there was
 
 ---
 
- 🔁 [El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
+ 🔁 [Camino-Primitivo_Etappen](Camino-Primitivo_Etappen.md)
  
 ↪ [Etapa-07_Grandas-de-Salime_O-Pineiral](Etapa-07_Grandas-de-Salime_O-Pineiral.md) 
 

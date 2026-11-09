@@ -149,6 +149,7 @@ Ich habe bestellt und er sagt der wein geht auf meine Rechnung.
 <summary>  </summary>
 
 Oseira: Er bestellt ein Chouriço-Sandwich und ein Bier = 4 Euro
+
 Der Sohn und der Vater bestellen jeweils eine Suppe für 3 Euro.
 (Die Tochter/Schwiegertochter/Kellnerin hat sie bedient)
 
@@ -159,10 +160,11 @@ Ich bestelle ein Chouriço-Sandwich sowie ein Bier und eine Suppe = 10 Euro
 
 Er war in seine Reaktion schockiert.
 
+**Hier:** 
 Ich habe die Bestellung aufgegeben und er sagt, die Flasche Wein geht auf meine Rechnung.
 Besseres Essen etwa zum gleichen Preis
 
-Wo bist du ? So ein imperativen Ton hatte ich nicht erwartet. 
+**Wo bist du ?** So ein imperativen Ton hatte ich nicht erwartet. 
 
 <details>
 <summary>🗺️</summary>

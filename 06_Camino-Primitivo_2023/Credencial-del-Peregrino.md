@@ -52,8 +52,8 @@ um ihre Gelübde in Dankbarkeit gegenüber dem Herrn zu erfüllen und den Preis 
 
 ---
 
- 🔁  [El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
+ 🔁  [Camino-Primitivo_Etappen](Camino-Primitivo_Etappen.md)
  
-↪ [El-Camino-Primitivo](El-Camino-Primitivo.md)
+↪ [Camino Primitivo](Camino-Primitivo.md)
 
  ...→

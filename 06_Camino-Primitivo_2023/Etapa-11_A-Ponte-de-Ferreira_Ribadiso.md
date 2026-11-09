@@ -104,7 +104,7 @@ Creo que él se sintió en Portugal igual que yo me siento en Alemania y los ale
 
 ---
 
-🔁 [El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
+🔁 [Camino-Primitivo_Etappen](Camino-Primitivo_Etappen.md)
  
 ↪  [Etapa-12_Ribadiso_Lavacolla](Etapa-12_Ribadiso_Lavacolla.md)
 

@@ -1,6 +1,6 @@
 ## Camino de Levante 2019
 
-### Etappe-37: Montamarta  →  Granja de Moreruela ( Km)
+### Etappe-37: Montamarta  →  Granja de Moreruela ( 22,6  Km)
 **29 Mai 2019** 👣  
 
 ![](media2/20190529-072336.webp)

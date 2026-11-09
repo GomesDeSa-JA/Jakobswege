@@ -1,6 +1,6 @@
 ## Camino de Levante 2019
 
-### Etappe-33: Ávila # Siete Iglesias de Trabancos  →  Toro ( 31,3 Km)
+### Etappe-33: Siete Iglesias de Trabancos  →  Toro ( 31,3 Km)
 **25 Mai 2019** 👣  
 
 

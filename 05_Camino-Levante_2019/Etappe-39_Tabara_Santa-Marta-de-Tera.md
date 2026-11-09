@@ -1,6 +1,6 @@
 ## Camino de Levante 2019
 
-### Etappe-39: Tábara  Santa  →  Marta de Tera ( 22,9 Km)
+### Etappe-39: Tábara  →  Santa Marta de Tera ( 22,9 Km)
 **31 Mai 2019** 👣  
 
 ![](media2/20190531-183131.webp)

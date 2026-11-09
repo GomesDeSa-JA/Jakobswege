@@ -1,4 +1,3 @@
-🔁 [**←** Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
 ## Camino Primitivo 2023
 ### ![](media01/Jakobus-Kreuz1c.png) Oviedo → Santiago de Compostela (ca. xxx Km)
@@ -76,13 +75,14 @@ Die entscheidenden Tage sind die **Etappen 4 und 5**.
 - **Etappe 13:**  
 
 _Ab Fonsagrada folgt der Weg dem regulären Verlauf über Lugo (weitere ca. 5-6 Etappen), bis man in Melide auf den Camino Francés trifft und nach Santiago weitergeht._
+
 </details>
 
 ---
 
 🔁 [Os_Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
-↪ [El-Camino-Primitivo](El-Camino-Primitivo.md)
+↪ [Camino-Primitivo](Camino-Primitivo.md)
 
  ...→
 

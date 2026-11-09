@@ -9,7 +9,7 @@ Albergue: A Nave de Ferreira
 
 ---
 
- 🔁 [El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
+ 🔁 [Camino-Primitivo_Etappen](Camino-Primitivo_Etappen.md)
  
 ↪ [Etapa-11_A-Ponte-de-Ferreira_Ribadiso](Etapa-11_A-Ponte-de-Ferreira_Ribadiso.md)
 

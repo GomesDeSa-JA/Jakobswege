@@ -1,6 +1,6 @@
 ## Camino de Levante 2019
 
-### Etappe-32: Ávila  → Siete Iglesias de Trabancos ( 24,6 Km)
+### Etappe-32: Medina del Campo → Siete Iglesias de Trabancos ( 24,6 Km)
 **24 Mai 2019** 👣  
 
 ![](media1/20190524-081114.webp)

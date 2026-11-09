@@ -160,12 +160,12 @@ Wuppertal → Koblenz  →  Hahn Airport  (Lautzenhausen)  ✈️  → Valencia
 
 ### ![](media01/Jakobus-Kreuz1c.png) Camino de Levante  2019
 
-####  Ávila → Zamora (xx Km)
+####  Ávila → Zamora (Soma = 575,5 Km)
 > - **Start:**  21 de Mai  2019
 > - **Ende:**  27  Mai 2019
 
 ---
-#### [Etappe-29_Avila_Arevalo_Start-of-Part-2_2019](../05_Camino-Levante_2019/Etappe-29_Avila_Arevalo_Start-of-Part-2_2019.md)
+#### [Etappe-29_Avila_Gotarrendura_Start-of-Part-2_2019](Etappe-29_Avila_Gotarrendura_Start-of-Part-2_2019.md)
 21 Mai 2019
 
 ---
@@ -290,6 +290,7 @@ Wuppertal → Koblenz  →  Hahn Airport  (Lautzenhausen)  ✈️  → Valencia
 
 🇬🇧 🇪🇸 🇵🇹 🇩🇪 
 
+**Gesamtstrecke ab Ávila:** ca. **577 km**
 
 </details>
 

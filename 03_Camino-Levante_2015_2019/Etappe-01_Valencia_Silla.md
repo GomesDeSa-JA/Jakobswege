@@ -32,7 +32,7 @@ Hahn Airport = Frankfurt-Hahn
 Ao contrário da etapa 01 do Caminho Mozárabe, seria impossível percorrer esta etapa de 38 km (Valencia → Algemesí )  no primeiro dia, pois, ao contrário do percurso Almería–Alboloduy, onde o terreno era melhor e reinava a tranquilidade ao longo de todo o caminho, aqui falta tranquilidade devido ao trânsito urbano, o que, por si só, já é bastante cansativo.
 
 ---
-#### Ich habe keine Fotos von dieser Etappe gefunden, oder es gibt keine..
+#### Ich habe keine Fotos von dieser Etappe gefunden, oder es gibt keine.
 
 Im Gegensatz zur Etappe 01 des Mozarabischen Weges wäre diese 38 km lange Etappe (Valencia → Algemesí )  am ersten Tag unmöglich zu bewältigen, denn anders als auf der Strecke Almería–Alboloduy, wo der Untergrund besser war und auf dem gesamten Weg Ruhe herrschte, fehlt es hier aufgrund des Stadtverkehrs an Ruhe, was an sich schon ziemlich anstrengend ist.
 

@@ -28,7 +28,7 @@ End of Part 1:  *24 Mai 2015* in  Ávila
 >- **Start of Part 2:** 21 Mai 2019 
 > - **End of Part 2 :** 11 Juni 2019 
 
-### Etappe-29: Ávila  → Arévalo ( Km)
+### Etappe-29: Ávila  → Gotarrendura ( 22,3 Km)
 **21 Mai 2019** 👣 
 
 ![](media1/20190521-074554.webp)

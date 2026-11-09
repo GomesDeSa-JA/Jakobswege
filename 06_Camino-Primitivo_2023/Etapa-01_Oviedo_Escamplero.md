@@ -8,7 +8,7 @@ Googlemaps-Foto: Albergue de peregrinos de Escamplero
 
 ---
 
- 🔁 [El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
+ 🔁 [Camino-Primitivo_Etappen](Camino-Primitivo_Etappen.md)
  
 ↪ [Etapa-02_Escamplero_San-Juan-de-Villapanada](Etapa-02_Escamplero_San-Juan-de-Villapanada.md)
 

@@ -2,7 +2,6 @@
 
 ### Etappe-26: San Martin de Valdeiglesias  →  Cebreros (ca. 18,5 Km)
 22 de Maio 2015 👣
-(17,5 km + Umweg über Toros de Guisando =  18,6 Km)
 
 ![](media06/20150522_094200.webp)
 

@@ -1,6 +1,6 @@
 ## Camino de Levante 2019
 
-### Etappe-51: Santiago de Compostela →  San-Francisco (ca  xx m)
+### Etappe-51: Santiago de Compostela →  San Francisco de Compostela (ca  xx m)
 **12 Juni 2019** 👣  
 
 

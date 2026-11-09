@@ -43,7 +43,7 @@
 ![Camino de San salvador](media/20230512-18_Fotos/20230518-0020.jpg)
 ---
 
- 🔁 [El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
+ 🔁 [Camino-Primitivo_Etappen](Camino-Primitivo_Etappen.md)
  
 ↪ [Etapa-01_Oviedo_Escamplero](Etapa-01_Oviedo_Escamplero.md)
 

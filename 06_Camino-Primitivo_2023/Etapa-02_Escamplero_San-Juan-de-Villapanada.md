@@ -52,7 +52,7 @@ Die Natur präsentiert uns nicht fertige technische Zeichnungen. Sie präsentier
 
 ---
 
- 🔁 [El-Camino-Primitivo_Etappen](El-Camino-Primitivo_Etappen.md)
+ 🔁 [Camino-Primitivo_Etappen](Camino-Primitivo_Etappen.md)
  
 ↪ [Etapa-03_San-Juan-de-Villapanada _La-Espina](Etapa-03_San-Juan-de-Villapanada%20_La-Espina.md)
 

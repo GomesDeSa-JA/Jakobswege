@@ -3,6 +3,7 @@
 ### Etappe-44: Campobecerros →  Ruhetag
 **05 Juni 2019** 👣  
 
+![](media3/20190605-000000_Etapa16-Ruhetag.webp)
 #### 🇩🇪 Aus einer fernen Welt
 
 **Es geschah auf dem Camino Sanabrés, dort, wo die Pfade der Vía de la Plata und des Caminho do Levante ineinanderfließen und die Sehnsucht des Südens auf den Aufbruch des Ostens trifft.** 
@@ -25,24 +26,18 @@ Hace más de cincuenta años, una imponente comitiva de más de 100 peregrinos c
 Há mais de cinquenta anos, uma impressionante comitiva de mais de 100 peregrinos passou por aqui. Vinham do sul profundo, da Andaluzia, trazendo consigo a poeira e a imensidão da _Cañada Real_. Como uma caravana mística saída de outra época, avançavam com as suas carroças puxadas a cavalos por Campobecerros, rumo ao noroeste, em direção a Santiago. Formavam uma verdadeira comunidade sobre rodas: os mais idosos e aqueles que se sentiam desfalecer encontravam refúgio e descanso nas carroças, embalados pelo ritmo dos cavalos, até recuperarem as forças para voltar a pisar a terra. Este momento tocou profundamente a vida de uma senhora de Campobecerros. Tocada pela beleza daquela união, ela decidiu juntar-se ao cortejo e, se bem me lembro, acompanhou-os lado a lado durante 16 quilômetros.
 
 
-🇬🇧 From a far away world
+#### 🇬🇧 From a far away world
 
 **It happened on the Camino Sanabrés, at the very confluence where the paths of the Vía de la Plata and the Caminho do Levante weave together, uniting the spirit of the south with the journey of the east.
 
 ** More than fifty years ago, a powerful convoy of over 100 pilgrims passed through here. Hailing from Andalusia, they carried with them the dust and endurance of the ancient _Cañada Real_. Like a living caravan detached from time, they journeyed with their horse-drawn carriages through Campobecerros, driven toward the northwest, heading for Santiago. They were a sanctuary on the move: the elderly and those whose bodies were failing found refuge in the wooden carriages, cradled by the rhythm of the horses until their strength returned and their spirits cleared. This poignant moment etched itself forever into the soul of a lady from Campobecerros. Moved by the quiet grandeur of the procession, she stepped into their rhythm and, if I remember correctly, walked by their side for 16 kilometers through the Galician hills. 
 
-
+![](media00/100Pilger.webp)
 
 ---
 
 <details>
-<summary>  </summary>
-<details>
 <summary>🗺️</summary>
-
-![](media00/100Pilger.webp)
-
-</details>
 
 ![](media01/20261013121750.png) 🇬🇧 🇪🇸 🇵🇹 🇩🇪 🥾
 
