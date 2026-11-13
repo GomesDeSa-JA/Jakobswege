@@ -53,10 +53,10 @@
 
 ↪ [Etappe-01_Valencia_Silla](../03_Camino-Levante_2015_2019/Etappe-01_Valencia_Silla.md)
 
-🔁  [Camino-de-Levante_Etapas](../03_Camino-Levante_2015_2019/Camino-de-Levante_Etapas.md)
+**↪**  [Camino-de-Levante_Etapas](../03_Camino-Levante_2015_2019/Camino-de-Levante_Etapas.md)
 
-**←** 🔁  [Etapas – Santiago de Compostela→Fátima]( https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
+🔁  [Etapas – Santiago de Compostela→Fátima]( https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
 
-**←** 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
  ...→

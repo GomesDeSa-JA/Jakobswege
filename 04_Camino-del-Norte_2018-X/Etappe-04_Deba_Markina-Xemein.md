@@ -55,6 +55,6 @@ A wooden hut here, another one there along the path – that would be lovely for
 
 **↪** [Etappe-05_Markina-Xemein_Elexalde-Mendata](Etappe-05_Markina-Xemein_Elexalde-Mendata.md)
 
- 🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
+ 🔁 [Camino-del-Norte_Etapas](Jakobswege/04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
  
  ...→

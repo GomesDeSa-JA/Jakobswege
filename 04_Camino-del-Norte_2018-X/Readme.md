@@ -289,7 +289,7 @@ Jetzt habe ich noch einen Pilgerausweis aus dem Jahr 2018, mit vielen leeren Fel
 
 **↪** [Etappe-01-bis-03_Irun_San-Sabastian_Zarautz_Deba](Etappe-01-bis-03_Irun_San-Sabastian_Zarautz_Deba.md)
 
-🔁  [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
+🔁  [Camino-del-Norte_Etapas](Jakobswege/04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
 
 
 ---

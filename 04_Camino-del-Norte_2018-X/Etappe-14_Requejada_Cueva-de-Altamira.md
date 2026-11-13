@@ -37,6 +37,6 @@
 
 **↪** [Etappe-15_Santillana-del-Mar_Serdio](Etappe-15_Santillana-del-Mar_Serdio.md)
 
- 🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
+ 🔁 [Camino-del-Norte_Etapas](Jakobswege/04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
  
  ...→

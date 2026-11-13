@@ -1,6 +1,6 @@
 ## ![](media00/20261013120738.webp) Camino de Levante 2019
 
-End of Part 1:  *24 Mai 2015* in  Ávila 
+**End of Part 1:**  *24 Mai 2015* in Ávila 
 
 <details>
 <summary> 20 Maio 2019 </summary>

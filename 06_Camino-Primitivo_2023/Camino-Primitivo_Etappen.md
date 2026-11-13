@@ -1,4 +1,3 @@
-
 ## Camino Primitivo 2023
 ### ![](media01/Jakobus-Kreuz1c.png) Oviedo → Santiago de Compostela (ca. xxx Km)
 **Start:**  04 de Maio 2023 **Ende:**  16 de Maio 2023**
@@ -40,6 +39,7 @@
 [Camino-del-Salvador_Etappen](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Camino-del-Salvador_2023-2025/Camino-del-Salvador_Etappen.md)
 
 ---
+
 <details>
 <summary>  </summary>
 
@@ -83,6 +83,16 @@ _Ab Fonsagrada folgt der Weg dem regulären Verlauf über Lugo (weitere ca. 5-6 
 🔁 [Os_Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
 ↪ [Camino-Primitivo](Camino-Primitivo.md)
+
+---
+#### Obsidian-Link
+>*Internal links that don't work on GitHub*
+
+↪ [Readme](Jakobswege/Readme.md) 
+
+↪ [Os Caminhos](Os_Caminhos.md)
+
+↪ [Index](Index.md)
 
  ...→
 

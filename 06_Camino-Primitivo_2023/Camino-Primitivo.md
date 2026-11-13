@@ -97,6 +97,16 @@ _„Quien va a Santiago y no al Salvador, visita al criado y no al Señor.“_
  
 ↪ [Camino-Primitivo_Etappen](Camino-Primitivo_Etappen.md) 
 
+---
+#### Obsidian-Link
+>*Internal links that don't work on GitHub*
+
+↪ [Readme](Jakobswege/Readme.md) 
+
+↪ [Os Caminhos](Os_Caminhos.md)
+
+↪ [Index](Index.md)
+
  ...→
 
 

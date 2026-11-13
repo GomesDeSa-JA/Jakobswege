@@ -1,4 +1,3 @@
-🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
 ---
 ## Camino Francés 2012
@@ -88,7 +87,6 @@
 23 de Maio de 2012
 
 ---
-
 #### [Etapa-20_El-Acebo-de-San-Miguel_Cacabelos](Etapa-20_El-Acebo-de-San-Miguel_Cacabelos.md)
 24 de Maio de 2012
 
@@ -98,12 +96,10 @@
 25 de Maio de 2012
 
 ---
-
 #### [Etapa-22_Trabadelo_Sarria](Etapa-22_Trabadelo_Sarria.md)
 26 de Maio de 2012
 
 ---
-
 #### [Etapa-23_Sarria_Gonzar](Etapa-23_Sarria_Gonzar.md)
 27 de Maio de 2012
 
@@ -128,7 +124,6 @@
 01 de junho de 2012
 
 ---
-
 #### [Etapa-29_Santiago-de-Compostela_Negreira](Etapa-29_Santiago-de-Compostela_Negreira.md)
 02 de junho de 2012
 
@@ -162,8 +157,18 @@
 
 **↪** [Camino-Frances_Credencial-del-Peregrino](Camino-Frances_Credencial-del-Peregrino.md)
 
-**←** 🔁 [Readme](https://github.com/GomesDeSa-JA/Jakobswege#)
+🔁 [Readme](https://github.com/GomesDeSa-JA/Jakobswege#)
 
-**←** 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+
+---
+#### Obsidian-Link
+>*Internal links that don't work on GitHub*
+
+↪ [Readme](Jakobswege/Readme.md) 
+
+↪ [Os Caminhos](Os_Caminhos.md)
+
+↪ [Index](Index.md)
 
  ...→

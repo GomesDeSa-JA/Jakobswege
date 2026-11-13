@@ -923,6 +923,6 @@ And yet, to me, they all speak of something similar: **setting out, accompanying
 
 **↪** [Etappe-13_Santander_Requejada](Etappe-13_Santander_Requejada.md)
 
- 🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
+ 🔁 [Camino-del-Norte_Etapas](Jakobswege/04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
  
  ...→

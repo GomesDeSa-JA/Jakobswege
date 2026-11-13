@@ -211,6 +211,6 @@ I have to admit that, in the past, I never worried about these details, and now 
 
 **↪** [Etappe-14_Requejada_Cueva-de-Altamira](Etappe-14_Requejada_Cueva-de-Altamira.md)
 
- 🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
+ 🔁 [Camino-del-Norte_Etapas](Jakobswege/04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
  
  ...→

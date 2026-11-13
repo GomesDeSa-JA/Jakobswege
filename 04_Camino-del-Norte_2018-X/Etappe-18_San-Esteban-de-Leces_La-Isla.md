@@ -78,7 +78,7 @@ It’s interesting to think about where we stop to take a photograph.
 
 **↪** [Etappe-19](Jakobswege/04_Camino-del-Norte_2018-X/Etappe-19.md)
 
- 🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
+ 🔁 [Camino-del-Norte_Etapas](Jakobswege/04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
  
  **...→ Eines Tages mache ich hier weiter**
 

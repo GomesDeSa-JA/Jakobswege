@@ -379,7 +379,7 @@ Even today, I can remember that moment with complete clarity, as if it had happe
 
 **↪** [Etappe-08_Portugalete_Pubeña](Etappe-08_Portugalete_Pubeña.md)
 
- 🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
+ 🔁 [Camino-del-Norte_Etapas](Jakobswege/04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
  
 
  ...→

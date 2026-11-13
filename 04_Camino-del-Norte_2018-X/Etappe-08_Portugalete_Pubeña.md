@@ -82,6 +82,6 @@ Albergue de Peregrinos  →..........................**↑**  ...... **↑** ...
 
 **↪** [Etappe-09_Pubeña_Islares-Playa-Arenillas](Etappe-09_Pubeña_Islares-Playa-Arenillas.md)
 
- 🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
+ 🔁 [Camino-del-Norte_Etapas](Jakobswege/04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
  
  ...→

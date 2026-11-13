@@ -265,7 +265,7 @@ He walked with the other pilgrims for a while, then came over to me, but when I 
 
 **↪** [Etappe-11_Laredo_Guemes](Etappe-11_Laredo_Guemes.md)
 
- 🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
+ 🔁 [Camino-del-Norte_Etapas](Jakobswege/04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
  
 
  ...→

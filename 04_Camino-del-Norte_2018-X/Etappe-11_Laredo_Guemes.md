@@ -99,6 +99,6 @@ Por favor, no le pidas a Dios que separe el mar para que puedas cruzarlo, porque
 
 **↪** [Etappe-12_Guemes_Santander](Etappe-12_Guemes_Santander.md)
 
- 🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
+ 🔁 [Camino-del-Norte_Etapas](Jakobswege/04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
  
  ...→

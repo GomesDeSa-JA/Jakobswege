@@ -19,7 +19,7 @@ DD  MMMM  20YY
 
 **↪** [Etapa-00_Bayonne_Saint-Jean-Pied-de-Port](Etapa-00_Bayonne_Saint-Jean-Pied-de-Port.md)
 
- 🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
+ 🔁 [Camino-del-Norte_Etapas](Jakobswege/04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
  
 
  ...→

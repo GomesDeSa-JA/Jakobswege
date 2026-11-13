@@ -2,7 +2,6 @@
 
 #### Camino de Levante  →  Vía de la Plata → Camino Sanabrés 
 
- 
  ![](media01/Amigos-del-Camino-de-Santiago-Comunidade-Valencia-.png) 
 ![](media01/Camino-Levante.webp)
 - **42 Etappen bei etwa 30 Km pro Etappe**
@@ -16,7 +15,6 @@ Wuppertal → Koblenz  →  Hahn Airport  (Lautzenhausen)  ✈️  → Valencia
 **26  April 2015**
 
 **info:** Hahn Airport = Airport Frankfurt-Hahn
-
 
 ###  ![](media01/Jakobus-Kreuz1c.png) Camino de Levante  2015
 
@@ -296,12 +294,20 @@ Wuppertal → Koblenz  →  Hahn Airport  (Lautzenhausen)  ✈️  → Valencia
 
 ---
 
-↪ 
-
 ↪ [Camino-de-Levante_Credencial-del-Peregrino](Camino-de-Levante_Credencial-del-Peregrino.md)
 
-**←** 🔁 [Readme](https://github.com/GomesDeSa-JA/Jakobswege#)
+🔁 [Readme](https://github.com/GomesDeSa-JA/Jakobswege#)
 
-**←** 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+
+---
+#### Obsidian-Link
+>*Internal links that don't work on GitHub*
+
+↪ [Readme](Jakobswege/Readme.md) 
+
+↪ [Os Caminhos](Os_Caminhos.md)
+
+↪ [Index](Index.md)
 
  ...→

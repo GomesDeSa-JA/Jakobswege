@@ -23,11 +23,9 @@ Traducción del Sello del Albergue de Peregrinos de Deba:
 - Friends of the Camino to Santiago
 - Amigos do Caminho de Santiago
 
-
 ---
 #### [Etappe-04_Deba_Markina-Xemein](Etappe-04_Deba_Markina-Xemein.md)
 12 de Maio de 2018
-
 
 ---
 #### [Etappe-05_Markina-Xemein_Elexalde-Mendata](Etappe-05_Markina-Xemein_Elexalde-Mendata.md)
@@ -43,11 +41,9 @@ Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 #### [Etappe-07_Larrabetzu_Portugalete](Etappe-07_Larrabetzu_Portugalete.md)
 15 de Maio de 2018
 
-
 ---
 #### [Etappe-08_Portugalete_Pubeña](Etappe-08_Portugalete_Pubeña.md)
 16 de Maio de 2018
-
 
 ---
 #### [Etappe-09_Pubeña_Islares-Playa-Arenillas](Etappe-09_Pubeña_Islares-Playa-Arenillas.md)
@@ -57,53 +53,41 @@ Link-Einfügung wurde von "git status" nicht als  Änderung wahrgenommen.
 #### [Etappe-10_Islares-Playa-Arenillas_Laredo](Etappe-10_Islares-Playa-Arenillas_Laredo.md)
 18 de Maio de 2018
 
-
 ---
 #### [Etappe-11_Laredo_Guemes](Etappe-11_Laredo_Guemes.md)
 19 de Maio de 2018
-
 
 ---
 #### [Etappe-12_Guemes_Santander](Etappe-12_Guemes_Santander.md)
 20 de Maio de 2018
 
-
 ---
 #### [Etappe-13_Santander_Requejada](Etappe-13_Santander_Requejada.md)
 21 de Maio de 2018
-
 
 ---
 #### [Etappe-14_Requejada_Cueva-de-Altamira](Etappe-14_Requejada_Cueva-de-Altamira.md)
 22 de Maio de 2018
 
-
 ---
 #### [Etappe-15_Santillana-del-Mar_Serdio](Etappe-15_Santillana-del-Mar_Serdio.md)
 23 de Maio de 2018
-
 
 ---
 #### [Etappe-16_Serdio_Poo-de-Llanes](Etappe-16_Serdio_Poo-de-Llanes.md)
 24 de Maio de 2018
 
-
 ---
 #### [Etappe-17_Serdio-Val-de-San-Vicente_San-Esteban-de-Leces](Etappe-17_Serdio-Val-de-San-Vicente_San-Esteban-de-Leces.md)
 25 de Maio de 2018
 
-
 ---
-
 #### [Etappe-18_San-Esteban-de-Leces_La-Isla](Etappe-18_San-Esteban-de-Leces_La-Isla.md)
 26 de Maio de 2018
 
-
 ---
-
 #### [Etappe-19](Jakobswege/04_Camino-del-Norte_2018-X/Etappe-19.md)
 DD de MMMM de 20xx
-
 
 ---
 <details>
@@ -119,6 +103,18 @@ DD de MMMM de 20xx
 
 **↪** [Camino-del-Norte_Credencial-del-Peregrino](Camino-del-Norte_Credencial-del-Peregrino.md)
 
-🔁 
+🔁 [Readme](https://github.com/GomesDeSa-JA/Jakobswege#)
+
+🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+
+---
+#### Obsidian-Link
+>*Internal links that don't work on GitHub*
+
+↪ [Readme](Jakobswege/Readme.md) 
+
+↪ [Os Caminhos](Os_Caminhos.md)
+
+↪ [Index](Index.md)
 
  ...→

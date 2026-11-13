@@ -535,6 +535,6 @@ Neben den Austernseitlingen siedeln sich unzählige andere Organismen an:
 
 **↪** [Etappe-04_Ankunft-in-Deba](Etappe-04_Ankunft-in-Deba.md)
 
- 🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
+ 🔁 [Camino-del-Norte_Etapas](Jakobswege/04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
  
  ...→

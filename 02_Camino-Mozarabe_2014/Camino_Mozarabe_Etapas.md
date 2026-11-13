@@ -138,7 +138,6 @@ Hinter Córdoba wird es einsam und wild. Du durchquerst die Eichenwälder der Si
 11 de Maio 2014
 
 ---
-
 #### [Etappe-16_Alcaracejos_Hinojosa-del-Duque](Etappe-16_Alcaracejos_Hinojosa-del-Duque.md)
 12 de Maio 2014
 
@@ -374,7 +373,6 @@ Dennoch bleibt der Weg einsam. Es gibt immer noch Etappen, auf denen du 15 bis 2
 #### [Etappe-36_Villabrazaro_La-Baneza](Etappe-36_Villabrazaro_La-Baneza.md)
 01 de Junho 2014
 
-
 ---
 ##  Camino Francés 2014
 
@@ -503,5 +501,14 @@ Da der Weg ab Astorga durch die Berge führt (unter anderem vorbei am berühmten
 
 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
+---
+#### Obsidian-Link
+>*Internal links that don't work on GitHub*
+
+↪ [Readme](Jakobswege/Readme.md) 
+
+↪ [Os Caminhos](Os_Caminhos.md)
+
+↪ [Index](Index.md)
 
  ...→

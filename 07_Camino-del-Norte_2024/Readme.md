@@ -11,7 +11,7 @@ In diesem Repository teile ich meine Fotos, Erfahrungen, Erinnerungen und Eindr�
 Was im Jahr 2015 als logistisches Experiment begann, fand im Jahr 2024 nach vielen unvorhersehbaren Wendungen, Wetterkapriolen und wunderbaren Begegnungen 
  im Jahr 2024 ein erfolgreiches  Ende.
  
-#### 💡 Die Inspiration (2012 and 2014)
+#### Die Inspiration (2012 and 2014)
 
 <details>
 <summary>💡</summary>
@@ -66,7 +66,7 @@ Ich besitze nun immer noch eine unvollständige _Credencial del Peregrino_ aus d
 Lo que comenzó en 2015 como una experiencia logística llegó, en 2024, tras muchos giros impredecibles, caprichos del tiempo y encuentros maravillosos,
 a un final con éxito.
 
-#### 💡 La Inspiración (2012 y 2014)
+#### La Inspiración (2012 y 2014)
 
 <details>
 <summary> 💡</summary>
@@ -120,7 +120,7 @@ Welcome to my digital retrospective pilgrimage diary! In this repository, I’m 
 What began in 2015 as a logistical experiment came to a successful conclusion in 2024, after many unforeseen twists and turns, capricious weather and wonderful encounters
  in 2024.
 
-#### 💡 The Inspiration (2012 & 2014)
+#### The Inspiration (2012 & 2014)
 
 <details>
 <summary>💡</summary>
@@ -174,7 +174,7 @@ Bem-vindos ao meu diário digital retrospectivo de peregrinação! Neste reposit
 O que começou em 2015 como uma experiência logística chegou, em 2024, após muitas reviravoltas imprevisíveis, caprichos do tempo e encontros surpreendentes,
 a um final bem-sucedido.
 
-#### 💡 A Inspiração (2012 & 2014)
+#### A Inspiração (2012 & 2014)
  
  <details>
  <summary>💡</summary>
@@ -286,11 +286,17 @@ Jetzt habe ich noch einen Pilgerausweis aus dem Jahr 2018, mit vielen leeren Fel
 </details>
 
 ---
-↪ 
+↪  [Camino-del-Norte_Etapas](Jakobswege/04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
 
-🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
+ 🔁 [Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
----
-**←** 🔁 [Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+#### Obsidian-Link
+>*Internal links that don't work on GitHub*
+
+↪ [Readme](Jakobswege/Readme.md) 
+
+↪ [Os Caminhos](Os_Caminhos.md)
+
+↪ [Index](Index.md)
 
  ...→

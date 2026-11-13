@@ -92,7 +92,7 @@ Albergue de Peregrinos
 
 **↪** [Etappe-16_Serdio_Poo-de-Llanes](Etappe-16_Serdio_Poo-de-Llanes.md)
 
- 🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
+ 🔁 [Camino-del-Norte_Etapas](Jakobswege/04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
  
 
  ...→

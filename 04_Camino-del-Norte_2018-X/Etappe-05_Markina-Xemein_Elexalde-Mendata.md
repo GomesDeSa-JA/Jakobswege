@@ -760,7 +760,7 @@ Satz zwecks Änderungswahrnehmung
 
 **↪** [Etappe-06_Elexalde-Mendata_Larrabetzu](Etappe-06_Elexalde-Mendata_Larrabetzu.md)
 
- 🔁 [Camino-del-Norte_Etapas](Camino-del-Norte_Etapas.md)
+ 🔁 [Camino-del-Norte_Etapas](Jakobswege/04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
  
 
  ...→
