@@ -101,6 +101,8 @@ He recuperado las fotos de la carpeta .thumbnails y he intentado ordenarlas seg�
 
 Ya no recuerdo si eran 1 o 2 km, pero, tras el descenso, había allí un mojón de piedra con la distancia hasta Santiago, donde nos hicimos una foto.
 
+</details>
+
 ---
 <details>
 <summary> 🇵🇹 Onde é que esta fotografia foi tirada, exatamente? </summary>
@@ -121,6 +123,7 @@ Já não me lembro se eram 1 ou 2 km, mas, depois da descida, havia ali um marco
 I have recovered the photos from the ‘.thumbnails’ folder and tried to organise them based on my memories and the stamps on the travel documents. It is possible that I got the date wrong by one day when sorting the photos. 
 
 I can’t remember now whether it was 1 or 2 km, but after the descent there was a stone marker showing the distance to Santiago, where we took a photograph
+
 </details>
 
 ---

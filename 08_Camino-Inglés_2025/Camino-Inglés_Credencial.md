@@ -1,6 +1,5 @@
 ## Camino Inglés Credencial 2025
 
-
 🇬🇧
 
 🇪🇸

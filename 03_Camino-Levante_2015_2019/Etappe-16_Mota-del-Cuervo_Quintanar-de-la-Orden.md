@@ -32,9 +32,12 @@
 
 Siehe die  Fotos  ↓  ⚠️ ↓  in die  Etappe-06
 
+
 ![](media04/20150512_091145.webp)
 
 ![](media04/20150512_091228.webp)
+
+[Etappe-06_La-Fonte-de-la-Figuera_Almansa](Etappe-06_La-Fonte-de-la-Figuera_Almansa.md)
 
 Siehe die  Fotos  ↑ ⚠️  ↑  in die  Etappe-06
 

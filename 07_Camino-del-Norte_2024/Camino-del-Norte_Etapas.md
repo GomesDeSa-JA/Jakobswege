@@ -20,11 +20,8 @@ Haan → Düsseldorf → Bayonne
 - **Continuation:** 10 de Mai 2024
 
 ---
-
 #### Start 
 
-
----
 #### 
 03 Mai 2024
 
@@ -208,12 +205,17 @@ Haan → Düsseldorf → Bayonne
 
 🇬🇧 🇪🇸 🇵🇹 🇩🇪 
 
+2026-11-13 09:29 – Einige Fotos zum „Caminho do Norte“  hinzugefügt.
 
 </details>
 
 ---
 
+↪ [Readme](Readme.md)
+
 ↪ [Camino-del-Norte_Credencial](Camino-del-Norte_Credencial.md)
+
+↪ [Camino del Norte – Etapas 2018 – ](../04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
 
 🔁 [Readme](https://github.com/GomesDeSa-JA/Jakobswege#)
 

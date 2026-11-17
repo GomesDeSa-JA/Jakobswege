@@ -77,7 +77,6 @@ Haan → XX → XX → XX → Lisboa → Santiago de Compostela → Ferrol
 
 🇬🇧 🇪🇸 🇵🇹 🇩🇪 
 
-
 </details>
 
 ---

@@ -31,6 +31,10 @@ Tenho que analisar as fotos para saber onde pernoitei
  
 ↪ [Readme](Jakobswege/04_Camino-del-Norte_2018-X/Readme.md)
 
- 🔁 [Camino-del-Norte_Etapas](Jakobswege/04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
- 
+↪ [Camino del Norte Etapas](Camino-del-Norte_Etapas.md)
+
+🔁 [Readme](https://github.com/GomesDeSa-JA/Jakobswege#)
+
+🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+
  ...→

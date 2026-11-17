@@ -95,6 +95,6 @@ Mapa: Almeria  →  ...  →  Mérida  →  ... →  Zamora  →  Puebla de San�
 
 ↪ [Etappe-01_Almeria_Alboloduy](Etappe-01_Almeria_Alboloduy.md)
 
- 🔁 [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
- 
+ ↪ [Camino_Mozarabe_Etapas](Camino_Mozarabe_Etapas.md)
+
  ...→

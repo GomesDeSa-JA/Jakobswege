@@ -1,4 +1,4 @@
-🔁 [**←** Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+🔁 [Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
 
 ## Caminhos de Caravaggio  2023 
@@ -157,24 +157,35 @@ Essa padaria já não existe, tudo muda e o que fica são as memórias.
 Im Moment kann ich mich nicht daran erinnern, wann wir mit dem Bus  von Farroupilha nach Gramado gefahren sind.
 Ich erinnere mich an den Platz in Gramado und daran, wie wir auf der Suche nach der Bäckerei waren, deren Art, Brot zu backen, und die Qualität des Brotes Rozenilda Jahre zuvor so beeindruckt hatten.
 Diese Bäckerei gibt es nicht mehr, alles verändert sich, und was bleibt, sind die Erinnerungen.
+
 </details>
 
 <details>
 <summary>  </summary>
-🇵🇹
-🇩🇪
-🇬🇧
-🇪🇸
+
+🇵🇹 🇩🇪 🇬🇧  🇪🇸
+
 </details>
 
 ---
 
-**←** 🔁 [Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
 ↪ [Readme](Readme.md)
 
 ↪ [Os Caminhos de Caravaggio](Os-Caminhos-de-Caravaggio.md)
 
 ↪ [Credencial Caminhos de Caravaggio](Caminhos-de-Caravaggio_Pass.md)
+
+🔁 [Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+
+---
+#### Obsidian-Link
+>*Internal links that don't work on GitHub*
+
+↪ [Readme](Jakobswege/Readme.md) 
+
+↪ [Os Caminhos](Os_Caminhos.md)
+
+↪ [Index](Index.md)
 
  ...→

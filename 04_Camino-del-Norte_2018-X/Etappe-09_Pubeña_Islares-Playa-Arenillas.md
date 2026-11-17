@@ -3,7 +3,6 @@
 ### Etappe-06: Pubeña → Islares "Playa Arenillas" (29 Km)
 17  Mai 2018
 
-
 ![](media/20180517-073647.webp)
 
 ![](media/20180517-073733.webp)
@@ -25,15 +24,20 @@
 ![](media/20180517-083857.webp)
 
 ![](media/20180517-100257.webp)
- →	.............................................................**↑** **↑** **↑**
 
-Die Tankstelle dort drüben ist nur noch ein Schatten ihrer selbst. 
+#### Die Tankstelle dort  ↑ drüben ist nur noch ein Schatten ihrer selbst. 
 
-That petrol station over there is now just a shadow of its former self. 
+Die Tankstelle dort drüben stammt noch aus einer Zeit, als man beim Tanken das Auto eine Weile vor den Zapfsäulen stehen lassen konnte und noch Zeit blieb, ein paar Worte mit dem Tankstellenbesitzer zu wechseln. Heute muss man schon Glück haben, wenn auf dem Parkplatz noch ein Platz frei ist, um schnell einen Espresso zu trinken.
 
-O posto de abastecimento ali já não passa de uma sombra do que era. 
+#### That petrol station over ↑ there is now just a shadow of its former self. 
+The petrol station over there dates back to a time when, whilst filling up, you could leave your car parked a little way in front of the petrol pumps and still have time to exchange a few words with the station owner. These days, you’re lucky if there’s even a free space in the car park to quickly grab an espresso.
 
-La gasolinera de allí ya no es más que una sombra de lo que fue. 
+#### O posto de abastecimento ali ↑ já não passa de uma sombra do que era. 
+O posto de abastecimento ali ao fundo ainda remonta a uma época em que, ao abastecer, era possível deixar o carro parado um pouco à frente das bombas de gasolina e ainda sobrava tempo para trocar algumas palavras com o dono do posto. Hoje em dia, já é sorte se ainda houver um lugar livre no parque de estacionamento para beber rapidamente um café expresso.
+
+#### La gasolinera de allí ↑ ya no es más que una sombra de lo que fue. 
+La gasolinera que se ve allá al fondo aún se remonta a una época en la que, al repostar, se podía dejar el coche parado un poco más delante de los surtidores y aún sobraba tiempo para intercambiar unas palabras con el dueño de la gasolinera. Hoy en día, ya es una suerte que quede alguna plaza libre en el aparcamiento para tomarse rápidamente un café expreso.
+
 
 <details>
 <summary>A coffee would be lovely </summary>

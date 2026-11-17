@@ -433,7 +433,6 @@ Es waren 17:30 als dieses Foto gemacht worden ist und  ich wurde sagen San Juan 
 ### Etappe-03: Zarautz → Deba (21,0 km)
 **30 Juli 2015**(?Baum)
 
-
 🇩🇪 Ich habe noch mehr Fotos von diesen Wanderwegen. Leider kann ich die Fotos nicht mehr so einfach den Wanderwegen zuordnen, da sich beim Austausch des Akkus und der SD-Karte sowohl die Uhrzeit als auch die Nummerierung geändert haben.
 
 Aber ich erinnere mich noch genau an diese Fotos. Als ich in Zarautz ankam, setzte ich mich hin und genoss einfach dieses Spektakel.
@@ -464,7 +463,6 @@ But I still remember these photos very clearly. When I arrived in Zarautz, I sat
 ![](media/DSCF7051-Finepix-JZ300.webp)
 
 ![](media/DSCF7053-FinePix-JZ300.webp)
-
 
 Ein Baum volle Leben   ⁘   A tree full of life
 
@@ -516,7 +514,6 @@ Neben den Austernseitlingen siedeln sich unzählige andere Organismen an:
 - Folgepilze: Wenn der Austernseitling das Holz weiter zersetzt hat, folgen andere Pilzarten, die sich auf das noch weichere Substrat spezialisiert haben.
 
 </details>
-
 
 ---
 - 2018

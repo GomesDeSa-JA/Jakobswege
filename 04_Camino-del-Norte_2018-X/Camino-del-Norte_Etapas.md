@@ -1,4 +1,4 @@
-**←** 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+
 
 ---
 ## Camino del Norte 2015/2018
@@ -99,9 +99,12 @@ DD de MMMM de 20xx
 </details>
 ---
 
-**↪** [Readme](Jakobswege/04_Camino-del-Norte_2018-X/Readme.md)
+**↪** [Readme – Camino del Norte– ](Readme.md)
 
 **↪** [Camino-del-Norte_Credencial-del-Peregrino](Camino-del-Norte_Credencial-del-Peregrino.md)
+
+**↪** [Camino del Norte – Etapas  2024 – ](../07_Camino-del-Norte_2024/Camino-del-Norte_Etapas.md)
+
 
 🔁 [Readme](https://github.com/GomesDeSa-JA/Jakobswege#)
 

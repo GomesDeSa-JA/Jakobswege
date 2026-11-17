@@ -242,10 +242,32 @@ Wo befand ich mich ???
 
 <details>
 <summary>  </summary>
+
 ↓ Googgle Maps-Foto ↓
 ![](Media06/C-Severiano-Masides-Aldeanueva-del-Camino-Extremadura.webp)
 
 ![](Media01/20261013121750.png) 🇬🇧 🇪🇸 🇵🇹 🇩🇪 🥾
+
+#### Race Walking
+
+Die Geschwindigkeiten im Elitebereich
+
+- **Durchschnittstempo:** Spitzenathleten bewegen sich bei den Hauptwettkämpfen mit einer Durchschnittsgeschwindigkeit von rund **15 km/h** fort.
+- **Kilometer-Pace:** Dies entspricht einer Pace von etwa **4:00 Minuten pro Kilometer** – und das über eine Distanz von 20 Kilometern.
+- **Männer vs. Frauen:** Elite-Männer erreichen Spitzenwerte von bis zu **15,4 km/h**, während Spitzen-Frauen mit bis zu **13,8 km/h** unterwegs sind
+
+#### Schnellmarsch
+
+Als ich morgens aufbrach, ging ich – da es sich um eine ebene Straße ohne Steigung handelte – so schnell wie möglich, um herauszufinden, mit welcher Geschwindigkeit ich pro Stunde marschieren konnte. Ich benutzte meinen Wanderstock, um den Rhythmus vorzugeben. An diesem Morgen schaffte ich in der ersten Stunde 6 km pro Stunde, spürte jedoch schnell Schmerzen in den Knöcheln und Knien; daraufhin verlangsamte ich sofort mein Tempo.
+
+#### Marcha rápida
+Quando parti de manhã, como se tratava de uma estrada plana, sem inclinação, caminhei o mais depressa possível para descobrir a que velocidade conseguia marchar por hora. Utilizei o bastão de caminhada para marcar o ritmo. Nessa manhã, durante a primeira hora, consegui caminhar 6 km por hora, mas rapidamente senti os tornozelos e os joelhos a doerem; imediatamente reduzi o meu ritmo.
+
+#### Marcha rápida
+Cuando salí por la mañana, como se trataba de una carretera llana, sin pendiente, caminé lo más rápido posible para averiguar a qué velocidad podía avanzar por hora. Utilicé el bastón de senderismo para marcar el ritmo. Esa mañana, durante la primera hora, conseguí recorrer 6 km por hora, pero enseguida empecé a sentir dolor en los tobillos y las rodillas; de inmediato reduje el ritmo.
+
+#### Brisk walk
+When I set off in the morning, as it was a flat road with no incline, I walked as fast as I could to find out how fast I could walk per hour. I used my walking stick to set the pace. That morning, during the first hour, I managed to walk 6 km per hour, but I soon felt my ankles and knees aching; I immediately slowed down.
 
 
 </details>

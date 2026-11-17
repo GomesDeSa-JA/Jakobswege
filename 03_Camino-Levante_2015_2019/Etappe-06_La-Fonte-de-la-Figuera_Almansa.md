@@ -46,14 +46,17 @@ The date the photo was taken doesn’t quite match the location.
 ![](media02/20150502_091229.webp)
 Metadaten kontrollieren-
 
-<details>
-<summary>  </summary>
+[Etappe-16_Mota-del-Cuervo_Quintanar-de-la-Orden](Etappe-16_Mota-del-Cuervo_Quintanar-de-la-Orden.md)
 
 ![](media02/20150502_091234.webp)
 
 ![](media02/20150502_092301.webp)
 
----
+Siehe die  Fotos  ↑ ⚠️  ↑  in die  Etappe-16 
+
+<details>
+<summary>  </summary>
+
 Something’s not quite right.
 The time on the recording date doesn’t quite match the sequence.
 
@@ -70,7 +73,6 @@ Die Uhrzeit des Aufnahmedatums passt nicht ganz zur Abfolge.
 
 ---
 </details>
-Siehe die  Fotos  ↑ ⚠️  ↑  in die  Etappe-16 
 
 ![](media02/20150502_095341.webp)
 
