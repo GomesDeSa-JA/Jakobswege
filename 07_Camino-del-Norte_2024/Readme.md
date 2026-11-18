@@ -292,7 +292,7 @@ Jetzt habe ich noch einen Pilgerausweis aus dem Jahr 2018, mit vielen leeren Fel
 
 
 #### Obsidian-Link
->*Internal links that don't work on GitHub*
+> ⚠️ *Internal links that don't work on GitHub*
 
 ↪ [Readme](Jakobswege/Readme.md) 
 
