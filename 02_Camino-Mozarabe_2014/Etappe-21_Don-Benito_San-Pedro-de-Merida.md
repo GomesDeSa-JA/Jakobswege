@@ -479,7 +479,7 @@ Já os Romanos faziam assim. Mas eles foram ainda mais longe.
 
 ##### A travessia do rio – Río Búrdalo
 
-Quando consultei o Google Maps no modo de satélite, descobri um caminho rural que levava diretamente a San Pedro de Mérida. Havia, porém, um obstáculo: era preciso atravessar o rio. Na zona da passagem a vau, não conseguia perceber se existia alguma ponte — só se via o verde das árvores ao longo das margens. Mesmo assim, decidi não fazer o desvio pela ponte da estrada nacional N-430.
+Quando consultei o Google Maps no modo de satélite, descobri um caminho rural que levava diretamente a San Pedro de Mérida. Havia, porém, um obstáculo: era preciso atravessar o rio. Na zona da passagem, a vau, não conseguia perceber se existia alguma ponte — só se via o verde das árvores ao longo das margens. Mesmo assim, decidi não fazer o desvio pela ponte da estrada nacional N-430.
 
 Assim poupei alguns quilómetros. E era precisamente isso que sempre tinha desejado: poder refrescar os pés de vez em quando, sobretudo com aquele calor.
 
@@ -492,9 +492,10 @@ Por isso, coloquei-me ao lado de uma das rodas dianteiras do trator e perguntei 
 Depois, tirei as botas e as calças de caminhada, peguei no meu bastão de giesta e avancei com cuidado, tateando o fundo do rio. Afinal, se caísse, a mochila encher-se-ia de água. E isso não seria nada agradável.
 
 **Informação:** Evite a estrada nacional N-430.
+
 - Ver Gronze.com
 
-Atualmente, já é possível atravessar o impetuoso rio Búrdalo através de uma ponte pedonal, inaugurada em abril de 2026.
+**Atualmente**, já é possível atravessar o impetuoso rio Búrdalo através de uma ponte pedonal, inaugurada em abril de 2026.
 
 ---
 #### 🇪🇸 Todos los caminos rurales llevan a San Pedro de Mérida
