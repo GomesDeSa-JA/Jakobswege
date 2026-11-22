@@ -211,7 +211,7 @@ Haan → Düsseldorf → Bayonne
 
 ---
 
-↪ [Readme](Readme.md)
+↪ [Readme](Jakobswege/07_Camino-del-Norte_2024/Readme.md)
 
 ↪ [Camino-del-Norte_Credencial](Camino-del-Norte_Credencial.md)
 

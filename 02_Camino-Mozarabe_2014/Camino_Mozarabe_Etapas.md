@@ -495,7 +495,7 @@ Da der Weg ab Astorga durch die Berge führt (unter anderem vorbei am berühmten
 
 ↪ [Caminhos-Mozarabe_Credencial-del-Peregrino](Caminhos-Mozarabe_Credencial-del-Peregrino.md)
 
-↪ [Readme](Readme.md)
+↪ [Readme](Jakobswege/02_Camino-Mozarabe_2014/Readme.md)
 
 🔁 [Readme](https://github.com/GomesDeSa-JA/Jakobswege#)
 
