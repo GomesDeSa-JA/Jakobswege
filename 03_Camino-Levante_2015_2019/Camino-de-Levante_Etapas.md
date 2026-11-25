@@ -163,15 +163,15 @@ Wuppertal → Koblenz  →  Hahn Airport  (Lautzenhausen)  ✈️  → Valencia
 > - **Ende:**  27  Mai 2019
 
 ---
-#### [Etappe-29_Avila_Gotarrendura_Start-of-Part-2_2019](Etappe-29_Avila_Gotarrendura_Start-of-Part-2_2019.md)
+#### [Etappe-29_Avila_Gotarrendura_Start-of-Part-2_2019](../05_Camino-Levante_2019/Etappe-29_Avila_Gotarrendura_Start-of-Part-2_2019.md)
 21 Mai 2019
 
 ---
-#### [Etappe-30_Gotarrendur_Arevalo](../05_Camino-Levante_2019//Etappe-30_Gotarrendur_Arevalo.md)
+#### [Etappe-30_Gotarrendur_Arevalo](../05_Camino-Levante_2019/Etappe-30_Gotarrendur_Arevalo.md)
 22 Mai 2019
 
 ---
-#### [Etappe-31_Arevalo_Medina-del-Campo](../05_Camino-Levante_2019//Etappe-31_Arevalo_Medina-del-Campo.md)
+#### [Etappe-31_Arevalo_Medina-del-Campo](../05_Camino-Levante_2019/Etappe-31_Arevalo_Medina-del-Campo.md)
 23 Mai 2019
 
 ---
@@ -200,7 +200,7 @@ Wuppertal → Koblenz  →  Hahn Airport  (Lautzenhausen)  ✈️  → Valencia
 28 Mai 2019
 
 ---
-#### [Etappe-37_Montamarta_Granja-de-Moreruela](../05_Camino-Levante_2019//Etappe-37_Montamarta_Granja-de-Moreruela.md)
+#### [Etappe-37_Montamarta_Granja-de-Moreruela](../05_Camino-Levante_2019/Etappe-37_Montamarta_Granja-de-Moreruela.md)
 29 Mai 2019
 
 ---
@@ -209,27 +209,27 @@ Wuppertal → Koblenz  →  Hahn Airport  (Lautzenhausen)  ✈️  → Valencia
 ### Granja de Moruela → Santiago de Compostela (255 bis 270 Km)
 > *30 Mai - 11 Juni 2019* 
 
-#### [Etappe-38_Granja-de-Moreruela_Tabara](../05_Camino-Levante_2019//Etappe-38_Granja-de-Moreruela_Tabara.md)
+#### [Etappe-38_Granja-de-Moreruela_Tabara](../05_Camino-Levante_2019/Etappe-38_Granja-de-Moreruela_Tabara.md)
 30 Mai 2019
 
 ---
-#### [Etappe-39_Tabara_Santa-Marta-de-Tera](../05_Camino-Levante_2019//Etappe-39_Tabara_Santa-Marta-de-Tera.md)
+#### [Etappe-39_Tabara_Santa-Marta-de-Tera](../05_Camino-Levante_2019/Etappe-39_Tabara_Santa-Marta-de-Tera.md)
 31 Mai 2019
 
 ---
-#### [Etappe-40_Santa-Marta-de-Tera_Mombuey](../05_Camino-Levante_2019//Etappe-40_Santa-Marta-de-Tera_Mombuey.md)
+#### [Etappe-40_Santa-Marta-de-Tera_Mombuey](../05_Camino-Levante_2019/Etappe-40_Santa-Marta-de-Tera_Mombuey.md)
 01 Juni 2019
 
 ---
-#### [Etappe-41_Mombuey_Puebla-de-Sanabria](../05_Camino-Levante_2019//Etappe-41_Mombuey_Puebla-de-Sanabria.md)
+#### [Etappe-41_Mombuey_Puebla-de-Sanabria](../05_Camino-Levante_2019/Etappe-41_Mombuey_Puebla-de-Sanabria.md)
 02 Juni 2019
 
 ---
-#### [Etappe-42_Puebla-de-Sanabria_A-Gudina](../05_Camino-Levante_2019//Etappe-42_Puebla-de-Sanabria_A-Gudina.md)
+#### [Etappe-42_Puebla-de-Sanabria_A-Gudina](../05_Camino-Levante_2019/Etappe-42_Puebla-de-Sanabria_A-Gudina.md)
 03 Juni 2019
 
 ---
-#### [Etappe-43_A-Gudina_Campobecerros](../05_Camino-Levante_2019//Etappe-43_A-Gudina_Campobecerros.md)
+#### [Etappe-43_A-Gudina_Campobecerros](../05_Camino-Levante_2019/Etappe-43_A-Gudina_Campobecerros.md)
 04 Juni 2019
 
 ---
@@ -237,28 +237,28 @@ Wuppertal → Koblenz  →  Hahn Airport  (Lautzenhausen)  ✈️  → Valencia
 05 Juni 2019
 
 ---
-####  [Etappe-45_Campobecerros_Vilar-de-Barrio](../05_Camino-Levante_2019//Etappe-45_Campobecerros_Vilar-de-Barrio.md)
+####  [Etappe-45_Campobecerros_Vilar-de-Barrio](../05_Camino-Levante_2019/Etappe-45_Campobecerros_Vilar-de-Barrio.md)
 06 Juni 2019
 
 ---
-#### [Etappe-46_Vilar-de-Barrio_Ourense](../05_Camino-Levante_2019//Etappe-46_Vilar-de-Barrio_Ourense.md)
+#### [Etappe-46_Vilar-de-Barrio_Ourense](../05_Camino-Levante_2019/Etappe-46_Vilar-de-Barrio_Ourense.md)
 07 Juni 2019
 
 ---
-#### [Etappe-47_Ourense_Oseira](../05_Camino-Levante_2019//Etappe-47_Ourense_Oseira.md)
+#### [Etappe-47_Ourense_Oseira](../05_Camino-Levante_2019/Etappe-47_Ourense_Oseira.md)
 08 Juni 2019
 
 ---
-#### [Etappe-48_Oseira_A-Laxe-Bendoiro](../05_Camino-Levante_2019//Etappe-48_Oseira_A-Laxe-Bendoiro.md)
+#### [Etappe-48_Oseira_A-Laxe-Bendoiro](../05_Camino-Levante_2019/Etappe-48_Oseira_A-Laxe-Bendoiro.md)
 09 Juni 2019
 
 ---
 
-#### [Etappe-49_A-Laxe_Outeiro](../05_Camino-Levante_2019//Etappe-49_A-Laxe_Outeiro.md)
+#### [Etappe-49_A-Laxe_Outeiro](../05_Camino-Levante_2019/Etappe-49_A-Laxe_Outeiro.md)
 10 Juni 2019
 
 ---
-#### [Etappe-50_Outeiro_Santiago-de-Compostela](../05_Camino-Levante_2019//Etappe-50_Outeiro_Santiago-de-Compostela.md)
+#### [Etappe-50_Outeiro_Santiago-de-Compostela](../05_Camino-Levante_2019/Etappe-50_Outeiro_Santiago-de-Compostela.md)
 11 Juni 2019
 
 ---
@@ -299,6 +299,8 @@ Wuppertal → Koblenz  →  Hahn Airport  (Lautzenhausen)  ✈️  → Valencia
 🔁 [Readme](https://github.com/GomesDeSa-JA/Jakobswege#)
 
 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+
+🔁 [index](https://github.com/GomesDeSa-JA/X-Projekte/blob/main/Index.md)
 
 ---
 #### Obsidian-Link

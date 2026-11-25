@@ -286,10 +286,9 @@ Jetzt habe ich noch einen Pilgerausweis aus dem Jahr 2018, mit vielen leeren Fel
 </details>
 
 ---
-↪  [Camino-del-Norte_Etapas](Jakobswege/04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
+↪  [Camino-del-Norte_Etapas](04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
 
  🔁 [Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
-
 
 #### Obsidian-Link
 > ⚠️ *Internal links that don't work on GitHub*

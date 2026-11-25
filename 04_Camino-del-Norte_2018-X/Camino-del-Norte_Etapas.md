@@ -99,11 +99,11 @@ DD de MMMM de 20xx
 </details>
 ---
 
-**↪** [Readme – Camino del Norte– ](Jakobswege/04_Camino-del-Norte_2018-X/Readme.md)
+**↪** [Readme – Camino del Norte– ](Readme.md)
 
 **↪** [Camino-del-Norte_Credencial-del-Peregrino](Camino-del-Norte_Credencial-del-Peregrino.md)
 
-**↪** [Camino del Norte – Etapas  2024 – ](../07_Camino-del-Norte_2024/Camino-del-Norte_Etapas.md)
+**↪** [Camino del Norte –Etapas 2024– ](../07_Camino-del-Norte_2024/Camino-del-Norte_Etapas.md)
 
 
 🔁 [Readme](https://github.com/GomesDeSa-JA/Jakobswege#)
@@ -112,7 +112,7 @@ DD de MMMM de 20xx
 
 ---
 #### Obsidian-Link
->*Internal links that don't work on GitHub*
+>⚠️ *Internal links that don't work on GitHub*
 
 ↪ [Readme](Jakobswege/Readme.md) 
 
